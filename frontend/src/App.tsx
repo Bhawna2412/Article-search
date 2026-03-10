@@ -113,6 +113,8 @@ const getInitialArticleId = () => {
   return id ? decodeURIComponent(id) : null;
 };
 
+const API_BASE = (import.meta.env.VITE_API_ORIGIN ?? "").replace(/\/$/, "");
+
 export const App: React.FC = () => {
   const [product, setProduct] = useState("");
   const [featureName, setFeatureName] = useState("");
@@ -246,7 +248,7 @@ export const App: React.FC = () => {
       if (product) params.set("product", product);
       if (hasPath) params.set("navigationPath", navigationPath.trim());
 
-      const res = await fetch(`/api/search?${params.toString()}`);
+      const res = await fetch(`${API_BASE}/api/search?${params.toString()}`);
       if (!res.ok) {
         const body = (await res.json().catch(() => null)) as { error?: string } | null;
         throw new Error(body?.error || `Search failed (${res.status})`);
@@ -296,7 +298,7 @@ export const App: React.FC = () => {
     const controller = new AbortController();
     const run = async () => {
       try {
-        const res = await fetch(`/api/articles/${encodeURIComponent(selectedId)}`, {
+        const res = await fetch(`${API_BASE}/api/articles/${encodeURIComponent(selectedId)}`, {
           signal: controller.signal,
         });
         if (!res.ok) throw new Error(`Failed to load article (${res.status})`);

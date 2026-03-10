@@ -224,9 +224,10 @@ export class ArticleIndex {
           ? `${this.articleBaseUrl}/kb/articles/${slug}`
           : undefined;
 
+      const resDoc = res as SearchResult & Partial<IndexDoc>;
       return {
         id: res.id,
-        title: (res as IndexDoc).title,
+        title: resDoc.title ?? res.id,
         score: res.score,
         snippet,
         sectionAnchorId,

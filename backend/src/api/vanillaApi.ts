@@ -8,7 +8,7 @@
  * - Auth: Authorization: Bearer <access_token>
  */
 
-import { NormalizedArticle } from "../types";
+import { NormalizedArticle, NormalizedMetadata } from "../types";
 
 export interface VanillaSearchHit {
   id: string;
@@ -146,9 +146,10 @@ export class VanillaApiClient {
     const raw = await this.request<VanillaDiscussion | { discussion?: VanillaDiscussion }>(
       `/api/v2/discussions/${encodeURIComponent(id)}`
     );
-    const data = raw && typeof raw === "object" && "discussion" in raw && raw.discussion
-      ? raw.discussion
-      : (raw as VanillaDiscussion);
+    const data =
+      (raw && typeof raw === "object" && "discussion" in raw && raw.discussion
+        ? raw.discussion
+        : raw) as VanillaDiscussion;
     return this.mapDiscussionToArticle(data, id);
   }
 
@@ -172,7 +173,7 @@ export class VanillaApiClient {
       headings,
       bodyPlain,
       sections,
-      metadata: {},
+      metadata: {} as NormalizedMetadata,
       lastUpdated: d.dateUpdated ?? d.dateInserted,
       articleUrl: url,
     };
