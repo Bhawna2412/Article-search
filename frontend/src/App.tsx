@@ -113,9 +113,10 @@ const getInitialArticleId = () => {
   return id ? decodeURIComponent(id) : null;
 };
 
-const API_BASE = (import.meta.env.VITE_API_ORIGIN ?? "").replace(/\/$/, "");
+const defaultApiBase = (import.meta.env.VITE_API_ORIGIN ?? "").replace(/\/$/, "");
 
 export const App: React.FC = () => {
+  const [apiBase, setApiBase] = useState(defaultApiBase);
   const [product, setProduct] = useState("");
   const [featureName, setFeatureName] = useState("");
   const [navigationPath, setNavigationPath] = useState("");
@@ -131,6 +132,17 @@ export const App: React.FC = () => {
   const [selectedResultIds, setSelectedResultIds] = useState<Set<string>>(new Set());
   const [hasSearched, setHasSearched] = useState(false);
   const [showLiveArticle, setShowLiveArticle] = useState(false);
+
+  useEffect(() => {
+    if (defaultApiBase) return;
+    fetch("/config.json")
+      .then((r) => (r.ok ? r.json() : null))
+      .then((c) => {
+        const origin = typeof c?.apiOrigin === "string" ? c.apiOrigin.trim().replace(/\/$/, "") : "";
+        if (origin) setApiBase(origin);
+      })
+      .catch(() => {});
+  }, []);
 
   const [leftPanelWidth, setLeftPanelWidth] = useState(DEFAULT_LEFT_PANEL);
   const [rightPanelWidth, setRightPanelWidth] = useState(DEFAULT_RIGHT_PANEL);
@@ -248,7 +260,13 @@ export const App: React.FC = () => {
       if (product) params.set("product", product);
       if (hasPath) params.set("navigationPath", navigationPath.trim());
 
-      const res = await fetch(`${API_BASE}/api/search?${params.toString()}`);
+      const base = apiBase || "";
+      if (!base) {
+        setError("Search backend is not configured. Set apiOrigin in public/config.json or VITE_API_ORIGIN in Vercel and redeploy.");
+        setLoading(false);
+        return;
+      }
+      const res = await fetch(`${base}/api/search?${params.toString()}`);
       if (!res.ok) {
         const body = (await res.json().catch(() => null)) as { error?: string } | null;
         throw new Error(body?.error || `Search failed (${res.status})`);
@@ -277,14 +295,20 @@ export const App: React.FC = () => {
         setArticle(null);
       }
     } catch (err) {
-      setError((err as Error).message);
+      const msg = (err as Error).message;
+      const is404 = msg.includes("404") || msg.includes("Search failed (404)");
+      setError(
+        is404 && !apiBase
+          ? "Search backend not configured. Add your Railway URL to public/config.json (apiOrigin) and redeploy, or set VITE_API_ORIGIN in Vercel."
+          : msg
+      );
       setHits([]);
       setTotal(0);
       setHasSearched(true);
     } finally {
       setLoading(false);
     }
-  }, [featureName, product, navigationPath]);
+  }, [apiBase, featureName, product, navigationPath]);
 
   useEffect(() => {
     setShowLiveArticle(false);
@@ -295,10 +319,12 @@ export const App: React.FC = () => {
       setArticle(null);
       return;
     }
+    const base = apiBase || "";
+    if (!base) return;
     const controller = new AbortController();
     const run = async () => {
       try {
-        const res = await fetch(`${API_BASE}/api/articles/${encodeURIComponent(selectedId)}`, {
+        const res = await fetch(`${base}/api/articles/${encodeURIComponent(selectedId)}`, {
           signal: controller.signal,
         });
         if (!res.ok) throw new Error(`Failed to load article (${res.status})`);
@@ -311,7 +337,7 @@ export const App: React.FC = () => {
     };
     void run();
     return () => controller.abort();
-  }, [selectedId]);
+  }, [apiBase, selectedId]);
 
   useEffect(() => {
     if (!articleScrollRef.current || !selectedHitAnchor) return;
@@ -616,6 +642,11 @@ export const App: React.FC = () => {
         </div>
 
         <div className="results-content">
+          {!apiBase && (
+            <div className="error-banner" style={{ marginBottom: "0.5rem" }}>
+              Search backend not configured. Set <strong>apiOrigin</strong> in <strong>public/config.json</strong> to your Railway URL (e.g. https://your-app.up.railway.app) and redeploy.
+            </div>
+          )}
           {error && <div className="error-banner">{error}</div>}
 
           {!hits.length && !loading && !error && (
