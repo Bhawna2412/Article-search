@@ -1,0 +1,27 @@
+{
+  "articleID": 1584,
+  "name": "Charge GST on International Orders",
+  "slug": "1584-charge-gst-on-international-orders",
+  "format": "rich2",
+  "locale": "en",
+  "body": "[{\"type\": \"p\", \"children\": [{\"text\": \"You can ensure tax compliance for international B2B orders by configuring country-specific tax zones that automatically apply or exclude GST based on customer shipping locations. This flexible tax configuration helps ensure accurate tax calculations across domestic and international orders, reducing compliance risk and eliminating manual tax adjustments during order processing.\"}]}, {\"type\": \"p\", \"children\": [{\"text\": \"Properly configured international tax settings typically improve order processing efficiency by automating tax calculations and helping ensure your business meets regional tax requirements. The ability to define default tax zones and international tax exemptions supports accurate financial reporting and reduces the administrative burden associated with managing multi-country tax obligations.\"}]}, {\"type\": \"p\", \"children\": [{\"text\": \"To change your tax settings:\"}]}, {\"type\": \"ol\", \"children\": [{\"type\": \"li\", \"children\": [{\"type\": \"lic\", \"children\": [{\"text\": \"In your Neto control panel navigate to \"}, {\"text\": \"Settings & Tools\", \"bold\": true}, {\"text\": \" > \"}, {\"text\": \"Currencies & Tax\", \"bold\": true}, {\"text\": \".\"}]}]}, {\"type\": \"li\", \"children\": [{\"type\": \"lic\", \"children\": [{\"text\": \"Under \"}, {\"text\": \"Countries included in default tax zone\", \"bold\": true}, {\"text\": \", press the Ctrl key to select multiple countries that you wish to include in your default tax rate.\"}]}]}, {\"type\": \"li\", \"children\": [{\"type\": \"lic\", \"children\": [{\"text\": \"You can also toggle the option: \"}, {\"text\": \"Internationally Shipped Orders Default to Tax Free\", \"bold\": true}, {\"text\": \".\"}]}]}]}, {\"type\": \"p\", \"children\": [{\"text\": \"\"}]}]",
+  "fixes_applied": {
+    "rebrand": 0,
+    "urls": {
+      "leaving_cleaned": 0,
+      "unsafe_removed": 0,
+      "s_article_mapped": 0,
+      "s_article_removed": 0,
+      "fragments_mapped": 0,
+      "fragments_stripped": 0,
+      "internal_fragments_fixed": 0,
+      "double_id_fixed": 0,
+      "kb_fragments_stripped": 0
+    },
+    "toc": 0,
+    "related": 1,
+    "lists": 0,
+    "headings": 0,
+    "reconverted": false
+  }
+}

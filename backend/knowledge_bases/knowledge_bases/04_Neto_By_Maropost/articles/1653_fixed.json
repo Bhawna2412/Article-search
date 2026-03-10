@@ -1,0 +1,17 @@
+{
+  "articleID": 1653,
+  "knowledgeCategoryID": 277,
+  "sort": 3,
+  "name": "Course: Reports",
+  "body": "[{\"type\": \"table\", \"children\": [{\"type\": \"tr\", \"children\": [{\"type\": \"th\", \"children\": [{\"type\": \"p\", \"children\": [{\"text\": \"Lessons\"}]}]}, {\"type\": \"th\", \"children\": [{\"type\": \"p\", \"children\": [{\"text\": \"Length\"}]}]}]}, {\"type\": \"tr\", \"children\": [{\"type\": \"td\", \"children\": [{\"type\": \"p\", \"children\": [{\"type\": \"a\", \"url\": \"https://training.maropost.com/run-your-store/reporting/content/index.html\", \"children\": [{\"text\": \"Reports\"}]}]}]}, {\"type\": \"td\", \"children\": [{\"type\": \"p\", \"children\": [{\"text\": \"5 mins\"}]}]}]}], \"id\": \"rich-table-1a32ebf4\"}]",
+  "format": "rich2",
+  "featured": false,
+  "locale": "en",
+  "status": "published",
+  "foreignID": null,
+  "dateUpdated": "2025-12-11T04:37:27+00:00",
+  "_source_kb_id": 4,
+  "_source_kb_name": "Neto By Maropost",
+  "_sync_date": "2026-02-06T07:17:42.790837+00:00",
+  "_incremental_update": true
+}

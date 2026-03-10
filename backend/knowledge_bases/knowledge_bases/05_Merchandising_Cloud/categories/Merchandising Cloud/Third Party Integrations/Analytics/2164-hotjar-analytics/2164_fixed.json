@@ -1,0 +1,31 @@
+{
+  "articleID": 2164,
+  "name": "Hotjar Analytics",
+  "format": "rich2",
+  "locale": "en",
+  "body": "[{\"type\": \"p\", \"children\": [{\"text\": \"You can integrate Hotjar with your Merchandising Cloud pages to record user activity and generate heatmaps for search results, recommendations, and collection pages. This behavioral tracking helps you understand how customers interact with your search interface, identifying friction points and optimization opportunities that can enhance the shopping experience.\"}]}, {\"type\": \"p\", \"children\": [{\"text\": \"Setting up Hotjar tracking for Merchandising Cloud components provides visual insights into customer behavior patterns, including where users click, how far they scroll, and which products capture their attention. These insights enable data-driven decisions about layout optimization, product positioning, and interface improvements that can help improve engagement and conversion rates.\"}]}, {\"type\": \"p\", \"children\": [{\"text\": \"This example shows how you can record your user activity on Maropost Merchandising Cloud (formerly Findify) pages and components (search, recommendations, smart collections).\"}]}, {\"type\": \"ol\", \"children\": [{\"type\": \"li\", \"children\": [{\"text\": \"Create a javascript trigger for heatmaps in HotJar dashboard and name it findify_mjs (\"}, {\"type\": \"a\", \"url\": \"https://docs.hotjar.com/v1.0/docs/using-javascript-to-trigger-heatmaps)\", \"target\": \"_blank\", \"children\": [{\"text\": \"https://docs.hotjar.com/v1.0/docs/using-javascript-to-trigger-heatmaps)\"}]}, {\"text\": \"\\n\"}]}, {\"type\": \"li\", \"children\": [{\"text\": \"Create a file on your server containing the hotjar script (for example\\u00a0\"}, {\"type\": \"a\", \"url\": \"https://mystore.com/hotjar.js)\", \"target\": \"_blank\", \"children\": [{\"text\": \"https://mystore.com/hotjar.js)\"}]}]}]}, {\"type\": \"p\", \"children\": [{\"text\": \"JavaScript\"}]}, {\"type\": \"code_block\", \"children\": [{\"type\": \"code_line\", \"children\": [{\"text\": \"(function(h,o,t,j,a,r){\"}]}, {\"type\": \"code_line\", \"children\": [{\"text\": \"    h.hj=h.hj||function(){(h.hj.q=h.hj.q||[]).push(arguments)};\"}]}, {\"type\": \"code_line\", \"children\": [{\"text\": \"    h._hjSettings={hjid:1,hjsv:5};\"}]}, {\"type\": \"code_line\", \"children\": [{\"text\": \"    a=o.getElementsByTagName('head')[0];\"}]}, {\"type\": \"code_line\", \"children\": [{\"text\": \"    r=o.createElement('script');r.async=1;\"}]}, {\"type\": \"code_line\", \"children\": [{\"text\": \"    r.src=t+h._hjSettings.hjid+j+h._hjSettings.hjsv;\"}]}, {\"type\": \"code_line\", \"children\": [{\"text\": \"    a.appendChild(r);\"}]}, {\"type\": \"code_line\", \"children\": [{\"text\": \"})(window,document,'//static.hotjar.com/c/hotjar-','.js?sv=');\"}]}, {\"type\": \"code_line\", \"children\": [{\"text\": \"\"}]}, {\"type\": \"code_line\", \"children\": [{\"text\": \"window.setTimeout(function() {\"}]}, {\"type\": \"code_line\", \"children\": [{\"text\": \"    window.hj('trigger', 'findify_mjs');\"}]}, {\"type\": \"code_line\", \"children\": [{\"text\": \"});\"}]}], \"lang\": \"javascript\"}, {\"type\": \"p\", \"children\": [{\"text\": \"Please add this code before our script (remember to put the proper hotjar script path)\"}]}, {\"type\": \"p\", \"children\": [{\"text\": \"JavaScript\"}]}, {\"type\": \"code_block\", \"children\": [{\"type\": \"code_line\", \"children\": [{\"text\": \"/*global findifyApiRegistry*/\"}]}, {\"type\": \"code_line\", \"children\": [{\"text\": \"window.findifyApiRegistry = [function(api) {\"}]}, {\"type\": \"code_line\", \"children\": [{\"text\": \"    api.addScript('https://mystore.com/hotjar.js');\"}]}, {\"type\": \"code_line\", \"children\": [{\"text\": \"}];\"}]}], \"lang\": \"javascript\"}, {\"type\": \"p\", \"children\": [{\"text\": \"\"}]}]",
+  "knowledgeCategoryID": 377,
+  "sort": 0,
+  "status": "published",
+  "_source_kb_id": 5,
+  "_source_kb_name": "Merchandising Cloud",
+  "_fix_date": "2026-02-02T06:05:46.566067+00:00",
+  "fixes_applied": {
+    "urls": {
+      "leaving_cleaned": 2,
+      "unsafe_removed": 0,
+      "s_article_mapped": 0,
+      "s_article_removed": 0,
+      "fragments_mapped": 0,
+      "fragments_stripped": 0,
+      "internal_fragments_fixed": 0,
+      "double_id_fixed": 0,
+      "kb_fragments_stripped": 0
+    },
+    "toc": 0,
+    "related": 1,
+    "lists": 0,
+    "headings": 0,
+    "reconverted": false
+  }
+}

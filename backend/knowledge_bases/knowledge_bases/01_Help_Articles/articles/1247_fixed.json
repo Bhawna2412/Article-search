@@ -1,0 +1,16 @@
+{
+  "articleID": 1247,
+  "knowledgeCategoryID": 1,
+  "sort": 71,
+  "name": "How can I find which port my USB adapter is connected to ?",
+  "body": "<h1 data-id=\"how-can-i-find-which-port-my-usb-adapter-is-connected-to\">How can I find which port my USB adapter is connected to ?</h1>\n<p>You can see the port name for you port adapter using the computer's Device Manager.</p>\n<p>1. Click on your Start button at the bottom-left of screen.<br/>2. Using your Right mouse button click on Computer (or My Computer)<br/>3. In the popup menu click on Manage<br/>4. In the Computer Management window that opens, click on Device Manager.<br/>5. In the Device Manager window you will see in the list PORTS (Com &amp; LPT)<br/>6. Double click on it and you will see the list of ports in use.</p>\n<p>You should see the name of your adapter in the list. If you can't tell which one it may be, unplug the adapter from the computer and it should disappear from the list. Plug it back in to verify the port name next to it. If your adapter is not in the list, it is not installed properly. Please refer to the setup instructions that came with the device or refer to the manufacturer's website.</p>\n<p> </p>",
+  "format": "html",
+  "featured": false,
+  "locale": "en",
+  "status": "published",
+  "foreignID": null,
+  "dateUpdated": "2023-06-01T04:06:28+00:00",
+  "_source_kb_id": 1,
+  "_source_kb_name": "Help Articles",
+  "_sync_date": "2026-02-02T05:48:27.517787+00:00"
+}

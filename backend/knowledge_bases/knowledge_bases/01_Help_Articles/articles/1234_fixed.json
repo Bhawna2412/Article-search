@@ -1,0 +1,16 @@
+{
+  "articleID": 1234,
+  "knowledgeCategoryID": 1,
+  "sort": 9,
+  "name": "Agents Only - Tyro Dev Unit Setup",
+  "body": "<h1 data-id=\"agents-only-tyro-dev-unit-setup\">Agents Only - Tyro Dev Unit Setup</h1>\n<p> </p>\n<p>If you are experiencing 404 Error when pairing the Tyro Dev Unit on the Test Rig, please follow the steps below to ensure that the Dev Terminal is pointing to the correct integration server.</p>\n<p> </p>\n<p>The TTA has a setting which tells it which of the integration servers to connect to; Production or Test.</p>\n<p> </p>\n<p>- Run 'Regedit' from the windows start menu</p>\n<p> </p>\n<p>- For 64bit windows navigate through- HKEY_LOCAL_MACHINE\\SOFTWARE\\Wow6432Node\\Tyro\\Tyro.IntegrationServer.Url</p>\n<p> </p>\n<p>- For 32bit windows navigate through- HKEY_LOCAL_MACHINE\\SOFTWARE\\Tyro\\Tyro.IntegrationServer.Url</p>\n<p> </p>\n<p>Modify the value to:</p>\n<p><a rel=\"nofollow\" href=\"http://galaxy.maropost.com/home/leaving?allowTrusted=1&amp;target=https%3A%2F%2Fintegration.test.tyro.com%2F\">https://integration.test.tyro.com/</a></p>\n<p> </p>\n<p>Dev Terminals always need to point to this to connect.</p>",
+  "format": "html",
+  "featured": false,
+  "locale": "en",
+  "status": "published",
+  "foreignID": null,
+  "dateUpdated": "2023-06-01T04:21:52+00:00",
+  "_source_kb_id": 1,
+  "_source_kb_name": "Help Articles",
+  "_sync_date": "2026-02-02T05:48:20.853040+00:00"
+}

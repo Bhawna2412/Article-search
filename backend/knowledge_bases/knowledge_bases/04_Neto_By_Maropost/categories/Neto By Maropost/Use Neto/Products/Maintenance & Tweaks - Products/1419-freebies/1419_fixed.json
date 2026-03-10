@@ -1,0 +1,29 @@
+{
+  "articleID": 1419,
+  "name": "Freebies",
+  "slug": "1419-freebies",
+  "format": "rich2",
+  "locale": "en",
+  "body": "[{\"type\": \"p\", \"children\": [{\"text\": \"[Image: Freebies]\"}]}, {\"type\": \"h3\", \"children\": [{\"text\": \"This add-on was built by Maropost\"}]}, {\"type\": \"p\", \"children\": [{\"text\": \"Add-ons and Integrations built in-house by Maropost are documented and supported by our customer service team. If you're having issues with this integration, \"}, {\"type\": \"a\", \"url\": \"https://www.netohq.com/support/s/ask-us\", \"children\": [{\"text\": \"let us know\"}]}, {\"text\": \"!\"}]}, {\"type\": \"h2\", \"children\": [{\"text\": \"Overview\"}]}, {\"type\": \"p\", \"children\": [{\"text\": \"Freebies are products that are given away for free when another product is purchased. Customers who purchase the product will also get the free products listed.\"}]}, {\"type\": \"p\", \"children\": [{\"text\": \"\"}]}, {\"type\": \"p\", \"children\": [{\"text\": \"Please Note\", \"bold\": true}, {\"text\": \": Parent products and gift vouchers are not supported as freebies. The individual variations should be added instead.\"}]}, {\"type\": \"h2\", \"children\": [{\"text\": \"Install the Freebies Add-on\"}]}, {\"type\": \"p\", \"children\": [{\"text\": \"To install the add-on:\"}]}, {\"type\": \"ol\", \"children\": [{\"type\": \"li\", \"children\": [{\"type\": \"lic\", \"children\": [{\"text\": \"In your\\u00a0Neto control panel navigate to the \"}, {\"text\": \"Addons\", \"bold\": true}, {\"text\": \" menu.\"}]}]}, {\"type\": \"li\", \"children\": [{\"type\": \"lic\", \"children\": [{\"text\": \"In the product management section, find the \"}, {\"text\": \"Freebies\", \"bold\": true}, {\"text\": \" add-on and click the Install button.\"}]}]}, {\"type\": \"li\", \"children\": [{\"type\": \"lic\", \"children\": [{\"text\": \"Confirm by clicking the \"}, {\"text\": \"Install\", \"bold\": true}, {\"text\": \" button in the pop-up that appears.\"}]}]}]}, {\"type\": \"p\", \"children\": [{\"text\": \"Once installed the Freebies section will appear on all products in your control panel:\"}]}, {\"type\": \"p\", \"children\": [{\"text\": \"\"}]}, {\"type\": \"h2\", \"children\": [{\"text\": \"Add Freebies to Products\"}]}, {\"type\": \"p\", \"children\": [{\"text\": \"Freebies has the benefit of displaying the free product(s) the customer will choose from when on the shopping cart page.\"}]}, {\"type\": \"p\", \"children\": [{\"text\": \"\"}]}, {\"type\": \"ol\", \"children\": [{\"type\": \"li\", \"children\": [{\"type\": \"lic\", \"children\": [{\"text\": \"In your\\u00a0Neto control panel navigate to \"}, {\"text\": \"Products\", \"bold\": true}, {\"text\": \" > \"}, {\"text\": \"View Products\", \"bold\": true}, {\"text\": \".\"}]}]}, {\"type\": \"li\", \"children\": [{\"type\": \"lic\", \"children\": [{\"text\": \"Edit the product you wish to make changes to.\"}]}]}, {\"type\": \"li\", \"children\": [{\"type\": \"lic\", \"children\": [{\"text\": \"Scroll down to the \"}, {\"text\": \"Freebies\", \"bold\": true}, {\"text\": \" section.\"}]}]}, {\"type\": \"li\", \"children\": [{\"type\": \"lic\", \"children\": [{\"text\": \"Click on the field under \"}, {\"text\": \"Add Related Product\", \"bold\": true}, {\"text\": \" and enter either the product SKU or part of the product name. A list of the products that match what you have entered.\"}]}, {\"type\": \"p\", \"children\": [{\"text\": \"\"}]}]}, {\"type\": \"li\", \"children\": [{\"type\": \"lic\", \"children\": [{\"text\": \"Select the product from the list. You can add more than one product.\"}]}]}, {\"type\": \"li\", \"children\": [{\"type\": \"lic\", \"children\": [{\"text\": \"Save changes\", \"bold\": true}, {\"text\": \". When the product is added to the shopping cart, the customer can choose which of the free products they want to add to their order.\"}]}]}]}]",
+  "fixes_applied": {
+    "rebrand": 0,
+    "urls": {
+      "leaving_cleaned": 5,
+      "unsafe_removed": 0,
+      "s_article_mapped": 0,
+      "s_article_removed": 0,
+      "fragments_mapped": 0,
+      "fragments_stripped": 0,
+      "internal_fragments_fixed": 0,
+      "double_id_fixed": 0,
+      "kb_fragments_stripped": 0
+    },
+    "toc": 0,
+    "related": 0,
+    "lists": 9,
+    "headings": 1,
+    "reconverted": false
+  },
+  "_sf_cleanup_date": "2026-02-02T06:17:41.786427+00:00",
+  "_sf_removals": 4
+}

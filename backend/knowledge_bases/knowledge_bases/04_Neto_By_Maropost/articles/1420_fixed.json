@@ -1,0 +1,17 @@
+{
+  "articleID": 1420,
+  "knowledgeCategoryID": 195,
+  "sort": 7,
+  "name": "Serial Tracking",
+  "body": "[{\"type\": \"p\", \"children\": [{\"text\": \"[Image: User-added image]\"}]}, {\"type\": \"h2\", \"children\": [{\"text\": \"This add-on was built by Maropost\"}]}, {\"type\": \"p\", \"children\": [{\"text\": \"Add-ons and Integrations built in-house by Maropost are documented and supported by our customer service team. If you\\u2019re having issues with this integration, \"}, {\"type\": \"a\", \"url\": \"https://www.netohq.com/support/s/ask-us\", \"children\": [{\"text\": \"let us know\"}]}, {\"text\": \"!\"}]}, {\"type\": \"p\", \"children\": [{\"text\": \"To install the Serial Tracking add-on:\"}]}, {\"type\": \"ol\", \"children\": [{\"type\": \"li\", \"children\": [{\"type\": \"lic\", \"children\": [{\"text\": \"In your Neto by Maropost control panel select the \"}, {\"text\": \"Addons\", \"bold\": true}, {\"text\": \" menu.\"}]}]}, {\"type\": \"li\", \"children\": [{\"type\": \"lic\", \"children\": [{\"text\": \"In the product management section, find the Serial Tracking add-on and click the \"}, {\"text\": \"Install\", \"bold\": true}, {\"text\": \" button.\"}]}]}, {\"type\": \"li\", \"children\": [{\"type\": \"lic\", \"children\": [{\"text\": \"Confirm by clicking the \"}, {\"text\": \"Install\", \"bold\": true}, {\"text\": \" button in the pop-up that appears.\"}]}]}]}, {\"type\": \"p\", \"children\": [{\"text\": \"Once installed, the \"}, {\"text\": \"Serial Tracking\", \"bold\": true}, {\"text\": \" option will appear in the\\u00a0\"}, {\"text\": \"Naming & Visibility\", \"bold\": true}, {\"text\": \" section of the product detail in the control panel:\"}]}, {\"type\": \"p\", \"children\": [{\"text\": \"\"}]}, {\"type\": \"p\", \"children\": [{\"text\": \"When processing an order for a serial tracked product, there will be an option to enter the serial number of the product for warranty purposes.\"}]}, {\"type\": \"p\", \"children\": [{\"text\": \"\"}]}, {\"type\": \"p\", \"children\": [{\"text\": \"Once a serial number is saved against an orderline, you can view it by clicking the + icon on the left hand side of the orderline. You can also turn on the advanced config \"}, {\"text\": \"SHOW_ITEM_SERIAL_ON_OPT\", \"code\": true}, {\"text\": \", to display any serial number that has been saved by default.\"}]}, {\"type\": \"p\", \"children\": [{\"text\": \"This can be found in \"}, {\"text\": \"Settings & Tools\", \"bold\": true}, {\"text\": \" > \"}, {\"text\": \"All Settings & Tools\", \"bold\": true}, {\"text\": \". Click on \"}, {\"text\": \"Advanced Configuration\", \"bold\": true}, {\"text\": \" and search in the name field. Change this to \"}, {\"text\": \"Yes\", \"bold\": true}, {\"text\": \".\"}]}]",
+  "format": "rich2",
+  "featured": false,
+  "locale": "en",
+  "status": "published",
+  "foreignID": null,
+  "dateUpdated": "2026-02-02T06:19:42+00:00",
+  "_source_kb_id": 4,
+  "_source_kb_name": "Neto By Maropost",
+  "_sync_date": "2026-02-06T07:16:01.746576+00:00",
+  "_incremental_update": true
+}

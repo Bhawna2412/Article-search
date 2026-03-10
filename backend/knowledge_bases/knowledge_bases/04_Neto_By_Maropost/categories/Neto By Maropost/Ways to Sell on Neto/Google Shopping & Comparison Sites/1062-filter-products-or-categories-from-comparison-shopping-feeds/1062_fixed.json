@@ -1,0 +1,27 @@
+{
+  "articleID": 1062,
+  "name": "Filter Products or Categories from Comparison Shopping Feeds",
+  "slug": "1062-filter-products-or-categories-from-comparison-shopping-feeds",
+  "format": "rich2",
+  "locale": "en",
+  "body": "[{\"type\": \"p\", \"children\": [{\"text\": \"The search functionality allows you to filter by custom fields, product category, price, status and much more.\"}]}, {\"type\": \"ol\", \"children\": [{\"type\": \"li\", \"children\": [{\"type\": \"lic\", \"children\": [{\"text\": \"To get started, in the \"}, {\"text\": \"Sales Channels\", \"bold\": true}, {\"text\": \" section navigate to \"}, {\"text\": \"Other \", \"bold\": true}, {\"text\": \"> \"}, {\"text\": \"Shopping Feeds\", \"bold\": true}, {\"text\": \".\"}]}]}, {\"type\": \"li\", \"children\": [{\"type\": \"lic\", \"children\": [{\"text\": \"On the already installed feed, click the \"}, {\"text\": \"Edit\", \"bold\": true}, {\"text\": \" button to open the template. This is where we will be making suitable changes.\"}]}, {\"type\": \"rich_embed_card\", \"dataSourceType\": \"image\", \"url\": \"https://us.v-cdn.net/6038474/uploads/attachments/migrated/FilterProductsorCategoriesfromComparisonShoppingFeeds1.05T5g00000w6UweEAE.png\", \"embedData\": {\"url\": \"https://us.v-cdn.net/6038474/uploads/attachments/migrated/FilterProductsorCategoriesfromComparisonShoppingFeeds1.05T5g00000w6UweEAE.png\", \"embedType\": \"image\", \"displaySize\": \"large\", \"float\": \"none\", \"name\": \"image1\", \"width\": 700, \"height\": 248}, \"children\": [{\"text\": \"\"}]}]}, {\"type\": \"li\", \"children\": [{\"type\": \"lic\", \"children\": [{\"text\": \"Scroll down to the \"}, {\"text\": \"File Builder\", \"bold\": true}, {\"text\": \" and click on the \"}, {\"text\": \"Filter\", \"bold\": true}, {\"text\": \" tab. Here you can filter products you want to display on your feed. Set the filters according to your specific needs and scroll down the bottom and press \"}, {\"text\": \"Save Changes\", \"bold\": true}, {\"text\": \".\"}]}, {\"type\": \"rich_embed_card\", \"dataSourceType\": \"image\", \"url\": \"https://us.v-cdn.net/6038474/uploads/attachments/migrated/FilterProductsorCategoriesfromComparisonShoppingFeeds2.05T5g00000w6UwoEAE.png\", \"embedData\": {\"url\": \"https://us.v-cdn.net/6038474/uploads/attachments/migrated/FilterProductsorCategoriesfromComparisonShoppingFeeds2.05T5g00000w6UwoEAE.png\", \"embedType\": \"image\", \"displaySize\": \"large\", \"float\": \"none\", \"name\": \"image2\", \"width\": 700, \"height\": 248}, \"children\": [{\"text\": \"\"}]}]}, {\"type\": \"li\", \"children\": [{\"type\": \"lic\", \"children\": [{\"text\": \"Scroll back to the top and on the top right hand side click the \"}, {\"text\": \"Generate Data File\", \"bold\": true}, {\"text\": \" button to refresh the data feed.\"}]}, {\"type\": \"rich_embed_card\", \"dataSourceType\": \"image\", \"url\": \"https://us.v-cdn.net/6038474/uploads/attachments/migrated/FilterProductsorCategoriesfromComparisonShoppingFeeds3.05T5g00000w6UO9EAM.png\", \"embedData\": {\"url\": \"https://us.v-cdn.net/6038474/uploads/attachments/migrated/FilterProductsorCategoriesfromComparisonShoppingFeeds3.05T5g00000w6UO9EAM.png\", \"embedType\": \"image\", \"displaySize\": \"large\", \"float\": \"none\", \"name\": \"image3\", \"width\": 700, \"height\": 247}, \"children\": [{\"text\": \"\"}]}]}, {\"type\": \"li\", \"children\": [{\"type\": \"lic\", \"children\": [{\"text\": \"Once this is complete, click the \"}, {\"text\": \"Download Data File\", \"bold\": true}, {\"text\": \" button to review the filters to ensure the filters have been applied correctly.\"}]}]}]}]",
+  "fixes_applied": {
+    "rebrand": 0,
+    "urls": {
+      "leaving_cleaned": 0,
+      "unsafe_removed": 0,
+      "s_article_mapped": 0,
+      "s_article_removed": 0,
+      "fragments_mapped": 0,
+      "fragments_stripped": 0,
+      "internal_fragments_fixed": 0,
+      "double_id_fixed": 0,
+      "kb_fragments_stripped": 0
+    },
+    "toc": 0,
+    "related": 0,
+    "lists": 5,
+    "headings": 0,
+    "reconverted": true
+  }
+}

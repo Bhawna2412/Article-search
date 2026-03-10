@@ -1,0 +1,27 @@
+{
+  "articleID": 1024,
+  "name": "NZ Post eShip Setup",
+  "slug": "1024-nz-post-eship-setup",
+  "format": "rich2",
+  "locale": "en",
+  "body": "[{\"type\": \"p\", \"children\": [{\"text\": \"You can setup NZ Post eShip integration to work with Neto by following the guide on the \"}, {\"text\": \"eShip website\"}, {\"text\": \".\"}]}, {\"type\": \"p\", \"children\": [{\"text\": \"We recommend that \"}, {\"text\": \"Pack\", \"bold\": true}, {\"text\": \" is entered in the order status field in step 4 of their guide, as orders should not be exported for consignments until this order status is met.\"}]}, {\"type\": \"p\", \"children\": [{\"text\": \"Please Note\", \"bold\": true}, {\"text\": \": If orders coming into Neto go straight to the \"}, {\"text\": \"Pick\", \"bold\": true}, {\"text\": \" status, you will need to enter \"}, {\"text\": \"Pick\", \"bold\": true}, {\"text\": \" or \"}, {\"text\": \"Pack\", \"bold\": true}, {\"text\": \" in the order status to make sure all orders are imported.\"}]}]",
+  "fixes_applied": {
+    "rebrand": 0,
+    "urls": {
+      "leaving_cleaned": 1,
+      "unsafe_removed": 0,
+      "s_article_mapped": 0,
+      "s_article_removed": 1,
+      "fragments_mapped": 0,
+      "fragments_stripped": 0,
+      "internal_fragments_fixed": 0,
+      "double_id_fixed": 0,
+      "kb_fragments_stripped": 0
+    },
+    "toc": 0,
+    "related": 0,
+    "lists": 0,
+    "headings": 0,
+    "reconverted": false
+  }
+}

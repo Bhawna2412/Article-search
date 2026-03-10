@@ -1,0 +1,27 @@
+{
+  "articleID": 1415,
+  "name": "SEO Overview",
+  "slug": "1415-seo-overview",
+  "format": "rich2",
+  "locale": "en",
+  "body": "[{\"type\": \"p\", \"children\": [{\"text\": \"The higher ranked on the search results page your website is, and more frequently your site appears in the search results and the more visitors it will receive.\"}]}, {\"type\": \"p\", \"children\": [{\"text\": \"To begin with, start by verifying your website with \"}, {\"type\": \"a\", \"url\": \"https://galaxy.maropost.com/kb/articles/426-google-search-console-setup\", \"children\": [{\"text\": \"Google Search Console\"}]}, {\"text\": \" and installing \"}, {\"type\": \"a\", \"url\": \"https://galaxy.maropost.com/kb/articles/1254-google-analytics-4\", \"children\": [{\"text\": \"Google Analytics\"}]}, {\"text\": \" to review and analyse traffic.\"}]}, {\"type\": \"p\", \"children\": [{\"text\": \"From here, we recommend investing time into generating original content through blogs, product descriptions and information pages.\\u00a0\"}]}, {\"type\": \"p\", \"children\": [{\"text\": \"While\\u00a0Neto by Maropost does not provide SEO services directly, we do align ourselves with a number of \"}, {\"type\": \"a\", \"url\": \"https://www.netohq.com/support/s/partner-directory-list\", \"children\": [{\"text\": \"SEO agencies\"}]}, {\"text\": \" to deliver a complete service to its clients. It is important to continually invest in SEO as part of your marketing strategy.\"}]}, {\"type\": \"h2\", \"children\": [{\"text\": \"Why Should You Invest In SEO?\"}], \"data-id\": \"why-should-you-invest-in-seo\"}, {\"type\": \"ul\", \"children\": [{\"type\": \"li\", \"children\": [{\"type\": \"lic\", \"children\": [{\"text\": \"High ROI - An effective SEO campaign can bring a higher return on your investment than any other type of marketing for your company. SEO can increase your volume of sales and overall profitability.\"}]}]}, {\"type\": \"li\", \"children\": [{\"type\": \"lic\", \"children\": [{\"text\": \"Long Term Results - Once a website obtains position through a SEO campaign, it should retain the position long term, as opposed to Pay per Click (PPC). SEO is a cheaper, and longer term solution than any other search engine marketing strategy.\"}]}]}, {\"type\": \"li\", \"children\": [{\"type\": \"lic\", \"children\": [{\"text\": \"Cost-effective - One of the great benefits of search engine optimisation is that it is cost effective and requires only a minimum amount of capital to achieve maximum exposure of your website.\"}]}]}]}]",
+  "fixes_applied": {
+    "rebrand": 0,
+    "urls": {
+      "leaving_cleaned": 1,
+      "unsafe_removed": 0,
+      "s_article_mapped": 2,
+      "s_article_removed": 0,
+      "fragments_mapped": 0,
+      "fragments_stripped": 0,
+      "internal_fragments_fixed": 0,
+      "double_id_fixed": 0,
+      "kb_fragments_stripped": 0
+    },
+    "toc": 0,
+    "related": 0,
+    "lists": 0,
+    "headings": 1,
+    "reconverted": false
+  }
+}

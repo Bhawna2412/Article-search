@@ -1,0 +1,16 @@
+{
+  "articleID": 1278,
+  "knowledgeCategoryID": 449,
+  "sort": 12,
+  "name": "Release Notes 3.12.0 - API Updates",
+  "body": "<h1 data-id=\"release-notes-3-12-0-api-updates\">Release Notes 3.12.0 - API Updates</h1>\n<p>In this release we have expanded the ability to manage Purchase Orders via the Inventory Planning API. For more information on changes in version 3.12.0 please refer to the <a rel=\"nofollow\" href=\"https://galaxy.maropost.com/s/article/Release-Notes-3-12-0-Special-Orders-are-here\">POS and Back Office Release Notes</a>. </p>\n<table><tbody><tr><td colspan=\"1\" rowspan=\"1\"><strong>API</strong></td><td colspan=\"1\" rowspan=\"1\"><strong>Details</strong></td></tr><tr><td colspan=\"1\" rowspan=\"1\">Inventory Planning API</td><td colspan=\"1\" rowspan=\"1\">\n<p>Using CreateUpdatePurchaseOrders API method the Outlet on a Purchase Order can now be changed if the Purchase Order is in an Incomplete state. </p>\n<p>All other states will return the following error:</p>\n<p>The Outlet for a Purchase Order cannot be changed</p>\n</td></tr><tr><td colspan=\"1\" rowspan=\"1\">eCommerce API</td><td colspan=\"1\" rowspan=\"1\">\n<p>The release v3.12.0 introduced the Special Orders feature. Please note that any quantities or ETA calculations from Purchase Orders will exclude stock linked to a Special Order item. </p>\n</td></tr></tbody></table><p> </p>\n<hr></hr><p>Want more information? <a rel=\"nofollow\" href=\"http://galaxy.maropost.com/home/leaving?allowTrusted=1&amp;target=https%3A%2F%2Fress.zendesk.com%2Fhc%2Fen-us%2Fcategories%2F115000210393\">View all Release Notes</a>.</p>",
+  "format": "html",
+  "featured": false,
+  "locale": "en",
+  "status": "published",
+  "foreignID": null,
+  "dateUpdated": "2023-05-11T04:47:49+00:00",
+  "_source_kb_id": 10,
+  "_source_kb_name": "RE Release Notes",
+  "_sync_date": "2026-02-02T05:56:57.987236+00:00"
+}

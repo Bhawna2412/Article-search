@@ -1,0 +1,26 @@
+{
+  "articleID": 290,
+  "name": "Stock Adjustment Detail Report",
+  "slug": "290-stock-adjustment-detail-report",
+  "format": "rich2",
+  "locale": "en",
+  "body": "[{\"type\": \"p\", \"children\": [{\"text\": \"You can track all manual inventory adjustments and stock take corrections by accessing the Stock Adjustment Detail Report, which shows every adjustment made to inventory levels including reason codes and responsible users. This report provides audit trails for inventory changes, helps identify shrinkage patterns, and supports inventory accuracy accountability across retail operations.\"}]}, {\"type\": \"p\", \"children\": [{\"text\": \"Using the Stock Adjustment Detail Report helps retail operators monitor inventory adjustment frequency, investigate unusual adjustment patterns, and maintain accountability for stock level changes that impact inventory accuracy and financial reporting.\"}]}, {\"type\": \"p\", \"children\": [{\"text\": \"The Adjustment Report is designed to display any manual stock adjustments or stocktake variances processed against your inventory levels. The results detail the product, adjustment quantity\"}, {\"text\": \" and\", \"italic\": true}, {\"text\": \" value, along with including the User and any comments recorded at the time of adjustment.\"}]}, {\"type\": \"p\", \"children\": [{\"text\": \"To use the Adjustment Report\"}]}, {\"type\": \"ol\", \"children\": [{\"type\": \"li\", \"children\": [{\"type\": \"lic\", \"children\": [{\"text\": \"Navigate to \"}, {\"text\": \"Reports > Accounting Reports > Stock Adjustment Detail\", \"bold\": true}, {\"text\": \" or \"}, {\"text\": \"Reports > Stock Reports > Adjustment Report\", \"bold\": true}]}]}, {\"type\": \"li\", \"children\": [{\"type\": \"lic\", \"children\": [{\"text\": \"Use the \"}, {\"text\": \"Filters \", \"bold\": true}, {\"text\": \"as required\"}]}, {\"type\": \"rich_embed_card\", \"dataSourceType\": \"image\", \"url\": \"https://us.v-cdn.net/6038474/uploads/attachments/migrated/image.05T5g00000ppi5zEAA.jpg\", \"embedData\": {\"url\": \"https://us.v-cdn.net/6038474/uploads/attachments/migrated/image.05T5g00000ppi5zEAA.jpg\", \"embedType\": \"image\", \"displaySize\": \"large\", \"float\": \"none\", \"name\": \"reports_stockadjustmentdetailreport.png\"}, \"children\": [{\"text\": \"\"}]}]}, {\"type\": \"li\", \"children\": [{\"type\": \"lic\", \"children\": [{\"text\": \"Click \"}, {\"text\": \"Search\", \"bold\": true}]}, {\"type\": \"rich_embed_card\", \"dataSourceType\": \"image\", \"url\": \"https://us.v-cdn.net/6038474/uploads/attachments/migrated/image.05T5g00000ppi64EAA.jpg\", \"embedData\": {\"url\": \"https://us.v-cdn.net/6038474/uploads/attachments/migrated/image.05T5g00000ppi64EAA.jpg\", \"embedType\": \"image\", \"displaySize\": \"large\", \"float\": \"none\", \"name\": \"reports_stockadjustmentdetailreport_results.png\"}, \"children\": [{\"text\": \"\"}]}]}, {\"type\": \"li\", \"children\": [{\"type\": \"lic\", \"children\": [{\"text\": \"The results display each adjustment line by line for each product\"}, {\"text\": \"\\n\\n\"}]}, {\"type\": \"callout\", \"children\": [{\"type\": \"callout-item\", \"children\": [{\"text\": \"Click column headings to sort into ascending or descending order\"}]}], \"appearance\": \"info\"}, {\"type\": \"p\", \"children\": [{\"text\": \"\"}]}]}, {\"type\": \"li\", \"children\": [{\"type\": \"lic\", \"children\": [{\"text\": \"In the case of a \"}, {\"text\": \"Browser Stocktake\", \"bold\": true}, {\"text\": \" the Sales Rep is the User that \"}, {\"text\": \"Authorised the stocktake\", \"bold\": true}, {\"text\": \" not the user that created or submitted for authorisation.\"}]}]}, {\"type\": \"li\", \"children\": [{\"type\": \"lic\", \"children\": [{\"text\": \"Click \"}, {\"text\": \"Export to Excel \", \"bold\": true}, {\"text\": \"to export the report as required\"}]}]}]}, {\"type\": \"p\", \"children\": [{\"text\": \"\"}]}]",
+  "fixes_applied": {
+    "urls": {
+      "leaving_cleaned": 0,
+      "unsafe_removed": 0,
+      "s_article_mapped": 0,
+      "s_article_removed": 0,
+      "fragments_mapped": 0,
+      "fragments_stripped": 0,
+      "internal_fragments_fixed": 0,
+      "double_id_fixed": 0,
+      "kb_fragments_stripped": 0
+    },
+    "toc": 0,
+    "related": 1,
+    "lists": 0,
+    "headings": 0,
+    "reconverted": false
+  }
+}

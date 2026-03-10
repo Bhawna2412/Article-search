@@ -1,0 +1,27 @@
+{
+  "articleID": 1459,
+  "name": "Payment Information Export",
+  "slug": "1459-payment-information-export",
+  "format": "rich2",
+  "locale": "en",
+  "body": "[{\"type\": \"p\", \"children\": [{\"text\": \"Customers can be exported into a CSV (comma separated values) file so that you can manually report or import into a third party system. You can also export customer lists to make changes, and then import back into Neto. There's 2 ways to export your customer details:\"}]}, {\"type\": \"p\", \"children\": [{\"text\": \"\"}]}, {\"type\": \"callout\", \"children\": [{\"type\": \"callout-item\", \"children\": [{\"text\": \"Neto partners can set this up for you. \"}, {\"type\": \"a\", \"url\": \"https://www.netohq.com/job-request-portal\", \"children\": [{\"text\": \"Visit the job request portal\"}]}, {\"text\": \" for a quote.\"}]}], \"appearance\": \"info\"}, {\"type\": \"p\", \"children\": [{\"text\": \"\"}]}, {\"type\": \"h2\", \"children\": [{\"text\": \"Complex Export\"}], \"data-id\": \"1\"}, {\"type\": \"p\", \"children\": [{\"text\": \"The complex export wizard is the only way to export payment information, as there is no simple export method.\"}]}, {\"type\": \"p\", \"children\": [{\"text\": \"Please Note:\", \"bold\": true}, {\"text\": \" Neto does not store credit card information. Only the first and last digits of the card number will be exported.\"}]}, {\"type\": \"p\", \"children\": [{\"text\": \"To use the complex export wizard:\"}]}, {\"type\": \"ol\", \"children\": [{\"type\": \"li\", \"children\": [{\"type\": \"lic\", \"children\": [{\"text\": \"In your Neto control panel navigate to \"}, {\"text\": \"Settings & tools\", \"bold\": true}, {\"text\": \" > \"}, {\"text\": \"Export data\", \"bold\": true}, {\"text\": \".\"}]}]}, {\"type\": \"li\", \"children\": [{\"type\": \"lic\", \"children\": [{\"text\": \"Select the \"}, {\"text\": \"Order Payments\", \"bold\": true}, {\"text\": \" radio button.\"}]}]}, {\"type\": \"li\", \"children\": [{\"type\": \"lic\", \"children\": [{\"text\": \"Click the \"}, {\"text\": \"Perform complex export\", \"bold\": true}, {\"text\": \" button and choose the \"}, {\"text\": \"Start Data Export Wizard\", \"bold\": true}, {\"text\": \" option.\"}]}]}, {\"type\": \"li\", \"children\": [{\"type\": \"lic\", \"children\": [{\"text\": \"Enter a name for your file and click the \"}, {\"text\": \"Continue to Next Step\", \"bold\": true}, {\"text\": \" button.\"}]}]}, {\"type\": \"li\", \"children\": [{\"type\": \"lic\", \"children\": [{\"text\": \"You now need to choose which payment fields you want to export. Click the \"}, {\"text\": \"Add New Field To File\", \"bold\": true}, {\"text\": \" button, and choose the fields from the drop down menus.\"}]}, {\"type\": \"p\", \"children\": [{\"text\": \"You need to select a field type first (payment details) and then choose the field name.\"}]}]}]}]",
+  "fixes_applied": {
+    "rebrand": 4,
+    "urls": {
+      "leaving_cleaned": 0,
+      "unsafe_removed": 0,
+      "s_article_mapped": 0,
+      "s_article_removed": 0,
+      "fragments_mapped": 0,
+      "fragments_stripped": 0,
+      "internal_fragments_fixed": 2,
+      "double_id_fixed": 0,
+      "kb_fragments_stripped": 0
+    },
+    "toc": 1,
+    "related": 0,
+    "lists": 5,
+    "headings": 1,
+    "reconverted": false
+  }
+}

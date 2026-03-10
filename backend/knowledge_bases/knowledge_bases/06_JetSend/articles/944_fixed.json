@@ -1,0 +1,16 @@
+{
+  "articleID": 944,
+  "knowledgeCategoryID": 33,
+  "sort": 0,
+  "name": "Crafting Transactional Emails: Best Practices",
+  "body": "<p>Here are few best practices to get you started:</p>\n<ul><li>Write a subject line that is clear, concise and to the point.</li><li>Avoid spam trigger words in subject line.</li><li>Define the templates for transactional emails as per your branding. Include your company logo, use your brand font and colour.</li><li>Design your emails to look good and work well across various platforms and devices. The emails must render as smoothly for mobile users as it does for desktop users.</li><li>Personalize the email rather than a generic message. Make your customer feel special and don’t hold back on letting them know that you appreciate their association with your brand. Address them with their name. Say thank you for choosing your product or service.</li><li>Use consistent tone in email content. Decide how your brand should sound like and keep it consistent across all of your emails.</li><li>Write engaging content. Instead of a monotonous tone of writing, give you emails a humanizing flare. However, don’t bury important information for the sake of making the content more interesting. Maintain a balance by keeping information easy to read while adding the humorous zing to it.</li><li>Use identifiable and appropriate “from names” and “from addresses”. For example, instead of using <a rel=\"nofollow\" href=\"mailto:mo3rv@email.com\">mo3rv@email.com</a>, use <a rel=\"nofollow\" href=\"mailto:customer_support@email.com\">customer_support@email.com</a> or <a rel=\"nofollow\" href=\"mailto:sales_team@email.com\">sales_team@email.com</a>.</li><li>Keep the communication channel open. Include information for the customers to reach you – be it an email address or phone number.</li><li>Ensure your emails loads fast. Keep the email size low. Also, keep a balanced image-to-text ratio to ensure faster loading and stronger deliverability.</li></ul>",
+  "format": "html",
+  "featured": false,
+  "locale": "en",
+  "status": "published",
+  "foreignID": null,
+  "dateUpdated": "2024-04-16T18:17:02+00:00",
+  "_source_kb_id": 6,
+  "_source_kb_name": "JetSend",
+  "_sync_date": "2026-02-02T05:55:07.285376+00:00"
+}

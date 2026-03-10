@@ -1,0 +1,31 @@
+{
+  "articleID": 1985,
+  "name": "Supported Languages",
+  "format": "rich2",
+  "locale": "en",
+  "body": "[{\"type\": \"p\", \"children\": [{\"text\": \"You can serve customers globally with Merchandising Cloud's support for numerous languages, covering widely spoken options like English, Spanish, and Chinese as well as less common languages. This language flexibility helps you deliver relevant search results and personalized product discovery to shoppers in their native language, improving the customer experience and conversion potential across international markets.\"}]}, {\"type\": \"p\", \"children\": [{\"text\": \"Configuring multi-language support enables you to expand your ecommerce reach while maintaining search accuracy and AI-powered personalization for each language. The platform's language capabilities ensure your search relevance, autocomplete, and product recommendations work effectively regardless of which language your customers prefer, helping you serve diverse customer bases without compromising merchandising performance.\"}]}, {\"type\": \"p\", \"children\": [{\"text\": \"What languages are supported by Merchandising Cloud?\"}]}, {\"type\": \"p\", \"children\": [{\"text\": \"Merchandising Cloud supports languages for a large portion of the world's native speaking population. We offer widely spoken languages such as English, Spanish, and Chinese and also less commonly used languages.\"}]}, {\"type\": \"p\", \"children\": [{\"text\": \"Here is a full list of the languages supported:\"}]}, {\"type\": \"rich_embed_card\", \"dataSourceType\": \"image\", \"url\": \"https://us.v-cdn.net/6038474/uploads/MPBOBKM5B658/e8b9b43d7280aa847dcc7506c225d8c2ed93931b1e1cfd87ea92786f3500c891-image.png\", \"embedData\": {\"url\": \"https://us.v-cdn.net/6038474/uploads/MPBOBKM5B658/e8b9b43d7280aa847dcc7506c225d8c2ed93931b1e1cfd87ea92786f3500c891-image.png\", \"embedType\": \"image\", \"displaySize\": \"large\", \"float\": \"none\", \"name\": \"e8b9b43d7280aa847dcc7506c225d8c2ed93931b1e1cfd87ea92786f3500c891-image.png\", \"width\": 399, \"height\": 2581}, \"children\": [{\"text\": \"\"}]}, {\"type\": \"p\", \"children\": [{\"text\": \"\"}]}]",
+  "knowledgeCategoryID": 157,
+  "sort": 10,
+  "status": "published",
+  "_source_kb_id": 5,
+  "_source_kb_name": "Merchandising Cloud",
+  "_fix_date": "2026-02-02T06:05:45.524237+00:00",
+  "fixes_applied": {
+    "urls": {
+      "leaving_cleaned": 0,
+      "unsafe_removed": 0,
+      "s_article_mapped": 0,
+      "s_article_removed": 0,
+      "fragments_mapped": 0,
+      "fragments_stripped": 0,
+      "internal_fragments_fixed": 0,
+      "double_id_fixed": 0,
+      "kb_fragments_stripped": 0
+    },
+    "toc": 0,
+    "related": 1,
+    "lists": 0,
+    "headings": 0,
+    "reconverted": false
+  }
+}

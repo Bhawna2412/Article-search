@@ -1,0 +1,16 @@
+{
+  "articleID": 1851,
+  "knowledgeCategoryID": 455,
+  "sort": 10,
+  "name": "Neto by Maropost Release Notes – 19 Jun 2019",
+  "body": "[{\"type\":\"p\",\"children\":[{\"text\":\"Release Version\",\"bold\":true},{\"text\":\": 6.57\"}]},{\"type\":\"p\",\"children\":[{\"text\":\"\"}]},{\"type\":\"h2\",\"children\":[{\"text\":\"Minor Features\",\"bold\":true}]},{\"type\":\"ul\",\"children\":[{\"type\":\"li\",\"children\":[{\"type\":\"lic\",\"children\":[{\"text\":\"Catch sellers can now list products without a barcode through Neto. Instead, the product SKU will be used as the listing's MPN. Note that Catch still reviews the data for each product registered to ensure integrity.\"}]}]},{\"type\":\"li\",\"children\":[{\"type\":\"lic\",\"children\":[{\"text\":\"A new setting has been introduced to turn the newsletter subscription checkbox on the checkout page to \\\"opt out\\\", rather than opt in. You can find this in the \"},{\"text\":\"Webstore \",\"bold\":true},{\"text\":\"> \"},{\"text\":\"Checkout Settings \",\"bold\":true},{\"text\":\"page.\"}]}]}]},{\"type\":\"p\",\"children\":[{\"text\":\"\"}]},{\"type\":\"h2\",\"children\":[{\"text\":\"Bug Fixes\",\"bold\":true}]},{\"type\":\"ul\",\"children\":[{\"type\":\"li\",\"children\":[{\"text\":\"Fixed an issue where unregistered users were being subscribed to newsletters when the \\\"subscribe to newsletter\\\" box was not selected.\"}]}]},{\"type\":\"p\",\"children\":[{\"text\":\"\"}]}]",
+  "format": "rich2",
+  "featured": false,
+  "locale": "en",
+  "status": "published",
+  "foreignID": null,
+  "dateUpdated": "2025-07-10T15:15:29+00:00",
+  "_source_kb_id": 12,
+  "_source_kb_name": "Neto Release Notes",
+  "_sync_date": "2026-02-02T05:59:04.464752+00:00"
+}

@@ -1,0 +1,26 @@
+{
+  "articleID": 375,
+  "name": "Purchase Order Report",
+  "slug": "375-purchase-order-report",
+  "format": "rich2",
+  "locale": "en",
+  "body": "[{\"type\": \"p\", \"children\": [{\"text\": \"You can generate purchase order reports to analyze ordering patterns, track PO status, and monitor supplier performance across your retail operations. This improves your retail operations efficiency by providing comprehensive visibility into procurement activities, with properly configured PO reporting typically enabling better inventory planning and supplier relationship management through data-driven insights.\"}]}, {\"type\": \"p\", \"children\": [{\"text\": \"Understanding PO reporting involves recognizing status filtering, date range selection, and supplier-based analysis to help retail operators focus on the right procurement analytics workflows, ensuring your retail strategy consistently drives better purchasing decisions and operational efficiency outcomes.\"}]}, {\"type\": \"p\", \"children\": [{\"text\": \"The Purchase Order Report provides a comprehensive overview of your Purchase Orders, enabling you to track the status, costs, and quantities in a streamlined manner. This report is essential for maintaining accurate records, monitoring procurement activities, and ensuring smooth inventory replenishment processes.\"}]}, {\"type\": \"p\", \"children\": [{\"text\": \"To use the Purchase Order Reconciliation Report:\"}]}, {\"type\": \"ol\", \"children\": [{\"type\": \"li\", \"children\": [{\"type\": \"lic\", \"children\": [{\"text\": \"Navigate to:\"}, {\"text\": \" Reports > Accounting Reports > Purchase Order Report\", \"bold\": true}]}]}, {\"type\": \"li\", \"children\": [{\"type\": \"lic\", \"children\": [{\"text\": \"Enter a\"}, {\"text\": \" Purchase Order ID\", \"bold\": true}, {\"text\": \" (POID) to filter by a specific Purchase Order\"}]}]}, {\"type\": \"li\", \"children\": [{\"type\": \"lic\", \"children\": [{\"text\": \"Select the \"}, {\"text\": \"Received Date From/To \", \"bold\": true}, {\"text\": \"dates\"}, {\"text\": \"\\n\"}, {\"text\": \"\\tThe Received From date is the date the stock on the order was received (Stock Receipt Date), not the date the Purchase Order was created\"}]}]}, {\"type\": \"li\", \"children\": [{\"type\": \"lic\", \"children\": [{\"text\": \"Update the remaining Filters as required\"}]}]}, {\"type\": \"li\", \"children\": [{\"type\": \"lic\", \"children\": [{\"text\": \"Click \"}, {\"text\": \"Search\", \"bold\": true}]}]}, {\"type\": \"li\", \"children\": [{\"type\": \"lic\", \"children\": [{\"text\": \"The results will be displayed\"}]}, {\"type\": \"rich_embed_card\", \"dataSourceType\": \"image\", \"url\": \"https://us.v-cdn.net/6038474/uploads/attachments/migrated/image.05T5g00000ppboiEAA.jpg\", \"embedData\": {\"url\": \"https://us.v-cdn.net/6038474/uploads/attachments/migrated/image.05T5g00000ppboiEAA.jpg\", \"embedType\": \"image\", \"displaySize\": \"large\", \"float\": \"none\", \"name\": \"mceclip0 - 2023-07-09T114959.707.png\"}, \"children\": [{\"text\": \"\"}]}]}, {\"type\": \"li\", \"children\": [{\"type\": \"lic\", \"children\": [{\"text\": \"Click the icons in the top right-hand corner to export the report to Excel\"}]}]}]}, {\"type\": \"p\", \"children\": [{\"text\": \"\"}]}, {\"type\": \"p\", \"children\": [{\"text\": \"\"}]}]",
+  "fixes_applied": {
+    "urls": {
+      "leaving_cleaned": 0,
+      "unsafe_removed": 0,
+      "s_article_mapped": 0,
+      "s_article_removed": 0,
+      "fragments_mapped": 0,
+      "fragments_stripped": 0,
+      "internal_fragments_fixed": 1,
+      "double_id_fixed": 0,
+      "kb_fragments_stripped": 0
+    },
+    "toc": 0,
+    "related": 1,
+    "lists": 0,
+    "headings": 0,
+    "reconverted": false
+  }
+}

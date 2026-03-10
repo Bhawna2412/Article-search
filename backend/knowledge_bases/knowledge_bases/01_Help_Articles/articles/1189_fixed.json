@@ -1,0 +1,16 @@
+{
+  "articleID": 1189,
+  "knowledgeCategoryID": 1,
+  "sort": 67,
+  "name": "Hardware Utility Errors and freezing",
+  "body": "<h1 data-id=\"hardware-utility-errors-and-freezing\">Hardware Utility Errors and freezing</h1>\n<p>If the Hardware Utility is causing an error when opening such as a XML error or a message displays contact application vendor.</p>\n<p>OR</p>\n<p>If the Hardware Utility is stuck in this stage of the Hardware Utility and will not continue when clicked Next.</p>\n<p>- The Hardware Utility freezes on the printer section and will not continue (Next disabled)</p>\n<p>Picture below:</p>\n<p><img alt=\"rtaImage - 2023-07-08T105903.372.png\" src=\"https://us.v-cdn.net/6038474/uploads/attachments/migrated/image.05T5g00000ppO6YEAU.jpg\" loading=\"lazy\" srcset=\"https://us.v-cdn.net/cdn-cgi/image/quality=80,format=auto,fit=scale-down,height=300,width=300/6038474/uploads/attachments/migrated/image.05T5g00000ppO6YEAU.jpg 300w, https://us.v-cdn.net/cdn-cgi/image/quality=80,format=auto,fit=scale-down,height=600,width=600/6038474/uploads/attachments/migrated/image.05T5g00000ppO6YEAU.jpg 600w, https://us.v-cdn.net/cdn-cgi/image/quality=80,format=auto,fit=scale-down,height=800,width=800/6038474/uploads/attachments/migrated/image.05T5g00000ppO6YEAU.jpg 800w, https://us.v-cdn.net/cdn-cgi/image/quality=80,format=auto,fit=scale-down,height=1200,width=1200/6038474/uploads/attachments/migrated/image.05T5g00000ppO6YEAU.jpg 1200w, https://us.v-cdn.net/cdn-cgi/image/quality=80,format=auto,fit=scale-down,height=1600,width=1600/6038474/uploads/attachments/migrated/image.05T5g00000ppO6YEAU.jpg 1600w, https://us.v-cdn.net/cdn-cgi/image/quality=80,format=auto,fit=scale-down,height=2000,width=2000/6038474/uploads/attachments/migrated/image.05T5g00000ppO6YEAU.jpg 2000w, https://us.v-cdn.net/6038474/uploads/attachments/migrated/image.05T5g00000ppO6YEAU.jpg\" sizes=\"100vw\" class=\"embedImage-img importedEmbed-img\"></img></p>\n<p>Follow the steps below on how to troubleshoot:</p>\n<ul><li>\n<ol><li>Uninstall REX HW through <strong>Control Panel</strong></li><li>Open <strong>Command Prompt </strong>as <strong>Admin, </strong>type the following commands\n<ol><li>\n<pre class=\"code codeBlock\" spellcheck=\"false\" tabindex=\"0\"><br/>sc stop rexhardware</pre>\n\t\t\t</li><li>\n<pre class=\"code codeBlock\" spellcheck=\"false\" tabindex=\"0\"><br/>sc delete rexhardware</pre>\n\t\t\t</li></ol></li><li>Delete folder:\n<ol><li>\n<pre class=\"code codeBlock\" spellcheck=\"false\" tabindex=\"0\"><br/>C:\\Program Files (x86)\\Retail Express</pre>\n\t\t\t</li></ol></li><li><strong>RESTART </strong>if the folder above does not delete</li><li>Reinstall REX H/W utility</li></ol></li></ul>",
+  "format": "html",
+  "featured": false,
+  "locale": "en",
+  "status": "published",
+  "foreignID": null,
+  "dateUpdated": "2023-07-08T05:29:08+00:00",
+  "_source_kb_id": 1,
+  "_source_kb_name": "Help Articles",
+  "_sync_date": "2026-02-02T05:48:03.621905+00:00"
+}

@@ -1,0 +1,16 @@
+{
+  "articleID": 1856,
+  "knowledgeCategoryID": 455,
+  "sort": 5,
+  "name": "Neto by Maropost Release Notes – 16 Aug 2019",
+  "body": "[{\"type\":\"p\",\"children\":[{\"text\":\"Release Version\",\"bold\":true},{\"text\":\": 6.65 \"}]},{\"type\":\"p\",\"children\":[{\"text\":\"\"}]},{\"type\":\"h2\",\"children\":[{\"text\":\"Bug Fixes\",\"bold\":true}]},{\"type\":\"ul\",\"children\":[{\"type\":\"li\",\"children\":[{\"text\":\"Fixed an issue with the direct Xero integration where unit prices in RMAs were in 2 decimal places instead of 4.\"}]}]},{\"type\":\"p\",\"children\":[{\"text\":\"\"}]}]",
+  "format": "rich2",
+  "featured": false,
+  "locale": "en",
+  "status": "published",
+  "foreignID": null,
+  "dateUpdated": "2025-06-10T15:14:12+00:00",
+  "_source_kb_id": 12,
+  "_source_kb_name": "Neto Release Notes",
+  "_sync_date": "2026-02-02T05:59:19.532795+00:00"
+}

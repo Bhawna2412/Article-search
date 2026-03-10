@@ -1,0 +1,26 @@
+{
+  "articleID": 251,
+  "name": "Managing Stock Replenishment Outlet Priority",
+  "slug": "251-managing-stock-replenishment-outlet-priority",
+  "format": "rich2",
+  "locale": "en",
+  "body": "[{\"type\": \"p\", \"children\": [{\"text\": \"You can optimize inventory distribution across your retail locations by configuring outlet priority settings that control how stock replenishment suggestions allocate inventory between stores. This helps ensure high-performing or strategic locations receive appropriate stock allocation, improving overall retail network inventory efficiency and reducing stockouts at priority locations while maintaining appropriate stock levels across your entire retail operations.\"}]}, {\"type\": \"p\", \"children\": [{\"text\": \"Setting up outlet replenishment priority based on sales velocity, strategic importance, or customer traffic patterns helps retail operators make better inventory allocation decisions across multi-store operations.\"}]}, {\"type\": \"p\", \"children\": [{\"text\": \"The Stock Replenishment Priority feature is used in conjunction with the \"}, {\"text\": \"Stock Replenishment via Transfer\"}, {\"text\": \" feature. The order of the Outlets in this list determines which Outlets will have their transfer requests fulfilled when insufficient stock is available for the entire replenishment run.\"}]}, {\"type\": \"rich_embed_card\", \"dataSourceType\": \"image\", \"url\": \"https://us.v-cdn.net/6038474/uploads/attachments/migrated/image.05T5g00000ppTxrEAE.jpg\", \"embedData\": {\"url\": \"https://us.v-cdn.net/6038474/uploads/attachments/migrated/image.05T5g00000ppTxrEAE.jpg\", \"embedType\": \"image\", \"displaySize\": \"large\", \"float\": \"none\", \"name\": \"stockreplenishment_outletpriority.png\"}, \"children\": [{\"text\": \"\"}]}, {\"type\": \"p\", \"children\": [{\"text\": \"For example, there are 100 units of a product available in the Warehouse.\"}]}, {\"type\": \"ul\", \"children\": [{\"type\": \"li\", \"children\": [{\"type\": \"lic\", \"children\": [{\"text\": \"Bondi and Queen St Mall both request 70\"}]}]}, {\"type\": \"li\", \"children\": [{\"type\": \"lic\", \"children\": [{\"text\": \"Bondi is higher in the list, so will receive the full 70\"}]}]}, {\"type\": \"li\", \"children\": [{\"type\": \"lic\", \"children\": [{\"text\": \"Queen St Mall will receive the remaining 30\"}]}]}]}, {\"type\": \"p\", \"children\": [{\"text\": \"\"}]}, {\"type\": \"p\", \"children\": [{\"text\": \"If the Outlet has a \"}, {\"text\": \"Minimum Replenishment Quantity\"}, {\"text\": \" configured the Transfer will only be created if the minimum quantity has been exceeded.\"}]}, {\"type\": \"p\", \"children\": [{\"text\": \"To rearrange the priority order:\"}]}, {\"type\": \"ol\", \"children\": [{\"type\": \"li\", \"children\": [{\"type\": \"lic\", \"children\": [{\"text\": \"Click and hold the icon\", \"bold\": true}, {\"text\": \" in the first column\"}]}]}, {\"type\": \"li\", \"children\": [{\"type\": \"lic\", \"children\": [{\"text\": \"Drag & drop\", \"bold\": true}, {\"text\": \" the Outlet to the new location\"}]}]}, {\"type\": \"li\", \"children\": [{\"type\": \"lic\", \"children\": [{\"text\": \"Release\", \"bold\": true}, {\"text\": \" the mouse button\"}]}]}]}, {\"type\": \"rich_embed_card\", \"dataSourceType\": \"image\", \"url\": \"https://us.v-cdn.net/6038474/uploads/attachments/migrated/image.05T5g00000ppTyBEAU.jpg\", \"embedData\": {\"url\": \"https://us.v-cdn.net/6038474/uploads/attachments/migrated/image.05T5g00000ppTyBEAU.jpg\", \"embedType\": \"image\", \"displaySize\": \"large\", \"float\": \"none\", \"name\": \"replenishment_priority_order.gif\"}, \"children\": [{\"text\": \"\"}]}, {\"type\": \"p\", \"children\": [{\"text\": \"\"}]}]",
+  "fixes_applied": {
+    "urls": {
+      "leaving_cleaned": 0,
+      "unsafe_removed": 0,
+      "s_article_mapped": 0,
+      "s_article_removed": 2,
+      "fragments_mapped": 0,
+      "fragments_stripped": 0,
+      "internal_fragments_fixed": 0,
+      "double_id_fixed": 0,
+      "kb_fragments_stripped": 0
+    },
+    "toc": 0,
+    "related": 1,
+    "lists": 0,
+    "headings": 0,
+    "reconverted": false
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "articleID": 209,
+  "name": "USB-Serial Controller D (Exclamation mark) on Receipt Printer",
+  "slug": "209-usb-serial-controller-d-exclamation-mark-on-receipt-printer",
+  "format": "rich2",
+  "locale": "en",
+  "body": "[{\"type\": \"p\", \"children\": [{\"text\": \"You can resolve USB serial controller driver issues affecting receipt printer connectivity, restoring reliable receipt printing capabilities through proper driver installation. This helps optimize your retail operations by maintaining continuous receipt printing functionality, preventing checkout delays, and ensuring customers receive transaction documentation.\"}]}, {\"type\": \"p\", \"children\": [{\"text\": \"If a receipt printer has a Serial port to USB adapter and Windows is showing it as a USB-Serial Controller-D with an exclamation mark\"}]}, {\"type\": \"p\", \"children\": [{\"text\": \"THERE ARE 2 TYPES OF USB SERIAL ADAPTERS - RECOMMENDED TO TRY BOTH (Aten first)\", \"bold\": true}]}, {\"type\": \"p\", \"children\": [{\"text\": \"Serial port adapter:\"}, {\"text\": \"\"}, {\"type\": \"rich_embed_card\", \"dataSourceType\": \"image\", \"url\": \"https://us.v-cdn.net/6038474/uploads/attachments/migrated/image.05T5g00000ppiDfEAI.jpg\", \"embedData\": {\"url\": \"https://us.v-cdn.net/6038474/uploads/attachments/migrated/image.05T5g00000ppiDfEAI.jpg\", \"embedType\": \"image\", \"displaySize\": \"inline\", \"float\": \"none\", \"name\": \"rtaImage (86).jpeg\"}, \"children\": [{\"text\": \"\"}]}]}, {\"type\": \"p\", \"children\": [{\"text\": \"'Follow the steps below to help Windows 10 recognise the receipt printer\"}]}, {\"type\": \"ol\", \"children\": [{\"type\": \"li\", \"children\": [{\"type\": \"lic\", \"children\": [{\"text\": \"Download driver from Aten website\"}]}]}, {\"type\": \"li\", \"children\": [{\"type\": \"lic\", \"children\": [{\"text\": \"\"}]}, {\"type\": \"code_block\", \"children\": [{\"type\": \"code_line\", \"children\": [{\"text\": \"https://www.aten.com/au/en/products/release-note/?action=release_note&type=driver&eid=703\"}]}], \"lang\": \"plaintext\"}]}, {\"type\": \"li\", \"children\": [{\"type\": \"lic\", \"children\": [{\"text\": \"Click Proceed and Agree\"}]}]}, {\"type\": \"li\", \"children\": [{\"type\": \"lic\", \"children\": [{\"text\": \"Run the .exe\"}]}]}, {\"type\": \"li\", \"children\": [{\"type\": \"lic\", \"children\": [{\"text\": \"Now the device should be recognised as an 'ATEN USB to Serial Bridge'\"}]}]}, {\"type\": \"li\", \"children\": [{\"type\": \"lic\", \"children\": [{\"text\": \"Now install drivers dedicated to that specific receipt printer\"}]}]}, {\"type\": \"li\", \"children\": [{\"type\": \"lic\", \"children\": [{\"text\": \"Assign COM port to driver\"}]}]}]}, {\"type\": \"p\", \"children\": [{\"text\": \"\"}]}, {\"type\": \"p\", \"children\": [{\"text\": \"If the printer does not change to the ATEN USB to Serial Bridge\"}]}, {\"type\": \"p\", \"children\": [{\"text\": \"It is due to the serial adapter being a non-Aten brand\"}]}, {\"type\": \"p\", \"children\": [{\"text\": \"Try and install via \"}, {\"text\": \"Plugable USB Serial Adapter Drivers\", \"bold\": true}]}, {\"type\": \"ol\", \"children\": [{\"type\": \"li\", \"children\": [{\"type\": \"lic\", \"children\": [{\"text\": \"Download driver from plugable.com\"}]}]}, {\"type\": \"li\", \"children\": [{\"type\": \"lic\", \"children\": [{\"text\": \"\"}]}, {\"type\": \"code_block\", \"children\": [{\"type\": \"code_line\", \"children\": [{\"text\": \"https://plugable.com/pages/prolific-drivers\"}]}], \"lang\": \"plaintext\"}]}, {\"type\": \"li\", \"children\": [{\"type\": \"lic\", \"children\": [{\"text\": \"Download the Windows XP and Above version\\\\\"}]}]}, {\"type\": \"li\", \"children\": [{\"type\": \"lic\", \"children\": [{\"text\": \"Click Proceed and Agree\"}]}]}, {\"type\": \"li\", \"children\": [{\"type\": \"lic\", \"children\": [{\"text\": \"Run the \"}, {\"text\": \"PL2303-Prolific_DriverInstaller_v1200.exe\", \"bold\": true}]}]}, {\"type\": \"li\", \"children\": [{\"type\": \"lic\", \"children\": [{\"text\": \"Now the device should be recognised as a 'Prolific USB-to-Serial Comm Port'\"}]}]}, {\"type\": \"li\", \"children\": [{\"type\": \"lic\", \"children\": [{\"text\": \"Assign COM port to driver\"}]}]}]}, {\"type\": \"p\", \"children\": [{\"text\": \"\"}]}]",
+  "fixes_applied": {
+    "urls": {
+      "leaving_cleaned": 0,
+      "unsafe_removed": 0,
+      "s_article_mapped": 0,
+      "s_article_removed": 0,
+      "fragments_mapped": 0,
+      "fragments_stripped": 0,
+      "internal_fragments_fixed": 0,
+      "double_id_fixed": 0,
+      "kb_fragments_stripped": 0
+    },
+    "toc": 0,
+    "related": 1,
+    "lists": 0,
+    "headings": 0,
+    "reconverted": false
+  }
+}

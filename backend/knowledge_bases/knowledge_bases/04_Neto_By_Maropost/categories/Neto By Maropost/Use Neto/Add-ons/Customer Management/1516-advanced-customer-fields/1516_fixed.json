@@ -1,0 +1,29 @@
+{
+  "articleID": 1516,
+  "name": "Advanced Customer Fields",
+  "slug": "1516-advanced-customer-fields",
+  "format": "rich2",
+  "locale": "en",
+  "body": "[{\"type\": \"h3\", \"children\": [{\"text\": \"This add-on was built by Maropost\"}]}, {\"type\": \"p\", \"children\": [{\"text\": \"Add-ons and Integrations built in-house by Maropost are documented and supported by our customer service team. If you're having issues with this integration, \"}, {\"type\": \"a\", \"url\": \"https://www.netohq.com/support/s/ask-us\", \"children\": [{\"text\": \"let us know\"}]}, {\"text\": \"!\"}]}, {\"type\": \"h2\", \"children\": [{\"text\": \"Set up Advanced Customer Fields\"}]}, {\"type\": \"p\", \"children\": [{\"text\": \"To install and set up the advanced customer fields add-on:\"}]}, {\"type\": \"ol\", \"children\": [{\"type\": \"li\", \"children\": [{\"type\": \"lic\", \"children\": [{\"text\": \"In your Neto by Maropost control panel click the \"}, {\"text\": \"Addons\", \"bold\": true}, {\"text\": \" menu.\"}]}]}, {\"type\": \"li\", \"children\": [{\"type\": \"lic\", \"children\": [{\"text\": \"In the customer management section find the Advanced Customer Fields add-on, and click the \"}, {\"text\": \"Install\", \"bold\": true}, {\"text\": \" button.\"}]}]}]}, {\"type\": \"p\", \"children\": [{\"text\": \"Once activated, the following fields will appear in the \"}, {\"text\": \"User Details\", \"bold\": true}, {\"text\": \" section of the customer card in the control panel:\\u00a0\"}, {\"text\": \"Classification 1\", \"bold\": true}, {\"text\": \",\\u00a0\"}, {\"text\": \"Classification 2\", \"bold\": true}, {\"text\": \", \"}, {\"text\": \"Permission\", \"bold\": true}, {\"text\": \",\\u00a0\"}, {\"text\": \"Identification Type\", \"bold\": true}, {\"text\": \" and \"}, {\"text\": \"Identification Value\", \"bold\": true}, {\"text\": \".\"}]}, {\"type\": \"p\", \"children\": [{\"text\": \"\"}]}, {\"type\": \"ul\", \"children\": [{\"type\": \"li\", \"children\": [{\"type\": \"lic\", \"children\": [{\"text\": \"Classification 1\", \"bold\": true}, {\"text\": \"-\\u00a0You can add classification options by going to\"}, {\"text\": \"Settings\\u00a0& Tools\", \"bold\": true}, {\"text\": \">\"}, {\"text\": \" All settings & tools\", \"bold\": true}, {\"text\": \"> Click on\"}, {\"text\": \"Customers tab\", \"bold\": true}, {\"text\": \"> Click\"}, {\"text\": \"Customer Classification 1\", \"bold\": true}, {\"text\": \".\"}]}]}, {\"type\": \"li\", \"children\": [{\"type\": \"lic\", \"children\": [{\"text\": \"Classification 2\", \"bold\": true}, {\"text\": \"- You can add classification options by going to\"}, {\"text\": \"Settings & Tools\", \"bold\": true}, {\"text\": \">\"}, {\"text\": \" All settings & tools\", \"bold\": true}, {\"text\": \"> Click on\"}, {\"text\": \" Customers tab\", \"bold\": true}, {\"text\": \"> Click\"}, {\"text\": \"Customer Classification 2\", \"bold\": true}, {\"text\": \".\"}]}]}, {\"type\": \"li\", \"children\": [{\"type\": \"lic\", \"children\": [{\"text\": \"Permission\", \"bold\": true}, {\"text\": \"- The customer's permission type. Quote, admin, POS or Store. These permissions can be used to show or hide content on your website front end. This may require customising your website front end templates (dependent on the theme you are using).\"}]}]}, {\"type\": \"li\", \"children\": [{\"type\": \"lic\", \"children\": [{\"text\": \"Identification Type\", \"bold\": true}, {\"text\": \"- The type of document that is used as identification for this customer.\"}]}]}, {\"type\": \"li\", \"children\": [{\"type\": \"lic\", \"children\": [{\"text\": \"Identification Value\", \"bold\": true}, {\"text\": \"- A value assigned to this document that can uniquely identify the customer.\"}]}]}]}, {\"type\": \"p\", \"children\": [{\"text\": \"In the \"}, {\"text\": \"Other\", \"bold\": true}, {\"text\": \" section the \"}, {\"text\": \"Parent User\", \"bold\": true}, {\"text\": \" and \"}, {\"text\": \"Quote Approval User\", \"bold\": true}, {\"text\": \" fields will be added:\"}]}, {\"type\": \"p\", \"children\": [{\"text\": \"\"}]}, {\"type\": \"ul\", \"children\": [{\"type\": \"li\", \"children\": [{\"type\": \"lic\", \"children\": [{\"text\": \"Parent User\", \"bold\": true}, {\"text\": \"-\\u00a0The customers parent customer username. Used for reporting purposes only.\"}]}]}, {\"type\": \"li\", \"children\": [{\"type\": \"lic\", \"children\": [{\"text\": \"Quote Approval User\", \"bold\": true}, {\"text\": \"-\\u00a0The customers quote approver username. Requires quote approver website module.\"}]}]}]}]",
+  "fixes_applied": {
+    "rebrand": 0,
+    "urls": {
+      "leaving_cleaned": 3,
+      "unsafe_removed": 0,
+      "s_article_mapped": 0,
+      "s_article_removed": 0,
+      "fragments_mapped": 0,
+      "fragments_stripped": 0,
+      "internal_fragments_fixed": 0,
+      "double_id_fixed": 0,
+      "kb_fragments_stripped": 0
+    },
+    "toc": 0,
+    "related": 0,
+    "lists": 2,
+    "headings": 1,
+    "reconverted": false
+  },
+  "_sf_cleanup_date": "2026-02-02T06:17:42.248034+00:00",
+  "_sf_removals": 3
+}

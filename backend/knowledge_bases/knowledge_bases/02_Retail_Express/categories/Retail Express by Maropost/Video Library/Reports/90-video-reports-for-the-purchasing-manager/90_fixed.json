@@ -1,0 +1,26 @@
+{
+  "articleID": 90,
+  "name": "Video - Reports for the Purchasing Manager",
+  "slug": "90-video-reports-for-the-purchasing-manager",
+  "format": "rich2",
+  "locale": "en",
+  "body": "[{\"type\": \"callout\", \"children\": [{\"type\": \"callout-item\", \"children\": [{\"text\": \"If you are a Purchasing Manager, we strongly recommend that you attend our completely FREE Training Webinar that covers all aspects of Purchasing & Receiving products, using the POE Manager, and also all the Reports associated with your role. It's an interactive webinar where you can ask questions along the way.\"}]}], \"appearance\": \"alert\"}, {\"type\": \"p\", \"children\": [{\"text\": \"Click \"}, {\"type\": \"a\", \"url\": \"http://www.retailexpressmedia.com/implementation/webinars/Purchase_and_Receive.mp4\", \"children\": [{\"text\": \"here\"}]}, {\"text\": \" to view the full Purchasing and Receiving Master Class webinar.\"}]}, {\"type\": \"rich_embed_card\", \"children\": [{\"text\": \"\"}], \"dataSourceType\": \"iframe\", \"url\": \"https://player.vimeo.com/video/210885566?title=0&byline=0&portrait=0\", \"frameAttributes\": {\"width\": \"700\", \"height\": \"400\"}, \"embedData\": {\"url\": \"https://player.vimeo.com/video/210885566?title=0&byline=0&portrait=0\", \"embedType\": \"iframe\", \"name\": \"\", \"width\": \"700\", \"height\": \"400\"}}]",
+  "fixes_applied": {
+    "urls": {
+      "leaving_cleaned": 1,
+      "unsafe_removed": 0,
+      "s_article_mapped": 0,
+      "s_article_removed": 0,
+      "fragments_mapped": 0,
+      "fragments_stripped": 0,
+      "internal_fragments_fixed": 0,
+      "double_id_fixed": 0,
+      "kb_fragments_stripped": 0
+    },
+    "toc": 0,
+    "related": 0,
+    "lists": 0,
+    "headings": 0,
+    "reconverted": false
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "articleID": 247,
+  "name": "Settings - Shipping Ports",
+  "slug": "247-settings-shipping-ports",
+  "format": "rich2",
+  "locale": "en",
+  "body": "[{\"type\": \"p\", \"children\": [{\"text\": \"Shipping Ports is a feature that allows you to specify the Shipping Ports utilised by your Suppliers. Shipping Ports can be selected when creating or editing Purchase Orders, to assist in better managing your ETA Date for stock.\"}]}, {\"type\": \"callout\", \"children\": [{\"type\": \"callout-item\", \"children\": [{\"text\": \"While a default Shipping Port can be assigned to a Supplier, the Shipping Port is able to edited for individual Purchase Orders.\"}]}], \"appearance\": \"info\"}, {\"type\": \"rich_embed_card\", \"dataSourceType\": \"image\", \"url\": \"https://us.v-cdn.net/6038474/uploads/attachments/migrated/image.05T5g00000pphsMEAQ.jpg\", \"embedData\": {\"url\": \"https://us.v-cdn.net/6038474/uploads/attachments/migrated/image.05T5g00000pphsMEAQ.jpg\", \"embedType\": \"image\", \"displaySize\": \"large\", \"float\": \"none\", \"name\": \"mceclip0 - 2023-07-09T235227.734.png\"}, \"children\": [{\"text\": \"\"}]}, {\"type\": \"p\", \"children\": [{\"text\": \"\"}]}, {\"type\": \"h2\", \"children\": [{\"text\": \"Create a new Shipping Port\"}], \"data-id\": \"create-a-new-shipping-port\"}, {\"type\": \"p\", \"children\": [{\"text\": \"To manage your Shipping Ports:\"}]}, {\"type\": \"ol\", \"children\": [{\"type\": \"li\", \"children\": [{\"type\": \"lic\", \"children\": [{\"text\": \"Navigate to \"}, {\"text\": \"Settings > Purchase Orders Setup > Shipping Ports\", \"bold\": true}]}]}, {\"type\": \"li\", \"children\": [{\"type\": \"lic\", \"children\": [{\"text\": \"Enter the Shipping Port Name\"}]}]}, {\"type\": \"li\", \"children\": [{\"type\": \"lic\", \"children\": [{\"text\": \"Click \"}, {\"text\": \"Create\", \"bold\": true}]}]}]}, {\"type\": \"p\", \"children\": [{\"text\": \"\"}]}, {\"type\": \"h2\", \"children\": [{\"text\": \"Editing Shipping Ports\"}], \"data-id\": \"editing-shipping-ports\"}, {\"type\": \"p\", \"children\": [{\"text\": \"To edit existing Shipping Ports:\"}]}, {\"type\": \"ol\", \"children\": [{\"type\": \"li\", \"children\": [{\"type\": \"lic\", \"children\": [{\"text\": \"Navigate to \"}, {\"text\": \"Settings > Purchase Orders Setup > Shipping Ports\", \"bold\": true}]}]}, {\"type\": \"li\", \"children\": [{\"type\": \"lic\", \"children\": [{\"text\": \"Update the Shipping Port Name\"}]}]}, {\"type\": \"li\", \"children\": [{\"type\": \"lic\", \"children\": [{\"text\": \"Click \"}, {\"text\": \"Update\", \"bold\": true}]}]}]}, {\"type\": \"p\", \"children\": [{\"text\": \"\"}]}, {\"type\": \"p\", \"children\": [{\"text\": \"Want more information? Find related articles here:\"}]}, {\"type\": \"ul\", \"children\": [{\"type\": \"li\", \"children\": [{\"type\": \"lic\", \"children\": [{\"text\": \"Settings - Suppliers\"}]}]}, {\"type\": \"li\", \"children\": [{\"type\": \"lic\", \"children\": [{\"text\": \"Purchase Orders - Create a Purchase Order\"}]}]}, {\"type\": \"li\", \"children\": [{\"type\": \"lic\", \"children\": [{\"text\": \"Settings - Country Configuration\"}]}]}]}]",
+  "fixes_applied": {
+    "urls": {
+      "leaving_cleaned": 0,
+      "unsafe_removed": 0,
+      "s_article_mapped": 0,
+      "s_article_removed": 3,
+      "fragments_mapped": 0,
+      "fragments_stripped": 0,
+      "internal_fragments_fixed": 0,
+      "double_id_fixed": 0,
+      "kb_fragments_stripped": 0
+    },
+    "toc": 0,
+    "related": 0,
+    "lists": 0,
+    "headings": 0,
+    "reconverted": false
+  }
+}

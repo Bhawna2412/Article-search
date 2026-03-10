@@ -1,0 +1,26 @@
+{
+  "articleID": 487,
+  "name": "View Product Costs (Sell Price, COGS, GP etc)",
+  "slug": "487-view-product-costs-sell-price-cogs-gp-etc",
+  "format": "rich2",
+  "locale": "en",
+  "body": "[{\"type\": \"p\", \"children\": [{\"text\": \"You can make informed pricing decisions through viewing product costs, margins, and profitability metrics in \"}, {\"text\": \"Retail Express\", \"bold\": true}, {\"text\": \" POS, which provides real-time visibility into product economics during sales activities. This financial visibility helps retail operators understand margin performance and make strategic pricing decisions, with effective use of cost visibility typically supporting better margin management and improved profitability across Australian retail operations.\"}]}, {\"type\": \"p\", \"children\": [{\"text\": \"Product cost visibility in \"}, {\"text\": \"Retail Express\", \"bold\": true}, {\"text\": \" POS enables retail staff to access buy prices, sell prices, gross profit percentages, and COGS during transactions, helping support informed discounting decisions and margin awareness. This financial transparency helps ensure your retail operations can maintain margin discipline while empowering staff with economic insights supporting strategic selling decisions.\"}]}, {\"type\": \"p\", \"children\": [{\"text\": \"When editing pricing at POS you need to make informed decisions. Viewing the total cost of goods, GP and discounts will ensure you're well placed to determine an appropriate discount level without greatly affecting your profit margin.\"}]}, {\"type\": \"callout\", \"children\": [{\"type\": \"callout-item\", \"children\": [{\"text\": \"Using the Retail Express POS Security Features you can enable/disable the Show Costs feature for your staff. For more information refer to the article \"}, {\"text\": \"Products - Block staff from seeing Cost Prices in Back Office and POS\"}, {\"text\": \".\"}]}], \"appearance\": \"info\"}, {\"type\": \"p\", \"children\": [{\"text\": \"\"}]}, {\"type\": \"h2\", \"children\": [{\"text\": \"Video Overview\"}], \"data-id\": \"video-overview\"}, {\"type\": \"rich_embed_card\", \"children\": [{\"text\": \"\"}], \"dataSourceType\": \"iframe\", \"url\": \"https://player.vimeo.com/video/79163121\", \"frameAttributes\": {\"width\": \"640\", \"height\": \"385\"}, \"embedData\": {\"url\": \"https://player.vimeo.com/video/79163121\", \"embedType\": \"iframe\", \"name\": \"\", \"width\": \"640\", \"height\": \"385\"}}, {\"type\": \"p\", \"children\": [{\"text\": \"\"}]}, {\"type\": \"h2\", \"children\": [{\"text\": \"Viewing Cost Price Information within POS\"}], \"data-id\": \"viewing-cost-price-information-within-pos\"}, {\"type\": \"p\", \"children\": [{\"text\": \"To view the costs within POS:\"}]}, {\"type\": \"ol\", \"children\": [{\"type\": \"li\", \"children\": [{\"type\": \"lic\", \"children\": [{\"text\": \"Create a sale\"}]}]}, {\"type\": \"li\", \"children\": [{\"type\": \"lic\", \"children\": [{\"text\": \"Add a Product\", \"bold\": true}, {\"text\": \" to the sale\"}]}]}, {\"type\": \"li\", \"children\": [{\"type\": \"lic\", \"children\": [{\"text\": \"Click the \"}, {\"text\": \"Show Costs \", \"bold\": true}, {\"text\": \"button at the bottom of the Product Listing\"}]}, {\"type\": \"rich_embed_card\", \"dataSourceType\": \"image\", \"url\": \"https://us.v-cdn.net/6038474/uploads/attachments/migrated/image.05T5g00000ppjpgEAA.jpg\", \"embedData\": {\"url\": \"https://us.v-cdn.net/6038474/uploads/attachments/migrated/image.05T5g00000ppjpgEAA.jpg\", \"embedType\": \"image\", \"displaySize\": \"large\", \"float\": \"none\", \"name\": \"mceclip0 - 2023-07-10T055036.205.png\"}, \"children\": [{\"text\": \"\"}]}]}, {\"type\": \"li\", \"children\": [{\"type\": \"lic\", \"children\": [{\"text\": \"The \"}, {\"text\": \"Show Costs screen\", \"bold\": true}, {\"text\": \" will load with pricing, costs, gross profit and discount related information.  The information is displayed at both the product line item level, and an Order Total level.\"}]}]}, {\"type\": \"li\", \"children\": [{\"type\": \"lic\", \"children\": [{\"text\": \"Review the information\"}]}]}, {\"type\": \"li\", \"children\": [{\"type\": \"lic\", \"children\": [{\"text\": \"Click \"}, {\"text\": \"Done \", \"bold\": true}, {\"text\": \"to return to the sale\"}]}]}]}, {\"type\": \"rich_embed_card\", \"dataSourceType\": \"image\", \"url\": \"https://us.v-cdn.net/6038474/uploads/attachments/migrated/image.05T5g00000ppkUcEAI.jpg\", \"embedData\": {\"url\": \"https://us.v-cdn.net/6038474/uploads/attachments/migrated/image.05T5g00000ppkUcEAI.jpg\", \"embedType\": \"image\", \"displaySize\": \"large\", \"float\": \"none\", \"name\": \"pos_showcosts.png\"}, \"children\": [{\"text\": \"\"}]}, {\"type\": \"p\", \"children\": [{\"text\": \"\"}]}]",
+  "fixes_applied": {
+    "urls": {
+      "leaving_cleaned": 0,
+      "unsafe_removed": 0,
+      "s_article_mapped": 0,
+      "s_article_removed": 1,
+      "fragments_mapped": 0,
+      "fragments_stripped": 0,
+      "internal_fragments_fixed": 1,
+      "double_id_fixed": 0,
+      "kb_fragments_stripped": 0
+    },
+    "toc": 0,
+    "related": 1,
+    "lists": 0,
+    "headings": 0,
+    "reconverted": false
+  }
+}

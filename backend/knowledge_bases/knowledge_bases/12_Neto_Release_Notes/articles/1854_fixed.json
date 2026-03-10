@@ -1,0 +1,16 @@
+{
+  "articleID": 1854,
+  "knowledgeCategoryID": 455,
+  "sort": 7,
+  "name": "Neto by Maropost Release Notes – 18 Jul 2019",
+  "body": "[{\"type\":\"p\",\"children\":[{\"text\":\"Release Version\",\"bold\":true},{\"text\":\": 6.61\"}]},{\"type\":\"p\",\"children\":[{\"text\":\"\"}]},{\"type\":\"h2\",\"children\":[{\"text\":\"Minor Features\",\"bold\":true}]},{\"type\":\"ul\",\"children\":[{\"type\":\"li\",\"children\":[{\"type\":\"lic\",\"children\":[{\"text\":\"New Australia Post charge codes have been added for the eParcel API.\"}]}]}]},{\"type\":\"p\",\"children\":[{\"text\":\"\"}]},{\"type\":\"h2\",\"children\":[{\"text\":\"Bug Fixes\",\"bold\":true}]},{\"type\":\"ul\",\"children\":[{\"type\":\"li\",\"children\":[{\"text\":\"Fixed an issue in the checkout page address field, where an unexpected backspace character was added.\"}]},{\"type\":\"li\",\"children\":[{\"text\":\"Resolved a problem where the stock adjustment page timed out when opening.\"}]},{\"type\":\"li\",\"children\":[{\"type\":\"lic\",\"children\":[{\"text\":\"Fixed a bug where custom credit was incorrectly calculated when quotes, cancelled orders, or unapproved orders existed.\"}]}]},{\"type\":\"li\",\"children\":[{\"type\":\"lic\",\"children\":[{\"text\":\"Fixed an issue in Catch descriptions that wasn't removing <style> tags in HTML.\"}]}]},{\"type\":\"li\",\"children\":[{\"type\":\"lic\",\"children\":[{\"text\":\"Corrected the Aged Receivables report to show the correct data when \"},{\"text\":\"Show Zero Balances\",\"bold\":true},{\"text\":\" is set to No.\"}]}]},{\"type\":\"li\",\"children\":[{\"text\":\"Resolved a bug where invalid images in the imagedrop folder cleared existing product images.\"}]},{\"type\":\"li\",\"children\":[{\"type\":\"lic\",\"children\":[{\"text\":\"Fixed an issue in the GetWarehouse API call so it no longer returns a blank for the OutputSelector WarehouseState.\"}]}]}]},{\"type\":\"p\",\"children\":[{\"text\":\"\"}]}]",
+  "format": "rich2",
+  "featured": false,
+  "locale": "en",
+  "status": "published",
+  "foreignID": null,
+  "dateUpdated": "2025-07-10T14:53:45+00:00",
+  "_source_kb_id": 12,
+  "_source_kb_name": "Neto Release Notes",
+  "_sync_date": "2026-02-02T05:59:08.375873+00:00"
+}

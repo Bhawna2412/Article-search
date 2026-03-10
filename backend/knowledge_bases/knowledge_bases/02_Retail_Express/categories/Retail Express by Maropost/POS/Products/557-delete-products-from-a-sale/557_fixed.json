@@ -1,0 +1,26 @@
+{
+  "articleID": 557,
+  "name": "Delete products from a sale",
+  "slug": "557-delete-products-from-a-sale",
+  "format": "rich2",
+  "locale": "en",
+  "body": "[{\"type\": \"p\", \"children\": [{\"text\": \"You can efficiently manage product corrections during sales transactions in Retail Express by quickly removing individual items or entire product selections, helping your retail operators maintain accurate order details and improve checkout efficiency. This capability ensures sales are processed correctly the first time, which helps reduce transaction errors and improves the customer checkout experience.\"}]}, {\"type\": \"p\", \"children\": [{\"text\": \"Setting up proper product removal workflows enables your retail team to handle order corrections smoothly without disrupting the sales flow, helping optimize point-of-sale operations and maintain transaction accuracy. This helps retail operators respond quickly to customer changes while keeping the checkout process moving efficiently.\"}]}, {\"type\": \"p\", \"children\": [{\"text\": \"When deleting products from a sale you can either delete individual products or all products entirely. Note that if you're just amending the quantity of a product that can be achieved without having to delete the product. Refer to the section \\\"Changing Product Values\\\" earlier in this article.\"}]}, {\"type\": \"p\", \"children\": [{\"text\": \"\"}]}, {\"type\": \"h2\", \"children\": [{\"text\": \"To remove products from a sale:\"}], \"data-id\": \"to-remove-products-from-a-sale\"}, {\"type\": \"ol\", \"children\": [{\"type\": \"li\", \"children\": [{\"type\": \"lic\", \"children\": [{\"text\": \"Click an \"}, {\"text\": \"individual product \", \"bold\": true}, {\"text\": \"so that it's highlighted\"}]}]}, {\"type\": \"li\", \"children\": [{\"type\": \"lic\", \"children\": [{\"text\": \"Click the \"}, {\"text\": \"Trash Can \", \"bold\": true}, {\"text\": \"icon in the top right hand side of the button\"}]}]}, {\"type\": \"li\", \"children\": [{\"type\": \"lic\", \"children\": [{\"text\": \"The product will be removed\"}]}]}, {\"type\": \"li\", \"children\": [{\"type\": \"lic\", \"children\": [{\"text\": \"To remove multiple products, ensure there are \"}, {\"text\": \"no products highlighted\", \"bold\": true}]}]}, {\"type\": \"li\", \"children\": [{\"type\": \"lic\", \"children\": [{\"text\": \"Click the \"}, {\"text\": \"Trash Can \", \"bold\": true}, {\"text\": \"icon - all rows will be highlighted\"}]}]}, {\"type\": \"li\", \"children\": [{\"type\": \"lic\", \"children\": [{\"text\": \"Click the \"}, {\"text\": \"Trash Can \", \"bold\": true}, {\"text\": \"again to confirm the selection\"}]}]}, {\"type\": \"li\", \"children\": [{\"type\": \"lic\", \"children\": [{\"text\": \"All products will be removed\"}]}]}]}, {\"type\": \"callout\", \"children\": [{\"type\": \"callout-item\", \"children\": [{\"text\": \"If you want to remove multiple products, but not all products, hold the \"}, {\"text\": \"Ctrl \", \"bold\": true}, {\"text\": \"button on the keyboard and click on the items to highlight them. Click the Trash Can icon to remove the products from the sale.\"}]}], \"appearance\": \"info\"}, {\"type\": \"p\", \"children\": [{\"text\": \"\"}]}]",
+  "fixes_applied": {
+    "urls": {
+      "leaving_cleaned": 0,
+      "unsafe_removed": 0,
+      "s_article_mapped": 0,
+      "s_article_removed": 0,
+      "fragments_mapped": 0,
+      "fragments_stripped": 0,
+      "internal_fragments_fixed": 0,
+      "double_id_fixed": 0,
+      "kb_fragments_stripped": 0
+    },
+    "toc": 0,
+    "related": 1,
+    "lists": 1,
+    "headings": 0,
+    "reconverted": false
+  }
+}

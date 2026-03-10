@@ -1,0 +1,16 @@
+{
+  "articleID": 1961,
+  "knowledgeCategoryID": 455,
+  "sort": 13,
+  "name": "Neto by Maropost Release Notes – 11 Dec 2018",
+  "body": "[{\"type\":\"p\",\"children\":[{\"text\":\"Release Version: \",\"bold\":true},{\"text\":\"6.33\"}]},{\"type\":\"p\",\"children\":[{\"text\":\"\"}]},{\"type\":\"h3\",\"children\":[{\"bold\":true,\"text\":\"Amazon AU\"}]},{\"type\":\"p\",\"children\":[{\"text\":\"Carrier mapping\",\"bold\":true}]},{\"type\":\"p\",\"children\":[{\"text\":\"You can now specify which shipping carrier you used to send an Amazon order. This is set on the shipping rate table, much like eBay carrier mapping. A step by step guide is available in our†support hub.\"}]},{\"type\":\"p\",\"children\":[{\"text\":\"Origin country\",\"bold\":true}]},{\"type\":\"p\",\"children\":[{\"text\":\"This field has been added to the product field mapping, for product registration. Instructions can be found in our†support hub.\"}]},{\"type\":\"p\",\"children\":[{\"text\":\"\"}]},{\"type\":\"h3\",\"children\":[{\"text\":\"Bug Fixes\",\"bold\":true}]},{\"type\":\"p\",\"children\":[{\"text\":\"The below bug fixes have been released in version 6.33:\"}]},{\"type\":\"ul\",\"children\":[{\"type\":\"li\",\"children\":[{\"text\":\"Fixed an issue preventing canned responses from being used when emailing a tax invoice from a sales order.\"}]},{\"type\":\"li\",\"children\":[{\"text\":\"Fixed an issue when cloning a sales order didn?t duplicate discount information.\"}]},{\"type\":\"li\",\"children\":[{\"text\":\"Fixed an issue when using the bulk pick function updated dimensions.\"}]},{\"type\":\"li\",\"children\":[{\"text\":\"Fixed tracking URLs for Direct Freight, Hunter Express, Seko Logistics, and TNT.\"}]}]},{\"type\":\"p\",\"children\":[{\"text\":\"\"}]}]",
+  "format": "rich2",
+  "featured": false,
+  "locale": "en",
+  "status": "published",
+  "foreignID": null,
+  "dateUpdated": "2025-05-29T15:31:13+00:00",
+  "_source_kb_id": 12,
+  "_source_kb_name": "Neto Release Notes",
+  "_sync_date": "2026-02-02T05:59:27.563746+00:00"
+}

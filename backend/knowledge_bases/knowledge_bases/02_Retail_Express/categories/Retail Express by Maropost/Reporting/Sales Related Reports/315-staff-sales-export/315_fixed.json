@@ -1,0 +1,28 @@
+{
+  "articleID": 315,
+  "name": "Staff Sales Export",
+  "slug": "315-staff-sales-export",
+  "format": "rich2",
+  "locale": "en",
+  "body": "[{\"type\": \"p\", \"children\": [{\"text\": \"You can export detailed staff sales data for external analysis by accessing the Staff Sales Export, which provides comprehensive employee performance information in spreadsheet format. This export capability helps retail operators perform advanced commission calculations, conduct detailed performance analysis, and integrate staff sales data with external payroll or business intelligence systems.\"}]}, {\"type\": \"p\", \"children\": [{\"text\": \"Using the Staff Sales Export helps retail operators support complex commission structures, conduct comprehensive performance reviews, and maintain detailed employee sales records for compensation and performance management purposes.\"}]}, {\"type\": \"p\", \"children\": [{\"text\": \"Find \"}, {\"type\": \"a\", \"url\": \"https://galaxy.maropost.com/kb/articles/315-staff-sales-export#Faqs\", \"children\": [{\"text\": \"related articles\", \"bold\": true}]}, {\"text\": \" \", \"bold\": true}, {\"text\": \"at the bottom of this page\"}]}, {\"type\": \"p\", \"children\": [{\"text\": \"The Staff Sales Export is a list of all invoices processed by your staff. The details are in a summary form of order number, date, Sales Ex, number of units and Store. You may wish to use this report in conjunction  with the\"}, {\"text\": \" \"}, {\"text\": \"Staff Sales Report\"}, {\"text\": \"   which provides a summary of this details, and more.\"}]}, {\"type\": \"callout\", \"children\": [{\"type\": \"callout-item\", \"children\": [{\"text\": \"Use the \"}, {\"text\": \"Commission Report\"}, {\"text\": \" to help track when staff should be paid a commission based on sales\"}]}], \"appearance\": \"info\"}, {\"type\": \"p\", \"children\": [{\"text\": \"Considerations when using this report:\", \"bold\": true}]}, {\"type\": \"ul\", \"children\": [{\"type\": \"li\", \"children\": [{\"type\": \"lic\", \"children\": [{\"text\": \"this report will be exported to a .csv file, \"}, {\"text\": \"not\", \"italic\": true}, {\"text\": \" displayed on-screen. Download and open the file in .csv, or Excel\"}]}]}, {\"type\": \"li\", \"children\": [{\"type\": \"lic\", \"children\": [{\"text\": \"depending on the filter options selected, your report may take several minutes to process and download\"}]}]}]}, {\"type\": \"p\", \"children\": [{\"text\": \"\"}]}, {\"type\": \"p\", \"children\": [{\"text\": \"Navigate to: \"}, {\"text\": \"Reports > Sales Reports > Staff Sales Export\", \"bold\": true}]}, {\"type\": \"rich_embed_card\", \"dataSourceType\": \"image\", \"url\": \"https://us.v-cdn.net/6038474/uploads/attachments/migrated/image.05T5g00000ppi5GEAQ.jpg\", \"embedData\": {\"url\": \"https://us.v-cdn.net/6038474/uploads/attachments/migrated/image.05T5g00000ppi5GEAQ.jpg\", \"embedType\": \"image\", \"displaySize\": \"large\", \"float\": \"none\", \"name\": \"rtaImage (84).jpeg\"}, \"children\": [{\"text\": \"\"}]}, {\"type\": \"p\", \"children\": [{\"text\": \"Apply filtering as required > click Export to Excel >\"}, {\"type\": \"rich_embed_card\", \"dataSourceType\": \"image\", \"url\": \"https://ress.zendesk.com/hc/article_attachments/115003591094/blobid1.png\", \"embedData\": {\"url\": \"https://ress.zendesk.com/hc/article_attachments/115003591094/blobid1.png\", \"embedType\": \"image\", \"displaySize\": \"inline\", \"float\": \"none\", \"name\": \"image\"}, \"children\": [{\"text\": \"\"}]}]}, {\"type\": \"rich_embed_card\", \"dataSourceType\": \"image\", \"url\": \"https://us.v-cdn.net/6038474/uploads/attachments/migrated/image.05T5g00000pphqhEAA.jpg\", \"embedData\": {\"url\": \"https://us.v-cdn.net/6038474/uploads/attachments/migrated/image.05T5g00000pphqhEAA.jpg\", \"embedType\": \"image\", \"displaySize\": \"large\", \"float\": \"none\", \"name\": \"blobid1 (26).png\"}, \"children\": [{\"text\": \"\"}]}, {\"type\": \"callout\", \"children\": [{\"type\": \"callout-item\", \"children\": [{\"text\": \"If you require assistance or training is using Excel, free help is available directly from Microsoft - \"}, {\"type\": \"a\", \"url\": \"https://support.office.com/en-IN/Excel\", \"children\": [{\"text\": \"https://support.office.com/en-IN/Excel\"}]}]}], \"appearance\": \"info\"}, {\"type\": \"p\", \"children\": [{\"text\": \"\"}]}, {\"type\": \"h2\", \"children\": [{\"type\": \"a\", \"url\": \"\", \"children\": [{\"text\": \"\"}]}, {\"text\": \"Want more information? Find related articles here:\"}], \"data-id\": \"want-more-information-find-related-articles-here\"}, {\"type\": \"ul\", \"children\": [{\"type\": \"li\", \"children\": [{\"type\": \"lic\", \"children\": [{\"text\": \"Staff Sales Report\"}]}]}, {\"type\": \"li\", \"children\": [{\"type\": \"lic\", \"children\": [{\"text\": \"Commission Report\"}]}]}]}, {\"type\": \"p\", \"children\": [{\"text\": \"\"}]}]",
+  "fixes_applied": {
+    "urls": {
+      "leaving_cleaned": 2,
+      "unsafe_removed": 0,
+      "s_article_mapped": 0,
+      "s_article_removed": 4,
+      "fragments_mapped": 0,
+      "fragments_stripped": 0,
+      "internal_fragments_fixed": 2,
+      "double_id_fixed": 0,
+      "kb_fragments_stripped": 0
+    },
+    "toc": 0,
+    "related": 1,
+    "lists": 0,
+    "headings": 2,
+    "reconverted": false
+  },
+  "_sf_cleanup_date": "2026-02-02T06:17:41.072574+00:00",
+  "_sf_removals": 1
+}

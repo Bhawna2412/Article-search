@@ -1,0 +1,26 @@
+{
+  "articleID": 93,
+  "name": "Video - Price Groups",
+  "slug": "93-video-price-groups",
+  "format": "rich2",
+  "locale": "en",
+  "body": "[{\"type\": \"p\", \"children\": [{\"text\": \"In this video we show you how to create Price Groups to control discounted pricing for Products within Retail Express. Once Price Groups have been created you can then assign your Customers to a Price Group so they automatically receive discounted prices when making a purchase.\"}]}, {\"type\": \"rich_embed_card\", \"children\": [{\"text\": \"\"}], \"dataSourceType\": \"iframe\", \"url\": \"https://player.vimeo.com/video/177653656?title=0&byline=0&portrait=0\", \"frameAttributes\": {\"width\": \"700\", \"height\": \"400\"}, \"embedData\": {\"url\": \"https://player.vimeo.com/video/177653656?title=0&byline=0&portrait=0\", \"embedType\": \"iframe\", \"name\": \"\", \"width\": \"700\", \"height\": \"400\"}}]",
+  "fixes_applied": {
+    "urls": {
+      "leaving_cleaned": 0,
+      "unsafe_removed": 0,
+      "s_article_mapped": 0,
+      "s_article_removed": 0,
+      "fragments_mapped": 0,
+      "fragments_stripped": 0,
+      "internal_fragments_fixed": 0,
+      "double_id_fixed": 0,
+      "kb_fragments_stripped": 0
+    },
+    "toc": 0,
+    "related": 0,
+    "lists": 0,
+    "headings": 0,
+    "reconverted": false
+  }
+}

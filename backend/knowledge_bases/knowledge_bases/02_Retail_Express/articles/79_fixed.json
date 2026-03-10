@@ -1,0 +1,26 @@
+{
+  "articleID": 79,
+  "name": "Video - Customer Activity Report",
+  "slug": "79-video-customer-activity-report",
+  "format": "rich2",
+  "locale": "en",
+  "body": "[{\"type\": \"p\", \"children\": [{\"text\": \"In this video we should you how to use the powerful Retail Express Customer Activity Report to target specific clients. With this report, you can filter your customers based on a number of factors, and bulk apply a range of different actions.\"}]}, {\"type\": \"rich_embed_card\", \"children\": [{\"text\": \"\"}], \"dataSourceType\": \"iframe\", \"url\": \"https://player.vimeo.com/video/177654644?title=0&byline=0&portrait=0\", \"frameAttributes\": {\"width\": \"700\", \"height\": \"400\"}, \"embedData\": {\"url\": \"https://player.vimeo.com/video/177654644?title=0&byline=0&portrait=0\", \"embedType\": \"iframe\", \"name\": \"\", \"width\": \"700\", \"height\": \"400\"}}]",
+  "fixes_applied": {
+    "urls": {
+      "leaving_cleaned": 0,
+      "unsafe_removed": 0,
+      "s_article_mapped": 0,
+      "s_article_removed": 0,
+      "fragments_mapped": 0,
+      "fragments_stripped": 0,
+      "internal_fragments_fixed": 0,
+      "double_id_fixed": 0,
+      "kb_fragments_stripped": 0
+    },
+    "toc": 0,
+    "related": 0,
+    "lists": 0,
+    "headings": 0,
+    "reconverted": false
+  }
+}

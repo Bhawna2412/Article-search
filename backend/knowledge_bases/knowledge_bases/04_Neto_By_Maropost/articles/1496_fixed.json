@@ -1,0 +1,17 @@
+{
+  "articleID": 1496,
+  "knowledgeCategoryID": 149,
+  "sort": 24,
+  "name": "Rejoiner",
+  "body": "[{\"type\": \"p\", \"children\": [{\"text\": \"[Image: User-added image]\"}]}, {\"type\": \"h3\", \"children\": [{\"text\": \"This add-on was built by Rejoiner\"}]}, {\"type\": \"p\", \"children\": [{\"text\": \"Visit Add-on Website!\"}]}, {\"type\": \"p\", \"children\": [{\"text\": \"For support with this add-on \"}, {\"type\": \"a\", \"url\": \"https://rejoiner.com/\", \"children\": [{\"text\": \"contact Rejoiner\"}]}, {\"text\": \".\"}]}, {\"type\": \"h2\", \"children\": [{\"text\": \"Overview\"}], \"data-id\": \"overview\"}, {\"type\": \"p\", \"children\": [{\"text\": \"Rejoiner is the only email marketing solution that\\u2019s accountable for your entire email channel\\u2014all for less than hiring a new employee. Use Rejoiner to send high volume broadcasts and behavioural email campaigns such as cart & browse abandonment, welcome series, price drop, win back and more.\"}]}, {\"type\": \"h2\", \"children\": [{\"text\": \"Benefits & Features\"}], \"data-id\": \"benefits-features\"}, {\"type\": \"h3\", \"children\": [{\"text\": \"Recover\"}], \"data-id\": \"recover\"}, {\"type\": \"p\", \"children\": [{\"text\": \"Convert 15% of abandoned carts into customers and win back lost revenue (\"}, {\"type\": \"a\", \"url\": \"https://rejoiner.com/#recover\", \"children\": [{\"text\": \"learn more\"}]}, {\"text\": \").\"}]}, {\"type\": \"h3\", \"children\": [{\"text\": \"Retain\"}], \"data-id\": \"retain\"}, {\"type\": \"p\", \"children\": [{\"text\": \"Maximize customer lifetime value and retain your best customers (\"}, {\"type\": \"a\", \"url\": \"https://rejoiner.com/#retain\", \"children\": [{\"text\": \"learn more\"}]}, {\"text\": \").\"}]}, {\"type\": \"h3\", \"children\": [{\"text\": \"Optimise\"}], \"data-id\": \"optimise\"}, {\"type\": \"p\", \"children\": [{\"text\": \"Increase the ROI of every campaign systematically with A/B split testing (\"}, {\"type\": \"a\", \"url\": \"https://rejoiner.com/#optimize\", \"children\": [{\"text\": \"learn more\"}]}, {\"text\": \").\"}]}, {\"type\": \"h2\", \"children\": [{\"text\": \"Set up the Rejoiner Add-on\"}], \"data-id\": \"setup-instructions\"}, {\"type\": \"p\", \"children\": [{\"text\": \"Steps to integrate Neto by Maropost and Rejoiner can be found in the \"}, {\"type\": \"a\", \"url\": \"https://docs.rejoiner.com/article/200-neto\", \"children\": [{\"text\": \"Rejoiner documentation\"}]}, {\"text\": \".\"}]}]",
+  "format": "rich2",
+  "featured": false,
+  "locale": "en",
+  "status": "published",
+  "foreignID": null,
+  "dateUpdated": "2025-12-11T04:36:16+00:00",
+  "_source_kb_id": 4,
+  "_source_kb_name": "Neto By Maropost",
+  "_sync_date": "2026-02-06T07:18:22.620456+00:00",
+  "_incremental_update": true
+}

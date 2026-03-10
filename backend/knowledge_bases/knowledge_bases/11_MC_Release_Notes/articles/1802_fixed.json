@@ -1,0 +1,16 @@
+{
+  "articleID": 1802,
+  "knowledgeCategoryID": 439,
+  "sort": 1,
+  "name": "Marketing Cloud Release Notes - 12 Dec 2023",
+  "body": "[{\"type\":\"h3\",\"children\":[{\"text\":\"OVERVIEW:\",\"bold\":true}]},{\"type\":\"p\",\"children\":[{\"text\":\"In this release, we have made some layout and UI modifications to our Email Campaign Custom Report.\"}]},{\"type\":\"p\",\"children\":[{\"text\":\"To learn more about this feature, read ahead!! \"}]},{\"type\":\"p\",\"children\":[{\"text\":\" \"}]},{\"type\":\"h3\",\"children\":[{\"text\":\"ENHANCEMENT:\",\"bold\":true}]},{\"type\":\"p\",\"children\":[{\"text\":\"Initially, while generating a one-time schedule report, in the Report Details section of step 2, the overall UI interface would appear cluttered and not so easy to follow, thus causing the report-creation process to be quite taxing and time-consuming.\"}]},{\"type\":\"p\",\"children\":[{\"text\":\"To streamline the process, we have updated the UI fields and clubbed the campaign types into one single field.\"}]},{\"type\":\"p\",\"children\":[{\"type\":\"rich_embed_card\",\"children\":[{\"text\":\"\"}],\"dataSourceType\":\"image\",\"url\":\"https://us.v-cdn.net/6038474/uploads/attachments/migrated/custrep18.0685g00000Io3luAAB.png\",\"embedData\":{\"url\":\"https://us.v-cdn.net/6038474/uploads/attachments/migrated/custrep18.0685g00000Io3luAAB.png\",\"name\":\"custrep18\",\"embedType\":\"image\",\"float\":\"none\",\"height\":1090,\"width\":2880}},{\"type\":\"p\",\"children\":[{\"text\":\"Hence, from now on, users can simply choose the campaign type from the list and select the brands, names, and campaign tags, respectively.\"}]}]},{\"type\":\"p\",\"children\":[{\"type\":\"rich_embed_card\",\"children\":[{\"text\":\"\"}],\"dataSourceType\":\"image\",\"url\":\"https://us.v-cdn.net/6038474/uploads/attachments/migrated/custrep20.0685g00000Io3mEAAR.png\",\"embedData\":{\"url\":\"https://us.v-cdn.net/6038474/uploads/attachments/migrated/custrep20.0685g00000Io3mEAAR.png\",\"name\":\"custrep20\",\"embedType\":\"image\",\"float\":\"none\",\"height\":1514,\"width\":2880}},{\"type\":\"p\",\"children\":[{\"text\":\"Also, we have a preview mode wherein you can have a sneak peek at all the selection criteria you have chosen to generate the custom email report. \"}]}]},{\"type\":\"p\",\"children\":[{\"type\":\"rich_embed_card\",\"children\":[{\"text\":\"\"}],\"dataSourceType\":\"image\",\"url\":\"https://us.v-cdn.net/6038474/uploads/attachments/migrated/custrep21.0685g00000Io3mTAAR.png\",\"embedData\":{\"url\":\"https://us.v-cdn.net/6038474/uploads/attachments/migrated/custrep21.0685g00000Io3mTAAR.png\",\"name\":\"custrep21\",\"embedType\":\"image\",\"float\":\"none\",\"height\":533,\"width\":2880}},{\"type\":\"p\",\"children\":[{\"text\":\"To learn more about generating a custom email report, visit and read our \"},{\"type\":\"a\",\"url\":\"https://galaxy.maropost.com/s/article/Custom-Email-Campaign-Report\",\"target\":\"_blank\",\"children\":[{\"text\":\"Email Report\",\"bold\":true}]},{\"text\":\" topic.\"}]}]}]",
+  "format": "rich2",
+  "featured": false,
+  "locale": "en",
+  "status": "published",
+  "foreignID": null,
+  "dateUpdated": "2025-08-07T11:15:40+00:00",
+  "_source_kb_id": 11,
+  "_source_kb_name": "MC Release Notes",
+  "_sync_date": "2026-02-02T05:57:31.780917+00:00"
+}

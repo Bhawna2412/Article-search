@@ -1,0 +1,27 @@
+{
+  "articleID": 672,
+  "name": "Add Advertisements to Facebook Shop Home Page Carousel",
+  "slug": "672-add-advertisements-to-facebook-shop-home-page-carousel",
+  "format": "rich2",
+  "locale": "en",
+  "body": "[{\"type\": \"p\", \"children\": [{\"text\": \"Tip\", \"bold\": true}, {\"text\": \": Link your Facebook shop to Neto by following the steps in \"}, {\"type\": \"a\", \"url\": \"https://galaxy.maropost.com/kb/articles/1060-set-up-a-facebook-or-instagram-product-feed\", \"children\": [{\"text\": \"this article\"}]}, {\"text\": \".\"}]}, {\"type\": \"ol\", \"children\": [{\"type\": \"li\", \"children\": [{\"type\": \"lic\", \"children\": [{\"text\": \"In your Neto control panel navigate to \"}, {\"text\": \"Webstore\", \"bold\": true}, {\"text\": \" > \"}, {\"text\": \"Advertising Campaigns\", \"bold\": true}]}]}, {\"type\": \"li\", \"children\": [{\"type\": \"lic\", \"children\": [{\"text\": \"Select \"}, {\"text\": \"Add New Advertising Campaign\", \"bold\": true}]}, {\"type\": \"p\", \"children\": [{\"text\": \"[Image: Screen Shot 2024-09-26 at 10.54.13 am.png]\"}]}]}, {\"type\": \"li\", \"children\": [{\"type\": \"lic\", \"children\": [{\"text\": \"Under \"}, {\"text\": \"Banner, Carousel Slide or Text Advert\", \"bold\": true}, {\"text\": \" select \"}, {\"text\": \"Add New\", \"bold\": true}, {\"text\": \".\"}]}, {\"type\": \"p\", \"children\": [{\"text\": \"[Image: Screen Shot 2024-09-26 at 10.55.17 am.png]\"}]}]}, {\"type\": \"li\", \"children\": [{\"type\": \"lic\", \"children\": [{\"text\": \"In the \"}, {\"text\": \"Group\", \"bold\": true}, {\"text\": \" field select \"}, {\"text\": \"Facebook.\", \"bold\": true}]}, {\"type\": \"p\", \"children\": [{\"text\": \"[Image: Screen Shot 2024-09-26 at 10.58.11 am.png]\"}]}, {\"type\": \"p\", \"children\": [{\"text\": \"This group will be used for controlling the adverts on your Facebook shop.\"}]}]}, {\"type\": \"li\", \"children\": [{\"type\": \"lic\", \"children\": [{\"text\": \"Add your advert details to the campaign that has now been created. Using the \"}, {\"text\": \"Ad Builder\", \"bold\": true}, {\"text\": \" upload an image for the advert. You can also add text, however it is not required.\"}]}, {\"type\": \"p\", \"children\": [{\"text\": \"Tip\", \"bold\": true}, {\"text\": \":If you upload an \"}, {\"text\": \"Image\", \"bold\": true}, {\"text\": \" that is larger than the space provided for the image on your website the system will resize the image to fit the space.\"}]}]}, {\"type\": \"li\", \"children\": [{\"type\": \"lic\", \"children\": [{\"text\": \"In the \"}, {\"text\": \"Select Location For Ad To Appear\", \"bold\": true}, {\"text\": \" drop down box, choose \"}, {\"text\": \"Web Page\", \"bold\": true}, {\"text\": \" > \"}, {\"text\": \"Home\", \"bold\": true}, {\"text\": \" and then click the \"}, {\"text\": \"+ Add\", \"bold\": true}, {\"text\": \" button, and enter a \"}, {\"text\": \"Date Start\", \"bold\": true}, {\"text\": \" and \"}, {\"text\": \"Date End\", \"bold\": true}, {\"text\": \" for your campaign.\"}]}, {\"type\": \"p\", \"children\": [{\"text\": \"If you don't have the web page option, choose \"}, {\"text\": \"Information Page\", \"bold\": true}, {\"text\": \" instead.\"}]}, {\"type\": \"p\", \"children\": [{\"text\": \"[Image: Screen Shot 2024-09-26 at 11.24.29 am.jpg]\"}]}]}, {\"type\": \"li\", \"children\": [{\"type\": \"lic\", \"children\": [{\"text\": \"Click the \"}, {\"text\": \"Save\", \"bold\": true}, {\"text\": \" button to complete the configuration.\"}]}]}]}]",
+  "fixes_applied": {
+    "rebrand": 0,
+    "urls": {
+      "leaving_cleaned": 0,
+      "unsafe_removed": 0,
+      "s_article_mapped": 1,
+      "s_article_removed": 0,
+      "fragments_mapped": 0,
+      "fragments_stripped": 0,
+      "internal_fragments_fixed": 0,
+      "double_id_fixed": 0,
+      "kb_fragments_stripped": 0
+    },
+    "toc": 0,
+    "related": 0,
+    "lists": 7,
+    "headings": 0,
+    "reconverted": false
+  }
+}

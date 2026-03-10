@@ -1,0 +1,16 @@
+{
+  "articleID": 1955,
+  "knowledgeCategoryID": 452,
+  "sort": 20,
+  "name": "Neto by Maropost Release Notes – 17 Feb 2023",
+  "body": "[{\"type\":\"h2\",\"children\":[{\"text\":\"Fixes\",\"bold\":true}]},{\"type\":\"ul\",\"children\":[{\"type\":\"li\",\"children\":[{\"text\":\"Fixed an issue with PayPal Checkout transactions that could result in discrepancies between the payment and order grand total. Developers continue to prioritise monitoring this important issue.\"}]},{\"type\":\"li\",\"children\":[{\"text\":\"Fixed an issue that with shipping validation that prevented checkout with postcode 819454 Singapore.\"}]}]},{\"type\":\"p\",\"children\":[{\"text\":\"\"}]}]",
+  "format": "rich2",
+  "featured": false,
+  "locale": "en",
+  "status": "published",
+  "foreignID": null,
+  "dateUpdated": "2025-07-15T12:23:05+00:00",
+  "_source_kb_id": 12,
+  "_source_kb_name": "Neto Release Notes",
+  "_sync_date": "2026-02-02T05:58:39.429603+00:00"
+}

@@ -1,0 +1,26 @@
+{
+  "articleID": 118,
+  "name": "Webinar Training Series",
+  "slug": "118-webinar-training-series",
+  "format": "rich2",
+  "locale": "en",
+  "body": "[{\"type\": \"p\", \"children\": [{\"text\": \"Our highly skilled retail trainers have curated a series of powerful training webinars that will ensure you get your return on investment with Retail Express.\"}]}, {\"type\": \"p\", \"children\": [{\"text\": \"\"}]}, {\"type\": \"h2\", \"children\": [{\"text\": \"Implementation\"}], \"data-id\": \"implementation\"}, {\"type\": \"ul\", \"children\": [{\"type\": \"li\", \"children\": [{\"type\": \"lic\", \"children\": [{\"type\": \"a\", \"url\": \"https://www.retailexpressmedia.com/training/webinars/current/GettingStartedWebinar.mp4\", \"children\": [{\"text\": \"Getting Started for Implementation\"}]}, {\"text\": \" (30min)\"}]}]}]}, {\"type\": \"p\", \"children\": [{\"text\": \"\"}]}, {\"type\": \"h2\", \"children\": [{\"text\": \"Back Office\"}], \"data-id\": \"back-office\"}, {\"type\": \"ul\", \"children\": [{\"type\": \"li\", \"children\": [{\"type\": \"lic\", \"children\": [{\"type\": \"a\", \"url\": \"https://www.retailexpressmedia.com/training/webinars/current/EOFYWalkthrough.mp4\", \"children\": [{\"text\": \"End of Financial Year - How to Run a Successful Stocktake\"}]}, {\"text\": \" (60min)\"}]}]}, {\"type\": \"li\", \"children\": [{\"type\": \"lic\", \"children\": [{\"type\": \"a\", \"url\": \"https://www.retailexpressmedia.com/training/webinars/current/StockakeWalkthrough.mp4\", \"children\": [{\"text\": \"Stocktake Walkthrough\"}]}, {\"text\": \" (30min)\"}]}]}, {\"type\": \"li\", \"children\": [{\"type\": \"lic\", \"children\": [{\"type\": \"a\", \"url\": \"https://www.retailexpressmedia.com/training/webinars/current/FulfilmentWalkthrough.mp4\", \"children\": [{\"text\": \"Managing Fulfillment\"}]}, {\"text\": \" (60min)\"}]}]}, {\"type\": \"li\", \"children\": [{\"type\": \"lic\", \"children\": [{\"type\": \"a\", \"url\": \"https://www.retailexpressmedia.com/training/webinars/current/TopReportsWalkthrough.mp4\", \"children\": [{\"text\": \"Top Reports\"}]}, {\"text\": \" (30min)\"}]}]}, {\"type\": \"li\", \"children\": [{\"type\": \"lic\", \"children\": [{\"type\": \"a\", \"url\": \"https://www.retailexpressmedia.com/training/webinars/current/CreatingProductsWalkthrough.mp4\", \"children\": [{\"text\": \"Creating & Editing Products\"}]}, {\"text\": \" (60min)\"}]}]}, {\"type\": \"li\", \"children\": [{\"type\": \"lic\", \"children\": [{\"text\": \"Purchase Order Video Series\"}]}]}, {\"type\": \"li\", \"children\": [{\"type\": \"lic\", \"children\": [{\"text\": \"Stock Receipt Video Series\"}]}]}]}, {\"type\": \"p\", \"children\": [{\"text\": \"\"}]}, {\"type\": \"h2\", \"children\": [{\"text\": \"POS\"}], \"data-id\": \"pos\"}, {\"type\": \"ul\", \"children\": [{\"type\": \"li\", \"children\": [{\"type\": \"lic\", \"children\": [{\"type\": \"a\", \"url\": \"https://www.retailexpressmedia.com/training/webinars/current/POSWalkthrough.mp4\", \"children\": [{\"text\": \"POS Walkthrough\"}]}, {\"text\": \" (60min)\"}]}]}]}]",
+  "fixes_applied": {
+    "urls": {
+      "leaving_cleaned": 7,
+      "unsafe_removed": 0,
+      "s_article_mapped": 0,
+      "s_article_removed": 2,
+      "fragments_mapped": 0,
+      "fragments_stripped": 0,
+      "internal_fragments_fixed": 0,
+      "double_id_fixed": 0,
+      "kb_fragments_stripped": 0
+    },
+    "toc": 0,
+    "related": 0,
+    "lists": 0,
+    "headings": 0,
+    "reconverted": false
+  }
+}

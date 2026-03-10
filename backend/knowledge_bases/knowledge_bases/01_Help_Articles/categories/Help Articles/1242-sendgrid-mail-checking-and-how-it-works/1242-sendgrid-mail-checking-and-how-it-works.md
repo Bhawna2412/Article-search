@@ -1,0 +1,45 @@
+---
+title: "Sendgrid Mail Checking and how it works"
+articleID: 1242
+knowledgeBase: "Help Articles"
+lastUpdated: 2023-06-01
+---
+
+# Sendgrid Mail Checking and how it works
+
+# Sendgrid Mail Checking and how it works
+
+As a quick summary of the way this works:
+
+* All ?internal? emails i.e. everything except newsletters are sent via an third party mail server called SendGrid
+* SendGrid keeps a log of all emails that are sent regardless of whether it was successfully delivered. If it registers in their log, that means it left our systems and any errors are nothing to do with Retail Express.
+* When SendGrid attempts to send a message, if it cannot be delivered it will register the rejection as either a Block or a Bounce:
+  + Blocks are a soft bounce meaning the email address was valid and accepted by the destination mail server but wasn?t able to be delivered to the mailbox. Reasons might include the mailbox is full or the server was temporarily unavailable. SendGrid will attempt to redeliver blocked emails for up to 72 hours at which point they are added to the Bounce list.
+  + A Bounce occurs when an email address is permanently rejected i.e. the email address doesn?t exist, the email address is invalid or the address failed for over 72 hours.
+  + More info here: [https://sendgrid.com/blog/email-bounce-management/](http://galaxy.maropost.com/home/leaving?allowTrusted=1&target=https%3A%2F%2Fsendgrid.com%2Fblog%2Femail-bounce-management%2F)
+* Once a message is classified as a Bounce, it is added to a list that is checked prior to any emails being sent. If someone tries to send to an address that is on the Bounce list, SendGrid won?t ever attempt to send the message. This is designed to stop us from repeatedly trying to re-send messages to bad email addresses which would cost us credits and also potentially get us blacklisted.
+
+To date you?ve had to speak to us to confirm whether an email is on the Bounce list or to confirm if a message has been delivered. I?ve just setup a new account that you can use to perform this check yourself:
+
+URL:                       [https://app.sendgrid.com](http://galaxy.maropost.com/home/leaving?allowTrusted=1&target=https%3A%2F%2Fapp.sendgrid.com)
+
+Username:         rexsupport
+
+Password:         Reta!ler1!
+
+Once you?re logged in, you?ll land on the SendGrid dashboard.
+
+To search the SendGrid logs to see if we?ve tried to send an email to a particular address:
+
+* click on ACTIVITY on the left
+* search for the destination address at the top
+* any emails, both successful deliveries and bounces will be listed. If there?s nothing logged, the message either didn?t leave our servers or the address is wrong.
+* failures will be marked as Drop
+
+If you see a Drop, expand SUPPRESSIONS on the left and click BOUNCES then search for the destination address again at the top. If you see the address listed here, this means the email address is invalid or something is preventing us from sending to the address. At this point you need the client to confirm that this is definitely a valid email address. If it is, it?s likely that at some point there was a temporary issue that lasted more than 72 hours and they were therefore permanently blocked. You can remove an address from the Bounce list by ticking it in the list, clicking the SELECTED drop-down in the top right and clicking Remove Selected Bounces.
+
+You can also search the BLOCK list which will tell you something that?s temporarily unavailable but as mentioned SendGrid will automatically retry sending to these addresses for 72 hours. You can remove entries from this list in the same way as above though.
+
+Hope that helps and if there?s any questions let me know.
+
+Cheers,

@@ -1,0 +1,17 @@
+{
+  "articleID": 2074,
+  "knowledgeCategoryID": 464,
+  "sort": 1,
+  "name": "Github: JS SDK",
+  "body": "[{\"type\": \"p\", \"children\": [{\"text\": \"The JavaScript SDK is available on GitHub with complete source code, documentation, and examples for implementing search and personalization features. This open-source availability enables developers to review implementation details, contribute improvements, and stay current with SDK updates while integrating platform capabilities.\"}]}, {\"type\": \"p\", \"children\": [{\"text\": \"Accessing the GitHub repository helps ensure you can understand SDK internals, review best practices, and implement features with confidence by referencing official examples and documentation maintained alongside the codebase.\"}]}, {\"type\": \"h2\", \"children\": [{\"text\": \"Repository\"}]}, {\"type\": \"p\", \"children\": [{\"text\": \"GitHub Repository: \", \"bold\": true}, {\"type\": \"a\", \"url\": \"https://github.com/findify/findify-js/tree/master/packages/sdk\", \"target\": \"_blank\", \"children\": [{\"text\": \"https://github.com/findify/findify-js/tree/master/packages/sdk\"}]}]}]",
+  "format": "rich2",
+  "featured": false,
+  "locale": "en",
+  "status": "published",
+  "foreignID": null,
+  "dateUpdated": "2026-02-02T06:09:29+00:00",
+  "_source_kb_id": 5,
+  "_source_kb_name": "Merchandising Cloud",
+  "_sync_date": "2026-02-06T07:21:32.675234+00:00",
+  "_incremental_update": true
+}

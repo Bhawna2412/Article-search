@@ -1,0 +1,16 @@
+{
+  "articleID": 1264,
+  "knowledgeCategoryID": 1,
+  "sort": 153,
+  "name": "Video - Printing/Emailing Receipts and Invoices at POS",
+  "body": "[{\"type\": \"h1\", \"children\": [{\"text\": \"Video - Printing/Emailing Receipts and Invoices at POS\"}], \"data-id\": \"video-printing-emailing-receipts-and-invoices-at-pos\"}, {\"type\": \"p\", \"children\": [{\"text\": \"In this video we'll show you how to produce your Receipts and Invoices at POS. This includes printing an Invoice or Receipt, or emailing the Invoice to your customers.\"}]}, {\"type\": \"rich_embed_card\", \"children\": [{\"text\": \"\"}], \"dataSourceType\": \"iframe\", \"url\": \"https://player.vimeo.com/video/79161945?title=0&byline=0&portrait=0\", \"frameAttributes\": {\"width\": \"640\", \"height\": \"360\"}, \"embedData\": {\"url\": \"https://player.vimeo.com/video/79161945?title=0&byline=0&portrait=0\", \"embedType\": \"iframe\", \"name\": \"\", \"width\": \"640\", \"height\": \"360\"}}]",
+  "format": "rich2",
+  "featured": false,
+  "locale": "en",
+  "status": "published",
+  "foreignID": null,
+  "dateUpdated": "2025-11-28T22:19:15+00:00",
+  "_source_kb_id": 1,
+  "_source_kb_name": "Help Articles",
+  "_sync_date": "2026-02-02T05:47:47.042520+00:00"
+}

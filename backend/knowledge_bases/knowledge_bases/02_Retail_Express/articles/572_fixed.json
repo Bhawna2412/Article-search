@@ -1,0 +1,26 @@
+{
+  "articleID": 572,
+  "name": "POS Dashboard Settings",
+  "slug": "572-pos-dashboard-settings",
+  "format": "rich2",
+  "locale": "en",
+  "body": "[{\"type\": \"p\", \"children\": [{\"text\": \"You can customize the Retail Express POS dashboard to match your operational workflow, helping your retail operators access frequently-used functions quickly and improve transaction efficiency. This capability allows you to configure the POS interface to prioritize the tools and information most relevant to your business operations, which helps streamline daily tasks and reduce the time needed to navigate between functions.\"}]}, {\"type\": \"p\", \"children\": [{\"text\": \"Setting up optimal dashboard configurations enables your retail team to work more efficiently by placing critical functions within easy reach, helping optimize point-of-sale performance. This helps retail operations adapt the POS interface to match specific business workflows and staff preferences across different store locations.\"}]}, {\"type\": \"p\", \"children\": [{\"text\": \"POS Dashboard Settings provide flexibility to customize the layout and features of your Point of Sale dashboard. By tailoring the displayed metrics and operational details, user can ensure their staff has quick access to the most relevant information, streamlining daily tasks and decision-making.\"}, {\"text\": \"\\n\"}, {\"text\": \"\\n\"}, {\"text\": \"This article guides you through the available settings and how to adjust them for optimal performance. These settings allow you to select what is visible via the Dashboard at POS.\"}]}, {\"type\": \"p\", \"children\": [{\"text\": \"To access the Settings: Navigate to\"}, {\"text\": \" Settings \", \"bold\": true}, {\"text\": \">\"}, {\"text\": \" POS Settings \", \"bold\": true}, {\"text\": \">\"}, {\"text\": \" Dashboard Settings\", \"bold\": true}]}, {\"type\": \"rich_embed_card\", \"dataSourceType\": \"image\", \"url\": \"https://us.v-cdn.net/6038474/uploads/attachments/migrated/image.05T5g00000ppWLHEA2.jpg\", \"embedData\": {\"url\": \"https://us.v-cdn.net/6038474/uploads/attachments/migrated/image.05T5g00000ppWLHEA2.jpg\", \"embedType\": \"image\", \"displaySize\": \"large\", \"float\": \"none\", \"name\": \"4ad64264e9c31b04992c86168ea11fdc2179bbfb1b0bc52911bc7ed8e29f5db1.png\"}, \"children\": [{\"text\": \"\"}]}, {\"type\": \"p\", \"children\": [{\"text\": \"The options Ticked and selected will appear on your dashboard, however the ones un-ticked wont appear.\"}]}, {\"type\": \"callout\", \"children\": [{\"type\": \"callout-item\", \"children\": [{\"text\": \"if you make changes to these settings you will be required to Logout and back into POS for the settings to refresh\"}]}], \"appearance\": \"info\"}, {\"type\": \"p\", \"children\": [{\"text\": \"Accessing the Dashboard at POS:\"}]}, {\"type\": \"rich_embed_card\", \"dataSourceType\": \"image\", \"url\": \"https://us.v-cdn.net/6038474/uploads/attachments/migrated/image.05T5g00000ppWLREA2.jpg\", \"embedData\": {\"url\": \"https://us.v-cdn.net/6038474/uploads/attachments/migrated/image.05T5g00000ppWLREA2.jpg\", \"embedType\": \"image\", \"displaySize\": \"large\", \"float\": \"none\", \"name\": \"POS Dashboard highlighted.jpg\"}, \"children\": [{\"text\": \"\"}]}, {\"type\": \"rich_embed_card\", \"dataSourceType\": \"image\", \"url\": \"https://us.v-cdn.net/6038474/uploads/attachments/migrated/image.05T5g00000ppWLgEAM.jpg\", \"embedData\": {\"url\": \"https://us.v-cdn.net/6038474/uploads/attachments/migrated/image.05T5g00000ppWLgEAM.jpg\", \"embedType\": \"image\", \"displaySize\": \"large\", \"float\": \"none\", \"name\": \"POS Dashboard2 highlighted.jpg\"}, \"children\": [{\"text\": \"\"}]}, {\"type\": \"p\", \"children\": [{\"text\": \"The options which you choose to appear on your dashboard may vary according to your needs or what graphical information you personally want to see.\"}]}, {\"type\": \"p\", \"children\": [{\"text\": \"\"}]}]",
+  "fixes_applied": {
+    "urls": {
+      "leaving_cleaned": 0,
+      "unsafe_removed": 0,
+      "s_article_mapped": 0,
+      "s_article_removed": 0,
+      "fragments_mapped": 0,
+      "fragments_stripped": 0,
+      "internal_fragments_fixed": 0,
+      "double_id_fixed": 0,
+      "kb_fragments_stripped": 0
+    },
+    "toc": 0,
+    "related": 1,
+    "lists": 0,
+    "headings": 0,
+    "reconverted": false
+  }
+}

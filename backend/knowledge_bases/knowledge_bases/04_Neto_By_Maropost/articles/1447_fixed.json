@@ -1,0 +1,17 @@
+{
+  "articleID": 1447,
+  "knowledgeCategoryID": 300,
+  "sort": 0,
+  "name": "Video: Add a YouTube Video to a Content Page",
+  "body": "[{\"type\": \"rich_embed_card\", \"children\": [{\"text\": \"\"}], \"dataSourceType\": \"url\", \"url\": \"https://youtu.be/DHRBw5XNnVE\", \"embedData\": {\"height\": 360, \"width\": 640, \"photoUrl\": \"https://i.ytimg.com/vi/DHRBw5XNnVE/hqdefault.jpg\", \"videoID\": \"DHRBw5XNnVE\", \"showRelated\": false, \"start\": 0, \"url\": \"https://youtu.be/DHRBw5XNnVE\", \"embedType\": \"youtube\", \"name\": \"\", \"frameSrc\": \"https://www.youtube.com/embed/DHRBw5XNnVE?feature=oembed&autoplay=1\"}}, {\"type\": \"p\", \"children\": [{\"text\": \"YouTube videos aren't responsive by default. To make your YouTube Videos responsive, you can use the below snippet of code. Replace the \\\"src=\\\" with the output from the YouTube Video page like the examples below:\"}]}, {\"type\": \"p\", \"children\": [{\"text\": \"\"}]}, {\"type\": \"h2\", \"children\": [{\"text\": \"16:9 aspect ratio\"}], \"data-id\": \"16-9-aspect-ratio\"}, {\"type\": \"code_block\", \"children\": [{\"type\": \"code_line\", \"children\": [{\"text\": \"<div class=\\\"embed-responsive embed-responsive-16by9\\\"><iframe allow=\\\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\\\"allowfullscreen=\\\"\\\"frameborder=\\\"0\\\"height=\\\"315\\\"src=\\\"<a href=\\\"#\\\">https://www.youtube.com/embed/DHRBw5XNnVE</a>\\\"width=\\\"560\\\"></iframe></div>\"}]}], \"lang\": \"plaintext\"}, {\"type\": \"p\", \"children\": [{\"text\": \"\"}]}, {\"type\": \"h2\", \"children\": [{\"text\": \"4:3 aspect ratio\"}], \"data-id\": \"4-3-aspect-ratio\"}, {\"type\": \"code_block\", \"children\": [{\"type\": \"code_line\", \"children\": [{\"text\": \"<div class=\\\"embed-responsive embed-responsive-4by3\\\"><iframe allow=\\\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\\\"allowfullscreen=\\\"\\\"frameborder=\\\"0\\\"height=\\\"315\\\"src=\\\"<a href=\\\"#\\\">https://www.youtube.com/embed/DHRBw5XNnVE</a>\\\"width=\\\"560\\\"></iframe></div>\"}]}], \"lang\": \"plaintext\"}]",
+  "format": "rich2",
+  "featured": false,
+  "locale": "en",
+  "status": "published",
+  "foreignID": null,
+  "dateUpdated": "2025-12-11T04:35:52+00:00",
+  "_source_kb_id": 4,
+  "_source_kb_name": "Neto By Maropost",
+  "_sync_date": "2026-02-06T07:18:38.821368+00:00",
+  "_incremental_update": true
+}

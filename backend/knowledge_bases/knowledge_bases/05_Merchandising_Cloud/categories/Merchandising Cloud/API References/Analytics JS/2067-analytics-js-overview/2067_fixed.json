@@ -1,0 +1,31 @@
+{
+  "articleID": 2067,
+  "name": "Analytics JS Overview",
+  "format": "rich2",
+  "locale": "en",
+  "body": "[{\"type\": \"p\", \"children\": [{\"text\": \"The Analytics JS library enables you to integrate the Feedback API and gather user behavior data that powers machine learning and personalization features. This helps ensure the AI recommendation engine and personalization capabilities have the behavioral data needed to deliver relevant product suggestions and search results tailored to individual customer patterns.\"}]}, {\"type\": \"p\", \"children\": [{\"text\": \"Implementing Analytics JS involves initializing the library with your API key and configuring event tracking for customer interactions like clicks, purchases, and page views. This data collection helps optimize search relevance, recommendation quality, and overall personalization effectiveness across your ecommerce experience.\"}]}, {\"type\": \"p\", \"children\": [{\"text\": \"Maropost Merchadising Cloud (formerly Findify) Analytics JS helps you integrate our Feedback API on the website and gather all the user behavior analytics that our ML and personalization require.\"}]}, {\"type\": \"p\", \"children\": [{\"text\": \"This is documentation for Analytics JS >= 3.x. If you are looking for the old version of Analytics JS (< 3.x) it can be found here:\"}]}, {\"type\": \"ul\", \"children\": [{\"type\": \"li\", \"children\": [{\"type\": \"lic\", \"children\": [{\"type\": \"a\", \"url\": \"https://github.com/findify/analytics-js\", \"children\": [{\"text\": \"v2.x on github\"}]}]}]}, {\"type\": \"li\", \"children\": [{\"type\": \"lic\", \"children\": [{\"type\": \"a\", \"url\": \"https://www.npmjs.com/package/findify-analytics\", \"children\": [{\"text\": \"v2.x on npm\"}]}]}]}, {\"type\": \"li\", \"children\": [{\"type\": \"lic\", \"children\": [{\"type\": \"a\", \"url\": \"https://github.com/findify/analytics-js/tree/v1.1.43\", \"children\": [{\"text\": \"v1.x on github\"}]}]}]}]}, {\"type\": \"p\", \"children\": [{\"text\": \"\"}]}]",
+  "knowledgeCategoryID": 463,
+  "sort": 0,
+  "status": "published",
+  "_source_kb_id": 5,
+  "_source_kb_name": "Merchandising Cloud",
+  "_fix_date": "2026-02-02T06:05:46.263506+00:00",
+  "fixes_applied": {
+    "urls": {
+      "leaving_cleaned": 3,
+      "unsafe_removed": 0,
+      "s_article_mapped": 0,
+      "s_article_removed": 0,
+      "fragments_mapped": 0,
+      "fragments_stripped": 0,
+      "internal_fragments_fixed": 0,
+      "double_id_fixed": 0,
+      "kb_fragments_stripped": 0
+    },
+    "toc": 0,
+    "related": 1,
+    "lists": 0,
+    "headings": 0,
+    "reconverted": false
+  }
+}

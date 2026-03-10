@@ -1,0 +1,16 @@
+{
+  "articleID": 1878,
+  "knowledgeCategoryID": 454,
+  "sort": 11,
+  "name": "Neto by Maropost Release Notes – 30 Sep 2020",
+  "body": "[{\"type\":\"p\",\"children\":[{\"text\":\"Release Version\",\"bold\":true},{\"text\":\": 6.122\"}]},{\"type\":\"p\",\"children\":[{\"text\":\" \"}]},{\"type\":\"h2\",\"children\":[{\"text\":\"Minor Improvements\",\"bold\":true}]},{\"type\":\"ul\",\"children\":[{\"type\":\"li\",\"children\":[{\"type\":\"lic\",\"children\":[{\"text\":\"Added a fallback email address field for Fastway shipping labels. If a shipped order doesn't include an email address, the fallback is used instead.\"}]}]}]},{\"type\":\"p\",\"children\":[{\"text\":\" \"}]},{\"type\":\"h2\",\"children\":[{\"text\":\"Bug Fixes\",\"bold\":true}]},{\"type\":\"ul\",\"children\":[{\"type\":\"li\",\"children\":[{\"type\":\"lic\",\"children\":[{\"text\":\"Fixed an issue where a lower-case country code on a sales order caused the tax rate to be 0.\"}]}]},{\"type\":\"li\",\"children\":[{\"type\":\"lic\",\"children\":[{\"text\":\"Fixed an issue in the eBay integration where weight in pounds was converted to kilograms when listing on the eBay Motors US site.\"}]}]}]},{\"type\":\"p\",\"children\":[{\"text\":\" \"}]}]",
+  "format": "rich2",
+  "featured": false,
+  "locale": "en",
+  "status": "published",
+  "foreignID": null,
+  "dateUpdated": "2025-07-10T14:49:46+00:00",
+  "_source_kb_id": 12,
+  "_source_kb_name": "Neto Release Notes",
+  "_sync_date": "2026-02-02T05:59:08.847808+00:00"
+}

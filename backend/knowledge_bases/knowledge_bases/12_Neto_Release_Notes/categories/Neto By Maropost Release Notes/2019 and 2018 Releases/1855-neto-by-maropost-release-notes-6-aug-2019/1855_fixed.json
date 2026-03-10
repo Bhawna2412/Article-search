@@ -1,0 +1,16 @@
+{
+  "articleID": 1855,
+  "knowledgeCategoryID": 455,
+  "sort": 6,
+  "name": "Neto by Maropost Release Notes – 6 Aug 2019",
+  "body": "[{\"type\":\"p\",\"children\":[{\"text\":\"Release Version\",\"bold\":true},{\"text\":\": 6.64\"}]},{\"type\":\"p\",\"children\":[{\"text\":\"\"}]},{\"type\":\"h2\",\"children\":[{\"text\":\"Minor Features\",\"bold\":true}]},{\"type\":\"ul\",\"children\":[{\"type\":\"li\",\"children\":[{\"text\":\"Xero via OneSaas sales orders can be sent as date invoiced or sent as date completed (dispatched).\"}]},{\"type\":\"li\",\"children\":[{\"text\":\"You can now create or update all products for MYOB AccountRight, Xero, and Saasu into Neto.\"}]}]},{\"type\":\"p\",\"children\":[{\"text\":\" \"}]},{\"type\":\"h2\",\"children\":[{\"text\":\"Bug Fixes\",\"bold\":true}]},{\"type\":\"ul\",\"children\":[{\"type\":\"li\",\"children\":[{\"type\":\"lic\",\"children\":[{\"text\":\"An issue was found in last week's \"},{\"text\":\"Auto enlarge main product image\",\"bold\":true},{\"text\":\" fix. This has been corrected so that images above 500 x 500 px won't raise an error.\"}]}]},{\"type\":\"li\",\"children\":[{\"type\":\"lic\",\"children\":[{\"text\":\"Fixed an issue where editing a product review date didn't save correctly.\"}]}]},{\"type\":\"li\",\"children\":[{\"type\":\"lic\",\"children\":[{\"text\":\"Fixed a bug where only a single consignment was displaying on a sales order that had multiple consignments.\"}]}]},{\"type\":\"li\",\"children\":[{\"text\":\"Unsupported browser versions will display a warning message on the control panel login page.\"}]}]},{\"type\":\"p\",\"children\":[{\"text\":\" \"}]}]",
+  "format": "rich2",
+  "featured": false,
+  "locale": "en",
+  "status": "published",
+  "foreignID": null,
+  "dateUpdated": "2025-06-10T15:17:00+00:00",
+  "_source_kb_id": 12,
+  "_source_kb_name": "Neto Release Notes",
+  "_sync_date": "2026-02-02T05:59:18.476222+00:00"
+}

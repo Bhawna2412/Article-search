@@ -1,0 +1,16 @@
+{
+  "articleID": 1672,
+  "knowledgeCategoryID": 103,
+  "sort": null,
+  "name": "Campaign Deliverability for Individual Seed Addresses",
+  "body": "<p>In your InboxAware control panel navigate to the <b>Inbox monitoring</b> menu to open the <b>Campaign deliverability</b> page. Click on the name of a mailbox provider to see inbox placements for each seed address of that provider.</p>\n<p>This screen is helpful when you want to inspect the email headers of a specific email in order to ascertain why one particular email’s inbox placement differs from another. If you’re looking at the seed addresses for Gmail, you’ll also see which category Gmail assigned to the email for each individual email account.</p>\n<p>This page shows you the following information:</p>\n<ul><li>\n<p><strong>Email address</strong>: the specific email address of the seed list.</p>\n\t</li><li>\n<p><strong>IP Address</strong>: the IP address that your Email Service Provider used to send the email to the specific email address.</p>\n\t</li><li>\n<p><strong>Status</strong>: whether email was delivered to the inbox or spam folder, or missing entirely.</p>\n\t</li><li>\n<p><strong>Category</strong>: the Gmail-assigned category (only shown when viewing Gmail email accounts).</p>\n\t</li><li>\n<p><strong>Email Time Stamp</strong>: this timestamp is automatically set for all email accounts of the seed list when the very first email of your campaign is detected. The individual timestamp for each email address is subsequently updated when the email is detected in the address’ account.</p>\n\t</li></ul><p>Click on any email address to view the entire source code of the specific email including its headers. You can download the entire email source so that you can send it to your postmaster, your Email Service Provider, or Mailbox Provider to help remediate any inbox placement issues.</p>",
+  "format": "html",
+  "featured": false,
+  "locale": "en",
+  "status": "published",
+  "foreignID": null,
+  "dateUpdated": "2022-03-22T00:54:43+00:00",
+  "_source_kb_id": 7,
+  "_source_kb_name": "InboxAware",
+  "_sync_date": "2026-02-02T05:55:25.380316+00:00"
+}

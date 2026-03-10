@@ -1,0 +1,27 @@
+{
+  "articleID": 1484,
+  "name": "iCapeesh",
+  "slug": "1484-icapeesh",
+  "format": "rich2",
+  "locale": "en",
+  "body": "[{\"type\": \"h3\", \"children\": [{\"text\": \"This integration was built by iCapeesh\"}], \"data-id\": \"this-integration-was-built-by-icapeesh\"}, {\"type\": \"p\", \"children\": [{\"type\": \"a\", \"url\": \"https://www.icapeesh.com/e-commerce.html\", \"children\": [{\"text\": \"Visit Add-on Website!\"}]}]}, {\"type\": \"p\", \"children\": [{\"text\": \"For support with this integration \"}, {\"type\": \"a\", \"url\": \"https://www.icapeesh.com/get-started.html\", \"children\": [{\"text\": \"contact iCapeesh\"}]}]}, {\"type\": \"p\", \"children\": [{\"text\": \"\"}]}, {\"type\": \"h2\", \"children\": [{\"text\": \"Overview\"}], \"data-id\": \"overview\"}, {\"type\": \"p\", \"children\": [{\"text\": \"iCapeesh offers a cost effective, complete solution, tailor-made to your specific requirements that provides instant / real time customer feedback.\"}]}, {\"type\": \"p\", \"children\": [{\"text\": \"\"}]}, {\"type\": \"h2\", \"children\": [{\"text\": \"Benefits & Features\"}], \"data-id\": \"benefits-features\"}, {\"type\": \"p\", \"children\": [{\"text\": \"Engage with your customers immediately after they have purchased a product through your webstore. iCapeesh contacts customers via email with a questionnaire for feedback on their purchase. As soon as the feedback is received it is immediately available to you in the \"}, {\"type\": \"a\", \"url\": \"https://www.icapeesh.com/your-dashboard.html\", \"children\": [{\"text\": \"iCapeesh dashboard\"}]}, {\"text\": \".\"}]}, {\"type\": \"p\", \"children\": [{\"text\": \"Customer service is one of the quickest growing job vacancies in the market place today. Make your life easier, save money, let the program do the work for you.\"}]}, {\"type\": \"p\", \"children\": [{\"text\": \"\"}]}, {\"type\": \"h2\", \"children\": [{\"text\": \"Set up the iCapeesh Integration\"}], \"data-id\": \"set-up-the-icapeesh-integration\"}, {\"type\": \"p\", \"children\": [{\"text\": \"To get started with iCapeesh, \"}, {\"type\": \"a\", \"url\": \"https://www.icapeesh.com/get-started.html\", \"children\": [{\"text\": \"click here\"}]}]}]",
+  "fixes_applied": {
+    "rebrand": 0,
+    "urls": {
+      "leaving_cleaned": 0,
+      "unsafe_removed": 0,
+      "s_article_mapped": 0,
+      "s_article_removed": 0,
+      "fragments_mapped": 0,
+      "fragments_stripped": 0,
+      "internal_fragments_fixed": 0,
+      "double_id_fixed": 0,
+      "kb_fragments_stripped": 0
+    },
+    "toc": 0,
+    "related": 0,
+    "lists": 0,
+    "headings": 0,
+    "reconverted": true
+  }
+}

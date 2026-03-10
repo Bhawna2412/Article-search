@@ -1,0 +1,26 @@
+{
+  "articleID": 89,
+  "name": "Video - Special Orders",
+  "slug": "89-video-special-orders",
+  "format": "rich2",
+  "locale": "en",
+  "body": "[{\"type\": \"p\", \"children\": [{\"text\": \"In this Training Video series, we walk through the process of creating in Special Order sale in POS, processing the Purchase Order, processing Transfers (useful for multi-store businesses), and fulfilling sales.\"}]}, {\"type\": \"p\", \"children\": [{\"text\": \"\"}]}, {\"type\": \"h2\", \"children\": [{\"text\": \"1. Special Orders - Creating Sales at POS\"}], \"data-id\": \"1-special-orders-creating-sales-at-pos\"}, {\"type\": \"rich_embed_card\", \"children\": [{\"text\": \"\"}], \"dataSourceType\": \"iframe\", \"url\": \"https://player.vimeo.com/video/420571937?badge=0&autopause=0&player_id=0&app_id=58479\", \"frameAttributes\": {\"width\": \"700\", \"height\": \"400\"}, \"embedData\": {\"url\": \"https://player.vimeo.com/video/420571937?badge=0&autopause=0&player_id=0&app_id=58479\", \"embedType\": \"iframe\", \"name\": \"\", \"width\": \"700\", \"height\": \"400\"}}, {\"type\": \"p\", \"children\": [{\"text\": \"\"}]}, {\"type\": \"h2\", \"children\": [{\"text\": \"2. Special Orders - Placing PO on Order\"}], \"data-id\": \"2-special-orders-placing-po-on-order\"}, {\"type\": \"rich_embed_card\", \"children\": [{\"text\": \"\"}], \"dataSourceType\": \"iframe\", \"url\": \"https://player.vimeo.com/video/422258433?badge=0&autopause=0&player_id=0&app_id=58479\", \"frameAttributes\": {\"width\": \"700\", \"height\": \"400\"}, \"embedData\": {\"url\": \"https://player.vimeo.com/video/422258433?badge=0&autopause=0&player_id=0&app_id=58479\", \"embedType\": \"iframe\", \"name\": \"\", \"width\": \"700\", \"height\": \"400\"}}, {\"type\": \"p\", \"children\": [{\"text\": \"\"}]}, {\"type\": \"h2\", \"children\": [{\"text\": \"3. Special Orders - Receiving Purchase Orders\"}], \"data-id\": \"3-special-orders-receiving-purchase-orders\"}, {\"type\": \"rich_embed_card\", \"children\": [{\"text\": \"\"}], \"dataSourceType\": \"iframe\", \"url\": \"https://player.vimeo.com/video/424627791?badge=0&autopause=0&player_id=0&app_id=58479\", \"frameAttributes\": {\"width\": \"700\", \"height\": \"400\"}, \"embedData\": {\"url\": \"https://player.vimeo.com/video/424627791?badge=0&autopause=0&player_id=0&app_id=58479\", \"embedType\": \"iframe\", \"name\": \"\", \"width\": \"700\", \"height\": \"400\"}}, {\"type\": \"p\", \"children\": [{\"text\": \"\"}]}, {\"type\": \"h2\", \"children\": [{\"text\": \"4. Special Orders - Processing Transfers\"}], \"data-id\": \"4-special-orders-processing-transfers\"}, {\"type\": \"rich_embed_card\", \"children\": [{\"text\": \"\"}], \"dataSourceType\": \"iframe\", \"url\": \"https://player.vimeo.com/video/424624979?badge=0&autopause=0&player_id=0&app_id=58479\", \"frameAttributes\": {\"width\": \"700\", \"height\": \"400\"}, \"embedData\": {\"url\": \"https://player.vimeo.com/video/424624979?badge=0&autopause=0&player_id=0&app_id=58479\", \"embedType\": \"iframe\", \"name\": \"\", \"width\": \"700\", \"height\": \"400\"}}]",
+  "fixes_applied": {
+    "urls": {
+      "leaving_cleaned": 0,
+      "unsafe_removed": 0,
+      "s_article_mapped": 0,
+      "s_article_removed": 0,
+      "fragments_mapped": 0,
+      "fragments_stripped": 0,
+      "internal_fragments_fixed": 0,
+      "double_id_fixed": 0,
+      "kb_fragments_stripped": 0
+    },
+    "toc": 0,
+    "related": 0,
+    "lists": 0,
+    "headings": 1,
+    "reconverted": false
+  }
+}

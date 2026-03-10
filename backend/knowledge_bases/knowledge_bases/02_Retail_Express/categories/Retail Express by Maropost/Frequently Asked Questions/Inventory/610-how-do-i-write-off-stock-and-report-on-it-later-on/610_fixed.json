@@ -1,0 +1,26 @@
+{
+  "articleID": 610,
+  "name": "How do I write off stock and report on it later on?",
+  "slug": "610-how-do-i-write-off-stock-and-report-on-it-later-on",
+  "format": "rich2",
+  "locale": "en",
+  "body": "[{\"type\": \"p\", \"children\": [{\"text\": \"You can properly account for inventory losses in Retail Express through stock write-off procedures, helping your retail operations maintain accurate inventory records and financial reporting. This capability enables you to document damaged, lost, or expired inventory systematically, which helps ensure your inventory values reflect actual stock on hand while providing audit trails for loss analysis and insurance claims.\"}]}, {\"type\": \"p\", \"children\": [{\"text\": \"Setting up proper stock write-off workflows enables your retail operations to track inventory shrinkage accurately, helping optimize loss prevention strategies and financial reporting. This helps retail businesses understand patterns in inventory loss while maintaining accurate stock levels and supporting proper accounting for inventory adjustments.\"}]}, {\"type\": \"p\", \"children\": [{\"text\": \"If you need to write off your stock, for example due to customer breakages, or if the product has been used in-store (candles used for demos etc), you can use the \"}, {\"text\": \"Stock Adjustment\"}, {\"text\": \" feature to adjust the inventory value.\"}, {\"text\": \"\\n\"}, {\"text\": \"\\n\"}, {\"text\": \"The \"}, {\"text\": \"Stock Adjustment Report\"}, {\"text\": \" can be used to report on any adjustments made historically.\"}]}, {\"type\": \"p\", \"children\": [{\"text\": \"\"}]}, {\"type\": \"h2\", \"children\": [{\"text\": \"Tips for writing off stock\"}], \"data-id\": \"tips-for-writing-off-stock\"}, {\"type\": \"p\", \"children\": [{\"text\": \"To ensure you're able to easily report on write-offs in the future, we recommend that when adjusting stock you use a meaningful Reason e.g. \\\"WRITE OFF - Ref _____ - $$.$$\\\" (where __ is a reference to look up in the future, and $$.$$ is the value of the credit)\"}]}, {\"type\": \"p\", \"children\": [{\"text\": \"\"}]}, {\"type\": \"h2\", \"children\": [{\"text\": \"Using the Stock Adjustment Report\"}], \"data-id\": \"using-the-stock-adjustment-report\"}, {\"type\": \"p\", \"children\": [{\"text\": \"When running the Stock Adjustment Report in the future, you'll find information on the write-off via:\"}]}, {\"type\": \"table\", \"children\": [{\"type\": \"tr\", \"children\": [{\"type\": \"td\", \"children\": [{\"type\": \"p\", \"children\": [{\"text\": \"Results Column\"}]}]}, {\"type\": \"td\", \"children\": [{\"type\": \"p\", \"children\": [{\"text\": \"Details\"}]}]}]}, {\"type\": \"tr\", \"children\": [{\"type\": \"td\", \"children\": [{\"type\": \"p\", \"children\": [{\"text\": \"Title\"}]}]}, {\"type\": \"td\", \"children\": [{\"type\": \"p\", \"children\": [{\"text\": \"Displays the Reason entered at the time of adjusting stock (see the recommendation above)\"}]}]}]}, {\"type\": \"tr\", \"children\": [{\"type\": \"td\", \"children\": [{\"type\": \"p\", \"children\": [{\"text\": \"ID\"}]}]}, {\"type\": \"td\", \"children\": [{\"type\": \"p\", \"children\": [{\"text\": \"The Product ID for the product\"}]}]}]}, {\"type\": \"tr\", \"children\": [{\"type\": \"td\", \"children\": [{\"type\": \"p\", \"children\": [{\"text\": \"Applied Variance\"}]}]}, {\"type\": \"td\", \"children\": [{\"type\": \"p\", \"children\": [{\"text\": \"The impact on the inventory.\"}]}, {\"type\": \"p\", \"children\": [{\"text\": \"Negative numbers are a decrease in stock, positive numbers are an increase in stock.\"}]}]}]}, {\"type\": \"tr\", \"children\": [{\"type\": \"td\", \"children\": [{\"type\": \"p\", \"children\": [{\"text\": \"Applied Variance COGS\"}]}]}, {\"type\": \"td\", \"children\": [{\"type\": \"p\", \"children\": [{\"text\": \"The total value written off for this product\"}]}]}]}], \"id\": \"rich-table-0143793f\"}, {\"type\": \"p\", \"children\": [{\"text\": \"\"}]}]",
+  "fixes_applied": {
+    "urls": {
+      "leaving_cleaned": 0,
+      "unsafe_removed": 0,
+      "s_article_mapped": 0,
+      "s_article_removed": 2,
+      "fragments_mapped": 0,
+      "fragments_stripped": 0,
+      "internal_fragments_fixed": 0,
+      "double_id_fixed": 0,
+      "kb_fragments_stripped": 0
+    },
+    "toc": 0,
+    "related": 1,
+    "lists": 0,
+    "headings": 0,
+    "reconverted": false
+  }
+}

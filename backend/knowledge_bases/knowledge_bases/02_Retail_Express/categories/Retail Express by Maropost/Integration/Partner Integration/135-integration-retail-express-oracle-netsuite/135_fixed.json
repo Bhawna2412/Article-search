@@ -1,0 +1,26 @@
+{
+  "articleID": 135,
+  "name": "Integration - Retail Express & Oracle Netsuite",
+  "slug": "135-integration-retail-express-oracle-netsuite",
+  "format": "rich2",
+  "locale": "en",
+  "body": "[{\"type\": \"p\", \"children\": [{\"text\": \"We are pleased to announce the direct integration between Retail Express and Oracle Netsuite ERP.\"}]}, {\"type\": \"p\", \"children\": [{\"text\": \"The Retail Express Oracle integration bi-directionally synchronises key data between two platforms in near real-time, enabling you to:\"}]}, {\"type\": \"ul\", \"children\": [{\"type\": \"li\", \"children\": [{\"type\": \"lic\", \"children\": [{\"text\": \"Unify your B2B & B2C operations - wholesale, in-store and eCommerce\"}]}]}, {\"type\": \"li\", \"children\": [{\"type\": \"lic\", \"children\": [{\"text\": \"Leverage all your stock across all channels to maximise sales\"}]}]}, {\"type\": \"li\", \"children\": [{\"type\": \"lic\", \"children\": [{\"text\": \"Access powerful financial management and reporting capabilities\"}]}]}]}, {\"type\": \"rich_embed_card\", \"dataSourceType\": \"image\", \"url\": \"https://us.v-cdn.net/6038474/uploads/attachments/migrated/image.05T5g00000ppPtIEAU.jpg\", \"embedData\": {\"url\": \"https://us.v-cdn.net/6038474/uploads/attachments/migrated/image.05T5g00000ppPtIEAU.jpg\", \"embedType\": \"image\", \"displaySize\": \"large\", \"float\": \"none\", \"name\": \"blobid0 (14).png\"}, \"children\": [{\"text\": \"\"}]}, {\"type\": \"p\", \"children\": [{\"text\": \"\"}]}, {\"type\": \"h2\", \"children\": [{\"text\": \"Fully integrated solution\", \"bold\": true}], \"data-id\": \"fully-integrated-solution\"}, {\"type\": \"p\", \"children\": [{\"text\": \"The integration is a fully integrated solution supporting all standard Retail Express workflows, including:\"}]}, {\"type\": \"ul\", \"children\": [{\"type\": \"li\", \"children\": [{\"type\": \"lic\", \"children\": [{\"text\": \"Orders synchronise between Retail Express and Netsuite to allow them to be fulfilled directly from your warehouse or dispatched to stores for Click & Collect\"}]}]}, {\"type\": \"li\", \"children\": [{\"type\": \"lic\", \"children\": [{\"text\": \"Maintain optimal inventory levels within Netsuite with near real-time stock levels across stores and warehouses.\"}]}]}, {\"type\": \"li\", \"children\": [{\"type\": \"lic\", \"children\": [{\"text\": \"Netsuite becomes the single source of truth for inventory management and pricing, synchronised to all locations\"}]}]}, {\"type\": \"li\", \"children\": [{\"type\": \"lic\", \"children\": [{\"text\": \"Centralised discounting, refunds, exchanges, store credits, in-store laybys and payment methods\"}]}]}]}, {\"type\": \"p\", \"children\": [{\"text\": \"\"}]}, {\"type\": \"h2\", \"children\": [{\"text\": \"Bi-directional data synchronisation\", \"bold\": true}], \"data-id\": \"bi-directional-data-synchronisation\"}, {\"type\": \"p\", \"children\": [{\"text\": \"The integration offers a near real-time, bi-directional data synchronisation, with both on-demand and scheduled options available. The data synchronised includes:\"}]}, {\"type\": \"ul\", \"children\": [{\"type\": \"li\", \"children\": [{\"type\": \"lic\", \"children\": [{\"text\": \"Vendors\"}]}]}, {\"type\": \"li\", \"children\": [{\"type\": \"lic\", \"children\": [{\"text\": \"Sales\"}]}]}, {\"type\": \"li\", \"children\": [{\"type\": \"lic\", \"children\": [{\"text\": \"Returns & refunds\"}]}]}, {\"type\": \"li\", \"children\": [{\"type\": \"lic\", \"children\": [{\"text\": \"Fulfilment\"}]}]}, {\"type\": \"li\", \"children\": [{\"type\": \"lic\", \"children\": [{\"text\": \"Transfers\"}]}]}]}, {\"type\": \"p\", \"children\": [{\"text\": \"\"}]}, {\"type\": \"p\", \"children\": [{\"text\": \"For more information please contact the Sales Team on 1300 732 618, or by \"}, {\"type\": \"a\", \"url\": \"mailto:sales@retailexpress.com.au\", \"children\": [{\"text\": \"sales@retailexpress.com.au\"}]}, {\"text\": \".\"}]}]",
+  "fixes_applied": {
+    "urls": {
+      "leaving_cleaned": 0,
+      "unsafe_removed": 0,
+      "s_article_mapped": 0,
+      "s_article_removed": 0,
+      "fragments_mapped": 0,
+      "fragments_stripped": 0,
+      "internal_fragments_fixed": 0,
+      "double_id_fixed": 0,
+      "kb_fragments_stripped": 0
+    },
+    "toc": 0,
+    "related": 0,
+    "lists": 0,
+    "headings": 0,
+    "reconverted": false
+  }
+}

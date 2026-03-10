@@ -1,0 +1,27 @@
+{
+  "articleID": 1408,
+  "name": "Video: Stripe Credit Card, Apple Pay and Google Pay Payment Methods",
+  "slug": "1408-video-stripe-credit-card-apple-pay-and-google-pay-payment-methods",
+  "format": "rich2",
+  "locale": "en",
+  "body": "[{\"type\": \"rich_embed_card\", \"children\": [{\"text\": \"\"}], \"dataSourceType\": \"url\", \"url\": \"https://youtu.be/kMJRVAIDc0U\", \"embedData\": {\"height\": 360, \"width\": 640, \"photoUrl\": \"https://i.ytimg.com/vi/kMJRVAIDc0U/hqdefault.jpg\", \"videoID\": \"kMJRVAIDc0U\", \"showRelated\": false, \"start\": 0, \"url\": \"https://youtu.be/kMJRVAIDc0U\", \"embedType\": \"youtube\", \"name\": \"\", \"frameSrc\": \"https://www.youtube.com/embed/kMJRVAIDc0U?feature=oembed&autoplay=1\"}}]",
+  "fixes_applied": {
+    "rebrand": 0,
+    "urls": {
+      "leaving_cleaned": 0,
+      "unsafe_removed": 0,
+      "s_article_mapped": 1,
+      "s_article_removed": 2,
+      "fragments_mapped": 0,
+      "fragments_stripped": 0,
+      "internal_fragments_fixed": 0,
+      "double_id_fixed": 0,
+      "kb_fragments_stripped": 0
+    },
+    "toc": 0,
+    "related": 1,
+    "lists": 0,
+    "headings": 0,
+    "reconverted": false
+  }
+}

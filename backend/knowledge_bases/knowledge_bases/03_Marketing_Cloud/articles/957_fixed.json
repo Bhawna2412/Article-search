@@ -1,0 +1,16 @@
+{
+  "articleID": 957,
+  "knowledgeCategoryID": 104,
+  "sort": 1,
+  "name": "DNS Setup",
+  "body": "[{\"type\": \"p\", \"children\": [{\"text\": \"DNS Setup\", \"bold\": true}, {\"text\": \" is essential for ensuring emails reach intended recipients and protects your domain's reputation. Properly configured sending and link tracking domains optimize deliverability performance and help maintain professional email communications that recipients trust.\"}]}, {\"type\": \"p\", \"children\": [{\"text\": \"This foundational configuration significantly improves inbox placement by establishing an authenticated email infrastructure, which is required before you can begin sending email campaigns.\"}]}, {\"type\": \"p\", \"children\": [{\"text\": \"DNS configuration is a mandatory step before you can begin sending email campaigns from your account.\"}]}, {\"type\": \"p\", \"children\": [{\"text\": \"Marketing Cloud enables you to easily set up the sending and link tracking domains as part of the application settings. To navigate to the Settings page, click your user name in the top-right corner of the application, and then from the drop-down menu, select Settings.\"}]}, {\"type\": \"p\", \"children\": [{\"text\": \"As part of the DNS configuration, you must set up the following:\"}]}, {\"type\": \"ul\", \"children\": [{\"type\": \"li\", \"children\": [{\"type\": \"lic\", \"children\": [{\"text\": \"Sending Domains\", \"bold\": true}, {\"text\": \" \\u2013 The domain that will be used for sending your email campaigns. You must add and verify at least one domain as a sending domain. For more details, see\\u00a0\"}, {\"text\": \"Set Up and Manage Sending Domains\", \"bold\": true}, {\"text\": \".\"}]}]}, {\"type\": \"li\", \"children\": [{\"type\": \"lic\", \"children\": [{\"text\": \"Link Tracking Domains\", \"bold\": true}, {\"text\": \" \\u2013 The domain that will be used for tracking the sent email campaigns. You must add and verify at least one domain as a link tracking domain. For more details, see\\u00a0\"}, {\"text\": \"Set Up and Manage Link Tracking Domains\", \"bold\": true}, {\"text\": \".\"}]}]}]}, {\"type\": \"callout\", \"children\": [{\"type\": \"callout-item\", \"children\": [{\"text\": \"Note:\", \"bold\": true}, {\"text\": \" You must have the \"}, {\"text\": \"DNS Setup\", \"bold\": true}, {\"text\": \" privilege enabled to be able to set up and manage the DNS. To learn about user privileges, see \"}, {\"text\": \"Managing Users and Their Privileges\", \"bold\": true}, {\"text\": \".\"}]}], \"appearance\": \"info\"}, {\"type\": \"p\", \"children\": [{\"text\": \"\"}]}]",
+  "format": "rich2",
+  "featured": false,
+  "locale": "en",
+  "status": "published",
+  "foreignID": null,
+  "dateUpdated": "2026-02-06T07:29:24+00:00",
+  "_source_kb_id": 3,
+  "_source_kb_name": "Marketing Cloud",
+  "_sync_date": "2026-02-06T07:32:43.373114+00:00"
+}

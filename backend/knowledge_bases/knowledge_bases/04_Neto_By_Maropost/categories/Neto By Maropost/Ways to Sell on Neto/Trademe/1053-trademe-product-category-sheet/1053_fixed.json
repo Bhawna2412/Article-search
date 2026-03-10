@@ -1,0 +1,27 @@
+{
+  "articleID": 1053,
+  "name": "TradeMe Product Category Sheet",
+  "slug": "1053-trademe-product-category-sheet",
+  "format": "rich2",
+  "locale": "en",
+  "body": "[{\"type\": \"p\", \"children\": [{\"text\": \"It's important to note, when assigning your categories to your products, please ensure the \"}, {\"text\": \"Category Code\", \"bold\": true}, {\"text\": \" is used, otherwise it will be rejected during the data feed export.\"}]}, {\"type\": \"p\", \"children\": [{\"text\": \"Click here to \"}, {\"type\": \"a\", \"url\": \"https://support.tradevine.com/import-fields/\", \"children\": [{\"text\": \"download the latest list of categories\"}]}, {\"text\": \" available for Trade Me.\"}]}]",
+  "fixes_applied": {
+    "rebrand": 0,
+    "urls": {
+      "leaving_cleaned": 0,
+      "unsafe_removed": 0,
+      "s_article_mapped": 0,
+      "s_article_removed": 0,
+      "fragments_mapped": 0,
+      "fragments_stripped": 0,
+      "internal_fragments_fixed": 0,
+      "double_id_fixed": 0,
+      "kb_fragments_stripped": 0
+    },
+    "toc": 0,
+    "related": 0,
+    "lists": 0,
+    "headings": 0,
+    "reconverted": true
+  }
+}

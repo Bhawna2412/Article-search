@@ -1,0 +1,26 @@
+{
+  "articleID": 282,
+  "name": "Voucher Redemption Report",
+  "slug": "282-voucher-redemption-report",
+  "format": "rich2",
+  "locale": "en",
+  "body": "[{\"type\": \"p\", \"children\": [{\"text\": \"You can track gift voucher and credit note usage by accessing the Voucher Redemption Report, which shows when and how customers redeem vouchers for purchases. This report helps retail operators monitor voucher program performance, track outstanding voucher liabilities, and understand customer redemption patterns to optimize voucher marketing strategies and financial planning.\"}]}, {\"type\": \"p\", \"children\": [{\"text\": \"Using the Voucher Redemption Report helps retail operators manage voucher program costs, forecast redemption rates for financial planning, and evaluate voucher promotion effectiveness in driving customer purchases and loyalty.\"}]}, {\"type\": \"p\", \"children\": [{\"text\": \"The Voucher Redemption Report provides a detailed overview of all vouchers redeemed within the system, filtered by the search fields you select. This report allows you to track each redemption, offering insights into voucher usage patterns, customer engagement, and the overall effectiveness of voucher-based promotions.\"}, {\"text\": \"\\n\"}, {\"text\": \"\\n\"}, {\"text\": \"\\n\"}, {\"text\": \"To access the report, Go to \", \"italic\": true}, {\"text\": \"Reports \", \"bold\": true, \"italic\": true}, {\"text\": \">\", \"italic\": true}, {\"text\": \" Finance Reports \", \"bold\": true, \"italic\": true}, {\"text\": \">\", \"italic\": true}, {\"text\": \" Voucher Redemption Report\", \"bold\": true, \"italic\": true}]}, {\"type\": \"rich_embed_card\", \"dataSourceType\": \"image\", \"url\": \"https://us.v-cdn.net/6038474/uploads/attachments/migrated/image.05T5g00000ppj11EAA.jpg\", \"embedData\": {\"url\": \"https://us.v-cdn.net/6038474/uploads/attachments/migrated/image.05T5g00000ppj11EAA.jpg\", \"embedType\": \"image\", \"displaySize\": \"large\", \"float\": \"none\", \"name\": \"rtaImage (90).jpeg\"}, \"children\": [{\"text\": \"\"}]}, {\"type\": \"p\", \"children\": [{\"text\": \"Under the vouchers you will see totals for the Redeemed Amounts and Voucher Credit Balances.\"}]}, {\"type\": \"p\", \"children\": [{\"text\": \"You can also edit or see the invoice for a redemption by clicking the blue pencil or green \\\"I\\\" on the end of a voucher (\"}, {\"type\": \"rich_embed_card\", \"dataSourceType\": \"image\", \"url\": \"https://us.v-cdn.net/6038474/uploads/attachments/migrated/image.05T5g00000ppkhWEAQ.jpg\", \"embedData\": {\"url\": \"https://us.v-cdn.net/6038474/uploads/attachments/migrated/image.05T5g00000ppkhWEAQ.jpg\", \"embedType\": \"image\", \"displaySize\": \"inline\", \"float\": \"none\", \"name\": \"81e64d5a1e51e2650d4f2b655ba012d1ac3db06894ca38a8baaf4379038965d3.png\"}, \"children\": [{\"text\": \"\"}]}, {\"text\": \"). The pencil will allow you to edit the voucher through your POS, and the \\\"I\\\" will show you the invoice for the specific voucher.\"}]}, {\"type\": \"p\", \"children\": [{\"text\": \"There is also a button on the bottom left of the page to export the report by clicking \\\"Export to Excel\\\".\"}]}, {\"type\": \"p\", \"children\": [{\"text\": \"\"}]}]",
+  "fixes_applied": {
+    "urls": {
+      "leaving_cleaned": 0,
+      "unsafe_removed": 0,
+      "s_article_mapped": 0,
+      "s_article_removed": 0,
+      "fragments_mapped": 0,
+      "fragments_stripped": 0,
+      "internal_fragments_fixed": 0,
+      "double_id_fixed": 0,
+      "kb_fragments_stripped": 0
+    },
+    "toc": 0,
+    "related": 1,
+    "lists": 0,
+    "headings": 0,
+    "reconverted": false
+  }
+}

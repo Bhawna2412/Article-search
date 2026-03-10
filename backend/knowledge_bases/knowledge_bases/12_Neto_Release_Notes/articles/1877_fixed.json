@@ -1,0 +1,16 @@
+{
+  "articleID": 1877,
+  "knowledgeCategoryID": 454,
+  "sort": 12,
+  "name": "Neto by Maropost Release Notes – 22 Sep 2020",
+  "body": "[{\"type\":\"p\",\"children\":[{\"text\":\"Release Version\",\"bold\":true},{\"text\":\": 6.121\"}]},{\"type\":\"p\",\"children\":[{\"text\":\" \"}]},{\"type\":\"h2\",\"children\":[{\"text\":\"Bug Fixes\",\"bold\":true}]},{\"type\":\"ul\",\"children\":[{\"type\":\"li\",\"children\":[{\"type\":\"lic\",\"children\":[{\"text\":\"Fixed an issue in sales orders where the suburb selected wouldn't load if there were too many discounts active.\"}]}]},{\"type\":\"li\",\"children\":[{\"text\":\"Fixed an issue that caused an error when trying to create an order from the abandoned checkout log report.\"}]},{\"type\":\"li\",\"children\":[{\"type\":\"lic\",\"children\":[{\"text\":\"Fixed an issue that prevented vouchers from being used to pay for orders in the control panel if a Stripe payment method was set as the default.\"}]}]},{\"type\":\"li\",\"children\":[{\"type\":\"lic\",\"children\":[{\"text\":\"Fixed an issue that caused an error when importing images from the imagedrop folder.\"}]}]},{\"type\":\"li\",\"children\":[{\"text\":\"Fixed an issue where orders would be put on hold, incorrectly saying the payment didn't match the order total.\"}]}]},{\"type\":\"p\",\"children\":[{\"text\":\" \"}]}]",
+  "format": "rich2",
+  "featured": false,
+  "locale": "en",
+  "status": "published",
+  "foreignID": null,
+  "dateUpdated": "2025-06-10T15:32:23+00:00",
+  "_source_kb_id": 12,
+  "_source_kb_name": "Neto Release Notes",
+  "_sync_date": "2026-02-02T05:59:12.743937+00:00"
+}

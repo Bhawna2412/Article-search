@@ -1,0 +1,17 @@
+{
+  "articleID": 1558,
+  "knowledgeCategoryID": 139,
+  "sort": 6,
+  "name": "Set up Zendesk Chat",
+  "body": "[{\"type\": \"h3\", \"children\": [{\"text\": \"This add-on was built by Zopim.\"}]}, {\"type\": \"p\", \"children\": [{\"text\": \"Visit Add-On Website\"}]}, {\"type\": \"p\", \"children\": [{\"text\": \"For support with this add-on \"}, {\"type\": \"a\", \"url\": \"\", \"children\": [{\"text\": \"contact \"}]}, {\"text\": \".\"}]}, {\"type\": \"h2\", \"children\": [{\"text\": \"To Install and Set up the Zendesk Chat Add-on\"}]}, {\"type\": \"ol\", \"children\": [{\"type\": \"li\", \"children\": [{\"type\": \"lic\", \"children\": [{\"text\": \"In your Neto control panel navigate to the \"}, {\"text\": \"Addons\", \"bold\": true}, {\"text\": \" store and look for \"}, {\"text\": \"Zendesk Chat\", \"bold\": true}, {\"text\": \" and click \"}, {\"text\": \"Install\", \"bold\": true}, {\"text\": \".\"}]}]}, {\"type\": \"li\", \"children\": [{\"type\": \"lic\", \"children\": [{\"text\": \"Insert the \"}, {\"text\": \"Header Script\", \"bold\": true}, {\"text\": \" to insert into the pop up window that appears.\"}]}, {\"type\": \"p\", \"children\": [{\"text\": \"\"}]}]}, {\"type\": \"li\", \"children\": [{\"type\": \"lic\", \"children\": [{\"text\": \"To find this header script, go to \"}, {\"type\": \"a\", \"url\": \"https://www.zendesk.com/service/messaging/live-chat/\", \"children\": [{\"text\": \"https://www.zendesk.com/service/messaging/live-chat/\"}]}, {\"text\": \" and either sign-in or register your account.\"}]}]}, {\"type\": \"li\", \"children\": [{\"type\": \"lic\", \"children\": [{\"text\": \"From the left hand side menu, click \"}, {\"text\": \"Widgets\", \"bold\": true}, {\"text\": \" and copy the Zopim provided live chat widget code and paste it into the header script field in Neto.\"}]}, {\"type\": \"p\", \"children\": [{\"text\": \"\"}]}]}]}]",
+  "format": "rich2",
+  "featured": false,
+  "locale": "en",
+  "status": "published",
+  "foreignID": null,
+  "dateUpdated": "2026-02-02T06:20:58+00:00",
+  "_source_kb_id": 4,
+  "_source_kb_name": "Neto By Maropost",
+  "_sync_date": "2026-02-06T07:15:16.134593+00:00",
+  "_incremental_update": true
+}

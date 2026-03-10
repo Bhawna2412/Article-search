@@ -1,0 +1,16 @@
+{
+  "articleID": 1755,
+  "knowledgeCategoryID": 1,
+  "sort": 14,
+  "name": "Changes to Web Tracking and Acquisition Scripts",
+  "body": "<p><span><strong>Effective Date: Friday, February 26th, 2021</strong></span></p>\n<p> </p>\n<p><strong>What has changed with the Web Tracking and Acquisition Script?</strong></p>\n<p>We have changed the domain on both our Web Tracking and Acquisition scripts from content.maropost.com to webtrack.chd01.com. </p>\n<p> </p>\n<p><strong>When did we make this change?</strong></p>\n<p>We initially introduced the new web tracking  domain in August 2020, giving our partners 6 months to update their old tracking script to the new one. Up until now, this domain change backward-compatible so there is no data being lost. As of Friday, February 26th, 2021 we will no longer support the old domain ‘content.maropost.com’ and will be officially sunsetting this domain.</p>\n<p> </p>\n<p><strong>Why did we introduce the change?</strong></p>\n<p>We made this change for two reasons:</p>\n<ul><li>Provide a white-labeled experience. We understand that your brand and its integrity is important. We removed ‘maropost’ from the tracking URL to provide a white-labeled experienced on your website, letting your brand shine through.</li><li>It’s a part of our plan to provide you better performance. Our development and engineering team are constantly finding ways to provide better, faster, and more secure performance on our platform. This domain migration is a part of providing you with faster performance.</li></ul><p> </p>\n<p><strong>How can you prepare?</strong></p>\n<p>If you are using Maropost’s Web Tracker or Acquisition Builder, we ask that you adjust your script to match the new domain ‘webtrack.chd01.com‘.  For instructions on how to update your Web Tracking Script or your Acquisition Builder Script, see <a rel=\"nofollow\" href=\"http://galaxy.maropost.com/home/leaving?allowTrusted=1&amp;target=https%3A%2F%2Fsupport.maropost.com%2Fhc%2Fen-us%2Farticles%2F360048078494\">Basic Web Tracking</a> and <a rel=\"nofollow\" href=\"http://galaxy.maropost.com/home/leaving?allowTrusted=1&amp;target=https%3A%2F%2Fsupport.maropost.com%2Fhc%2Fen-us%2Farticles%2F360015632713\">Deploying to Your Website</a>. </p>\n<p> </p>\n<p><strong>When will content.maropost.com domains be sunset? </strong></p>\n<p>We will no longer be supporting content.maropost.com domains as of <strong>February 26th, 2021.</strong></p>\n<p> </p>\n<p><strong>What happens if you fail to update your Web Tracking or Acquisition Builder Script by February 26th?</strong></p>\n<p>We will continue to support content.maropost.com until February 26th.<br/><br/>If you fail to update your Web Tracking or Acquisition Builder Script by February 26th, your web tracker and/or acquisition builder will fail to function until updated to the new one. This could cause a discontinuity in your web-tracking data and/or missed subscribers and contacts from the acquisition form.</p>",
+  "format": "html",
+  "featured": false,
+  "locale": "en",
+  "status": "published",
+  "foreignID": null,
+  "dateUpdated": "2021-10-21T07:56:11+00:00",
+  "_source_kb_id": 1,
+  "_source_kb_name": "Help Articles",
+  "_sync_date": "2026-02-02T05:49:07.194193+00:00"
+}

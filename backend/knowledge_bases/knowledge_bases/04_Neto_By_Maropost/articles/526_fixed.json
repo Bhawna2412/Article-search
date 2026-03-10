@@ -1,0 +1,17 @@
+{
+  "articleID": 526,
+  "knowledgeCategoryID": 309,
+  "sort": 8,
+  "name": "Request Access for a Partner",
+  "body": "[{\"type\": \"p\", \"children\": [{\"text\": \"Neto by Maropost\\u2019s approved partners provide professional support, advice, and services. When you contract a partner to work for you, they often need access to your control panel or site template files via SFTP.\"}]}, {\"type\": \"p\", \"children\": [{\"text\": \"To grant access to your control panel and/or site template files via SFTP for an approved Neto\\u00a0partner:\"}]}, {\"type\": \"ol\", \"children\": [{\"type\": \"li\", \"children\": [{\"type\": \"lic\", \"children\": [{\"text\": \"Complete the\\u00a0\"}, {\"type\": \"a\", \"url\": \"https://netoecommerce.wufoo.com/forms/request-partner-access\", \"target\": \"_blank\", \"children\": [{\"text\": \"request partner access\"}]}, {\"text\": \"\\u00a0form.\"}]}]}, {\"type\": \"li\", \"children\": [{\"type\": \"lic\", \"children\": [{\"type\": \"p\", \"children\": [{\"text\": \"Upon submission, the request is reviewed by the Neto by Maropost\\u00a0partner team and approved if the relevant verification criteria are met.\"}]}]}]}, {\"type\": \"li\", \"children\": [{\"type\": \"lic\", \"children\": [{\"type\": \"p\", \"children\": [{\"text\": \"Once approved, notification will be sent to you and the partner via email.\"}]}]}]}]}, {\"type\": \"blockquote\", \"children\": [{\"type\": \"blockquote-line\", \"children\": [{\"text\": \"Note\", \"bold\": true}, {\"text\": \": Requests are processed between 9 am-5 pm, Monday-Friday, and are normally completed within 1 business day. Our team can check who has existing partner access to your site, as well as revoke access if no longer needed.\"}]}]}, {\"type\": \"p\", \"children\": [{\"text\": \"\"}]}]",
+  "format": "rich2",
+  "featured": false,
+  "locale": "en",
+  "status": "published",
+  "foreignID": null,
+  "dateUpdated": "2025-12-11T04:37:50+00:00",
+  "_source_kb_id": 4,
+  "_source_kb_name": "Neto By Maropost",
+  "_sync_date": "2026-02-06T07:17:15.929430+00:00",
+  "_incremental_update": true
+}

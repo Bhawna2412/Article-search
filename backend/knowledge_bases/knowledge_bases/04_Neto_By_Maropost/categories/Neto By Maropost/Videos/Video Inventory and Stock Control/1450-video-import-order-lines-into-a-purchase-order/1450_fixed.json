@@ -1,0 +1,27 @@
+{
+  "articleID": 1450,
+  "name": "Video: Import Order Lines into a Purchase Order",
+  "slug": "1450-video-import-order-lines-into-a-purchase-order",
+  "format": "rich2",
+  "locale": "en",
+  "body": "[{\"type\": \"rich_embed_card\", \"children\": [{\"text\": \"\"}], \"dataSourceType\": \"url\", \"url\": \"https://youtu.be/fdNmbM74nkc\", \"embedData\": {\"height\": 360, \"width\": 640, \"photoUrl\": \"https://i.ytimg.com/vi/fdNmbM74nkc/hqdefault.jpg\", \"videoID\": \"fdNmbM74nkc\", \"showRelated\": false, \"start\": 0, \"url\": \"https://youtu.be/fdNmbM74nkc\", \"embedType\": \"youtube\", \"name\": \"\", \"frameSrc\": \"https://www.youtube.com/embed/fdNmbM74nkc?feature=oembed&autoplay=1\"}}, {\"type\": \"ul\", \"children\": [{\"type\": \"li\", \"children\": [{\"type\": \"lic\", \"children\": [{\"type\": \"a\", \"url\": \"https://galaxy.maropost.com/kb/articles/1544-import-order-lines-into-a-purchase-order\", \"children\": [{\"text\": \"Import Order Lines into a Purchase Order\"}]}]}]}]}]",
+  "fixes_applied": {
+    "rebrand": 0,
+    "urls": {
+      "leaving_cleaned": 1,
+      "unsafe_removed": 0,
+      "s_article_mapped": 1,
+      "s_article_removed": 0,
+      "fragments_mapped": 0,
+      "fragments_stripped": 0,
+      "internal_fragments_fixed": 0,
+      "double_id_fixed": 0,
+      "kb_fragments_stripped": 0
+    },
+    "toc": 0,
+    "related": 0,
+    "lists": 0,
+    "headings": 0,
+    "reconverted": false
+  }
+}

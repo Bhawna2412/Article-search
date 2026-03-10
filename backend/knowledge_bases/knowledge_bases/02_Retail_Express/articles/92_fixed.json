@@ -1,0 +1,26 @@
+{
+  "articleID": 92,
+  "name": "Video - Minimum Stock Level vs Automated Replenishment",
+  "slug": "92-video-minimum-stock-level-vs-automated-replenishment",
+  "format": "rich2",
+  "locale": "en",
+  "body": "[{\"type\": \"p\", \"children\": [{\"text\": \"In this video, we guide you through the process of setting up Minimum Stock Levels and using the Automated Replenishment feature in Retail Express. By managing stock levels efficiently, you can avoid running out of products, ensuring you never miss a sale.\"}, {\"text\": \"\\n\"}, {\"text\": \"\\n\"}, {\"text\": \"This system helps optimize inventory, reduces manual stock management, and ultimately improves profit margins by maintaining the right stock levels at all times.\"}]}, {\"type\": \"rich_embed_card\", \"children\": [{\"text\": \"\"}], \"dataSourceType\": \"iframe\", \"url\": \"https://player.vimeo.com/video/443271253?title=0&byline=0&portrait=0\", \"frameAttributes\": {\"width\": \"700\", \"height\": \"400\"}, \"embedData\": {\"url\": \"https://player.vimeo.com/video/443271253?title=0&byline=0&portrait=0\", \"embedType\": \"iframe\", \"name\": \"\", \"width\": \"700\", \"height\": \"400\"}}, {\"type\": \"p\", \"children\": [{\"text\": \"Want more? Register now for Training Academy Online's \"}, {\"type\": \"a\", \"url\": \"https://retailexpress.com.au/training-academy/?utm_source=kb&utm_medium=display&utm_campaign=msl-vs-rep\", \"children\": [{\"text\": \"Inventory Fundamentals\"}]}, {\"text\": \" course!\"}]}, {\"type\": \"p\", \"children\": [{\"text\": \"Related articles:\"}]}, {\"type\": \"ul\", \"children\": [{\"type\": \"li\", \"children\": [{\"type\": \"lic\", \"children\": [{\"text\": \"Inventory - Stock Replenishment via Purchase Order\"}]}]}, {\"type\": \"li\", \"children\": [{\"type\": \"lic\", \"children\": [{\"text\": \"Inventory - Stock Replenishment via Transfer\"}]}]}, {\"type\": \"li\", \"children\": [{\"type\": \"lic\", \"children\": [{\"text\": \"Inventory - Create and Edit Products\"}, {\"text\": \" (to enter a Minimum Stock Level)\"}]}]}, {\"type\": \"li\", \"children\": [{\"type\": \"lic\", \"children\": [{\"text\": \"Inventory - Auto Replenishment (automatically create Purchase Orders via POS sales)\"}]}]}, {\"type\": \"li\", \"children\": [{\"type\": \"lic\", \"children\": [{\"text\": \"Inventory - Lead Time\"}]}]}]}]",
+  "fixes_applied": {
+    "urls": {
+      "leaving_cleaned": 1,
+      "unsafe_removed": 0,
+      "s_article_mapped": 0,
+      "s_article_removed": 5,
+      "fragments_mapped": 0,
+      "fragments_stripped": 0,
+      "internal_fragments_fixed": 0,
+      "double_id_fixed": 0,
+      "kb_fragments_stripped": 0
+    },
+    "toc": 0,
+    "related": 0,
+    "lists": 0,
+    "headings": 0,
+    "reconverted": false
+  }
+}

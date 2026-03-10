@@ -1,0 +1,26 @@
+{
+  "articleID": 269,
+  "name": "EOM Inventory Valuation Summary",
+  "slug": "269-eom-inventory-valuation-summary",
+  "format": "rich2",
+  "locale": "en",
+  "body": "[{\"type\": \"p\", \"children\": [{\"text\": \"You can quickly assess month-end inventory financial position by accessing the EOM Inventory Valuation Summary, which provides high-level inventory value totals without detailed line-item breakdowns. This summary report helps retail operators perform rapid financial assessments and month-end checks, providing accountants with essential inventory asset figures for financial statement preparation without overwhelming detail.\"}]}, {\"type\": \"p\", \"children\": [{\"text\": \"Using the EOM Inventory Valuation Summary helps retail operators efficiently communicate inventory asset values to accounting teams and support streamlined month-end financial closing processes.\"}]}, {\"type\": \"p\", \"children\": [{\"text\": \"The Inventory Valuation Summary Report allows you to view and export your product stock quantity information, including stock quantities for the available, on-order, and transfer in and out\"}, {\"text\": \" \"}, {\"text\": \"stock buckets\"}, {\"text\": \".\"}]}, {\"type\": \"p\", \"children\": [{\"text\": \"This report uses the same filters as the\"}, {\"text\": \" \"}, {\"text\": \"Inventory Valuation\"}, {\"text\": \", however, COGS is also available across each stock status for review.\"}]}, {\"type\": \"p\", \"children\": [{\"text\": \"To access the Inventory Valuation Summary:\"}]}, {\"type\": \"ol\", \"children\": [{\"type\": \"li\", \"children\": [{\"type\": \"lic\", \"children\": [{\"text\": \"Navigate to\"}, {\"text\": \"Reports > EOM Reports > Inventory Valuation Summary\", \"bold\": true}]}]}, {\"type\": \"li\", \"children\": [{\"type\": \"lic\", \"children\": [{\"text\": \"The \"}, {\"text\": \"Qty On Hand \", \"bold\": true}, {\"text\": \"filter allows you to filter by a minimum quantity\"}]}, {\"type\": \"rich_embed_card\", \"dataSourceType\": \"image\", \"url\": \"https://us.v-cdn.net/6038474/uploads/attachments/migrated/image.05T5g00000powgLEAQ.jpg\", \"embedData\": {\"url\": \"https://us.v-cdn.net/6038474/uploads/attachments/migrated/image.05T5g00000powgLEAQ.jpg\", \"embedType\": \"image\", \"displaySize\": \"large\", \"float\": \"none\", \"name\": \"mceclip1 (37).png\"}, \"children\": [{\"text\": \"\"}]}]}, {\"type\": \"li\", \"children\": [{\"type\": \"lic\", \"children\": [{\"text\": \"Update the remaining\"}, {\"text\": \"Filters \", \"bold\": true}, {\"text\": \"as required\"}]}]}, {\"type\": \"li\", \"children\": [{\"type\": \"lic\", \"children\": [{\"text\": \"Click the \"}, {\"text\": \"Search \", \"bold\": true}, {\"text\": \"button located at the bottom left below the filters\"}]}]}, {\"type\": \"li\", \"children\": [{\"type\": \"lic\", \"children\": [{\"text\": \"The \"}, {\"text\": \"Results\", \"bold\": true}, {\"text\": \" will be displayed showing all individual items matching the filters\"}]}]}, {\"type\": \"li\", \"children\": [{\"type\": \"lic\", \"children\": [{\"text\": \"To \"}, {\"text\": \"sort \", \"bold\": true}, {\"text\": \"the report in ascending or descending order, click the arrows in the column headings\"}]}]}, {\"type\": \"li\", \"children\": [{\"type\": \"lic\", \"children\": [{\"text\": \"Click the icons in the top-right-hand corner to export the report in an Excel spreadsheet or CSV\"}, {\"type\": \"rich_embed_card\", \"dataSourceType\": \"image\", \"url\": \"https://us.v-cdn.net/6038474/uploads/attachments/migrated/image.05T5g00000pox0OEAQ.jpg\", \"embedData\": {\"url\": \"https://us.v-cdn.net/6038474/uploads/attachments/migrated/image.05T5g00000pox0OEAQ.jpg\", \"embedType\": \"image\", \"displaySize\": \"inline\", \"float\": \"none\", \"name\": \"mceclip1 (38).png\"}, \"children\": [{\"text\": \"\"}]}]}]}, {\"type\": \"li\", \"children\": [{\"type\": \"lic\", \"children\": [{\"text\": \"Click \"}, {\"text\": \"Refresh \", \"bold\": true}, {\"text\": \"to view the latest details\"}]}]}]}, {\"type\": \"p\", \"children\": [{\"text\": \"\"}]}]",
+  "fixes_applied": {
+    "urls": {
+      "leaving_cleaned": 0,
+      "unsafe_removed": 0,
+      "s_article_mapped": 0,
+      "s_article_removed": 2,
+      "fragments_mapped": 0,
+      "fragments_stripped": 0,
+      "internal_fragments_fixed": 0,
+      "double_id_fixed": 0,
+      "kb_fragments_stripped": 0
+    },
+    "toc": 0,
+    "related": 1,
+    "lists": 0,
+    "headings": 0,
+    "reconverted": false
+  }
+}

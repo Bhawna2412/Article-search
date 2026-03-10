@@ -1,0 +1,27 @@
+{
+  "articleID": 1603,
+  "name": "Register a Domain Name",
+  "slug": "1603-register-a-domain-name",
+  "format": "rich2",
+  "locale": "en",
+  "body": "[{\"type\": \"p\", \"children\": [{\"text\": \"Your domain name will become one of your most important digital assets - it is important to choose wisely. You should register your domain name in all of the markets you intend to operate within. For example, if you operate in Australia and New Zealand, you should register both .com.au and .co.nz domain names.\"}]}, {\"type\": \"p\", \"children\": [{\"text\": \"Once registered, point your domain(s) to your Neto webstore. Neto allows you to point multiple domains to your e-commerce shop for no additional charge.\"}]}, {\"type\": \"p\", \"children\": [{\"text\": \"If possible, your domain name should be the same as your trading name - this is best practice, but not essential. If you are able to secure a popular domain name that is not the same as your business name, it would make sense to utilise this instead. For example if your acquired \\\"Books.com\\\" and your business name was \\\"ABC Book Shop\\\", \\\"Books.com\\\" would be an excellent domain name to use.\"}]}, {\"type\": \"p\", \"children\": [{\"text\": \"\"}]}, {\"type\": \"h2\", \"children\": [{\"text\": \"Where to Register Domain Names\"}], \"data-id\": \"where-to-register-domain-names\"}, {\"type\": \"p\", \"children\": [{\"text\": \"The following are popular domain name registrars in Australia:\"}]}, {\"type\": \"ul\", \"children\": [{\"type\": \"li\", \"children\": [{\"type\": \"lic\", \"children\": [{\"type\": \"a\", \"url\": \"https://au.godaddy.com\", \"children\": [{\"text\": \"Go Daddy\"}]}]}]}, {\"type\": \"li\", \"children\": [{\"type\": \"lic\", \"children\": [{\"type\": \"a\", \"url\": \"http://www.crazydomains.com.au\", \"children\": [{\"text\": \"Crazy Domains\"}]}]}]}, {\"type\": \"li\", \"children\": [{\"type\": \"lic\", \"children\": [{\"type\": \"a\", \"url\": \"http://www.netregistry.com.au/\", \"children\": [{\"text\": \"Net Registry\"}]}]}]}]}, {\"type\": \"p\", \"children\": [{\"text\": \"\"}]}, {\"type\": \"h2\", \"children\": [{\"text\": \"What Do You Need To Register A Domain Name In Australia?\"}], \"data-id\": \"what-do-you-need-to-register-a-domain-name-in-australia\"}, {\"type\": \"p\", \"children\": [{\"text\": \"To register a \\\".com.au\\\" domain name in Australia you will need:\"}]}, {\"type\": \"ul\", \"children\": [{\"type\": \"li\", \"children\": [{\"type\": \"lic\", \"children\": [{\"text\": \"A registered business name (You can register your business name with the Fair Trading Office in your state)\"}]}]}, {\"type\": \"li\", \"children\": [{\"type\": \"lic\", \"children\": [{\"text\": \"An Australian Company Number (ACN) or Australian Business Number (ABN) (You can obtain an ACN or ABN from the \"}, {\"type\": \"a\", \"url\": \"http://www.ato.gov.au\", \"children\": [{\"text\": \"Australian Tax Office\"}]}, {\"text\": \".\"}]}]}]}, {\"type\": \"p\", \"children\": [{\"text\": \"\"}]}, {\"type\": \"p\", \"children\": [{\"text\": \"What happens if I already have a domain name registered?\", \"bold\": true}, {\"text\": \"\\n\"}, {\"text\": \"You can still use any domain name with your Neto account. During the go live process, the onboarding team will assist you with configuration of your domain name.\"}]}]",
+  "fixes_applied": {
+    "rebrand": 3,
+    "urls": {
+      "leaving_cleaned": 0,
+      "unsafe_removed": 0,
+      "s_article_mapped": 0,
+      "s_article_removed": 0,
+      "fragments_mapped": 0,
+      "fragments_stripped": 0,
+      "internal_fragments_fixed": 0,
+      "double_id_fixed": 0,
+      "kb_fragments_stripped": 0
+    },
+    "toc": 0,
+    "related": 0,
+    "lists": 0,
+    "headings": 1,
+    "reconverted": false
+  }
+}

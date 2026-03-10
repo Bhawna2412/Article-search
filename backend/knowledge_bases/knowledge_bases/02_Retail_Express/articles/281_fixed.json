@@ -1,0 +1,26 @@
+{
+  "articleID": 281,
+  "name": "Reports - Voucher Creation Report",
+  "slug": "281-reports-voucher-creation-report",
+  "format": "rich2",
+  "locale": "en",
+  "body": "[{\"type\": \"p\", \"children\": [{\"text\": \"The Voucher Creation Report is designed to display details of all vouchers created within the selected period, including initial, redeemed and remaining values, along with the voucher status of open or closed. For a summarised version refer to the \"}, {\"text\": \"Voucher Creation Summary Report\"}, {\"text\": \".\"}]}, {\"type\": \"p\", \"children\": [{\"text\": \"To access the Voucher Creation Report:\"}]}, {\"type\": \"ol\", \"children\": [{\"type\": \"li\", \"children\": [{\"type\": \"lic\", \"children\": [{\"text\": \"Navigate to \"}, {\"text\": \"Reports > Accounting Reports > Voucher Report\", \"bold\": true}, {\"text\": \"\\n\\n\"}]}, {\"type\": \"callout\", \"children\": [{\"type\": \"callout-item\", \"children\": [{\"text\": \"You can also access the report via\\u00a0Reports > Finance\\u00a0Reports > Voucher Creation Report\"}]}], \"appearance\": \"info\"}, {\"type\": \"p\", \"children\": [{\"text\": \"\"}]}]}, {\"type\": \"li\", \"children\": [{\"type\": \"lic\", \"children\": [{\"text\": \"Select from the \"}, {\"text\": \"Filters\", \"bold\": true}, {\"text\": \" as required\"}, {\"text\": \"\\n\\n\"}]}, {\"type\": \"callout\", \"children\": [{\"type\": \"callout-item\", \"children\": [{\"text\": \"Loyalty Vouchers are created via the Customer Activity Report\"}]}], \"appearance\": \"info\"}, {\"type\": \"p\", \"children\": [{\"text\": \"\"}]}, {\"type\": \"rich_embed_card\", \"dataSourceType\": \"image\", \"url\": \"https://us.v-cdn.net/6038474/uploads/attachments/migrated/image.05T5g00000pphQoEAI.jpg\", \"embedData\": {\"url\": \"https://us.v-cdn.net/6038474/uploads/attachments/migrated/image.05T5g00000pphQoEAI.jpg\", \"embedType\": \"image\", \"displaySize\": \"large\", \"float\": \"none\", \"name\": \"mceclip0 - 2023-07-09T230211.946.png\"}, \"children\": [{\"text\": \"\"}]}]}, {\"type\": \"li\", \"children\": [{\"type\": \"lic\", \"children\": [{\"text\": \"Click \"}, {\"text\": \"Search\", \"bold\": true}]}]}, {\"type\": \"li\", \"children\": [{\"type\": \"lic\", \"children\": [{\"text\": \"The \"}, {\"text\": \"Results\", \"bold\": true}, {\"text\": \" tab will be displayed\"}]}, {\"type\": \"rich_embed_card\", \"dataSourceType\": \"image\", \"url\": \"https://us.v-cdn.net/6038474/uploads/attachments/migrated/image.05T5g00000pphZWEAY.jpg\", \"embedData\": {\"url\": \"https://us.v-cdn.net/6038474/uploads/attachments/migrated/image.05T5g00000pphZWEAY.jpg\", \"embedType\": \"image\", \"displaySize\": \"large\", \"float\": \"none\", \"name\": \"mceclip1 - 2023-07-09T230223.955.png\"}, \"children\": [{\"text\": \"\"}]}]}, {\"type\": \"li\", \"children\": [{\"type\": \"lic\", \"children\": [{\"text\": \"Click the blue \"}, {\"text\": \"E\", \"bold\": true}, {\"text\": \" button \"}, {\"type\": \"rich_embed_card\", \"dataSourceType\": \"image\", \"url\": \"https://us.v-cdn.net/6038474/uploads/attachments/migrated/image.05T5g00000pphekEAA.jpg\", \"embedData\": {\"url\": \"https://us.v-cdn.net/6038474/uploads/attachments/migrated/image.05T5g00000pphekEAA.jpg\", \"embedType\": \"image\", \"displaySize\": \"inline\", \"float\": \"none\", \"name\": \"blobid4 (2).png\"}, \"children\": [{\"text\": \"\"}]}, {\"text\": \" to edit the voucher at PO\"}]}]}, {\"type\": \"li\", \"children\": [{\"type\": \"lic\", \"children\": [{\"text\": \"Click the green \"}, {\"text\": \"I \", \"bold\": true}, {\"text\": \"button  \"}, {\"type\": \"rich_embed_card\", \"dataSourceType\": \"image\", \"url\": \"https://us.v-cdn.net/6038474/uploads/attachments/migrated/image.05T5g00000ppgahEAA.jpg\", \"embedData\": {\"url\": \"https://us.v-cdn.net/6038474/uploads/attachments/migrated/image.05T5g00000ppgahEAA.jpg\", \"embedType\": \"image\", \"displaySize\": \"inline\", \"float\": \"none\", \"name\": \"blobid5 (1).png\"}, \"children\": [{\"text\": \"\"}]}, {\"text\": \" to view a PDF copy of the invoice associated with the voucher\"}]}]}, {\"type\": \"li\", \"children\": [{\"type\": \"lic\", \"children\": [{\"text\": \"Click the \"}, {\"text\": \"icons \", \"bold\": true}, {\"text\": \"in the top right-hand corner of the screen to export the report to Excel or CSV\"}]}, {\"type\": \"rich_embed_card\", \"dataSourceType\": \"image\", \"url\": \"https://us.v-cdn.net/6038474/uploads/attachments/migrated/image.05T5g00000pphf3EAA.jpg\", \"embedData\": {\"url\": \"https://us.v-cdn.net/6038474/uploads/attachments/migrated/image.05T5g00000pphf3EAA.jpg\", \"embedType\": \"image\", \"displaySize\": \"large\", \"float\": \"none\", \"name\": \"mceclip2 (82).png\"}, \"children\": [{\"text\": \"\"}]}]}]}, {\"type\": \"p\", \"children\": [{\"text\": \"\"}]}]",
+  "fixes_applied": {
+    "urls": {
+      "leaving_cleaned": 0,
+      "unsafe_removed": 0,
+      "s_article_mapped": 0,
+      "s_article_removed": 1,
+      "fragments_mapped": 0,
+      "fragments_stripped": 0,
+      "internal_fragments_fixed": 1,
+      "double_id_fixed": 0,
+      "kb_fragments_stripped": 0
+    },
+    "toc": 0,
+    "related": 0,
+    "lists": 0,
+    "headings": 0,
+    "reconverted": false
+  }
+}

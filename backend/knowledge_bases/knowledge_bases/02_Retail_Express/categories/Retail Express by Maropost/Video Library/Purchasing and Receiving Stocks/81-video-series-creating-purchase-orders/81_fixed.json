@@ -1,0 +1,26 @@
+{
+  "articleID": 81,
+  "name": "Video Series - Creating Purchase Orders",
+  "slug": "81-video-series-creating-purchase-orders",
+  "format": "rich2",
+  "locale": "en",
+  "body": "[{\"type\": \"p\", \"children\": [{\"text\": \"Find \"}, {\"type\": \"a\", \"url\": \"https://galaxy.maropost.com/kb/articles/81-video-series-creating-purchase-orders#Faqs\", \"children\": [{\"text\": \"FAQs and related articles\", \"bold\": true}]}, {\"text\": \" \", \"bold\": true}, {\"text\": \"at the bottom of this page\"}]}, {\"type\": \"p\", \"children\": [{\"text\": \"Retail Express have compiled a series of videos covering the Purchasing process. To watch a video in the series, simply click on the topic below.\"}]}, {\"type\": \"p\", \"children\": [{\"text\": \"Manual Order Creation\"}, {\"text\": \"\"}, {\"type\": \"rich_embed_card\", \"dataSourceType\": \"image\", \"url\": \"https://us.v-cdn.net/6038474/uploads/attachments/migrated/image.05T5g00000ppkAwEAI.jpg\", \"embedData\": {\"url\": \"https://us.v-cdn.net/6038474/uploads/attachments/migrated/image.05T5g00000ppkAwEAI.jpg\", \"embedType\": \"image\", \"displaySize\": \"inline\", \"float\": \"none\", \"name\": \"250createposlide (1).jpg\"}, \"children\": [{\"text\": \"\"}]}]}, {\"type\": \"p\", \"children\": [{\"text\": \"Use our Excel ? Template\"}, {\"text\": \"\"}, {\"type\": \"rich_embed_card\", \"dataSourceType\": \"image\", \"url\": \"https://us.v-cdn.net/6038474/uploads/attachments/migrated/image.05T5g00000ppkBQEAY.jpg\", \"embedData\": {\"url\": \"https://us.v-cdn.net/6038474/uploads/attachments/migrated/image.05T5g00000ppkBQEAY.jpg\", \"embedType\": \"image\", \"displaySize\": \"inline\", \"float\": \"none\", \"name\": \"250uploadposlide (2).jpg\"}, \"children\": [{\"text\": \"\"}]}]}, {\"type\": \"p\", \"children\": [{\"text\": \"Duplicate an Order\"}, {\"text\": \"\"}, {\"type\": \"rich_embed_card\", \"dataSourceType\": \"image\", \"url\": \"https://us.v-cdn.net/6038474/uploads/attachments/migrated/image.05T5g00000ppe8WEAQ.jpg\", \"embedData\": {\"url\": \"https://us.v-cdn.net/6038474/uploads/attachments/migrated/image.05T5g00000ppe8WEAQ.jpg\", \"embedType\": \"image\", \"displaySize\": \"inline\", \"float\": \"none\", \"name\": \"250Duplicate PO slide real (1).jpg\"}, \"children\": [{\"text\": \"\"}]}]}, {\"type\": \"p\", \"children\": [{\"text\": \"Automatic Order Creation\"}, {\"text\": \"\"}, {\"type\": \"rich_embed_card\", \"dataSourceType\": \"image\", \"url\": \"https://us.v-cdn.net/6038474/uploads/attachments/migrated/image.05T5g00000ppkBpEAI.jpg\", \"embedData\": {\"url\": \"https://us.v-cdn.net/6038474/uploads/attachments/migrated/image.05T5g00000ppkBpEAI.jpg\", \"embedType\": \"image\", \"displaySize\": \"inline\", \"float\": \"none\", \"name\": \"250auto po slide.jpg\"}, \"children\": [{\"text\": \"\"}]}]}, {\"type\": \"p\", \"children\": [{\"text\": \"Replenishment Ordering\"}, {\"text\": \"\"}, {\"type\": \"rich_embed_card\", \"dataSourceType\": \"image\", \"url\": \"https://us.v-cdn.net/6038474/uploads/attachments/migrated/image.05T5g00000ppiVCEAY.jpg\", \"embedData\": {\"url\": \"https://us.v-cdn.net/6038474/uploads/attachments/migrated/image.05T5g00000ppiVCEAY.jpg\", \"embedType\": \"image\", \"displaySize\": \"inline\", \"float\": \"none\", \"name\": \"250repl.jpg\"}, \"children\": [{\"text\": \"\"}]}]}, {\"type\": \"p\", \"children\": [{\"text\": \"PO Manager\"}, {\"text\": \"\"}, {\"type\": \"rich_embed_card\", \"dataSourceType\": \"image\", \"url\": \"https://us.v-cdn.net/6038474/uploads/attachments/migrated/image.05T5g00000ppkCTEAY.jpg\", \"embedData\": {\"url\": \"https://us.v-cdn.net/6038474/uploads/attachments/migrated/image.05T5g00000ppkCTEAY.jpg\", \"embedType\": \"image\", \"displaySize\": \"inline\", \"float\": \"none\", \"name\": \"250PO Manager1.jpg\"}, \"children\": [{\"text\": \"\"}]}]}, {\"type\": \"p\", \"children\": [{\"text\": \"Are you a Purchasing Manager?\", \"bold\": true}]}, {\"type\": \"p\", \"children\": [{\"text\": \"We strongly recommend that you view the Training Webinar that covers all aspects of \"}, {\"text\": \"Purchasing & Receiving\", \"bold\": true}, {\"text\": \" products, using the \"}, {\"text\": \"POE Manager\", \"bold\": true}, {\"text\": \" and the \"}, {\"text\": \"Reports\", \"bold\": true}, {\"text\": \" associated with your role.\"}]}, {\"type\": \"p\", \"children\": [{\"type\": \"a\", \"url\": \"http://www.retailexpressmedia.com/implementation/webinars/Purchase_and_Receive.mp4\", \"children\": [{\"text\": \"Click here to view the full Purchasing and Receiving webinar\"}]}]}, {\"type\": \"p\", \"children\": [{\"text\": \"Continue on to the next series:\"}]}, {\"type\": \"ul\", \"children\": [{\"type\": \"li\", \"children\": [{\"type\": \"lic\", \"children\": [{\"text\": \"Stock Receipts - Video Series\"}]}]}]}]",
+  "fixes_applied": {
+    "urls": {
+      "leaving_cleaned": 1,
+      "unsafe_removed": 0,
+      "s_article_mapped": 0,
+      "s_article_removed": 7,
+      "fragments_mapped": 0,
+      "fragments_stripped": 0,
+      "internal_fragments_fixed": 1,
+      "double_id_fixed": 0,
+      "kb_fragments_stripped": 0
+    },
+    "toc": 0,
+    "related": 0,
+    "lists": 0,
+    "headings": 0,
+    "reconverted": false
+  }
+}

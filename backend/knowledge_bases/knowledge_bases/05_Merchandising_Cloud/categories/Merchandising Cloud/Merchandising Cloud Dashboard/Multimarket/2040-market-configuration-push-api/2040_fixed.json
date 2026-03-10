@@ -1,0 +1,31 @@
+{
+  "articleID": 2040,
+  "name": " Market Configuration Push API",
+  "format": "rich2",
+  "locale": "en",
+  "body": "[{\"type\": \"p\", \"children\": [{\"text\": \"You can use the Market Configuration Push API to programmatically manage multimarket settings, enabling automated configuration updates across markets without manual dashboard intervention. This API capability helps scale international operations efficiently by allowing you to sync market configurations from external systems, deploy updates across multiple markets simultaneously, or integrate market management into existing workflows-supporting operational efficiency for complex multi-region ecommerce implementations.\"}]}, {\"type\": \"p\", \"children\": [{\"text\": \"Leveraging the Market Configuration API helps streamline multimarket management for large-scale operations. You can automate market setup, sync configurations across similar markets, or integrate market management with your existing ecommerce infrastructure-enabling programmatic control that reduces manual effort while maintaining consistent search and merchandising capabilities across all markets that support local conversion optimization.\"}]}, {\"type\": \"p\", \"children\": [{\"text\": \"In order to configure a multimarket environment within Merchandising Cloud, a merchant must prepare their Merchandising Cloud internal configuration to define the markets and the details needed per market;\"}, {\"text\": \"\\n\"}, {\"text\": \"\\n\"}, {\"text\": \"This is a prerequisite to sending multimarket data.\"}]}, {\"type\": \"p\", \"children\": [{\"text\": \"This API endpoint will be used to allow merchants to send their market definitions and configurations;\"}]}, {\"type\": \"p\", \"children\": [{\"text\": \"Sending this config will be a prerequisite to sending MM field groups as the index needs this data to index products in markets internally.\"}]}, {\"type\": \"blockquote\", \"children\": [{\"type\": \"blockquote-line\", \"children\": [{\"text\": \"This payload is used as upsert, so the full request will be the source of truth;To delete a market just remove it from the payload and send the request again\"}]}]}, {\"type\": \"code_block\", \"children\": [{\"type\": \"code_line\", \"children\": [{\"text\": \"curl --location 'https://pushapi.staging.findify.io/market-config' \\\\\\r--header 'Content-Type: application/json' \\\\\\r--header 'Authorization: 6ff037ed-987b-4fac-b8c2-c59493745764' \\\\\\r--data '{\\r  \\\"markets\\\": [\\r    {\\r      \\\"name\\\": \\\"Europe Market Test\\\",\\r      \\\"description\\\": \\\"Europe\\\",\\r      \\\"enabled\\\": true,\\r      \\\"externalIdentifier\\\": \\\"123123123\\\",\\r      \\\"languages\\\": [\\\"de\\\", \\\"fr\\\", \\\"en\\\"],\\r      \\\"regions\\\": [\\r        {\\r          \\\"code\\\": \\\"DE\\\",\\r          \\\"name\\\": \\\"Germany\\\",\\r          \\\"warehouses\\\": [],\\r          \\\"currencies\\\": [\\\"EUR\\\"]\\r        },\\r        {\\r          \\\"code\\\": \\\"SE\\\",\\r          \\\"name\\\": \\\"Sweden\\\",\\r          \\\"warehouses\\\": [],\\r          \\\"currencies\\\": [\\\"EUR\\\"]\\r        },\\r        {\\r          \\\"code\\\": \\\"FR\\\",\\r          \\\"name\\\": \\\"France\\\",\\r          \\\"warehouses\\\": [],\\r          \\\"currencies\\\": [\\\"EUR\\\"]\\r        }\\r      ],\\r      \\\"defaultMarket\\\": true\\r    }\\r  ]\\r}'\"}]}], \"lang\": \"plaintext\"}, {\"type\": \"p\", \"children\": [{\"text\": \"\"}]}, {\"type\": \"h2\", \"children\": [{\"text\": \"Related Articles\"}], \"data-id\": \"related-articles\"}, {\"type\": \"p\", \"children\": [{\"text\": \"Personalization & AI:\", \"bold\": true}]}, {\"type\": \"ul\", \"children\": [{\"type\": \"li\", \"children\": [{\"type\": \"lic\", \"children\": [{\"type\": \"a\", \"url\": \"https://galaxy.maropost.com/kb/articles/2037-multimarket-overview\", \"children\": [{\"text\": \"Multimarket Overview\"}]}]}]}, {\"type\": \"li\", \"children\": [{\"type\": \"lic\", \"children\": [{\"type\": \"a\", \"url\": \"https://galaxy.maropost.com/kb/articles/2038-multimarket-faq\", \"children\": [{\"text\": \"Multimarket Faq\"}]}]}]}, {\"type\": \"li\", \"children\": [{\"type\": \"lic\", \"children\": [{\"type\": \"a\", \"url\": \"https://galaxy.maropost.com/kb/articles/2039-multimarket-translations\", \"children\": [{\"text\": \"Multimarket Translations\"}]}]}]}, {\"type\": \"li\", \"children\": [{\"type\": \"lic\", \"children\": [{\"type\": \"a\", \"url\": \"https://galaxy.maropost.com/kb/articles/1977-personalized-search\", \"children\": [{\"text\": \"Personalized Search\"}]}]}]}, {\"type\": \"li\", \"children\": [{\"type\": \"lic\", \"children\": [{\"type\": \"a\", \"url\": \"https://galaxy.maropost.com/kb/articles/1985-supported-languages\", \"children\": [{\"text\": \"Supported Languages\"}]}]}]}]}, {\"type\": \"p\", \"children\": [{\"text\": \"\"}]}]",
+  "knowledgeCategoryID": 458,
+  "sort": 3,
+  "status": "published",
+  "_source_kb_id": 5,
+  "_source_kb_name": "Merchandising Cloud",
+  "_fix_date": "2026-02-02T06:05:45.960594+00:00",
+  "fixes_applied": {
+    "urls": {
+      "leaving_cleaned": 0,
+      "unsafe_removed": 0,
+      "s_article_mapped": 0,
+      "s_article_removed": 0,
+      "fragments_mapped": 0,
+      "fragments_stripped": 0,
+      "internal_fragments_fixed": 0,
+      "double_id_fixed": 0,
+      "kb_fragments_stripped": 0
+    },
+    "toc": 0,
+    "related": 1,
+    "lists": 0,
+    "headings": 0,
+    "reconverted": false
+  }
+}

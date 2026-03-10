@@ -1,0 +1,16 @@
+{
+  "articleID": 1959,
+  "knowledgeCategoryID": 452,
+  "sort": 16,
+  "name": "Neto by Maropost Release Notes – 19 Apr 2023",
+  "body": "[{\"type\":\"h2\",\"children\":[{\"text\":\"Improvements\",\"bold\":true}]},{\"type\":\"ul\",\"children\":[{\"type\":\"li\",\"children\":[{\"type\":\"lic\",\"children\":[{\"text\":\"PayPal Checkout and PayPal Advanced Credit and Debit Cards payments initiated at Neto Checkout pass the Neto Order ID to the PayPal transaction’s \"},{\"text\":\"Invoice ID\",\"bold\":true},{\"text\":\" and \"},{\"text\":\"Description\",\"bold\":true},{\"text\":\" fields. This is reflected in the Payment Details in Neto.\"}]}]},{\"type\":\"li\",\"children\":[{\"type\":\"lic\",\"children\":[{\"text\":\"PayPal Checkout and PayPal Advanced Credit and Debit Cards payments initiated from a customer’s My Account page pass the Neto Order ID to \"},{\"text\":\"only \",\"bold\":true},{\"text\":\"the PayPal transaction’s \"},{\"text\":\"Description\",\"bold\":true},{\"text\":\" field. This is reflected in the Payment Details in Neto.\"}]}]}]},{\"type\":\"p\",\"children\":[{\"bold\":true,\"text\":\"\"}]},{\"type\":\"h2\",\"children\":[{\"bold\":true,\"text\":\"Fixes\"}]},{\"type\":\"ul\",\"children\":[{\"type\":\"li\",\"children\":[{\"text\":\"Fixed an issue with Shipping Rate Tables where the Transit Cover percentage value was not saved.\"}]},{\"type\":\"li\",\"children\":[{\"type\":\"lic\",\"children\":[{\"text\":\"Fixed an issue with Allied Express shipping consignments where the tracking details on the order page were not working.\"}]}]}]},{\"type\":\"li\",\"children\":[{\"type\":\"lic\",\"children\":[{\"text\":\"\"}]}]},{\"type\":\"p\",\"children\":[{\"text\":\"\"}]}]",
+  "format": "rich2",
+  "featured": false,
+  "locale": "en",
+  "status": "published",
+  "foreignID": null,
+  "dateUpdated": "2025-07-16T01:17:51+00:00",
+  "_source_kb_id": 12,
+  "_source_kb_name": "Neto Release Notes",
+  "_sync_date": "2026-02-02T05:58:38.019775+00:00"
+}

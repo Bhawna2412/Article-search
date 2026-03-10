@@ -1,0 +1,17 @@
+{
+  "articleID": 2246,
+  "knowledgeCategoryID": 411,
+  "sort": 5,
+  "name": "Custom Stickers",
+  "body": "[{\"type\": \"p\", \"children\": [{\"text\": \"You can add custom stickers to product cards to highlight promotions, product attributes, or special features directly in search results and collection pages. When customers can quickly identify sale items, new arrivals, or featured products through visual badges, they can make faster decisions about which products to explore, which helps improve engagement and tends to enhance conversion rates through better product differentiation.\"}]}, {\"type\": \"p\", \"children\": [{\"text\": \"Custom sticker functionality enables you to create visual merchandising strategies that guide customer attention toward key products. This helps improve promotional effectiveness and conversion rates by making important product attributes immediately visible during search and browsing, supporting better product discovery and more strategic merchandising across your catalog.\"}]}, {\"type\": \"p\", \"children\": [{\"text\": \"Integration Steps\"}]}, {\"type\": \"blockquote\", \"children\": [{\"type\": \"blockquote-line\", \"children\": [{\"text\": \"Componentscomponents/Cards/Product/index.tsx\"}]}]}, {\"type\": \"p\", \"children\": [{\"text\": \"In this example we will create Custom Sticker component for Product Card.\"}, {\"text\": \"\\n\"}, {\"text\": \"\\n\"}, {\"text\": \"The main idea is that we will create a CustomSticker component that will be shown based on certain logic. The example will showcase the sticker logic if the product has a 'sale' tag:\"}]}, {\"type\": \"p\", \"children\": [{\"text\": \"CustomStickercomponents/Cards/Product/index.tsxCSS\"}]}, {\"type\": \"code_block\", \"children\": [{\"type\": \"code_line\", \"children\": [{\"text\": \"const CustomSticker = ({item}) => {  const sale = item.get('tags')?.find(tag => tag.toLowerCase() === 'sale');  return (    <div className='findify-custom-sticker' display-if={sale}>sale</div>  )};export default CustomSticker;\"}]}], \"lang\": \"plaintext\"}, {\"type\": \"p\", \"children\": [{\"text\": \"MJS Version\"}]}, {\"type\": \"p\", \"children\": [{\"text\": \"This module has been optimized for \"}, {\"text\": \"MJS version 7.1.25\", \"bold\": true}]}, {\"type\": \"p\", \"children\": [{\"text\": \"\"}]}]",
+  "format": "rich2",
+  "featured": false,
+  "locale": "en",
+  "status": "published",
+  "foreignID": null,
+  "dateUpdated": "2026-02-02T06:10:48+00:00",
+  "_source_kb_id": 5,
+  "_source_kb_name": "Merchandising Cloud",
+  "_sync_date": "2026-02-06T07:21:07.514050+00:00",
+  "_incremental_update": true
+}

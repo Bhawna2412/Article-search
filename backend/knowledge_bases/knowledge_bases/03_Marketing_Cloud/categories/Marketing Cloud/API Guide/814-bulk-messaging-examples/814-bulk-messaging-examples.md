@@ -1,0 +1,67 @@
+---
+title: "Bulk Messaging: Examples"
+articleID: 814
+category: "API Guide"
+knowledgeBase: "Marketing Cloud"
+lastUpdated: 2025-12-02
+---
+
+# Bulk Messaging: Examples
+
+You can automate large-scale email campaigns using bulk messaging capabilities that enable precise scheduling and comprehensive tracking. This approach helps optimize your campaign deployment process while providing detailed analytics and error handling, typically leading to better campaign management and improved delivery efficiency.
+
+The bulk messaging system provides robust notification workflows and automated processing status updates that help ensure campaign reliability and transparency. When properly implemented, this streamlines your operational workflow and enables more sophisticated campaign orchestration for high-volume email marketing initiatives.
+
+### Example: Command File
+
+```plaintext
+{  "run_at": "2016-07-21 14:15",  "notification": {    "emails": [      "jd@example.com",      "test@example.com"    ],    "http_post": {      "url": "http://requestb.in/12f85ve1",      "format": "json"    }  },  "campaign": {    "name": "My campaign",    "from_name": "Maropost Client Success",    "subject": "My bulk message campaign",    "preheader": "How do you like me now?",    "from_email": "success@maropost.com",    "reply_to": "success@maropost.com",    "address": "Canada",    "language": "en",    "ignore_dnm": false,    "send_type": "default",    "content": {      "source": "my_HTML_file_name.html",      "footer": "none"    },    "contacts": {      "files": [        {          "name": "first.csv",          "encoding": "utf-8",          "delimiter": ","        },        {          "name": "second.csv",          "encoding": "utf-16",          "delimiter": ","        }      ]    }  }}
+```
+
+### Example: Started Processing Email
+
+This email is sent when the campaign is starting to be sent.
+
+```plaintext
+From: no-reply@maropost.com [mailto:no-reply@maropost.com] Sent: Monday, July 25, 2016 11:51 AMTo: Joseph Developer Subject: Maropost - FTP status updateStarted processing command file send_campaign_14.json.ready with data: {  "run_at": "2016-06-17 21:27",  "notification": {    "emails": [      "jd@example.com"    ],    "http_post": {      "url": "http://requestb.in/12f85ve1",      "format": "json"    }  },  "campaign": {    "name": "My fourteenth FTP campaign",    "from_name": "Maropost Client Success",    "subject": "Hello {{tag.first_name}} - My 14th FTP campaign",    "preheader": "How do you like me now?",    "from_email": "success@maropost.com",    "reply_to": "success@maropost.com",    "address": "Canada",    "language": "en",    "ignore_dnm": "false",    "send_type": "default",    "content": {      "source": "809857",      "footer": "942"    },    "contacts": {      "files": [        {          "name": "first.csv",          "encoding": "utf-8",          "delimiter": ","        },        {          "name": "third.csv",          "encoding": "utf-8",          "delimiter": ","        }      ]    }  }}This is an auto-generated email sent by Maropost Inc. Please do not reply. 
+```
+
+### Example: Finished Validating Email
+
+This email is sent when the command file has been successfully validated.
+
+```plaintext
+From: no-reply@maropost.com [mailto:no-reply@maropost.com] Sent: Monday, July 25, 2016 11:50 AMTo: Josepf Developer Subject: Maropost - FTP status updateFinished validating command file send_campaign_14.json with data: {  "run_at": "2016-06-17 21:27",  "notification": {    "emails": [      "jd@example.com"    ],    "http_post": {      "url": "http://requestb.in/12f85ve1",      "format": "json"    }  },  "campaign": {    "name": "My fourteenth FTP campaign",    "from_name": "Maropost Client Success",    "subject": "Hello {{tag.first_name}} - My 14th FTP campaign",    "preheader": "How do you like me now?",    "from_email": "success@maropost.com",    "reply_to": "success@maropost.com",    "address": "Canada",    "language": "en",    "ignore_dnm": "false",    "send_type": "default",    "content": {      "source": "809857",      "footer": "942"    },    "contacts": {      "files": [        {          "name": "first.csv",          "encoding": "utf-8",          "delimiter": ","        },        {          "name": "third.csv",          "encoding": "utf-8",          "delimiter": ","        }      ]    }  }}This is an auto-generated email sent by Maropost Inc. Please do not reply. 
+```
+
+### Example: Completed Processing Email
+
+This email is sent when the campaign has finished sending.
+
+```plaintext
+From: no-reply@maropost.com [mailto:no-reply@maropost.com] Sent: Monday, July 25, 2016 11:51 AMTo: Joseph Developer Subject: Maropost - FTP status updateCompleted processing command file send_campaign_14.json.processing with data: {  "run_at": "2016-06-17 21:27",  "notification": {    "emails": [      "jd@example.com"    ],    "http_post": {      "url": "http://requestb.in/12f85ve1",      "format": "json"    }  },  "campaign": {    "name": "My fourteenth FTP campaign",    "from_name": "Maropost Client Success",    "subject": "Hello {{tag.first_name}} - My 14th FTP campaign",    "preheader": "How do you like me now?",    "from_email": "success@maropost.com",    "reply_to": "success@maropost.com",    "address": "Canada",    "language": "en",    "ignore_dnm": "false",    "send_type": "default",    "content": {      "source": "809857",      "footer": "942"    },    "contacts": {      "files": [        {          "name": "first.csv",          "encoding": "utf-8",          "delimiter": ","        },        {          "name": "third.csv",          "encoding": "utf-8",          "delimiter": ","        }      ]    },    "id": 1529103  }}Report: My fourteenth FTP campaign {  "command": {    "run_at": "2016-06-17 21:27",    "notification": {      "emails": [        "jd@example.com"      ],      "http_post": {        "url": "http://requestb.in/12f85ve1",        "format": "json"      }    },    "campaign": {      "name": "My fourteenth FTP campaign",      "from_name": "Maropost Client Success",      "subject": "Hello {{tag.first_name}} - My 14th FTP campaign",      "preheader": "How do you like me now?",      "from_email": "success@maropost.com",      "reply_to": "success@maropost.com",      "address": "Canada",      "language": "en",      "ignore_dnm": "false",      "send_type": "default",      "content": {        "source": "809857",        "footer": "942"      },      "contacts": {        "files": [          {            "name": "first.csv",            "encoding": "utf-8",            "delimiter": ","          },          {            "name": "third.csv",            "encoding": "utf-8",            "delimiter": ","          }        ]      },      "id": 1529103    }  },  "report": [    {      "file_name": "first.csv",      "contacts_count": 4,      "invalid_entries": [      ],      "duplicates": {      }    },    {      "file_name": "third.csv",      "contacts_count": 2,      "invalid_entries": [      ],      "duplicates": {      }    }  ],  "campaign": {    "id": 1529103,    "account_id": 4,    "content_id": 809857,    "from_name": "Maropost Client Success",    "from_email": "success@maropost.com",    "subject": "Hello {{tag.first_name}} - My 14th FTP campaign",    "name": "My fourteenth FTP campaign",    "sent_at": "2016-07-25 14:50:35 -0400",    "status": "sent",    "reply_to": "success@maropost.com",    "created_at": "2016-07-25 14:50:35 -0400",    "updated_at": "2016-07-25 14:50:35 -0400",    "language": "en",    "address": "Canada",    "contacts_count": 6,    "send_optimization": false,    "preheader": "How do you like me now?",    "one_time": false  }}
+```
+
+### Example: Completed Processing Postback to Webhook URL
+
+The following JSON payload is posted to the webhook URL when the campaign has completed processing.
+
+```plaintext
+{  "report": {    "command": {      "run_at": "2016-06-17 21:27",      "notification": {        "emails": [          "jd@example.com"        ],        "http_post": {          "url": "http://requestb.in/12f85ve1",          "format": "json"        }      },      "campaign": {        "name": "My fourteenth FTP campaign",        "from_name": "Maropost Client Success",        "subject": "Hello {{tag.first_name}} - My 14th FTP campaign",        "preheader": "How do you like me now?",        "from_email": "success@maropost.com",        "reply_to": "success@maropost.com",        "address": "Canada",        "language": "en",        "ignore_dnm": "false",        "send_type": "default",        "content": {          "source": "809857",          "footer": "942"        },        "contacts": {          "files": [            {              "name": "first.csv",              "encoding": "utf-8",              "delimiter": ","            },            {              "name": "third.csv",              "encoding": "utf-8",              "delimiter": ","            }          ]        },        "id": 1529103      }    },    "report": [      {        "file_name": "first.csv",        "contacts_count": 4,        "invalid_entries": [],        "duplicates": {}      },      {        "file_name": "third.csv",        "contacts_count": 2,        "invalid_entries": [],        "duplicates": {}      }    ],    "campaign": {      "id": 1529103,      "account_id": 4,      "content_id": 809857,      "from_name": "Maropost Client Success",      "from_email": "success@maropost.com",      "subject": "Hello {{tag.first_name}} - My 14th FTP campaign",      "name": "My fourteenth FTP campaign",      "sent_at": "2016-07-25T14:50:35.963-04:00",      "status": "sent",      "reply_to": "success@maropost.com",      "created_at": "2016-07-25T14:50:35.797-04:00",      "updated_at": "2016-07-25T14:50:35.991-04:00",      "language": "en",      "address": "Canada",      "contacts_count": 6,      "send_optimization": false,      "preheader": "How do you like me now?",      "one_time": false    }  }}
+```
+
+### Example: Error Email
+
+This email is sent if there is an error processing the command file.
+
+```plaintext
+From: no-reply@maropost.com [mailto:no-reply@maropost.com] Sent: Monday, July 25, 2016 11:41 AMTo: Joseph Developer Subject: Maropost - FTP status updateSome errors occurred while processing your FTP command file send_campaign_14.json with data: {  "run_at": "2016-06-17 21:27",  "notification": {    "emails": [      "jd@example.com"    ],    "http_post": {      "url": "http://requestb.in/12f85ve1",      "format": "json"    }  },  "campaign": {    "name": "My fourteenth FTP campaign",    "from_name": "Maropost Client Success",    "subject": "Hello {{tag.first_name}} - My 14th FTP campaign",    "preheader": "How do you like me now?",    "from_email": "success@maropost.com",    "reply_to": "success@maropost.com",    "address": "Canada",    "language": "en",    "ignore_dnm": "false",    "send_type": "default",    "content": {      "source": "809857",      "footer": "942"    },    "contacts": {      "files": [        {          "name": "first.csv",          "encoding": "utf-8",          "delimiter": ","        },        {          "name": "third.csv",          "encoding": "utf-8",          "delimiter": ","        }      ]    }  }}Errors: •	Contact file missing uploads/maropost/data/third.csv (error_code:404)* Once you've fixed these errors, rename your command file by simply removing the .error extension from command file send_campaign_14.json.error in your /uploads/maropost/bin/ folder This is an auto-generated email sent by Maropost Inc. Please do not reply. 
+```
+
+### Example: Error Postback to WebHook
+
+The following JSON payload is sent to the webhook URL when there is an error in the command file.
+
+```plaintext
+{  "errors": [    {      "message": "Contact file missing uploads/maropost/data/third.csv",      "code": 404    },    {      "message": "Contact file /ProductionList_0.txt is missing email        header",      "code": 400    }  ]}
+```

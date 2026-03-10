@@ -1,0 +1,26 @@
+{
+  "articleID": 264,
+  "name": "End Of Day Report",
+  "slug": "264-end-of-day-report",
+  "format": "rich2",
+  "locale": "en",
+  "body": "[{\"type\": \"p\", \"children\": [{\"text\": \"You can perform accurate daily sales reconciliation and cash management by accessing the End of Day Report, which summarizes all transactions, payments, and financial activity for a specific trading day. This report helps ensure accurate cash drawer balancing, identifies discrepancies, and provides essential data for daily banking and financial record-keeping across your retail operations.\"}]}, {\"type\": \"p\", \"children\": [{\"text\": \"Using the End of Day Report consistently helps retail operators maintain tight financial controls, quickly identify and resolve cash discrepancies, and create reliable daily financial records that support accurate accounting and audit requirements.\"}]}, {\"type\": \"p\", \"children\": [{\"text\": \"The End of Day Report displays a list of completed Cash-ups as performed at POS. This is perfect for when you need to reprint your End of Day Summary, for example if you complete the Cash Up but forget to print the report.\"}]}, {\"type\": \"callout\", \"children\": [{\"type\": \"callout-item\", \"children\": [{\"text\": \"Cash-Ups cannot be edited once submitted.\"}]}], \"appearance\": \"info\"}, {\"type\": \"p\", \"children\": [{\"text\": \"The report displays:\"}]}, {\"type\": \"ul\", \"children\": [{\"type\": \"li\", \"children\": [{\"type\": \"lic\", \"children\": [{\"text\": \"Outlet\"}]}]}, {\"type\": \"li\", \"children\": [{\"type\": \"lic\", \"children\": [{\"text\": \"Amount received via Tender type (scroll to the right to view more payment types)\"}]}]}, {\"type\": \"li\", \"children\": [{\"type\": \"lic\", \"children\": [{\"text\": \"Totals at the bottom\"}]}]}]}, {\"type\": \"p\", \"children\": [{\"text\": \"\"}]}, {\"type\": \"h2\", \"children\": [{\"text\": \"Using the End of Day Report\"}], \"data-id\": \"using-the-end-of-day-report\"}, {\"type\": \"p\", \"children\": [{\"text\": \"To access the report:\"}]}, {\"type\": \"ol\", \"children\": [{\"type\": \"li\", \"children\": [{\"type\": \"lic\", \"children\": [{\"text\": \"Navigate to \"}, {\"text\": \"Reports > Finance Reports > End Of Day Report\", \"bold\": true}]}]}, {\"type\": \"li\", \"children\": [{\"type\": \"lic\", \"children\": [{\"text\": \"Update the \"}, {\"text\": \"Filters \", \"bold\": true}, {\"text\": \"as required\"}]}]}, {\"type\": \"li\", \"children\": [{\"type\": \"lic\", \"children\": [{\"text\": \"Click \"}, {\"text\": \"Search\", \"bold\": true}]}]}, {\"type\": \"li\", \"children\": [{\"type\": \"lic\", \"children\": [{\"text\": \"The results will be displayed\"}]}]}, {\"type\": \"li\", \"children\": [{\"type\": \"lic\", \"children\": [{\"text\": \"Click \"}, {\"text\": \"Export to Excel \", \"bold\": true}, {\"text\": \"to download a spreadsheet of the results\"}]}]}]}, {\"type\": \"rich_embed_card\", \"dataSourceType\": \"image\", \"url\": \"https://us.v-cdn.net/6038474/uploads/attachments/migrated/image.05T5g00000powwqEAA.jpg\", \"embedData\": {\"url\": \"https://us.v-cdn.net/6038474/uploads/attachments/migrated/image.05T5g00000powwqEAA.jpg\", \"embedType\": \"image\", \"displaySize\": \"large\", \"float\": \"none\", \"name\": \"6a111b7fa4a0e2b7b981ef08248928dbc1c08c8c41a19d2a286f085d89b35767.png\"}, \"children\": [{\"text\": \"\"}]}, {\"type\": \"p\", \"children\": [{\"text\": \"\"}]}, {\"type\": \"h2\", \"children\": [{\"text\": \"View Banking Details\"}], \"data-id\": \"view-banking-details\"}, {\"type\": \"p\", \"children\": [{\"text\": \"On the very right is a \\\"Details\\\" column. Click the \"}, {\"text\": \"View \", \"bold\": true}, {\"text\": \"link to view a detailed breakdown of an individual Cash Up.\"}]}, {\"type\": \"rich_embed_card\", \"dataSourceType\": \"image\", \"url\": \"https://us.v-cdn.net/6038474/uploads/attachments/migrated/image.05T5g00000powqeEAA.jpg\", \"embedData\": {\"url\": \"https://us.v-cdn.net/6038474/uploads/attachments/migrated/image.05T5g00000powqeEAA.jpg\", \"embedType\": \"image\", \"displaySize\": \"large\", \"float\": \"none\", \"name\": \"mceclip2 (23).png\"}, \"children\": [{\"text\": \"\"}]}, {\"type\": \"rich_embed_card\", \"dataSourceType\": \"image\", \"url\": \"https://us.v-cdn.net/6038474/uploads/attachments/migrated/image.05T5g00000powwvEAA.jpg\", \"embedData\": {\"url\": \"https://us.v-cdn.net/6038474/uploads/attachments/migrated/image.05T5g00000powwvEAA.jpg\", \"embedType\": \"image\", \"displaySize\": \"large\", \"float\": \"none\", \"name\": \"mceclip1 (36).png\"}, \"children\": [{\"text\": \"\"}]}, {\"type\": \"p\", \"children\": [{\"text\": \"\"}]}]",
+  "fixes_applied": {
+    "urls": {
+      "leaving_cleaned": 0,
+      "unsafe_removed": 0,
+      "s_article_mapped": 0,
+      "s_article_removed": 0,
+      "fragments_mapped": 0,
+      "fragments_stripped": 0,
+      "internal_fragments_fixed": 0,
+      "double_id_fixed": 0,
+      "kb_fragments_stripped": 0
+    },
+    "toc": 0,
+    "related": 1,
+    "lists": 0,
+    "headings": 0,
+    "reconverted": false
+  }
+}

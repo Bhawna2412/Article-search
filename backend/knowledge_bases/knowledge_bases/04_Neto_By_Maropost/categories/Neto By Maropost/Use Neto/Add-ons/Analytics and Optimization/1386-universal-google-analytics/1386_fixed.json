@@ -1,0 +1,29 @@
+{
+  "articleID": 1386,
+  "name": "Universal Google Analytics",
+  "slug": "1386-universal-google-analytics",
+  "format": "rich2",
+  "locale": "en",
+  "body": "[{\"type\": \"callout\", \"children\": [{\"type\": \"callout-item\", \"children\": [{\"text\": \"This add-on has been deprecated, please use the \"}, {\"type\": \"a\", \"url\": \"https://galaxy.maropost.com/kb/articles/1254-google-analytics-4\", \"children\": [{\"text\": \"Google Analytics 4\"}]}, {\"text\": \" steps.\"}]}], \"appearance\": \"warning\"}, {\"type\": \"p\", \"children\": [{\"text\": \"\"}]}, {\"type\": \"h3\", \"children\": [{\"text\": \"This add-on was built by Google.\"}]}, {\"type\": \"p\", \"children\": [{\"text\": \"Visit Add-On Website\"}]}, {\"type\": \"p\", \"children\": [{\"text\": \"Google Analytics can track visitors from all referrers, including search engines and social networks, direct visits and referring sites. It also tracks display advertising, pay-per-click networks, email marketing and digital collateral such as links within PDF documents.\"}]}, {\"type\": \"callout\", \"children\": [{\"type\": \"callout-item\", \"children\": [{\"text\": \"Neto partners can set this up for you. \"}, {\"type\": \"a\", \"url\": \"https://www.netohq.com/job-request-portal\", \"children\": [{\"text\": \"Visit the job request portal\"}]}, {\"text\": \" for a quote.\"}]}], \"appearance\": \"info\"}, {\"type\": \"p\", \"children\": [{\"text\": \"\"}]}, {\"type\": \"h2\", \"children\": [{\"text\": \"Install the Google Analytics Add-on\"}]}, {\"type\": \"p\", \"children\": [{\"text\": \"Please Note\", \"bold\": true}, {\"text\": \": Ensure your Google Analytics account is set up using the Universal Analytics property, not the GA4 property.\"}]}, {\"type\": \"ol\", \"children\": [{\"type\": \"li\", \"children\": [{\"type\": \"lic\", \"children\": [{\"text\": \"In your Neto control panel select \"}, {\"text\": \"Addons\", \"bold\": true}, {\"text\": \".\"}]}]}, {\"type\": \"li\", \"children\": [{\"type\": \"lic\", \"children\": [{\"text\": \"Locate \"}, {\"text\": \"Google Analytics\", \"bold\": true}, {\"text\": \" and click install. In order to locate the Google Analytics addon, please ensure you have the \"}, {\"text\": \"All Add-ons\", \"bold\": true}, {\"text\": \" filter selected to see all available addon's.\"}]}]}, {\"type\": \"li\", \"children\": [{\"type\": \"lic\", \"children\": [{\"text\": \"Once the Google Analytics add-on has been installed, click the \"}, {\"text\": \"Configure\", \"bold\": true}, {\"text\": \" button.\"}]}]}, {\"type\": \"li\", \"children\": [{\"type\": \"lic\", \"children\": [{\"text\": \"Enter your \"}, {\"text\": \"Google Analytics tracking ID, which starts with UA, eg. UA-12345678-1\", \"bold\": true}, {\"text\": \". To find your tracking ID, see \"}, {\"type\": \"a\", \"url\": \"https://support.google.com/analytics/answer/1008080?hl=en#trackingID\", \"children\": [{\"text\": \"Google's help article here\"}]}, {\"text\": \".\"}]}]}, {\"type\": \"li\", \"children\": [{\"type\": \"lic\", \"children\": [{\"text\": \"Save \", \"bold\": true}, {\"text\": \"changes.\"}]}, {\"type\": \"p\", \"children\": [{\"text\": \"Please Note\", \"bold\": true}, {\"text\": \": Changes to a custom script require you to authenticate your access. Click the \"}, {\"text\": \"Send Token Now\", \"bold\": true}, {\"text\": \" button and an email will be sent to you with a security token. Copy the token and paste it into the verification field. Click the \"}, {\"text\": \"Verify Token\", \"bold\": true}, {\"text\": \" button and your changes can be saved. The token will last two hours in case you need to change multiple scripts.\"}]}, {\"type\": \"p\", \"children\": [{\"text\": \"If you need to verify your site ownership with Google, you can opt to use the \\\"meta code\\\" verification method. \"}, {\"type\": \"a\", \"url\": \"https://galaxy.maropost.com/kb/articles/426-google-search-console-setup\", \"children\": [{\"text\": \"Click here\"}]}, {\"text\": \" for an article on how to verify site ownership.\"}]}]}]}, {\"type\": \"p\", \"children\": [{\"text\": \"\"}]}, {\"type\": \"p\", \"children\": [{\"text\": \"The Google analytics add-on is now installed. To set up ecommerce tracking, Tag Manager, or search console, see the related articles below.\"}]}, {\"type\": \"p\", \"children\": [{\"text\": \"\"}]}]",
+  "fixes_applied": {
+    "rebrand": 2,
+    "urls": {
+      "leaving_cleaned": 0,
+      "unsafe_removed": 0,
+      "s_article_mapped": 3,
+      "s_article_removed": 1,
+      "fragments_mapped": 0,
+      "fragments_stripped": 0,
+      "internal_fragments_fixed": 0,
+      "double_id_fixed": 0,
+      "kb_fragments_stripped": 0
+    },
+    "toc": 0,
+    "related": 1,
+    "lists": 5,
+    "headings": 1,
+    "reconverted": false
+  },
+  "_sf_cleanup_date": "2026-02-02T06:17:41.503618+00:00",
+  "_sf_removals": 3
+}

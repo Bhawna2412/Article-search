@@ -1,0 +1,29 @@
+{
+  "articleID": 1489,
+  "name": "Inventory Planner",
+  "slug": "1489-inventory-planner",
+  "format": "rich2",
+  "locale": "en",
+  "body": "[{\"type\": \"h3\", \"children\": [{\"text\": \"This add-on was built by Inventory Planner.\"}]}, {\"type\": \"p\", \"children\": [{\"type\": \"a\", \"url\": \"https://inventory-planner.com/\", \"children\": [{\"text\": \"Visit Add-On Website\"}]}]}, {\"type\": \"p\", \"children\": [{\"text\": \"For support with this add-on \"}, {\"type\": \"a\", \"url\": \"http://help.inventory-planner.com/en/\", \"children\": [{\"text\": \"contact Inventory Planner\"}]}, {\"text\": \".\"}]}, {\"type\": \"h2\", \"children\": [{\"text\": \"Set up the Inventory Planner add-on:\"}]}, {\"type\": \"ol\", \"children\": [{\"type\": \"li\", \"children\": [{\"type\": \"lic\", \"children\": [{\"text\": \"In your Neto control panel click \"}, {\"text\": \"Addons\", \"bold\": true}, {\"text\": \" in the main menu.\"}]}]}, {\"type\": \"li\", \"children\": [{\"type\": \"lic\", \"children\": [{\"text\": \"In the Inventory Management section locate the Inventory Planner add-on and click the \"}, {\"text\": \"Install\", \"bold\": true}, {\"text\": \" button.\"}]}]}, {\"type\": \"li\", \"children\": [{\"type\": \"lic\", \"children\": [{\"text\": \"Create an account on\\u00a0\"}, {\"type\": \"a\", \"url\": \"https://inventory-planner.com\", \"children\": [{\"text\": \"inventory-planner.com\"}]}, {\"text\": \" if you haven't already.\"}]}]}, {\"type\": \"li\", \"children\": [{\"type\": \"lic\", \"children\": [{\"text\": \"Select your platform as \"}, {\"text\": \"Neto\\u00a0\", \"bold\": true}, {\"text\": \"or Neto.\"}]}]}, {\"type\": \"li\", \"children\": [{\"type\": \"lic\", \"children\": [{\"text\": \"Follow instructions on the set-up page on the Inventory Management site.\"}]}]}, {\"type\": \"li\", \"children\": [{\"type\": \"lic\", \"children\": [{\"text\": \"It will request an API key which is associated with a staff user in Neto. To get this, navigate to \"}, {\"text\": \"Settings & Tools\", \"bold\": true}, {\"text\": \" > \"}, {\"text\": \"Staff Users\", \"bold\": true}, {\"text\": \".\"}]}]}, {\"type\": \"li\", \"children\": [{\"type\": \"lic\", \"children\": [{\"text\": \"Click on the staff user you wish to associate the account with. Scroll down to \"}, {\"text\": \"API Key\", \"bold\": true}, {\"text\": \" and click the \"}, {\"text\": \"Regenerate\", \"bold\": true}, {\"text\": \" button.\"}]}]}]}]",
+  "fixes_applied": {
+    "rebrand": 0,
+    "urls": {
+      "leaving_cleaned": 3,
+      "unsafe_removed": 0,
+      "s_article_mapped": 0,
+      "s_article_removed": 0,
+      "fragments_mapped": 0,
+      "fragments_stripped": 0,
+      "internal_fragments_fixed": 0,
+      "double_id_fixed": 0,
+      "kb_fragments_stripped": 0
+    },
+    "toc": 0,
+    "related": 0,
+    "lists": 7,
+    "headings": 1,
+    "reconverted": false
+  },
+  "_sf_cleanup_date": "2026-02-02T06:17:42.150530+00:00",
+  "_sf_removals": 1
+}

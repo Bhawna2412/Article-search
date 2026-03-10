@@ -1,0 +1,27 @@
+{
+  "articleID": 1532,
+  "name": "Create a One-Click Order Button in an Email",
+  "slug": "1532-create-a-one-click-order-button-in-an-email",
+  "format": "rich2",
+  "locale": "en",
+  "body": "[{\"type\": \"p\", \"children\": [{\"text\": \"This is a great way to give your customers and quick and easy way to buy.\"}]}, {\"type\": \"p\", \"children\": [{\"text\": \"In your email or web page, don't link to your product page but put a \"}, {\"text\": \"Buy Now\", \"bold\": true}, {\"text\": \" link directly into your marketing email/page and for the URL of your link. For example, your URL would look something like this:\"}]}, {\"type\": \"code_block\", \"children\": [{\"type\": \"code_line\", \"children\": [{\"text\": \"https://www.yoursitename.com.au/_mycart?fn=payment&sku=GREAT_PRODUCT_SKU\"}]}], \"lang\": \"plaintext\"}, {\"type\": \"p\", \"children\": [{\"text\": \"Where \"}, {\"text\": \"www.yoursitename.com.au\", \"code\": true}, {\"text\": \" is the domain name of your website and \"}, {\"text\": \"GREAT_PRODUCT_SKU\", \"code\": true}, {\"text\": \" is the SKU of the product.\"}]}, {\"type\": \"p\", \"children\": [{\"text\": \"Clicking on the link will take the customer to your Checkout page and automatically add the product.\"}]}, {\"type\": \"p\", \"children\": [{\"text\": \"You can also add \"}, {\"text\": \"&qty=(Number)\", \"bold\": true}, {\"text\": \" at the end of the URL to automatically add a product quantity. For example, your URL would look something like this:\"}]}, {\"type\": \"code_block\", \"children\": [{\"type\": \"code_line\", \"children\": [{\"text\": \"https://www.yoursitename.com.au/_mycart?fn=payment&sku=GREAT_PRODUCT_SKU&qty=10\"}]}], \"lang\": \"plaintext\"}, {\"type\": \"p\", \"children\": [{\"text\": \"Using this feature, you can only pass one product, however, you can create a non-editable kitted product and use the SKU of the kit if you want multiple products to be added to the order.\"}]}, {\"type\": \"p\", \"children\": [{\"text\": \"\"}]}, {\"type\": \"h2\", \"children\": [{\"text\": \"Combining 1-Click with a Coupon Code\"}], \"data-id\": \"combining-1-click-with-a-coupon-code\"}, {\"type\": \"p\", \"children\": [{\"text\": \"You can also pass a coupon code using this 1-click feature. The coupon code could add a discount or a free product to the order:\"}]}, {\"type\": \"code_block\", \"children\": [{\"type\": \"code_line\", \"children\": [{\"text\": \"https://www.yoursitename.com.au/_mycart?fn=payment&sku=GREAT_PRODUCT_SKU&addcpn=COUPON_CODE\"}]}], \"lang\": \"plaintext\"}, {\"type\": \"p\", \"children\": [{\"text\": \"Where \"}, {\"text\": \"COUPON_CODE\", \"code\": true}, {\"text\": \" is the code you created in \"}, {\"text\": \"Marketing > Discounts & Coupons\", \"bold\": true}, {\"text\": \".\"}]}, {\"type\": \"p\", \"children\": [{\"text\": \"For details on how to create a coupon code, check out the article \"}, {\"type\": \"a\", \"url\": \"https://galaxy.maropost.com/kb/articles/1360-add-a-discount-coupon\", \"children\": [{\"text\": \"How do I set up a discount coupon?\"}]}]}, {\"type\": \"p\", \"children\": [{\"text\": \"\"}]}, {\"type\": \"h2\", \"children\": [{\"text\": \"2-Click Ordering - take the customer to the Shopping Cart\"}], \"data-id\": \"2-click-ordering-take-the-customer-to-the-shopping-cart\"}, {\"type\": \"p\", \"children\": [{\"text\": \"You can use this 2-click feature for editable kits. Customers can enter the product options on the Shopping Cart page. This may not work with all editable kits depending on the design of your site.\"}]}, {\"type\": \"p\", \"children\": [{\"text\": \"If you would like to send the customer to the Shipping Cart page, you can use this web address:\"}]}, {\"type\": \"code_block\", \"children\": [{\"type\": \"code_line\", \"children\": [{\"text\": \"https://www.yoursitename.com.au/_mycart?sku=GREAT_PRODUCT_SKU\"}]}], \"lang\": \"plaintext\"}, {\"type\": \"p\", \"children\": [{\"text\": \"Where \"}, {\"text\": \"www.yoursitename.com.au\", \"code\": true}, {\"text\": \" is the domain name of your website and \"}, {\"text\": \"GREAT_PRODUCT_SKU\", \"code\": true}, {\"text\": \" is the SKU of the product.\"}]}]",
+  "fixes_applied": {
+    "rebrand": 0,
+    "urls": {
+      "leaving_cleaned": 0,
+      "unsafe_removed": 0,
+      "s_article_mapped": 1,
+      "s_article_removed": 0,
+      "fragments_mapped": 0,
+      "fragments_stripped": 0,
+      "internal_fragments_fixed": 0,
+      "double_id_fixed": 0,
+      "kb_fragments_stripped": 0
+    },
+    "toc": 0,
+    "related": 0,
+    "lists": 0,
+    "headings": 0,
+    "reconverted": true
+  }
+}

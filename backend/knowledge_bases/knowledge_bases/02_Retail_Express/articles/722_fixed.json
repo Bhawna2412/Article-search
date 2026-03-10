@@ -1,0 +1,26 @@
+{
+  "articleID": 722,
+  "name": "Troubleshooting Hardware Utility Errors and Freezing Issues",
+  "slug": "722-troubleshooting-hardware-utility-errors-and-freezing-issues",
+  "format": "rich2",
+  "locale": "en",
+  "body": "[{\"type\": \"p\", \"children\": [{\"text\": \"You can resolve hardware connectivity problems in Retail Express to maintain reliable peripheral device operations, helping your retail operations minimize disruptions from printer, scanner, or payment device issues. This capability provides troubleshooting guidance for common hardware problems, which helps ensure your POS infrastructure remains operational and reduces downtime from equipment connectivity failures.\"}]}, {\"type\": \"p\", \"children\": [{\"text\": \"Setting up proper hardware troubleshooting procedures enables your retail operations to handle device issues independently, helping optimize operational uptime and reduce reliance on external technical support. This helps retail businesses maintain consistent service delivery by empowering staff to resolve common hardware problems quickly and effectively.\"}]}, {\"type\": \"p\", \"children\": [{\"text\": \"\"}]}, {\"type\": \"h2\", \"children\": [{\"text\": \"Scenario\"}], \"data-id\": \"scenario\"}, {\"type\": \"p\", \"children\": [{\"text\": \"The Hardware Utility is causing an error when opening, for example, an XML error or a message displays contact application vendor.\"}]}, {\"type\": \"p\", \"children\": [{\"text\": \"OR\"}]}, {\"type\": \"p\", \"children\": [{\"text\": \"The Hardware Utility is freezing on the printer section and does not continue (the Next button is disabled) as shown in the following image.\"}]}, {\"type\": \"rich_embed_card\", \"dataSourceType\": \"image\", \"url\": \"https://us.v-cdn.net/6038474/uploads/attachments/migrated/image.05TJ100000Cekb6MAB.jpg\", \"embedData\": {\"url\": \"https://us.v-cdn.net/6038474/uploads/attachments/migrated/image.05TJ100000Cekb6MAB.jpg\", \"embedType\": \"image\", \"displaySize\": \"large\", \"float\": \"none\", \"name\": \"HardwareUtilityError.png\", \"width\": 701, \"height\": 441}, \"children\": [{\"text\": \"\"}]}, {\"type\": \"p\", \"children\": [{\"text\": \"\"}]}, {\"type\": \"h2\", \"children\": [{\"text\": \"Solution\"}], \"data-id\": \"solution\"}, {\"type\": \"p\", \"children\": [{\"text\": \"Follow the steps below to troubleshoot the Hardware Utility issues:\"}]}, {\"type\": \"ol\", \"children\": [{\"type\": \"li\", \"children\": [{\"type\": \"lic\", \"children\": [{\"text\": \"\"}]}, {\"type\": \"ol\", \"children\": [{\"type\": \"li\", \"children\": [{\"type\": \"lic\", \"children\": [{\"text\": \"\"}]}, {\"type\": \"ol\", \"children\": [{\"type\": \"li\", \"children\": [{\"type\": \"lic\", \"children\": [{\"text\": \"sc stop rexhardware\", \"code\": true}]}]}, {\"type\": \"li\", \"children\": [{\"type\": \"lic\", \"children\": [{\"text\": \"sc delete rexhardware\", \"code\": true}]}]}]}, {\"type\": \"p\", \"children\": [{\"text\": \"Open \"}, {\"text\": \"Command Prompt\", \"bold\": true}, {\"text\": \" as \"}, {\"text\": \"Admin, \", \"bold\": true}, {\"text\": \"and then enter the following commands:\"}]}]}, {\"type\": \"li\", \"children\": [{\"type\": \"lic\", \"children\": [{\"text\": \"Delete the following folder:\"}, {\"text\": \"\\n\"}, {\"text\": \"C:\\\\Program Files (x86)\\\\Retail Express\", \"code\": true}, {\"text\": \"\\n\\n\"}]}, {\"type\": \"callout\", \"children\": [{\"type\": \"callout-item\", \"children\": [{\"text\": \"RESTART if the folder above does not get deleted.\"}]}], \"appearance\": \"info\"}, {\"type\": \"p\", \"children\": [{\"text\": \"\"}]}]}]}, {\"type\": \"p\", \"children\": [{\"text\": \"Uninstall the Hardware Utility through the \"}, {\"text\": \"Control Panel\", \"bold\": true}, {\"text\": \":\"}]}]}, {\"type\": \"li\", \"children\": [{\"type\": \"lic\", \"children\": [{\"text\": \"Reinstall the Hardware Utility.\"}]}]}]}, {\"type\": \"p\", \"children\": [{\"text\": \"\"}]}, {\"type\": \"p\", \"children\": [{\"text\": \"To learn about installing hardware on Hardware Utility, see \"}, {\"type\": \"a\", \"url\": \"https://galaxy.maropost.com/kb/articles/206-installing-receipt-printers-and-integrated-eftpos\", \"children\": [{\"text\": \"Installing Receipt Printers and Integrated EFTPOS\"}]}, {\"text\": \".\"}]}, {\"type\": \"p\", \"children\": [{\"text\": \"\"}]}]",
+  "fixes_applied": {
+    "urls": {
+      "leaving_cleaned": 0,
+      "unsafe_removed": 0,
+      "s_article_mapped": 0,
+      "s_article_removed": 0,
+      "fragments_mapped": 0,
+      "fragments_stripped": 0,
+      "internal_fragments_fixed": 0,
+      "double_id_fixed": 0,
+      "kb_fragments_stripped": 0
+    },
+    "toc": 0,
+    "related": 1,
+    "lists": 0,
+    "headings": 0,
+    "reconverted": false
+  }
+}

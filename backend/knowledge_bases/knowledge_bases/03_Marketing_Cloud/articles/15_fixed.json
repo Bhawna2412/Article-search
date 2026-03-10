@@ -1,0 +1,16 @@
+{
+  "articleID": 15,
+  "knowledgeCategoryID": 443,
+  "sort": 7,
+  "name": "Exporting an Email Contact List (Legacy)",
+  "body": "[{\"type\": \"p\", \"children\": [{\"text\": \"You can export contact lists to maintain data portability and support external integrations with your email marketing ecosystem. This enables more relevant messaging by allowing you to analyze subscriber data across platforms and helps ensure compliance with data management requirements while providing flexible filtering options based on engagement status.\"}]}, {\"type\": \"p\", \"children\": [{\"text\": \"Contact list export functionality streamlines your workflow when you need to share subscriber data with analytics tools, CRM systems, or external marketing platforms while maintaining security through encryption options.\"}]}, {\"type\": \"p\", \"children\": [{\"text\": \"To export a contact list, perform the following steps:\"}]}, {\"type\": \"ol\", \"children\": [{\"type\": \"li\", \"children\": [{\"type\": \"lic\", \"children\": [{\"text\": \"In \"}, {\"text\": \"Navigation\", \"bold\": true}, {\"text\": \", go to \"}, {\"text\": \"Audience\", \"bold\": true}, {\"text\": \", and then select \"}, {\"text\": \"Contact Lists\", \"bold\": true}, {\"text\": \".\"}]}]}, {\"type\": \"li\", \"children\": [{\"type\": \"lic\", \"children\": [{\"text\": \"On the Contact Lists index page, hover over the list that you want to export. Then, from the Actions drop-down list, select \"}, {\"text\": \"Export List\", \"bold\": true}, {\"text\": \".\"}]}]}, {\"type\": \"li\", \"children\": [{\"type\": \"lic\", \"children\": [{\"text\": \"In the Export List dialog box, select the fields to be exported from the list.\"}]}, {\"type\": \"rich_embed_card\", \"dataSourceType\": \"image\", \"url\": \"https://us.v-cdn.net/6038474/uploads/attachments/migrated/05T5g00000BkXHQ.05T5g00000BkXHQEA3.png\", \"embedData\": {\"url\": \"https://us.v-cdn.net/6038474/uploads/attachments/migrated/05T5g00000BkXHQ.05T5g00000BkXHQEA3.png\", \"embedType\": \"image\", \"displaySize\": \"large\", \"float\": \"none\", \"name\": \"Export_List.png\", \"width\": 500, \"height\": 375}, \"children\": [{\"text\": \"\"}]}]}, {\"type\": \"li\", \"children\": [{\"type\": \"lic\", \"children\": [{\"text\": \"In the Performance Metrics drop-down list, you can select the metrics to export the contacts with a specific status. The supported metrics are: All, Subscribed, Unsubscribed, Soft bounced, Hard bounced, Complained, and Cleansed.\"}]}]}, {\"type\": \"li\", \"children\": [{\"type\": \"lic\", \"children\": [{\"text\": \"Optionally, if you want your exported contact list to be encrypted, select the \\\"\"}, {\"text\": \"Convert email to secure email (MD5 Hash)\", \"bold\": true}, {\"text\": \"\\\" checkbox.\"}]}]}]}, {\"type\": \"callout\", \"children\": [{\"type\": \"callout-item\", \"children\": [{\"text\": \"You can also set a data workflow to export a list.\"}]}], \"appearance\": \"info\"}, {\"type\": \"p\", \"children\": [{\"text\": \"\"}]}]",
+  "format": "rich2",
+  "featured": false,
+  "locale": "en",
+  "status": "published",
+  "foreignID": null,
+  "dateUpdated": "2026-02-06T07:24:49+00:00",
+  "_source_kb_id": 3,
+  "_source_kb_name": "Marketing Cloud",
+  "_sync_date": "2026-02-06T07:35:15.458765+00:00"
+}

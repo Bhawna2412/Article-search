@@ -1,0 +1,27 @@
+{
+  "articleID": 1055,
+  "name": "Findify",
+  "slug": "1055-findify",
+  "format": "rich2",
+  "locale": "en",
+  "body": "[{\"type\": \"rich_embed_card\", \"dataSourceType\": \"image\", \"url\": \"https://us.v-cdn.net/6038474/uploads/attachments/migrated/Findify.05T5g00000xHgKJEA0.png\", \"embedData\": {\"url\": \"https://us.v-cdn.net/6038474/uploads/attachments/migrated/Findify.05T5g00000xHgKJEA0.png\", \"embedType\": \"image\", \"displaySize\": \"large\", \"float\": \"none\", \"name\": \"image1\"}, \"children\": [{\"text\": \"\"}]}, {\"type\": \"p\", \"children\": [{\"text\": \"\"}]}, {\"type\": \"h2\", \"children\": [{\"text\": \"This add-on was built by \"}, {\"text\": \"Findify\", \"bold\": true}], \"data-id\": \"this-add-on-was-built-by-findify\"}, {\"type\": \"p\", \"children\": [{\"type\": \"a\", \"url\": \"https://www.findify.io/\", \"children\": [{\"text\": \"Visit Add-on Website!\"}]}]}, {\"type\": \"p\", \"children\": [{\"text\": \"For support with this add-on \"}, {\"type\": \"a\", \"url\": \"https://www.findify.io/contact-us.html\", \"children\": [{\"text\": \"contact Findify\"}]}, {\"text\": \".\"}]}, {\"type\": \"p\", \"children\": [{\"text\": \"Findify is a holistic AI-powered solution providing real-time personalised Search, Smart Collection and Recommendation proven to increase conversion. Increase revenue, boost conversion, and improve UX by personalising the order each shopper sees your products. Stores earn up to 30% more money with this solution.\"}]}, {\"type\": \"p\", \"children\": [{\"text\": \"To set up the Findify add-on, please refer to the Findify instructions \"}, {\"type\": \"a\", \"url\": \"https://developers.findify.io/docs/intgrations-neto\", \"children\": [{\"text\": \"here\"}]}, {\"text\": \".\"}]}]",
+  "fixes_applied": {
+    "rebrand": 0,
+    "urls": {
+      "leaving_cleaned": 0,
+      "unsafe_removed": 0,
+      "s_article_mapped": 0,
+      "s_article_removed": 0,
+      "fragments_mapped": 0,
+      "fragments_stripped": 0,
+      "internal_fragments_fixed": 0,
+      "double_id_fixed": 0,
+      "kb_fragments_stripped": 0
+    },
+    "toc": 0,
+    "related": 0,
+    "lists": 0,
+    "headings": 0,
+    "reconverted": true
+  }
+}

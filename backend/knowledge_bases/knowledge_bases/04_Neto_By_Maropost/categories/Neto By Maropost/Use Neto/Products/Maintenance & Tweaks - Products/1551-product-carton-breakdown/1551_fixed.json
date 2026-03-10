@@ -1,0 +1,29 @@
+{
+  "articleID": 1551,
+  "name": "Product Carton Breakdown",
+  "slug": "1551-product-carton-breakdown",
+  "format": "rich2",
+  "locale": "en",
+  "body": "[{\"type\": \"p\", \"children\": [{\"text\": \"Not all products can be shipped in a single carton, with a single set of dimensions. Flat pack furniture sets are a common example. A table and several chairs will each have a separate carton for ease of transport and warehousing.\"}]}, {\"type\": \"p\", \"children\": [{\"text\": \"Products that are shipped in 2 or more boxes can have their individual carton sizes defined on the product page. This gives your customers a more accurate shipping cost, and simplifies the consignment and dispatch process.\"}]}, {\"type\": \"p\", \"children\": [{\"text\": \"To add the carton breakdown:\"}]}, {\"type\": \"ol\", \"children\": [{\"type\": \"li\", \"children\": [{\"type\": \"lic\", \"children\": [{\"text\": \"In your Neto by Maropost control panel, navigate to \"}, {\"text\": \"Settings & tools\", \"bold\": true}, {\"text\": \" > \"}, {\"text\": \"All settings & tools\", \"bold\": true}, {\"text\": \".\"}]}]}, {\"type\": \"li\", \"children\": [{\"type\": \"lic\", \"children\": [{\"text\": \"Select \"}, {\"text\": \"Advanced configuration\", \"bold\": true}, {\"text\": \".\"}]}]}, {\"type\": \"li\", \"children\": [{\"type\": \"lic\", \"children\": [{\"text\": \"Search in the name field for \"}, {\"text\": \"SHIPCOST_CAL_CARTONS\", \"code\": true}, {\"text\": \".\"}]}]}, {\"type\": \"li\", \"children\": [{\"type\": \"lic\", \"children\": [{\"text\": \"Click on it in the results, change the value to \"}, {\"text\": \"Yes\", \"bold\": true}, {\"text\": \", and click the \"}, {\"text\": \"Save Changes\", \"bold\": true}, {\"text\": \" button.\"}]}, {\"type\": \"p\", \"children\": [{\"text\": \"This setting ensures the carton breakdown is used when calculating shipping costs.\"}]}]}, {\"type\": \"li\", \"children\": [{\"type\": \"lic\", \"children\": [{\"text\": \"Open the product that needs the carton breakdown defined.\"}]}]}, {\"type\": \"li\", \"children\": [{\"type\": \"lic\", \"children\": [{\"text\": \"Scroll down to the shipping section, and click the \"}, {\"text\": \"Carton breakdown\", \"bold\": true}, {\"text\": \" button.\"}]}, {\"type\": \"p\", \"children\": [{\"text\": \"\"}]}]}, {\"type\": \"li\", \"children\": [{\"type\": \"lic\", \"children\": [{\"text\": \"Click the \"}, {\"text\": \"Add Carton\", \"bold\": true}, {\"text\": \" button, and enter the carton dimensions and quantity.\"}]}, {\"type\": \"p\", \"children\": [{\"text\": \"Repeat this step until all of the product cartons have been entered.\"}]}, {\"type\": \"p\", \"children\": [{\"text\": \"\"}]}]}, {\"type\": \"li\", \"children\": [{\"type\": \"lic\", \"children\": [{\"text\": \"Click the \"}, {\"text\": \"Save\", \"bold\": true}, {\"text\": \" button.\"}]}]}]}]",
+  "fixes_applied": {
+    "rebrand": 0,
+    "urls": {
+      "leaving_cleaned": 2,
+      "unsafe_removed": 0,
+      "s_article_mapped": 0,
+      "s_article_removed": 0,
+      "fragments_mapped": 0,
+      "fragments_stripped": 0,
+      "internal_fragments_fixed": 0,
+      "double_id_fixed": 0,
+      "kb_fragments_stripped": 0
+    },
+    "toc": 0,
+    "related": 0,
+    "lists": 8,
+    "headings": 0,
+    "reconverted": false
+  },
+  "_sf_cleanup_date": "2026-02-02T06:17:42.551806+00:00",
+  "_sf_removals": 2
+}

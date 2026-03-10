@@ -1,0 +1,13 @@
+{
+  "articleID": 356,
+  "name": "Stock Receipt For Accounting Integrations",
+  "format": "rich2",
+  "locale": "en",
+  "body": "[{\"type\": \"p\", \"children\": [{\"text\": \"You can configure stock receipt processes to work seamlessly with accounting integrations, helping ensure accurate inventory value and cost of goods sold updates flow to your accounting package. This improves your retail operations by providing automated financial data synchronization for received purchase orders, with properly configured stock receipt integration typically enabling better accounting accuracy and reduced manual data entry for inventory transactions.\"}]}, {\"type\": \"p\", \"children\": [{\"text\": \"Understanding stock receipt accounting integration involves recognizing direct cost provisioning, inventory account updates, and supplier invoice reconciliation to help retail operators focus on the right financial synchronization workflows, ensuring your retail strategy consistently drives better accounting accuracy and operational efficiency outcomes.\"}]}, {\"type\": \"ul\", \"children\": [{\"type\": \"li\", \"children\": [{\"type\": \"lic\", \"children\": [{\"text\": \"The legacy stock receipt method is no longer supported and will soon be retired.  Please switch to using the updated stock receipt and invoicing process \"}, {\"text\": \"(Launched in 2023) \", \"italic\": true}, {\"text\": \"for improved functionality and experience.\"}]}]}, {\"type\": \"li\", \"children\": [{\"type\": \"lic\", \"children\": [{\"text\": \"Simply select the \"}, {\"text\": \"\\\"Receive & Invoice\\\"\", \"bold\": true}, {\"text\": \" option from the popup when starting a new receipt to follow the new flow.\"}]}]}]}, {\"type\": \"p\", \"children\": [{\"text\": \"\"}]}]",
+  "knowledgeCategoryID": 209,
+  "sort": 1,
+  "status": "published",
+  "_source": "production_fresh",
+  "_fix_date": "2026-02-06T08:52:03.038577+00:00",
+  "_fix_type": "empty_list_recovery"
+}

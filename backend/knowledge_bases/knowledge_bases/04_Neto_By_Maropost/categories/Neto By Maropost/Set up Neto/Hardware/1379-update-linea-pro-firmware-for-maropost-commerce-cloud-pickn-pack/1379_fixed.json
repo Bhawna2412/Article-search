@@ -1,0 +1,27 @@
+{
+  "articleID": 1379,
+  "name": "Update Linea Pro Firmware For Maropost Commerce Cloud Pick'n Pack",
+  "slug": "1379-update-linea-pro-firmware-for-maropost-commerce-cloud-pickn-pack",
+  "format": "rich2",
+  "locale": "en",
+  "body": "[{\"type\": \"p\", \"children\": [{\"text\": \"For your Linea Pro hardware to work on the newest version of iOS you will be required to run the latest version of the Linea Pro firmware for your device.\"}]}, {\"type\": \"p\", \"children\": [{\"text\": \"Important Note:\"}]}, {\"type\": \"p\", \"children\": [{\"text\": \"If you are running outdated versions of iOS, you must run the Linea Pro firmware update before upgrading your iOS devices to the latest version.\"}]}, {\"type\": \"ol\", \"children\": [{\"type\": \"li\", \"children\": [{\"type\": \"lic\", \"children\": [{\"text\": \"On your iDevice, navigate to the App Store and install the \"}, {\"type\": \"a\", \"url\": \"https://apps.apple.com/us/app/ipcsupport/id1015160712\", \"children\": [{\"text\": \"IPCSupport\", \"bold\": true}]}, {\"text\": \" App.\"}]}]}, {\"type\": \"li\", \"children\": [{\"type\": \"lic\", \"children\": [{\"text\": \"Once the app has downloaded, open it.\"}]}]}, {\"type\": \"li\", \"children\": [{\"type\": \"lic\", \"children\": [{\"text\": \"Select the \"}, {\"text\": \"Firmware\", \"bold\": true}, {\"text\": \" tab.\"}]}]}, {\"type\": \"li\", \"children\": [{\"type\": \"lic\", \"children\": [{\"text\": \"Click the \"}, {\"text\": \"Auto Update\", \"bold\": true}, {\"text\": \" button.\"}]}]}, {\"type\": \"li\", \"children\": [{\"type\": \"lic\", \"children\": [{\"text\": \"Select the newest firmware update.\"}]}]}]}, {\"type\": \"p\", \"children\": [{\"text\": \"\"}]}, {\"type\": \"p\", \"children\": [{\"text\": \"This will begin the update to the latest firmware. A warning message will appear to advise against interruption to the installation.\"}]}, {\"type\": \"p\", \"children\": [{\"text\": \"Once the firmware update has completed, you can update your iOS devices to the latest version.\"}]}]",
+  "fixes_applied": {
+    "rebrand": 0,
+    "urls": {
+      "leaving_cleaned": 0,
+      "unsafe_removed": 0,
+      "s_article_mapped": 0,
+      "s_article_removed": 0,
+      "fragments_mapped": 0,
+      "fragments_stripped": 0,
+      "internal_fragments_fixed": 0,
+      "double_id_fixed": 0,
+      "kb_fragments_stripped": 0
+    },
+    "toc": 0,
+    "related": 0,
+    "lists": 3,
+    "headings": 0,
+    "reconverted": true
+  }
+}

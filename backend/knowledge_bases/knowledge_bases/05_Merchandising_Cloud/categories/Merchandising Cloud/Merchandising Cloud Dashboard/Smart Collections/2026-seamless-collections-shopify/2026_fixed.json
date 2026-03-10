@@ -1,0 +1,31 @@
+{
+  "articleID": 2026,
+  "name": "Seamless Collections (Shopify)",
+  "format": "rich2",
+  "locale": "en",
+  "body": "[{\"type\": \"p\", \"children\": [{\"text\": \"You can manage all your Merchandising Cloud collections directly from the Shopify dashboard through Seamless Collections, which automatically syncs changes instantly without manual intervention. This streamlined workflow eliminates the need to manage collections in two separate systems, helping you save time and reduce errors while maintaining dynamic, AI-powered collection pages that adapt to customer preferences for improved conversion.\"}]}, {\"type\": \"p\", \"children\": [{\"text\": \"Seamless Collections integration helps simplify collection management for Shopify merchants. You can create or modify automated collections in Shopify using standard rules and tags, and Merchandising Cloud automatically syncs them in real-time-enabling you to leverage familiar Shopify workflows while benefiting from AI-powered personalized ranking and unlimited filtering that typically helps improve collection page performance and customer engagement.\"}]}, {\"type\": \"rich_embed_card\", \"dataSourceType\": \"image\", \"url\": \"https://us.v-cdn.net/6038474/uploads/L9CO4MOQP9RH/efdfae9-collections-282-29.png\", \"embedData\": {\"url\": \"https://us.v-cdn.net/6038474/uploads/L9CO4MOQP9RH/efdfae9-collections-282-29.png\", \"embedType\": \"image\", \"displaySize\": \"large\", \"float\": \"none\", \"name\": \"efdfae9-Collections (2).png\", \"width\": 864, \"height\": 561}, \"children\": [{\"text\": \"\"}]}, {\"type\": \"p\", \"children\": [{\"text\": \"\"}]}, {\"type\": \"h2\", \"children\": [{\"text\": \"What Are Smart Collections?\"}], \"data-id\": \"what-are-smart-collections\"}, {\"type\": \"p\", \"children\": [{\"text\": \"Smart Collections by Maropost Merchandising Cloud (formerly Findify) covers a selection of products displayed with a static URL, mainly for browsing purposes.\"}, {\"text\": \"\\n\"}, {\"text\": \"\\n\"}, {\"text\": \"Most common are divisions based on categories or brands, but any field in the database can be used to set up collections.\"}]}, {\"type\": \"p\", \"children\": [{\"text\": \"The dynamic abilities ensures they are constantly up to date without any manual work required.\"}, {\"text\": \"\\n\"}, {\"text\": \"e.g. If a collection is set up to include all products where\", \"italic\": true}, {\"text\": \" \"}, {\"text\": \"Brand = Findify\", \"bold\": true}, {\"text\": \", \"}, {\"text\": \"new products fulfilling the criteria will automatically be added as soon as they enter the catalogue.\", \"italic\": true}]}, {\"type\": \"p\", \"children\": [{\"text\": \"Using our Smart Collections feature enables the full suite of features such as \"}, {\"text\": \"Merchandising Suite\", \"bold\": true}, {\"text\": \", \"}, {\"text\": \"Personalization\", \"bold\": true}, {\"text\": \", \"}, {\"text\": \"Dynamic Filters & Sorting\", \"bold\": true}, {\"text\": \", \"}, {\"text\": \"Promo Cards\", \"bold\": true}, {\"text\": \" etc.\"}, {\"type\": \"a\", \"url\": \"https://developers.findify.io/docs/smart-collections\", \"children\": [{\"text\": \"Read More\"}]}]}, {\"type\": \"p\", \"children\": [{\"text\": \"\"}]}, {\"type\": \"h2\", \"children\": [{\"text\": \"How does Seamless Shopify Collections Work?\"}], \"data-id\": \"how-does-seamless-shopify-collections-work\"}, {\"type\": \"p\", \"children\": [{\"text\": \"Our Seamless Shopify Collections feature improves the way Shopify merchants work with their Merchandising Cloud collections. Merchants can manage all their Merchandising Cloud collections directly from the Shopify dashboard - making the process quicker and easier than ever before. For a more detailed explanation, watch our video below.\"}]}, {\"type\": \"p\", \"children\": [{\"type\": \"a\", \"url\": \"https://youtu.be/PC5NKhaH1w0\", \"children\": [{\"text\": \"https://youtu.be/PC5NKhaH1w0\"}]}]}, {\"type\": \"p\", \"children\": [{\"text\": \"\"}]}, {\"type\": \"h2\", \"children\": [{\"text\": \"Requirements\"}], \"data-id\": \"requirements\"}, {\"type\": \"p\", \"children\": [{\"text\": \"In order to import collection settings from Shopify, there needs to be settings to be imported. I.e. the collection needs to be setup as Automated (we are only able to pull Automated collections that are based on the regular product data, but not metafields) and not Manual (where individual ID's are selected). 95% of all merchants collections are in general Automatic given that they stay up to date and are a lot quicker to configure.\"}]}, {\"type\": \"rich_embed_card\", \"dataSourceType\": \"image\", \"url\": \"https://us.v-cdn.net/6038474/uploads/J4VV6U0YKBP7/e2a0b28-shopify-settings.png\", \"embedData\": {\"url\": \"https://us.v-cdn.net/6038474/uploads/J4VV6U0YKBP7/e2a0b28-shopify-settings.png\", \"embedType\": \"image\", \"displaySize\": \"large\", \"float\": \"none\", \"name\": \"e2a0b28-Shopify_Settings.png\", \"width\": 578, \"height\": 394}, \"children\": [{\"text\": \"\"}]}, {\"type\": \"p\", \"children\": [{\"text\": \"Rules synced from Shopify\", \"italic\": true}]}, {\"type\": \"p\", \"children\": [{\"text\": \"External Resources\", \"bold\": true}]}, {\"type\": \"p\", \"children\": [{\"text\": \"Should you wish to read more about Automated & Manual Collections within Shopify specifically,\"}, {\"type\": \"a\", \"url\": \"https://help.shopify.com/en/manual/products/collections\", \"children\": [{\"text\": \"click here.\"}]}]}, {\"type\": \"p\", \"children\": [{\"text\": \"\"}]}]",
+  "knowledgeCategoryID": 386,
+  "sort": 2,
+  "status": "published",
+  "_source_kb_id": 5,
+  "_source_kb_name": "Merchandising Cloud",
+  "_fix_date": "2026-02-02T06:05:45.796713+00:00",
+  "fixes_applied": {
+    "urls": {
+      "leaving_cleaned": 3,
+      "unsafe_removed": 0,
+      "s_article_mapped": 0,
+      "s_article_removed": 0,
+      "fragments_mapped": 0,
+      "fragments_stripped": 0,
+      "internal_fragments_fixed": 0,
+      "double_id_fixed": 0,
+      "kb_fragments_stripped": 0
+    },
+    "toc": 0,
+    "related": 1,
+    "lists": 0,
+    "headings": 0,
+    "reconverted": false
+  }
+}

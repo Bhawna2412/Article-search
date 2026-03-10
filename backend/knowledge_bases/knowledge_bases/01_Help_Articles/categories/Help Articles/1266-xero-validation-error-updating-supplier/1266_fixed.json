@@ -1,0 +1,16 @@
+{
+  "articleID": 1266,
+  "knowledgeCategoryID": 1,
+  "sort": 163,
+  "name": "Xero validation error updating Supplier",
+  "body": "<h1 data-id=\"xero-validation-error-updating-supplier\">Xero validation error updating Supplier</h1>\n<p><strong>Error: </strong></p>\n<p>Error updating Supplier \"x\". The contact number number must be unique across all contacts\" (where \"x\" is your supplier code)</p>\n<p> </p>\n<p><strong>Cause: </strong></p>\n<p>The issue is caused by another supplier with the same Contact Code in Xero, typically where the duplicate contact has been either archived or merged in Xero.</p>\n<p>You will need to restore the version of the contact in Xero. For detailed information on restoring/merging contacts in Xero please refer to <a rel=\"nofollow\" href=\"http://galaxy.maropost.com/home/leaving?allowTrusted=1&amp;target=https%3A%2F%2Fcentral.xero.com%2Fs%2Farticle%2FArchive-or-restore-contacts%23Web\">Xero Central support</a>.</p>",
+  "format": "html",
+  "featured": false,
+  "locale": "en",
+  "status": "published",
+  "foreignID": null,
+  "dateUpdated": "2023-05-11T03:53:50+00:00",
+  "_source_kb_id": 1,
+  "_source_kb_name": "Help Articles",
+  "_sync_date": "2026-02-02T05:48:46.537493+00:00"
+}

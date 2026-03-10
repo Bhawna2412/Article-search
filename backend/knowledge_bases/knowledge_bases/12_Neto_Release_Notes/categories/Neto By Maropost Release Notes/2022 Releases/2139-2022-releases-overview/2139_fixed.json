@@ -1,0 +1,16 @@
+{
+  "articleID": 2139,
+  "knowledgeCategoryID": 453,
+  "sort": 0,
+  "name": "2022 Releases Overview",
+  "body": "[{\"type\": \"p\", \"children\": [{\"text\": \"This section contains the Neto by Maropost release notes for the year 2022.\"}]}, {\"type\": \"ul\", \"children\": [{\"type\": \"li\", \"children\": [{\"type\": \"lic\", \"children\": [{\"type\": \"a\", \"url\": \"https://galaxy.maropost.com/kb/articles/1951-neto-by-maropost-release-notes-10-nov-2022\", \"children\": [{\"text\": \"Neto by Maropost Release Notes - 10 Nov 2022\"}]}]}]}, {\"type\": \"li\", \"children\": [{\"type\": \"lic\", \"children\": [{\"type\": \"a\", \"url\": \"https://galaxy.maropost.com/kb/articles/1950-neto-by-maropost-release-notes-28-oct-2022\", \"children\": [{\"text\": \"Neto by Maropost Release Notes - 28 Oct 2022\"}]}]}]}, {\"type\": \"li\", \"children\": [{\"type\": \"lic\", \"children\": [{\"type\": \"a\", \"url\": \"https://galaxy.maropost.com/kb/articles/1949-neto-by-maropost-release-notes-21-oct-2022\", \"children\": [{\"text\": \"Neto by Maropost Release Notes - 21 Oct 2022\"}]}]}]}, {\"type\": \"li\", \"children\": [{\"type\": \"lic\", \"children\": [{\"type\": \"a\", \"url\": \"https://galaxy.maropost.com/kb/articles/2135-neto-by-maropost-release-notes-7-oct-2022\", \"children\": [{\"text\": \"Neto by Maropost Release Notes - 7 Oct 2022\"}]}]}]}, {\"type\": \"li\", \"children\": [{\"type\": \"lic\", \"children\": [{\"type\": \"a\", \"url\": \"https://galaxy.maropost.com/kb/articles/1948-neto-by-maropost-release-notes-jul-aug-2022\", \"children\": [{\"text\": \"Neto by Maropost Release Notes - Jul/Aug 2022\"}]}]}]}]}]",
+  "format": "rich2",
+  "featured": false,
+  "locale": "en",
+  "status": "published",
+  "foreignID": null,
+  "dateUpdated": "2025-12-01T04:38:26+00:00",
+  "_source_kb_id": 12,
+  "_source_kb_name": "Neto Release Notes",
+  "_sync_date": "2026-02-02T05:58:24.010096+00:00"
+}

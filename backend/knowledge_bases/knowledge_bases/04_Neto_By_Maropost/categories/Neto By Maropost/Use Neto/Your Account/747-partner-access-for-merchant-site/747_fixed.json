@@ -1,0 +1,27 @@
+{
+  "articleID": 747,
+  "name": "Partner Access for Merchant Site",
+  "slug": "747-partner-access-for-merchant-site",
+  "format": "rich2",
+  "locale": "en",
+  "body": "[{\"type\": \"p\", \"children\": [{\"text\": \"As an approved Neto by Maropost partner, you will provide services to Neto merchants, which may require access to their control panel, their site template files via SFTP, or both.\"}]}, {\"type\": \"p\", \"children\": [{\"text\": \"\\u00a0\"}]}, {\"type\": \"h2\", \"children\": [{\"text\": \"Requesting Access to Merchant Site\"}]}, {\"type\": \"p\", \"children\": [{\"text\": \"The process to have access granted to you for a merchant\\u2019s control panel and/or site template files is as follows:\"}]}, {\"type\": \"ol\", \"children\": [{\"type\": \"li\", \"children\": [{\"type\": \"lic\", \"children\": [{\"text\": \"Inform the merchant that they will need to submit the \"}, {\"type\": \"a\", \"url\": \"https://netoecommerce.wufoo.com/forms/request-partner-access\", \"target\": \"_blank\", \"children\": [{\"text\": \"Request Webstore Access\"}]}, {\"text\": \" form.\"}]}]}, {\"type\": \"li\", \"children\": [{\"type\": \"lic\", \"children\": [{\"text\": \"Upon submission, the request is reviewed by the Neto partner team and approved if the relevant verification criteria are met.\"}]}]}, {\"type\": \"li\", \"children\": [{\"type\": \"lic\", \"children\": [{\"text\": \"Once approved, you will receive an email notification informing you that you now have access to the merchant\\u2019s site.\"}]}]}]}, {\"type\": \"blockquote\", \"children\": [{\"type\": \"blockquote-line\", \"children\": [{\"text\": \"Note\", \"bold\": true}, {\"text\": \": Requests are processed between 9am-5pm, Mon-Fri, and will normally be completed within 1 business day. If your request has not been processed within this time frame and you would like to follow up, please feel free to contact the Partner Support team.\"}]}]}, {\"type\": \"p\", \"children\": [{\"text\": \"For your security and the security of the merchant you are working with, Neto does not recommend that you request a merchant to set up a staff user account for you to gain access to their control panel or site template files. Instead, you should follow the process outlined above at all times.\"}]}, {\"type\": \"p\", \"children\": [{\"text\": \"Once you have been granted partner access, you can log into the merchants control panel or SFTP server using your existing Partner User credentials.\"}]}, {\"type\": \"p\", \"children\": [{\"text\": \"Reach out to Partner Support if you require additional Partner Users created.\"}]}, {\"type\": \"p\", \"children\": [{\"text\": \"If you require personal partner credentials for a particular merchants project - for example, a password protected import/export feed - these must be arranged and provided by the merchant. Note that control panel access and SFTP access are separate in this instance.\"}]}, {\"type\": \"p\", \"children\": [{\"text\": \"\\u00a0\"}]}, {\"type\": \"h2\", \"children\": [{\"text\": \"Troubleshoot Login Issues\"}]}, {\"type\": \"p\", \"children\": [{\"text\": \"If you are having issue logging in, try the options below:\"}]}, {\"type\": \"ol\", \"children\": [{\"type\": \"li\", \"children\": [{\"type\": \"lic\", \"children\": [{\"text\": \"Check if you can access a store that you know you have access to\"}]}]}, {\"type\": \"li\", \"children\": [{\"type\": \"lic\", \"children\": [{\"text\": \"Reset your password to sync your account across all stores you have access to\\n\\nTo reset your password, follow the steps below:\"}]}, {\"type\": \"ol\", \"children\": [{\"type\": \"li\", \"children\": [{\"type\": \"lic\", \"children\": [{\"text\": \"Go to\\u00a0\"}, {\"type\": \"a\", \"url\": \"https://www.netohq.com/profile/manage-password\", \"target\": \"_blank\", \"children\": [{\"text\": \"https://www.netohq.com/profile/manage-password\"}]}, {\"text\": \".\"}]}]}, {\"type\": \"li\", \"children\": [{\"type\": \"lic\", \"children\": [{\"text\": \"Select \\\"Partner Account\\\".\"}]}]}, {\"type\": \"li\", \"children\": [{\"type\": \"lic\", \"children\": [{\"text\": \"Enter your email address.\"}]}]}, {\"type\": \"li\", \"children\": [{\"type\": \"lic\", \"children\": [{\"text\": \"Click \\\"Request Password Reset\\\".\"}]}]}, {\"type\": \"li\", \"children\": [{\"type\": \"lic\", \"children\": [{\"text\": \"You will receive an email with instructions. Follow the prompts to reset your password.\"}]}]}]}]}]}, {\"type\": \"callout\", \"children\": [{\"type\": \"callout-item\", \"children\": [{\"text\": \"Note\", \"bold\": true}, {\"text\": \": Once the reset process is completed, please allow 15-45 minutes for the password to update across all sites you have been granted access to by merchants.\\u00a0\"}]}], \"appearance\": \"info\"}, {\"type\": \"p\", \"children\": [{\"text\": \"3. Reach out to Partner Support to review setup.\"}]}, {\"type\": \"p\", \"children\": [{\"text\": \"\"}]}]",
+  "fixes_applied": {
+    "rebrand": 0,
+    "urls": {
+      "leaving_cleaned": 2,
+      "unsafe_removed": 0,
+      "s_article_mapped": 0,
+      "s_article_removed": 0,
+      "fragments_mapped": 0,
+      "fragments_stripped": 0,
+      "internal_fragments_fixed": 0,
+      "double_id_fixed": 0,
+      "kb_fragments_stripped": 0
+    },
+    "toc": 0,
+    "related": 0,
+    "lists": 0,
+    "headings": 0,
+    "reconverted": false
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "articleID": 1434,
+  "name": "Add Product Cost Prices",
+  "slug": "1434-add-product-cost-prices",
+  "format": "rich2",
+  "locale": "en",
+  "body": "[{\"type\": \"p\", \"children\": [{\"text\": \"Neto comes with a basic cost price field which you can use to work out your profit margins. If you're looking for an advanced cost price calculator (to work out average cost of goods, supplier costs, etc), then we highly recommend using the \"}, {\"text\": \"Neto Commerce Inventory add-on\"}, {\"text\": \". If you use the Neto Commerce Inventory add-on, you will want to do your best to clean up your products as you will not be able to delete them once inventory is turned on (to ensure data integrity), however you will still be able to mark them as inactive.\"}]}, {\"type\": \"p\", \"children\": [{\"text\": \"The cost price on your products, will be used as your Initial stock adjustment cost price, and will impact your reporting as to the total value of your stock on hand.\"}]}, {\"type\": \"callout\", \"children\": [{\"type\": \"callout-item\", \"children\": [{\"text\": \"Neto Commerce Inventory does not allow you to adjust cost price manually. Cost price will update when you receive purchase orders or perform a stock adjustment.\"}]}], \"appearance\": \"alert\"}, {\"type\": \"p\", \"children\": [{\"text\": \"\"}]}, {\"type\": \"p\", \"children\": [{\"text\": \"\"}]}, {\"type\": \"h2\", \"children\": [{\"text\": \"Add Cost Price on an Individual Product\"}], \"data-id\": \"setting-cost-price-on-an-individual-sku\"}, {\"type\": \"ol\", \"children\": [{\"type\": \"li\", \"children\": [{\"type\": \"lic\", \"children\": [{\"text\": \"In your Neto control panel navigate to \"}, {\"text\": \"Products\", \"bold\": true}, {\"text\": \" > \"}, {\"text\": \"View products\", \"bold\": true}, {\"text\": \" and click on the SKU you wish to change.\"}]}]}, {\"type\": \"li\", \"children\": [{\"type\": \"lic\", \"children\": [{\"text\": \"In the Pricing & Tax find to find the field called \"}, {\"text\": \"Cost Price (Excl Tax)\", \"bold\": true}, {\"text\": \". Enter your cost price into this field.\"}]}]}, {\"type\": \"li\", \"children\": [{\"type\": \"lic\", \"children\": [{\"text\": \"Click the \"}, {\"text\": \"Save Changes\", \"bold\": true}, {\"text\": \" button.\"}]}]}]}, {\"type\": \"callout\", \"children\": [{\"type\": \"callout-item\", \"children\": [{\"text\": \"For kitted products we recommend setting the cost price on the individual components only and not on the parent level.\"}]}], \"appearance\": \"alert\"}, {\"type\": \"p\", \"children\": [{\"text\": \"\"}]}, {\"type\": \"h2\", \"children\": [{\"text\": \"Find Products Without a Cost Price\"}], \"data-id\": \"locating-all-products-without-a-cost-price\"}, {\"type\": \"p\", \"children\": [{\"text\": \"To help identify products that currently have a $0 cost price you can use the filters on the product page:\"}]}, {\"type\": \"ol\", \"children\": [{\"type\": \"li\", \"children\": [{\"type\": \"lic\", \"children\": [{\"text\": \"In your Neto control panel navigate to \"}, {\"text\": \"Products\", \"bold\": true}, {\"text\": \" > \"}, {\"text\": \"View products\", \"bold\": true}, {\"text\": \".\"}]}]}, {\"type\": \"li\", \"children\": [{\"type\": \"lic\", \"children\": [{\"text\": \"In the search filter, click the \"}, {\"text\": \"Show Advanced filters\", \"bold\": true}, {\"text\": \" button to expand the search functionality.\"}]}]}, {\"type\": \"li\", \"children\": [{\"type\": \"lic\", \"children\": [{\"text\": \"In the \"}, {\"text\": \"Unit Cost From $\", \"bold\": true}, {\"text\": \" and \"}, {\"text\": \"To $\", \"bold\": true}, {\"text\": \" fields, enter \"}, {\"text\": \"$0\", \"code\": true}, {\"text\": \" and click the \"}, {\"text\": \"Apply\", \"bold\": true}, {\"text\": \" button on the search filter.\"}]}]}, {\"type\": \"li\", \"children\": [{\"type\": \"lic\", \"children\": [{\"text\": \"In the columns filter section, click \"}, {\"text\": \"Edit\", \"bold\": true}, {\"text\": \" mode and click \"}, {\"text\": \"Columns\", \"bold\": true}, {\"text\": \" to include \"}, {\"text\": \"Cost Price\", \"bold\": true}, {\"text\": \". Set a cost price for each product and click \"}, {\"text\": \"Save Changes\", \"bold\": true}, {\"text\": \" at the bottom.\"}]}]}, {\"type\": \"li\", \"children\": [{\"type\": \"lic\", \"children\": [{\"text\": \"Alternatively, you can go into each product and manually apply cost prices or you can export this list by clicking the \"}, {\"text\": \"Export\", \"bold\": true}, {\"text\": \" button on the top right hand side to download and populate in an Excel CSV file. Once finished, you can upload this list back into Neto by using the \"}, {\"type\": \"a\", \"url\": \"https://galaxy.maropost.com/kb/articles/26-add-and-manage-products#brand\", \"children\": [{\"text\": \"Data Import Wizard\"}]}, {\"text\": \".\"}]}]}]}]",
+  "fixes_applied": {
+    "rebrand": 7,
+    "urls": {
+      "leaving_cleaned": 0,
+      "unsafe_removed": 0,
+      "s_article_mapped": 1,
+      "s_article_removed": 1,
+      "fragments_mapped": 1,
+      "fragments_stripped": 0,
+      "internal_fragments_fixed": 2,
+      "double_id_fixed": 0,
+      "kb_fragments_stripped": 0
+    },
+    "toc": 1,
+    "related": 0,
+    "lists": 8,
+    "headings": 1,
+    "reconverted": false
+  },
+  "_sf_cleanup_date": "2026-02-02T06:17:41.840408+00:00",
+  "_sf_removals": 3
+}

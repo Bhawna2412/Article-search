@@ -1,0 +1,31 @@
+{
+  "articleID": 1988,
+  "name": "Merchandising Cloud Integration Steps",
+  "format": "rich2",
+  "locale": "en",
+  "body": "[{\"type\": \"p\", \"children\": [{\"text\": \"You can integrate Merchandising Cloud with your ecommerce platform using platform-specific guides for Shopify, Maropost, Norce, or custom implementations, which helps streamline the setup process and accelerate time to value. Following the appropriate integration path for your platform ensures proper data synchronization and feature compatibility, enabling you to start leveraging AI-powered search and merchandising capabilities faster.\"}]}, {\"type\": \"p\", \"children\": [{\"text\": \"Completing the integration provides access to the Merchant Dashboard where you can configure and customize search, recommendations, and smart collections to match your merchandising strategy. The integration process establishes the foundation for improving product discovery and conversion optimization, with platform-specific tools designed to minimize technical complexity while maintaining flexibility for custom requirements.\"}]}, {\"type\": \"p\", \"children\": [{\"text\": \"\"}]}, {\"type\": \"h2\", \"children\": [{\"text\": \"Step 1: Integrate Merchandising Cloud\"}], \"data-id\": \"step-1-integrate-merchandising-cloud\"}, {\"type\": \"p\", \"children\": [{\"text\": \"We provide different tools to help you integrate your shop with Merchandising Cloud. Follow the relevant link to integrate:\"}]}, {\"type\": \"ul\", \"children\": [{\"type\": \"li\", \"children\": [{\"type\": \"lic\", \"children\": [{\"type\": \"a\", \"url\": \"https://developers.findify.io/docs/shopify\", \"children\": [{\"text\": \"Shopify\"}]}]}]}, {\"type\": \"li\", \"children\": [{\"type\": \"lic\", \"children\": [{\"type\": \"a\", \"url\": \"https://developers.findify.io/docs/integrate-maropost\", \"children\": [{\"text\": \"Maropost\"}]}]}]}, {\"type\": \"li\", \"children\": [{\"type\": \"lic\", \"children\": [{\"type\": \"a\", \"url\": \"https://developers.findify.io/docs/norce-flight\", \"children\": [{\"text\": \"Norce\"}]}]}]}, {\"type\": \"li\", \"children\": [{\"type\": \"lic\", \"children\": [{\"type\": \"a\", \"url\": \"https://developers.findify.io/docs/integrations-custom-steps\", \"children\": [{\"text\": \"Custom\"}]}]}]}]}, {\"type\": \"p\", \"children\": [{\"text\": \"\"}]}, {\"type\": \"p\", \"children\": [{\"text\": \"If your platform is not listed here, you can still integrate using the \"}, {\"type\": \"a\", \"url\": \"https://developers.findify.io/docs/integrations-custom-steps\", \"children\": [{\"text\": \"Custom\"}]}, {\"text\": \" integration guide.\"}]}, {\"type\": \"p\", \"children\": [{\"text\": \"\"}]}, {\"type\": \"h2\", \"children\": [{\"text\": \"Step 2: Login to Merchant Dashboard\"}], \"data-id\": \"step-2-login-to-merchant-dashboard\"}, {\"type\": \"ul\", \"children\": [{\"type\": \"li\", \"children\": [{\"type\": \"lic\", \"children\": [{\"text\": \"Once you have installed and integrated Merchandising Cloud you will have access to our Merchant Dashboard\"}]}]}, {\"type\": \"li\", \"children\": [{\"type\": \"lic\", \"children\": [{\"text\": \"See further instructions on \"}, {\"type\": \"a\", \"url\": \"https://developers.findify.io/docs/dashboard-access-and-management\", \"children\": [{\"text\": \"Merchant Dashboard\"}]}, {\"text\": \".\"}]}]}]}, {\"type\": \"p\", \"children\": [{\"text\": \"\"}]}]",
+  "knowledgeCategoryID": 371,
+  "sort": 0,
+  "status": "published",
+  "_source_kb_id": 5,
+  "_source_kb_name": "Merchandising Cloud",
+  "_fix_date": "2026-02-02T06:05:45.554096+00:00",
+  "fixes_applied": {
+    "urls": {
+      "leaving_cleaned": 6,
+      "unsafe_removed": 0,
+      "s_article_mapped": 0,
+      "s_article_removed": 0,
+      "fragments_mapped": 0,
+      "fragments_stripped": 0,
+      "internal_fragments_fixed": 0,
+      "double_id_fixed": 0,
+      "kb_fragments_stripped": 0
+    },
+    "toc": 0,
+    "related": 1,
+    "lists": 0,
+    "headings": 0,
+    "reconverted": false
+  }
+}

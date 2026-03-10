@@ -1,0 +1,16 @@
+{
+  "articleID": 1768,
+  "knowledgeCategoryID": 442,
+  "sort": 2,
+  "name": "Marketing Cloud Release Notes – 18 Nov 2020",
+  "body": "[{\"type\":\"p\",\"children\":[{\"text\":\"You might have noticed some things have moved! To better your experience, reduce required clicks to complete tasks, and to give better context into how features are used, we have relocated the following features: \"}]},{\"type\":\"ol\",\"children\":[{\"type\":\"li\",\"children\":[{\"type\":\"lic\",\"children\":[{\"text\":\" Web tracking is no longer under “Acquisition” but can now be found under \\\"\"},{\"text\":\"Audience\",\"bold\":true},{\"text\":\"\\\"\\n\"}]}]},{\"type\":\"li\",\"children\":[{\"type\":\"lic\",\"children\":[{\"text\":\"Campaign tag has moved from “Audience” to \\\"\"},{\"text\":\"Campaigns\",\"bold\":true},{\"text\":\"\\\" \\n\"}]}]},{\"type\":\"li\",\"children\":[{\"type\":\"lic\",\"children\":[{\"text\":\"We have created a new menu section within the main nav called \\\"Social\\\" for all social media marketing needs \"}]}]}]},{\"type\":\"p\",\"children\":[{\"type\":\"rich_embed_card\",\"children\":[{\"text\":\"\"}],\"dataSourceType\":\"image\",\"url\":\"https://us.v-cdn.net/6038474/uploads/attachments/migrated/05T5g00000BkRAo.05T5g00000BkRAoEAN.png\",\"embedData\":{\"url\":\"https://us.v-cdn.net/6038474/uploads/attachments/migrated/05T5g00000BkRAo.05T5g00000BkRAoEAN.png\",\"name\":\"Screen_Shot_2020-11-18_at_9.59.51_AM.png\",\"embedType\":\"image\",\"float\":\"none\",\"height\":1772,\"width\":3004}}]},{\"type\":\"p\",\"children\":[{\"text\":\"\"}]},{\"type\":\"h1\",\"children\":[{\"text\":\"Coming Soon \"}]},{\"type\":\"p\",\"children\":[{\"text\":\"In accordance with larger user interface enhancements, we will soon be moving and adding the following features to the navigational menu: \"}]},{\"type\":\"ol\",\"children\":[{\"type\":\"li\",\"children\":[{\"type\":\"lic\",\"children\":[{\"text\":\"New section in main nav \\\"Integrations\\\" which will cover our integrations, which are currently found under “Connections” within the account drop-down menu \\n\"}]}]},{\"type\":\"li\",\"children\":[{\"type\":\"lic\",\"children\":[{\"text\":\"New page in the account drop-down \\\"API documentation\\\" \\n\"}]}]},{\"type\":\"li\",\"children\":[{\"type\":\"lic\",\"children\":[{\"text\":\"New page in the account drop down \\\"Settings\\\" which will contain setup for relational tables and FTP transfers, API keys, and JSON web token\"}]}]}]},{\"type\":\"p\",\"children\":[{\"text\":\"\"}]}]",
+  "format": "rich2",
+  "featured": false,
+  "locale": "en",
+  "status": "published",
+  "foreignID": null,
+  "dateUpdated": "2025-08-07T12:45:47+00:00",
+  "_source_kb_id": 11,
+  "_source_kb_name": "MC Release Notes",
+  "_sync_date": "2026-02-02T05:57:15.475488+00:00"
+}

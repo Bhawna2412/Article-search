@@ -1,0 +1,26 @@
+{
+  "articleID": 249,
+  "name": "Store Types",
+  "slug": "249-store-types",
+  "format": "rich2",
+  "locale": "en",
+  "body": "[{\"type\": \"p\", \"children\": [{\"text\": \"You can categorize different outlet formats by configuring store types that distinguish between retail stores, warehouses, franchises, or other location categories within your \"}, {\"text\": \"Retail Express\", \"bold\": true}, {\"text\": \" system. Properly configured store types help organize multi-location operations and enable appropriate reporting, inventory management, and operational workflow distinctions based on location purpose and business model.\"}]}, {\"type\": \"p\", \"children\": [{\"text\": \"Setting up store types aligned with your actual retail operations structure helps distinguish between customer-facing stores, distribution centers, and other location types for better operational management and reporting accuracy.\"}]}, {\"type\": \"p\", \"children\": [{\"text\": \"The Store Types feature allows you to allocate a specific Store Type to your Outlet/s to better manage your inventory, reporting and visibility across the business as a whole.\"}]}, {\"type\": \"p\", \"children\": [{\"text\": \"For companies that manage an array of retail, online, wholesale operations and distribution /warehouse centres, this is an efficient way to separate and provide distinction across the different sectors of the business, and many reports can be filtered by Store Type.\"}]}, {\"type\": \"callout\", \"children\": [{\"type\": \"callout-item\", \"children\": [{\"text\": \"The available Store Types are pre-configured and not currently able to be edited.\"}]}], \"appearance\": \"info\"}, {\"type\": \"p\", \"children\": [{\"text\": \"\"}]}, {\"type\": \"h2\", \"children\": [{\"text\": \"Configure a Store Type:\"}], \"data-id\": \"configure-a-store-type\"}, {\"type\": \"p\", \"children\": [{\"text\": \"To assign a Store Type to your Outlet:\"}]}, {\"type\": \"ol\", \"children\": [{\"type\": \"li\", \"children\": [{\"type\": \"lic\", \"children\": [{\"text\": \"Navigate to: \"}, {\"text\": \"Settings > Locations / Outlets > Outlets\", \"bold\": true}]}]}, {\"type\": \"li\", \"children\": [{\"type\": \"lic\", \"children\": [{\"text\": \"Click the \"}, {\"text\": \"Edit\", \"bold\": true}, {\"text\": \" (pencil) icon to edit your Outlet information\"}]}]}, {\"type\": \"li\", \"children\": [{\"type\": \"lic\", \"children\": [{\"text\": \"Select the required \"}, {\"text\": \"Store Type\", \"bold\": true}]}, {\"type\": \"rich_embed_card\", \"dataSourceType\": \"image\", \"url\": \"https://us.v-cdn.net/6038474/uploads/attachments/migrated/image.05T5g00000ppiDtEAI.jpg\", \"embedData\": {\"url\": \"https://us.v-cdn.net/6038474/uploads/attachments/migrated/image.05T5g00000ppiDtEAI.jpg\", \"embedType\": \"image\", \"displaySize\": \"large\", \"float\": \"none\", \"name\": \"mceclip0 - 2023-07-10T021046.325.png\"}, \"children\": [{\"text\": \"\"}]}]}, {\"type\": \"li\", \"children\": [{\"type\": \"lic\", \"children\": [{\"text\": \"Click \"}, {\"text\": \"Save\", \"bold\": true}]}]}]}, {\"type\": \"p\", \"children\": [{\"text\": \"\"}]}, {\"type\": \"h2\", \"children\": [{\"text\": \"Using Store Type filtering within reports\"}], \"data-id\": \"using-store-type-filtering-within-reports\"}, {\"type\": \"p\", \"children\": [{\"text\": \"The Store Types filter is available across a range of existing reports, including:\"}]}, {\"type\": \"ul\", \"children\": [{\"type\": \"li\", \"children\": [{\"type\": \"lic\", \"children\": [{\"text\": \"Sales Report\"}]}]}, {\"type\": \"li\", \"children\": [{\"type\": \"lic\", \"children\": [{\"text\": \"Inventory Movement Log\"}]}]}, {\"type\": \"li\", \"children\": [{\"type\": \"lic\", \"children\": [{\"text\": \"Item Detail Export\"}]}]}, {\"type\": \"li\", \"children\": [{\"type\": \"lic\", \"children\": [{\"text\": \"Gross Profits Report\"}]}]}]}, {\"type\": \"callout\", \"children\": [{\"type\": \"callout-item\", \"children\": [{\"text\": \"Store Types are not mandatory. However, if you do not assign a Store Type to an Outlet, you will not be able to apply Store Type filters within reports.\"}]}], \"appearance\": \"info\"}, {\"type\": \"p\", \"children\": [{\"text\": \"\"}]}]",
+  "fixes_applied": {
+    "urls": {
+      "leaving_cleaned": 0,
+      "unsafe_removed": 0,
+      "s_article_mapped": 0,
+      "s_article_removed": 4,
+      "fragments_mapped": 0,
+      "fragments_stripped": 0,
+      "internal_fragments_fixed": 0,
+      "double_id_fixed": 0,
+      "kb_fragments_stripped": 0
+    },
+    "toc": 0,
+    "related": 1,
+    "lists": 0,
+    "headings": 0,
+    "reconverted": false
+  }
+}

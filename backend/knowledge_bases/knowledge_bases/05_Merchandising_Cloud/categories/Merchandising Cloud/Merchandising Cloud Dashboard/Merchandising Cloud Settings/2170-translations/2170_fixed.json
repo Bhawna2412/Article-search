@@ -1,0 +1,31 @@
+{
+  "articleID": 2170,
+  "name": "Translations",
+  "format": "rich2",
+  "locale": "en",
+  "body": "[{\"type\": \"p\", \"children\": [{\"text\": \"You can customize every word and term used in your Merchandising Cloud interface to match your brand voice and tone, ensuring a consistent customer experience across your entire store. \"}]}, {\"type\": \"p\", \"children\": [{\"text\": \"This customization capability enables you to adapt interface language for different markets, use region-specific terminology, or simply align the messaging with your unique brand personality.\"}]}, {\"type\": \"p\", \"children\": [{\"text\": \"Tailoring interface translations and messaging helps create a more personalized shopping experience that resonates with your target audience. Whether you need to localize for international markets, adjust terminology to match your industry, or inject your brand's unique voice into system messages, translation customization ensures your search and discovery features feel like a natural extension of your brand rather than a third-party tool.\\n\"}]}, {\"type\": \"p\", \"children\": [{\"text\": \"What are Translations?\", \"bold\": true}]}, {\"type\": \"rich_embed_card\", \"children\": [{\"text\": \"\"}], \"dataSourceType\": \"image\", \"url\": \"https://us.v-cdn.net/6038474/uploads/ENG2KED0IIL9/7775185-translations.png\", \"embedData\": {\"url\": \"https://us.v-cdn.net/6038474/uploads/ENG2KED0IIL9/7775185-translations.png\", \"name\": \"7775185-Translations.png\", \"type\": \"image/png\", \"size\": 44756, \"width\": 1600, \"height\": 809, \"displaySize\": \"large\", \"float\": \"none\", \"downloadUrl\": \"https://galaxy.maropost.com/api/v2/media/download-by-url?url=https%3A%2F%2Fus.v-cdn.net%2F6038474%2Fuploads%2FENG2KED0IIL9%2F7775185-translations.png\", \"mediaID\": 1025, \"dateInserted\": \"2025-10-06T20:41:25+00:00\", \"insertUserID\": 1178, \"foreignType\": \"embed\", \"foreignID\": \"1178\", \"embedType\": \"image\"}}, {\"type\": \"p\", \"children\": [{\"text\": \"Every merchant is unique, and every merchant has spent time and effort creating their own set of brand guidelines and curating their own specific tonality.\"}]}, {\"type\": \"p\", \"children\": [{\"text\": \"This is why we allow for the customization of not only every single design aspect of its solutions, but also every single word and term used.\"}]}, {\"type\": \"p\", \"children\": [{\"text\": \"Take, for example, the term 'Products You Recently Viewed' which appears as the title of a recommendations widget. Perhaps the merchant is based in the US in the deep south and has a particularly jovial tone with it's customers, and so they would like to change this to 'Y'all previous looked at these cool items'.\"}]}, {\"type\": \"rich_embed_card\", \"children\": [{\"text\": \"\"}], \"dataSourceType\": \"image\", \"url\": \"https://us.v-cdn.net/6038474/uploads/61FWQ0BYIHUF/be979b7-yall.png\", \"embedData\": {\"url\": \"https://us.v-cdn.net/6038474/uploads/61FWQ0BYIHUF/be979b7-yall.png\", \"name\": \"be979b7-Yall.png\", \"type\": \"image/png\", \"size\": 4379, \"width\": 965, \"height\": 96, \"displaySize\": \"large\", \"float\": \"none\", \"downloadUrl\": \"https://galaxy.maropost.com/api/v2/media/download-by-url?url=https%3A%2F%2Fus.v-cdn.net%2F6038474%2Fuploads%2F61FWQ0BYIHUF%2Fbe979b7-yall.png\", \"mediaID\": 1026, \"dateInserted\": \"2025-10-06T20:42:22+00:00\", \"insertUserID\": 1178, \"foreignType\": \"embed\", \"foreignID\": \"1178\", \"embedType\": \"image\"}}, {\"type\": \"p\", \"children\": [{\"text\": \"Or maybe where the system uses the term 'Sorry!' merchants would prefer to use the term 'Uh-oh!' or 'Not today!'.\"}]}, {\"type\": \"rich_embed_card\", \"children\": [{\"text\": \"\"}], \"dataSourceType\": \"image\", \"url\": \"https://us.v-cdn.net/6038474/uploads/OHJ6G1MS1CYZ/58958a6-oh-no.png\", \"embedData\": {\"url\": \"https://us.v-cdn.net/6038474/uploads/OHJ6G1MS1CYZ/58958a6-oh-no.png\", \"name\": \"58958a6-Oh_No.png\", \"type\": \"image/png\", \"size\": 2231, \"width\": 964, \"height\": 107, \"displaySize\": \"large\", \"float\": \"none\", \"downloadUrl\": \"https://galaxy.maropost.com/api/v2/media/download-by-url?url=https%3A%2F%2Fus.v-cdn.net%2F6038474%2Fuploads%2FOHJ6G1MS1CYZ%2F58958a6-oh-no.png\", \"mediaID\": 1027, \"dateInserted\": \"2025-10-06T20:42:36+00:00\", \"insertUserID\": 1178, \"foreignType\": \"embed\", \"foreignID\": \"1178\", \"embedType\": \"image\"}}, {\"type\": \"p\", \"children\": [{\"text\": \"This service is also available for languages other than English.\"}]}, {\"type\": \"p\", \"children\": [{\"text\": \"\"}]}, {\"type\": \"p\", \"children\": [{\"text\": \"\"}]}]",
+  "knowledgeCategoryID": 391,
+  "sort": 4,
+  "status": "published",
+  "_source_kb_id": 5,
+  "_source_kb_name": "Merchandising Cloud",
+  "_fix_date": "2026-02-02T06:05:46.631099+00:00",
+  "fixes_applied": {
+    "urls": {
+      "leaving_cleaned": 0,
+      "unsafe_removed": 0,
+      "s_article_mapped": 0,
+      "s_article_removed": 0,
+      "fragments_mapped": 0,
+      "fragments_stripped": 0,
+      "internal_fragments_fixed": 0,
+      "double_id_fixed": 0,
+      "kb_fragments_stripped": 0
+    },
+    "toc": 0,
+    "related": 1,
+    "lists": 0,
+    "headings": 0,
+    "reconverted": false
+  }
+}

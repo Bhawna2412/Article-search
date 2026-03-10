@@ -1,0 +1,18 @@
+{
+  "articleID": 330,
+  "name": "Top 200 Customers",
+  "format": "rich2",
+  "locale": "en",
+  "body": "[{\"type\": \"p\", \"children\": [{\"text\": \"You can use the Top 200 Customers report to quickly identify your most valuable customers based on lifetime purchase history, helping focus customer relationship efforts on high-value accounts. This improves your retail operations by providing immediate visibility into your best customers, with properly configured customer reporting typically enabling more effective loyalty program targeting and relationship-building strategies that drive repeat business.\"}]}, {\"type\": \"p\", \"children\": [{\"text\": \"Understanding top customer reporting involves recognizing lifetime spending patterns and knowing when to use more detailed customer activity reports for date-specific analysis, helping retail operators focus on the right customer relationship opportunities to ensure your retail strategy consistently drives better customer loyalty outcomes.\"}]}, {\"type\": \"p\", \"children\": [{\"text\": \"The Top 200 Customers report is designed to highlight your most valuable customers based on their purchase history and sales contribution. This report helps businesses identify their key customer base, analyze buying patterns, and strategize loyalty programs or targeted marketing campaigns to strengthen customer relationships\"}, {\"text\": \"\\n\"}, {\"text\": \"\\n\"}, {\"text\": \"\\n\"}, {\"text\": \"The Top 200 Customers Report is a fast way to see your top-spending customers of all time. Use the C\"}, {\"type\": \"a\", \"url\": \"https://galaxy.maropost.com/s/article/Customer-Activity-Report\", \"children\": [{\"text\": \"ustomer Activity Report\"}]}, {\"text\": \" to view customer spending with more specific filters e.g. date range\"}]}, {\"type\": \"p\", \"children\": [{\"text\": \"To view your Top 200 Customers:\"}]}, {\"type\": \"ol\", \"children\": [{\"type\": \"li\", \"children\": [{\"type\": \"lic\", \"children\": [{\"text\": \"Navigate to: \"}, {\"text\": \"Reports > Customer Reports > Top 200 Customers\", \"bold\": true}]}, {\"type\": \"rich_embed_card\", \"dataSourceType\": \"image\", \"url\": \"https://us.v-cdn.net/6038474/uploads/attachments/migrated/image.05T5g00000ppiMHEAY.jpg\", \"embedData\": {\"url\": \"https://us.v-cdn.net/6038474/uploads/attachments/migrated/image.05T5g00000ppiMHEAY.jpg\", \"embedType\": \"image\", \"displaySize\": \"large\", \"float\": \"none\", \"name\": \"blobid0 (47).png\"}, \"children\": [{\"text\": \"\"}]}]}, {\"type\": \"li\", \"children\": [{\"type\": \"lic\", \"children\": [{\"text\": \"The \"}, {\"text\": \"Results \", \"bold\": true}, {\"text\": \"will be displayed immediately\"}]}]}, {\"type\": \"li\", \"children\": [{\"type\": \"lic\", \"children\": [{\"text\": \"Click \"}, {\"text\": \"Print\", \"bold\": true}, {\"text\": \" or \"}, {\"text\": \"Export to Excel \", \"bold\": true}, {\"text\": \"if required\"}]}]}, {\"type\": \"li\", \"children\": [{\"type\": \"lic\", \"children\": [{\"text\": \"Click the \"}, {\"text\": \"Customer Number \", \"bold\": true}, {\"text\": \"to open the Customer Account\"}]}]}]}, {\"type\": \"p\", \"children\": [{\"text\": \"\"}]}, {\"type\": \"p\", \"children\": [{\"type\": \"a\", \"url\": \"#Top\", \"children\": [{\"text\": \"Return to Top\"}]}]}, {\"type\": \"p\", \"children\": [{\"text\": \"\"}]}]",
+  "knowledgeCategoryID": 58,
+  "sort": 2,
+  "status": "published",
+  "_source_kb_id": 2,
+  "_source_kb_name": "Retail Express",
+  "_fix_date": "2026-02-06T07:29:52.297124+00:00",
+  "_patch_type": "duplicate_intro_and_related_articles",
+  "fixes_applied": {
+    "duplicate_intros": 0,
+    "related_articles": 1
+  }
+}

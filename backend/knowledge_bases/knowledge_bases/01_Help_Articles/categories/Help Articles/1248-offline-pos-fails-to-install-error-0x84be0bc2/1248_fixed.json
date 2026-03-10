@@ -1,0 +1,16 @@
+{
+  "articleID": 1248,
+  "knowledgeCategoryID": 1,
+  "sort": 100,
+  "name": "Offline POS fails to Install - Error: 0x84be0bc2",
+  "body": "<h1 data-id=\"offline-pos-fails-to-install-error-0x84be0bc2\">Offline POS fails to Install - Error: 0x84be0bc2</h1>\n<p><strong>If Offline POS occurs an error whilst installing with error message - 0x84be0bc2</strong></p>\n<ol><li>Perform a <strong>RESTART </strong><span>! IMPORTANT !</span></li><li>Check for Admin privileges</li><li><strong>Webroot</strong> security (if installed) will block install\n<pre class=\"code codeBlock\" spellcheck=\"false\" tabindex=\"0\"><br/>Ask for permission to <strong>UNINSTALL</strong></pre>\n\t</li><li>Always perform a <strong>RESTART </strong>if error occurs</li><li>Proceed after reboot with installation</li></ol>",
+  "format": "html",
+  "featured": false,
+  "locale": "en",
+  "status": "published",
+  "foreignID": null,
+  "dateUpdated": "2023-06-01T04:06:21+00:00",
+  "_source_kb_id": 1,
+  "_source_kb_name": "Help Articles",
+  "_sync_date": "2026-02-02T05:48:28.492191+00:00"
+}

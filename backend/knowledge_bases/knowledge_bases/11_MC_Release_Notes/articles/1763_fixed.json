@@ -1,0 +1,16 @@
+{
+  "articleID": 1763,
+  "knowledgeCategoryID": 442,
+  "sort": 9,
+  "name": "Marketing Cloud Release Notes – 7 Jul 2020",
+  "body": "[{\"type\":\"h2\",\"children\":[{\"text\":\"Overview\"}]},{\"type\":\"p\",\"children\":[{\"text\":\"Starting this release, you get the freedom to design your journeys based on order status. Also, check out the bug fixes article to see which bugs were fixed.\"}]},{\"type\":\"p\",\"children\":[{\"text\":\"To learn more about the update, read on!\"}]},{\"type\":\"p\",\"children\":[{\"text\":\"\"}]},{\"type\":\"h2\",\"children\":[{\"text\":\"Enhancements\"}]},{\"type\":\"p\",\"children\":[{\"text\":\"Ability to Filter Contacts Based on Order Status in Journeys\",\"bold\":true}]},{\"type\":\"p\",\"children\":[{\"text\":\"In the Product Purchase journey trigger, you can now filter the contacts based on order status. So, now you can create separate journeys that will trigger specifically for particular order statuses, for example, sale, refund, abandon, or cancel. \"}]},{\"type\":\"p\",\"children\":[{\"text\":\"On the Product Purchase dialog box, you will notice the new 'Order Status' filter as a text field along with a checkbox. To filter the contacts based on a specific order status, select the checkbox, and then enter the specific order status in the text box.\"}]},{\"type\":\"p\",\"children\":[{\"text\":\"To learn more about the Product Purchase journey trigger, see \"},{\"type\":\"a\",\"url\":\"https://galaxy.maropost.com/kb/articles/735-journey-triggers\",\"target\":\"_blank\",\"children\":[{\"text\":\"Journey Triggers\"}]},{\"text\":\". \"}]},{\"type\":\"rich_embed_card\",\"children\":[{\"text\":\"\"}],\"dataSourceType\":\"image\",\"url\":\"https://us.v-cdn.net/6038474/uploads/attachments/migrated/05T5g00000BkWkl.05T5g00000BkWklEAF.png\",\"embedData\":{\"url\":\"https://us.v-cdn.net/6038474/uploads/attachments/migrated/05T5g00000BkWkl.05T5g00000BkWklEAF.png\",\"name\":\"Order_Status.png\",\"embedType\":\"image\",\"float\":\"none\",\"height\":330,\"width\":505}},{\"type\":\"p\",\"children\":[{\"text\":\" \"}]}]",
+  "format": "rich2",
+  "featured": false,
+  "locale": "en",
+  "status": "published",
+  "foreignID": null,
+  "dateUpdated": "2025-08-07T12:40:17+00:00",
+  "_source_kb_id": 11,
+  "_source_kb_name": "MC Release Notes",
+  "_sync_date": "2026-02-02T05:57:19.685843+00:00"
+}

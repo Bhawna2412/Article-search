@@ -1,0 +1,27 @@
+{
+  "articleID": 1098,
+  "name": "Set Different Promotional Pricing for Retail and Wholesale Customers",
+  "slug": "1098-set-different-promotional-pricing-for-retail-and-wholesale-customers",
+  "format": "rich2",
+  "locale": "en",
+  "body": "[{\"type\": \"ol\", \"children\": [{\"type\": \"li\", \"children\": [{\"type\": \"lic\", \"children\": [{\"text\": \"In your\\u00a0Neto by Maropost control panel navigate to \"}, {\"text\": \"Products\", \"bold\": true}, {\"text\": \" > \"}, {\"text\": \"View Products\", \"bold\": true}, {\"text\": \" and edit the product you wish to specify the promotional pricing for.\"}]}]}, {\"type\": \"li\", \"children\": [{\"type\": \"lic\", \"children\": [{\"text\": \"Click the \"}, {\"text\": \"Pricing & Tax\", \"bold\": true}, {\"text\": \" tab and specify promotional pricing for different customer groups as per below.\"}, {\"text\": \"\\n\"}, {\"text\": \"\\n\"}, {\"text\": \"[Image: image1]\"}]}]}, {\"type\": \"li\", \"children\": [{\"type\": \"lic\", \"children\": [{\"text\": \"Enter the pricing promotion start and end date as well as the promotion tag. The prices displayed will match those entered into the product page for the customer group during the specified promotional period.\"}]}]}, {\"type\": \"li\", \"children\": [{\"type\": \"lic\", \"children\": [{\"text\": \"Click \"}, {\"text\": \"Save\", \"bold\": true}, {\"text\": \".\"}]}]}]}, {\"type\": \"p\", \"children\": [{\"text\": \"You can import promotional pricing using the import product wizard. See our article on \"}, {\"type\": \"a\", \"url\": \"https://galaxy.maropost.com/kb/articles/668-product-import-wizard\", \"children\": [{\"text\": \"importing products\"}]}, {\"text\": \" for more details.\"}]}]",
+  "fixes_applied": {
+    "rebrand": 0,
+    "urls": {
+      "leaving_cleaned": 0,
+      "unsafe_removed": 0,
+      "s_article_mapped": 1,
+      "s_article_removed": 0,
+      "fragments_mapped": 0,
+      "fragments_stripped": 0,
+      "internal_fragments_fixed": 0,
+      "double_id_fixed": 0,
+      "kb_fragments_stripped": 0
+    },
+    "toc": 0,
+    "related": 0,
+    "lists": 4,
+    "headings": 0,
+    "reconverted": false
+  }
+}

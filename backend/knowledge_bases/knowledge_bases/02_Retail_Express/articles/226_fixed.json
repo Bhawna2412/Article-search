@@ -1,0 +1,26 @@
+{
+  "articleID": 226,
+  "name": "Synchronising Offline POS Sales",
+  "slug": "226-synchronising-offline-pos-sales",
+  "format": "rich2",
+  "locale": "en",
+  "body": "[{\"type\": \"p\", \"children\": [{\"text\": \"You can maintain continuous retail operations even during internet connectivity issues by using offline POS mode, which automatically synchronises sales data once connection is restored. This helps ensure your retail business continues serving customers without interruption, with offline transactions typically synchronising within minutes of reconnection to maintain accurate inventory and sales records.\"}]}, {\"type\": \"p\", \"children\": [{\"text\": \"Understanding how offline sales synchronisation works helps your retail team handle connectivity disruptions effectively while maintaining proper invoice numbering and transaction tracking across your retail operations.\"}]}, {\"type\": \"p\", \"children\": [{\"text\": \"Sales created while in Offline mode will begin to synchronise once a connection is restored. The Invoice Numbers for sales that are created in Offline Mode are in a different sequence than your normal Invoice Numbers.\"}]}, {\"type\": \"table\", \"children\": [{\"type\": \"tr\", \"children\": [{\"type\": \"td\", \"children\": [{\"type\": \"p\", \"children\": [{\"text\": \"Normal invoices numbers are prefixed with the year they were created\", \"bold\": true}]}]}, {\"type\": \"td\", \"children\": [{\"type\": \"p\", \"children\": [{\"text\": \"Offline Mode invoices are a notably different numeric sequence\", \"bold\": true}]}]}]}, {\"type\": \"tr\", \"children\": [{\"type\": \"td\", \"children\": [{\"type\": \"rich_embed_card\", \"dataSourceType\": \"image\", \"url\": \"https://us.v-cdn.net/6038474/uploads/attachments/migrated/image.05T5g00000ppiCIEAY.jpg\", \"embedData\": {\"url\": \"https://us.v-cdn.net/6038474/uploads/attachments/migrated/image.05T5g00000ppiCIEAY.jpg\", \"embedType\": \"image\", \"displaySize\": \"large\", \"float\": \"none\", \"name\": \"offlinepos_installation_invoicenumberregular.jpg\"}, \"children\": [{\"text\": \"\"}]}]}, {\"type\": \"td\", \"children\": [{\"type\": \"rich_embed_card\", \"dataSourceType\": \"image\", \"url\": \"https://us.v-cdn.net/6038474/uploads/attachments/migrated/image.05T5g00000ppiHgEAI.jpg\", \"embedData\": {\"url\": \"https://us.v-cdn.net/6038474/uploads/attachments/migrated/image.05T5g00000ppiHgEAI.jpg\", \"embedType\": \"image\", \"displaySize\": \"large\", \"float\": \"none\", \"name\": \"offlinepos_invoicenumberoffline.jpg\"}, \"children\": [{\"text\": \"\"}]}]}]}], \"id\": \"rich-table-2449d6ed\"}, {\"type\": \"p\", \"children\": [{\"text\": \"\"}]}]",
+  "fixes_applied": {
+    "urls": {
+      "leaving_cleaned": 0,
+      "unsafe_removed": 0,
+      "s_article_mapped": 0,
+      "s_article_removed": 0,
+      "fragments_mapped": 0,
+      "fragments_stripped": 0,
+      "internal_fragments_fixed": 0,
+      "double_id_fixed": 0,
+      "kb_fragments_stripped": 0
+    },
+    "toc": 0,
+    "related": 1,
+    "lists": 0,
+    "headings": 0,
+    "reconverted": false
+  }
+}

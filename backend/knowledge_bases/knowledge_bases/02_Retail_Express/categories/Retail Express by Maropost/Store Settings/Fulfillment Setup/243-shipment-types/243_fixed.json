@@ -1,0 +1,26 @@
+{
+  "articleID": 243,
+  "name": "Shipment Types",
+  "slug": "243-shipment-types",
+  "format": "rich2",
+  "locale": "en",
+  "body": "[{\"type\": \"p\", \"children\": [{\"text\": \"You can track how suppliers ship purchase orders to your business by configuring shipment types that indicate delivery methods like air freight, sea freight, or courier services. Using shipment types in the PO Manager helps retail operators search, filter, and monitor incoming inventory shipments more effectively, improving purchase order tracking and helping anticipate stock arrival timing based on shipping method.\"}]}, {\"type\": \"p\", \"children\": [{\"text\": \"Setting up shipment types aligned with your supplier delivery methods helps retail operators better forecast inventory arrivals and manage receiving operations across multiple purchase orders and suppliers.\"}]}, {\"type\": \"p\", \"children\": [{\"text\": \"The Shipment Types feature is used to indicate the method that your supplier will use when shipping Purchase Orders to you. Shipment Types are then used when creating a Purchase Order and can be used in the \"}, {\"text\": \"PO Manager\"}, {\"text\": \" to search and filter your orders.\"}]}, {\"type\": \"rich_embed_card\", \"dataSourceType\": \"image\", \"url\": \"https://us.v-cdn.net/6038474/uploads/attachments/migrated/image.05T5g00000pphuwEAA.jpg\", \"embedData\": {\"url\": \"https://us.v-cdn.net/6038474/uploads/attachments/migrated/image.05T5g00000pphuwEAA.jpg\", \"embedType\": \"image\", \"displaySize\": \"large\", \"float\": \"none\", \"name\": \"mceclip5 (25).png\"}, \"children\": [{\"text\": \"\"}]}, {\"type\": \"p\", \"children\": [{\"text\": \"\"}]}, {\"type\": \"h2\", \"children\": [{\"text\": \"Create a Shipment Type\"}], \"data-id\": \"create-a-shipment-type\"}, {\"type\": \"p\", \"children\": [{\"text\": \"To create a new Shipment Type:\"}]}, {\"type\": \"ol\", \"children\": [{\"type\": \"li\", \"children\": [{\"type\": \"lic\", \"children\": [{\"text\": \"Navigate to \"}, {\"text\": \"Settings > Purchase Orders Setup > Shipment Types\", \"bold\": true}]}]}, {\"type\": \"li\", \"children\": [{\"type\": \"lic\", \"children\": [{\"text\": \"Enter a \"}, {\"text\": \"Shipment Type \", \"bold\": true}, {\"text\": \"name\"}]}, {\"type\": \"rich_embed_card\", \"dataSourceType\": \"image\", \"url\": \"https://us.v-cdn.net/6038474/uploads/attachments/migrated/image.05T5g00000pphv1EAA.jpg\", \"embedData\": {\"url\": \"https://us.v-cdn.net/6038474/uploads/attachments/migrated/image.05T5g00000pphv1EAA.jpg\", \"embedType\": \"image\", \"displaySize\": \"large\", \"float\": \"none\", \"name\": \"mceclip2 (84).png\"}, \"children\": [{\"text\": \"\"}]}]}, {\"type\": \"li\", \"children\": [{\"type\": \"lic\", \"children\": [{\"text\": \"Click \"}, {\"text\": \"Create\", \"bold\": true}]}]}]}, {\"type\": \"p\", \"children\": [{\"text\": \"\"}]}, {\"type\": \"h2\", \"children\": [{\"text\": \"Manage Existing Shipment Types\"}], \"data-id\": \"manage-existing-shipment-types\"}, {\"type\": \"p\", \"children\": [{\"text\": \"To manage existing Shipment Types:\"}]}, {\"type\": \"ol\", \"children\": [{\"type\": \"li\", \"children\": [{\"type\": \"lic\", \"children\": [{\"text\": \"Click the \"}, {\"text\": \"Pencil icon\", \"bold\": true}, {\"type\": \"rich_embed_card\", \"dataSourceType\": \"image\", \"url\": \"https://us.v-cdn.net/6038474/uploads/attachments/migrated/image.05T5g00000pphv6EAA.jpg\", \"embedData\": {\"url\": \"https://us.v-cdn.net/6038474/uploads/attachments/migrated/image.05T5g00000pphv6EAA.jpg\", \"embedType\": \"image\", \"displaySize\": \"inline\", \"float\": \"none\", \"name\": \"mceclip1 - 2023-07-10T000829.591.png\"}, \"children\": [{\"text\": \"\"}]}, {\"text\": \" to \"}, {\"text\": \"edit\", \"bold\": true}, {\"text\": \" the name\"}]}]}, {\"type\": \"li\", \"children\": [{\"type\": \"lic\", \"children\": [{\"text\": \"Click the \"}, {\"text\": \"Trash can \", \"bold\": true}, {\"text\": \"icon \"}, {\"type\": \"rich_embed_card\", \"dataSourceType\": \"image\", \"url\": \"https://us.v-cdn.net/6038474/uploads/attachments/migrated/image.05T5g00000pphvBEAQ.jpg\", \"embedData\": {\"url\": \"https://us.v-cdn.net/6038474/uploads/attachments/migrated/image.05T5g00000pphvBEAQ.jpg\", \"embedType\": \"image\", \"displaySize\": \"inline\", \"float\": \"none\", \"name\": \"mceclip3 (54).png\"}, \"children\": [{\"text\": \"\"}]}, {\"text\": \" to delete an existing Shipment Type\"}]}]}]}, {\"type\": \"p\", \"children\": [{\"text\": \"\"}]}]",
+  "fixes_applied": {
+    "urls": {
+      "leaving_cleaned": 0,
+      "unsafe_removed": 0,
+      "s_article_mapped": 0,
+      "s_article_removed": 1,
+      "fragments_mapped": 0,
+      "fragments_stripped": 0,
+      "internal_fragments_fixed": 0,
+      "double_id_fixed": 0,
+      "kb_fragments_stripped": 0
+    },
+    "toc": 0,
+    "related": 1,
+    "lists": 0,
+    "headings": 0,
+    "reconverted": false
+  }
+}

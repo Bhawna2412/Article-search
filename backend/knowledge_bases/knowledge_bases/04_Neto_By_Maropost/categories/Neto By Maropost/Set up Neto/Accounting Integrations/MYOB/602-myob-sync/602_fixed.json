@@ -1,0 +1,27 @@
+{
+  "articleID": 602,
+  "name": "MYOB Sync",
+  "slug": "602-myob-sync",
+  "format": "rich2",
+  "locale": "en",
+  "body": "[{\"type\": \"p\", \"children\": [{\"type\": \"rich_embed_card\", \"children\": [{\"text\": \"\"}], \"dataSourceType\": \"image\", \"url\": \"https://us.v-cdn.net/6038474/uploads/attachments/migrated/image.05TJ100000NejDqMAJ.jpg\", \"embedData\": {\"url\": \"https://us.v-cdn.net/6038474/uploads/attachments/migrated/image.05TJ100000NejDqMAJ.jpg\", \"name\": \"myobsync.png\", \"embedType\": \"image\", \"float\": \"none\", \"height\": 200, \"width\": 400}}]}, {\"type\": \"p\", \"children\": [{\"text\": \"This add-on was built by mysync\", \"bold\": true}]}, {\"type\": \"p\", \"children\": [{\"text\": \"\"}, {\"type\": \"a\", \"url\": \"https://mysync.io/myobandneto.html\", \"target\": \"_blank\", \"children\": [{\"text\": \"Visit add-on website!\"}]}, {\"text\": \"\"}]}, {\"type\": \"p\", \"children\": [{\"text\": \"For support with this add-on, contact \"}, {\"type\": \"a\", \"url\": \"https://help.mysync.io/hc/en-us/requests/new\", \"target\": \"_blank\", \"children\": [{\"text\": \"mysync\"}]}, {\"text\": \".\"}]}, {\"type\": \"p\", \"children\": [{\"text\": \"\"}]}, {\"type\": \"h2\", \"children\": [{\"text\": \"Overview\"}]}, {\"type\": \"p\", \"children\": [{\"text\": \"MYOB AccountRight is powerful accounting with business management capabilities so your client\\u2019s business can stay competitive and get ahead. Within the dashboard, you get a powerful single view to interact with your clients online.\"}]}, {\"type\": \"p\", \"children\": [{\"text\": \"Gain timely, actionable insights into your clients\\u2019 businesses with Power BI, a powerful analytics tool that allows you to give even better advice to your AccountRight Live clients.\"}]}, {\"type\": \"p\", \"children\": [{\"text\": \"Richer data allows you to have better conversations with your clients, helping them identify opportunities and threats in advance to maximise their business performance.\"}]}, {\"type\": \"p\", \"children\": [{\"text\": \"This app is powered by mysync and includes a 14-day free trial for new installations.\"}]}, {\"type\": \"p\", \"children\": [{\"text\": \"\"}]}, {\"type\": \"h2\", \"children\": [{\"text\": \"Set up MYOB\"}]}, {\"type\": \"p\", \"children\": [{\"text\": \"To set up the MYOB add-on in your Neto webstore:\"}]}, {\"type\": \"ol\", \"children\": [{\"type\": \"li\", \"children\": [{\"type\": \"p\", \"children\": [{\"text\": \"In your Neto control panel, click on the \"}, {\"text\": \"Addons\", \"bold\": true}, {\"text\": \" menu.\"}]}]}, {\"type\": \"li\", \"children\": [{\"type\": \"p\", \"children\": [{\"text\": \"Find the MYOB Sync add-on and click the\\u00a0\"}, {\"text\": \"Install\", \"bold\": true}, {\"text\": \" button.\"}]}]}, {\"type\": \"li\", \"children\": [{\"type\": \"p\", \"children\": [{\"text\": \"The MYOB Sync add-on will be installed in your control panel.\"}]}]}, {\"type\": \"li\", \"children\": [{\"type\": \"p\", \"children\": [{\"text\": \"In the pop-up window, click the \"}, {\"text\": \"Configure MYOB by Sync\", \"bold\": true}, {\"text\": \" button.\"}]}]}, {\"type\": \"li\", \"children\": [{\"type\": \"p\", \"children\": [{\"text\": \"Follow the steps on the \"}, {\"type\": \"a\", \"url\": \"https://help.mysync.io/hc/en-us/articles/900006148026-MYOB-Sync-Neto-Guide\", \"target\": \"_blank\", \"children\": [{\"text\": \"mysync help site\"}]}, {\"text\": \" to set up your MYOB Sync connection.\"}]}]}]}, {\"type\": \"p\", \"children\": [{\"text\": \"\"}]}]",
+  "fixes_applied": {
+    "rebrand": 0,
+    "urls": {
+      "leaving_cleaned": 3,
+      "unsafe_removed": 0,
+      "s_article_mapped": 0,
+      "s_article_removed": 0,
+      "fragments_mapped": 0,
+      "fragments_stripped": 0,
+      "internal_fragments_fixed": 0,
+      "double_id_fixed": 0,
+      "kb_fragments_stripped": 0
+    },
+    "toc": 0,
+    "related": 0,
+    "lists": 0,
+    "headings": 0,
+    "reconverted": false
+  }
+}

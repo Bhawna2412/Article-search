@@ -1,0 +1,16 @@
+{
+  "articleID": 2297,
+  "knowledgeCategoryID": 483,
+  "sort": 9,
+  "name": "UTM tracking query",
+  "body": "[{\"type\":\"p\",\"children\":[{\"text\":\"📘 \"},{\"text\":\"Issue\",\"bold\":true},{\"text\":\":\"}]},{\"type\":\"p\",\"children\":[{\"text\":\"Merchandising Cloud's script replaces UTM query from URL on smart collection pages and search results.\"}]},{\"type\":\"p\",\"children\":[{\"text\":\"Don't worry, most analytics platforms use the original URL instead of the replaced one. This means all provided data will be sent to its recipient.\"}]},{\"type\":\"p\",\"children\":[{\"text\":\"To make sure:\"}]},{\"type\":\"ul\",\"children\":[{\"type\":\"li\",\"children\":[{\"type\":\"lic\",\"children\":[{\"text\":\"Check for your analytics script position in HTML - it should be placed before our script.\"}]}]},{\"type\":\"li\",\"children\":[{\"type\":\"lic\",\"children\":[{\"text\":\"Open \\\"developer tools\\\" in your browser and check the request that was sent to the analytics platform. The original URL with the correct query should be present in the \\\"query string parameters\\\" section.\"}]}]}]},{\"type\":\"rich_embed_card\",\"children\":[{\"text\":\"\"}],\"dataSourceType\":\"image\",\"url\":\"https://us.v-cdn.net/6038474/uploads/2Y7QKQZHL9FW/83d72127-2770-4535-827c-d0a4c1b6a9a7.jpeg\",\"embedData\":{\"url\":\"https://us.v-cdn.net/6038474/uploads/2Y7QKQZHL9FW/83d72127-2770-4535-827c-d0a4c1b6a9a7.jpeg\",\"name\":\"83d72127-2770-4535-827c-d0a4c1b6a9a7.jpeg\",\"type\":\"image/jpeg\",\"size\":37148,\"width\":1050,\"height\":362,\"displaySize\":\"large\",\"float\":\"none\",\"mediaID\":496,\"dateInserted\":\"2025-09-18T18:14:11+00:00\",\"insertUserID\":1178,\"foreignType\":\"embed\",\"foreignID\":\"1178\",\"embedType\":\"image\"}},{\"type\":\"blockquote\",\"children\":[{\"type\":\"blockquote-line\",\"children\":[{\"text\":\"Manual Script\",\"bold\":true}]},{\"type\":\"blockquote-line\",\"children\":[{\"text\":\"In case you are implementing your own analytics, or trying to access the original URL inside Google Tag Manager:\"}]},{\"type\":\"blockquote-line\",\"children\":[{\"text\":\"Store the initial URL on the page window.initialUrl = window.location.href`\"}]},{\"type\":\"blockquote-line\",\"children\":[{\"text\":\"Then use this value inside your script\"}]}]},{\"type\":\"p\",\"children\":[{\"text\":\"\\n\"}]},{\"type\":\"p\",\"children\":[{\"text\":\"\"}]}]",
+  "format": "rich2",
+  "featured": false,
+  "locale": "en",
+  "status": "published",
+  "foreignID": null,
+  "dateUpdated": "2025-09-18T18:15:01+00:00",
+  "_source_kb_id": 5,
+  "_source_kb_name": "Merchandising Cloud",
+  "_sync_date": "2026-02-02T05:54:59.787809+00:00"
+}

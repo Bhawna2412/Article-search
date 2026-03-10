@@ -1,0 +1,31 @@
+{
+  "articleID": 1982,
+  "name": "Key Benefits",
+  "format": "rich2",
+  "locale": "en",
+  "body": "[{\"type\": \"p\", \"children\": [{\"text\": \"You can leverage Merchandising Cloud's AI-powered solutions to help improve product discovery, increase conversion rates, and enhance customer experience through personalized search, smart collections, and recommendations. The platform's personalization algorithm analyzes multiple factors influencing buying decisions, helping surface products that shoppers are more likely to purchase while maintaining your brand's visual identity through fully customizable solutions.\"}]}, {\"type\": \"p\", \"children\": [{\"text\": \"Implementing these features enables you to transform static product displays into dynamic, behavior-driven experiences that adapt to individual customer preferences. This approach tends to improve site speed, reduce search refinements, and create better user experiences by quickly showing shoppers products of interest to them, supported by dedicated customer care teams to optimize your merchandising strategy over time.\"}]}, {\"type\": \"p\", \"children\": [{\"text\": \"Read how the integration of Merchandising Cloud solutions can result in increased revenue, boosted conversion, and improved UX.\", \"italic\": true}]}, {\"type\": \"rich_embed_card\", \"dataSourceType\": \"image\", \"url\": \"https://us.v-cdn.net/6038474/uploads/9NPIIA1ZR745/65188d8-202102-merchant-pain-points-shopify.png\", \"embedData\": {\"url\": \"https://us.v-cdn.net/6038474/uploads/9NPIIA1ZR745/65188d8-202102-merchant-pain-points-shopify.png\", \"embedType\": \"image\", \"displaySize\": \"large\", \"float\": \"none\", \"name\": \"65188d8-202102_Merchant_pain_points_Shopify.png\", \"width\": 1280, \"height\": 720}, \"children\": [{\"text\": \"\"}]}, {\"type\": \"p\", \"children\": [{\"text\": \"Increase overall revenue by up to 30%\"}]}, {\"type\": \"p\", \"children\": [{\"text\": \"Merchandising Cloud's AI puts the products shoppers desire, right in front of them - increasing relevance for you to sell more.\"}]}, {\"type\": \"p\", \"children\": [{\"text\": \"Boost conversion with individual personalization\"}]}, {\"type\": \"p\", \"children\": [{\"text\": \"Merchandising Cloud's personalization algorithm analyzes 60+ factors that influence customer buying decisions and boosts products most likely to convert.\"}]}, {\"type\": \"p\", \"children\": [{\"text\": \"Fully customizable merchant experience\"}]}, {\"type\": \"p\", \"children\": [{\"text\": \"Every Merchandising Cloud solution can be customized in order to fit your online store's look, style, and brand guidelines.\"}]}, {\"type\": \"rich_embed_card\", \"dataSourceType\": \"image\", \"url\": \"https://us.v-cdn.net/6038474/uploads/2EU7Y8JG2QWG/b4f72c4-findify-benefits.png\", \"embedData\": {\"url\": \"https://us.v-cdn.net/6038474/uploads/2EU7Y8JG2QWG/b4f72c4-findify-benefits.png\", \"embedType\": \"image\", \"displaySize\": \"large\", \"float\": \"none\", \"name\": \"b4f72c4-Findify_Benefits.png\", \"width\": 1280, \"height\": 720}, \"children\": [{\"text\": \"\"}]}, {\"type\": \"p\", \"children\": [{\"text\": \"Ensure none of your store displays remain static\"}]}, {\"type\": \"p\", \"children\": [{\"text\": \"Merchandising Cloud personalizes all solutions - including search, smart collections, and recommendations. No display is ever static unless you specifically want it to be.\"}]}, {\"type\": \"p\", \"children\": [{\"text\": \"Receive the highest level of support\"}]}, {\"type\": \"p\", \"children\": [{\"text\": \"Merchandising Cloud offers a dedicated Customer Care & Success team which provides the highest quality of support and advice.\"}]}, {\"type\": \"p\", \"children\": [{\"text\": \"Improve UX and optimize site speed\"}]}, {\"type\": \"p\", \"children\": [{\"text\": \"Shoppers will have better experiences on your website when they are quickly shown products of interest to them.\"}]}, {\"type\": \"p\", \"children\": [{\"text\": \"\"}]}]",
+  "knowledgeCategoryID": 157,
+  "sort": 6,
+  "status": "published",
+  "_source_kb_id": 5,
+  "_source_kb_name": "Merchandising Cloud",
+  "_fix_date": "2026-02-02T06:05:45.495351+00:00",
+  "fixes_applied": {
+    "urls": {
+      "leaving_cleaned": 0,
+      "unsafe_removed": 0,
+      "s_article_mapped": 0,
+      "s_article_removed": 0,
+      "fragments_mapped": 0,
+      "fragments_stripped": 0,
+      "internal_fragments_fixed": 0,
+      "double_id_fixed": 0,
+      "kb_fragments_stripped": 0
+    },
+    "toc": 0,
+    "related": 1,
+    "lists": 0,
+    "headings": 0,
+    "reconverted": false
+  }
+}

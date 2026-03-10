@@ -1,0 +1,17 @@
+{
+  "articleID": 1526,
+  "knowledgeCategoryID": 97,
+  "sort": 1,
+  "name": "Getting Started with Glew eCommerce Analytics",
+  "body": "[{\"type\": \"p\", \"children\": [{\"text\": \"To get started using Glew Analytics:\"}]}, {\"type\": \"ol\", \"children\": [{\"type\": \"li\", \"children\": [{\"type\": \"lic\", \"children\": [{\"text\": \"In your Neto control panel click the \"}, {\"text\": \"Analytics Studio\", \"bold\": true}, {\"text\": \" menu.\"}]}]}, {\"type\": \"li\", \"children\": [{\"type\": \"lic\", \"children\": [{\"text\": \"Depending on your current Neto subscription, you will see either an \"}, {\"text\": \"Upgrade Your Plan\", \"bold\": true}, {\"text\": \" or \"}, {\"text\": \"Install the Addon\", \"bold\": true}, {\"text\": \" button. If you plan needs to be upgraded, you'll be taken to the\\u00a0\"}, {\"text\": \"Manage Your Subscription\", \"bold\": true}, {\"text\": \"\\u00a0where you can select a plan that includes Glew Analytics.\\u00a0\"}]}, {\"type\": \"p\", \"children\": [{\"text\": \"\"}]}]}, {\"type\": \"li\", \"children\": [{\"type\": \"lic\", \"children\": [{\"text\": \"You'll be taken to the \"}, {\"text\": \"Addons\", \"bold\": true}, {\"text\": \" page where Analytics Studio can be installed. Click the \"}, {\"text\": \"Install\", \"bold\": true}, {\"text\": \" button to install Analytics Studio.\"}]}, {\"type\": \"p\", \"children\": [{\"text\": \"\"}]}]}, {\"type\": \"li\", \"children\": [{\"type\": \"lic\", \"children\": [{\"text\": \"Once installed, click the \"}, {\"text\": \"Analytics Studio\", \"bold\": true}, {\"text\": \" menu link.\"}]}]}, {\"type\": \"li\", \"children\": [{\"type\": \"lic\", \"children\": [{\"text\": \"You'll' be asked to connect your Google Analytics account. Click \"}, {\"text\": \"Show Me How\", \"bold\": true}, {\"text\": \" to be taken through the steps to link it to Glew Analytics. Connecting Google Analytics is strongly recommended, but you can skip this step if you don\\u2019t yet have Google Analytics.\"}]}, {\"type\": \"p\", \"children\": [{\"text\": \"\"}]}]}, {\"type\": \"li\", \"children\": [{\"type\": \"lic\", \"children\": [{\"text\": \"You\\u2019ll now be asked to do the same for Google Adwords. Again, this is recommended, but you can skip to the next step if you don\\u2019t have Adwords.\"}]}, {\"type\": \"p\", \"children\": [{\"text\": \"\"}]}]}, {\"type\": \"li\", \"children\": [{\"type\": \"lic\", \"children\": [{\"text\": \"The next step asks you to set how you would like revenue calculated. Click \"}, {\"text\": \"Show Me How\", \"bold\": true}, {\"text\": \" and you\\u2019ll be able to choose if tax, refunds, shipping costs and discounts should/shouldn\\u2019t be included in revenue calculations.\"}]}, {\"type\": \"p\", \"children\": [{\"text\": \"\"}]}]}, {\"type\": \"li\", \"children\": [{\"type\": \"lic\", \"children\": [{\"text\": \"In the last step you\\u2019ll be prompted to sync your data to Glew Analytics. This process will import information from your Neto\\u00a0 control panel, and if connected, Google Analytics and Adwords. This may take some time, but you\\u2019ll receive an email once the import process is complete.\"}]}, {\"type\": \"p\", \"children\": [{\"text\": \"\"}]}]}]}]",
+  "format": "rich2",
+  "featured": false,
+  "locale": "en",
+  "status": "published",
+  "foreignID": null,
+  "dateUpdated": "2026-02-02T06:20:30+00:00",
+  "_source_kb_id": 4,
+  "_source_kb_name": "Neto By Maropost",
+  "_sync_date": "2026-02-06T07:15:31.758935+00:00",
+  "_incremental_update": true
+}

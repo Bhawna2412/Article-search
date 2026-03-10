@@ -1,0 +1,27 @@
+{
+  "articleID": 604,
+  "name": "SAASU Sync",
+  "slug": "604-saasu-sync",
+  "format": "rich2",
+  "locale": "en",
+  "body": "[{\"type\": \"rich_embed_card\", \"children\": [{\"text\": \"\"}], \"dataSourceType\": \"image\", \"url\": \"https://us.v-cdn.net/6038474/uploads/attachments/migrated/image.05TJ100000NejYyMAJ.jpg\", \"embedData\": {\"url\": \"https://us.v-cdn.net/6038474/uploads/attachments/migrated/image.05TJ100000NejYyMAJ.jpg\", \"name\": \"saasusync.png\", \"embedType\": \"image\", \"float\": \"none\", \"height\": 200, \"width\": 400}}, {\"type\": \"p\", \"children\": [{\"text\": \"This add-on was built by mysync\", \"bold\": true}]}, {\"type\": \"p\", \"children\": [{\"text\": \"\"}, {\"type\": \"a\", \"url\": \"https://mysync.io/saasuandneto.html\", \"target\": \"_blank\", \"children\": [{\"text\": \"Visit add-on website!\"}]}, {\"text\": \"\"}]}, {\"type\": \"p\", \"children\": [{\"text\": \"For support with this add-on, contact \"}, {\"type\": \"a\", \"url\": \"https://help.mysync.io/hc/en-us/requests/new\", \"target\": \"_blank\", \"children\": [{\"text\": \"mysync\"}]}, {\"text\": \".\"}]}, {\"type\": \"p\", \"children\": [{\"text\": \"\"}]}, {\"type\": \"h2\", \"children\": [{\"text\": \"Overview\"}]}, {\"type\": \"p\", \"children\": [{\"text\": \"Saasu Sync is designed for sole traders, contractors, startups and small businesses. Thousands of product and service businesses use cloud accounting to get their BAS and Single Touch Payroll done.\"}]}, {\"type\": \"p\", \"children\": [{\"text\": \"This add-on is built and maintained by mysync, and requires a Saasu account. Pricing can be found \"}, {\"type\": \"a\", \"url\": \"https://www.saasu.com/pricing/\", \"target\": \"_blank\", \"children\": [{\"text\": \"here\"}]}, {\"text\": \".\"}]}, {\"type\": \"p\", \"children\": [{\"text\": \"\"}]}, {\"type\": \"h2\", \"children\": [{\"text\": \"Benefits & Features\"}]}, {\"type\": \"ul\", \"children\": [{\"type\": \"li\", \"children\": [{\"type\": \"p\", \"children\": [{\"text\": \"Sync Orders and Inventory:\", \"bold\": true}, {\"text\": \" Update your Maropost products from your Saasu inventory stock levels. Sync orders, customers and payments from Neto.\"}]}]}, {\"type\": \"li\", \"children\": [{\"type\": \"p\", \"children\": [{\"text\": \"Custom Data Flows:\", \"bold\": true}, {\"text\": \" Customise and add additional functionality for users when requested.\"}]}]}]}, {\"type\": \"p\", \"children\": [{\"text\": \"These data transfers can be configured in mysync.\"}]}, {\"type\": \"p\", \"children\": [{\"text\": \"\"}]}, {\"type\": \"h2\", \"children\": [{\"text\": \"Set up Saasu\"}]}, {\"type\": \"p\", \"children\": [{\"text\": \"To set up the Saasu Sync add-on in your Neto webstore:\"}]}, {\"type\": \"ol\", \"children\": [{\"type\": \"li\", \"children\": [{\"type\": \"p\", \"children\": [{\"text\": \"In your Neto control panel, click the \"}, {\"text\": \"Addons\", \"bold\": true}, {\"text\": \" menu.\"}]}]}, {\"type\": \"li\", \"children\": [{\"type\": \"p\", \"children\": [{\"text\": \"Find the Saasu Sync add-on and click the \"}, {\"text\": \"Install\", \"bold\": true}, {\"text\": \" button.\"}]}]}, {\"type\": \"li\", \"children\": [{\"type\": \"p\", \"children\": [{\"text\": \"The Saasu add-on will be installed in your control panel.\"}]}]}, {\"type\": \"li\", \"children\": [{\"type\": \"p\", \"children\": [{\"text\": \"In the pop-up window, click the \"}, {\"text\": \"Configure Saasu Sync\", \"bold\": true}, {\"text\": \"\\u00a0button.\"}]}]}, {\"type\": \"li\", \"children\": [{\"type\": \"p\", \"children\": [{\"text\": \"Follow the steps on the \"}, {\"type\": \"a\", \"url\": \"https://help.mysync.io/hc/en-us/articles/4404104762905-SAASU-Sync-Neto-Guide\", \"target\": \"_blank\", \"children\": [{\"text\": \"mysync help site\"}]}, {\"text\": \" to set up your SAASU Sync connection.\"}]}]}]}, {\"type\": \"p\", \"children\": [{\"text\": \"\"}]}]",
+  "fixes_applied": {
+    "rebrand": 0,
+    "urls": {
+      "leaving_cleaned": 4,
+      "unsafe_removed": 0,
+      "s_article_mapped": 0,
+      "s_article_removed": 0,
+      "fragments_mapped": 0,
+      "fragments_stripped": 0,
+      "internal_fragments_fixed": 0,
+      "double_id_fixed": 0,
+      "kb_fragments_stripped": 0
+    },
+    "toc": 0,
+    "related": 0,
+    "lists": 0,
+    "headings": 0,
+    "reconverted": false
+  }
+}

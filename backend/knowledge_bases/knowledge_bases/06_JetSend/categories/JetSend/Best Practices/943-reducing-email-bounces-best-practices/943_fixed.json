@@ -1,0 +1,16 @@
+{
+  "articleID": 943,
+  "knowledgeCategoryID": 33,
+  "sort": 1,
+  "name": "Reducing Email Bounces: Best Practices",
+  "body": "<p>The email bounces are of two types:</p>\n<ul><li>Hard Bounce: If an email gets rejected by the email server and cannot be delivered, the email bounce back is called hard bounce. It is a permanent delivery failure and harms the sender reputation. Hard bounces happen if the email address is invalid, recipient has blocked your emails, and so on.</li><li>Soft Bounce: If an email reaches the email server but doesn’t reach the recipient’s inbox, the email bounce back is called soft bounce. It is a temporary delivery failure. Soft bounces happen if inbox is full, email size is too big, server is down, and so on.</li></ul><blockquote class=\"blockquote\"><span>Note: A small percentage of email bounces, such as 2% to 5%, is acceptable and doesn’t harm your reputation.</span></blockquote>\n<p>  We have curated a list of reasons that may cause an email bounce and what you can do to avoid it.</p>\n<ul><li>One of the typical reasons for email bounces is wrong email address. Be watchful about the email addresses. Always verify the email address provided by the customer.</li><li>You don’t want your emails to be blocked by spam filters. Hence, follow the best practices to avoid using spammy content. The spam filters get updated frequently, so be vigilant of the changes and update your email template accordingly.</li><li>Some servers block emails that are to too big. Therefore, keep the email size low, avoid big-sized images, and maintain a balanced image-to-text ratio. Currently, JetSend doesn’t enforce a size limit for emails, however, we recommend keeping the email size below 500 KB.</li><li>If you keep sending emails to an email address even after a bounce, you will further damage your reputation. So, you must analyze the bounce and add the email address to the suppression list.</li></ul>",
+  "format": "html",
+  "featured": false,
+  "locale": "en",
+  "status": "published",
+  "foreignID": null,
+  "dateUpdated": "2024-04-16T18:17:44+00:00",
+  "_source_kb_id": 6,
+  "_source_kb_name": "JetSend",
+  "_sync_date": "2026-02-02T05:55:06.829039+00:00"
+}

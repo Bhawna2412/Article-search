@@ -1,0 +1,26 @@
+{
+  "articleID": 618,
+  "name": "Reports - Freight Report",
+  "slug": "618-reports-freight-report",
+  "format": "rich2",
+  "locale": "en",
+  "body": "[{\"type\": \"p\", \"children\": [{\"text\": \"The Freight Report displays a list of sales with Freight charges in POS, including a Delivery Due Date (if specified).\"}, {\"text\": \"\\n\"}, {\"text\": \"\\n\"}, {\"text\": \"\\nA series of Filters are available to help narrow the sales down, including delivery mode (Fulfilment Method - e.g. home delivery, store pickup etc), Order Status, and Outlet.\"}]}, {\"type\": \"rich_embed_card\", \"dataSourceType\": \"image\", \"url\": \"https://us.v-cdn.net/6038474/uploads/attachments/migrated/image.05T5g00000pphQSEAY.jpg\", \"embedData\": {\"url\": \"https://us.v-cdn.net/6038474/uploads/attachments/migrated/image.05T5g00000pphQSEAY.jpg\", \"embedType\": \"image\", \"displaySize\": \"large\", \"float\": \"none\", \"name\": \"39097fde9a568b22dc9d282ebeaf01fc9332352eae5c39de0006f6c623917c63.png\", \"width\": 1280, \"height\": 720}, \"children\": [{\"text\": \"\"}]}, {\"type\": \"p\", \"children\": [{\"text\": \"To use the Freight Report:\"}]}, {\"type\": \"ol\", \"children\": [{\"type\": \"li\", \"children\": [{\"type\": \"lic\", \"children\": [{\"text\": \"Navigate to \"}, {\"text\": \"Reports > Sales Reports > Freight Report\", \"bold\": true}]}]}, {\"type\": \"li\", \"children\": [{\"type\": \"lic\", \"children\": [{\"text\": \"Select the \"}, {\"text\": \"Filters\", \"bold\": true}, {\"text\": \" as required\"}]}]}, {\"type\": \"li\", \"children\": [{\"type\": \"lic\", \"children\": [{\"text\": \"Click \"}, {\"text\": \"Search\", \"bold\": true}]}]}, {\"type\": \"li\", \"children\": [{\"type\": \"lic\", \"children\": [{\"text\": \"The results will be displayed\"}, {\"text\": \"\\n\\n\"}]}, {\"type\": \"callout\", \"children\": [{\"type\": \"callout-item\", \"children\": [{\"text\": \"amounts displayed inside brackets () are negative amounts.\"}]}], \"appearance\": \"info\"}, {\"type\": \"p\", \"children\": [{\"text\": \"\"}]}]}, {\"type\": \"li\", \"children\": [{\"type\": \"lic\", \"children\": [{\"text\": \"To \"}, {\"text\": \"export \", \"bold\": true}, {\"text\": \"report click the \"}, {\"text\": \"Save \", \"bold\": true}, {\"text\": \"icon and select the preferred Output Method\"}]}, {\"type\": \"rich_embed_card\", \"dataSourceType\": \"image\", \"url\": \"https://us.v-cdn.net/6038474/uploads/attachments/migrated/image.05T5g00000pphQwEAI.jpg\", \"embedData\": {\"url\": \"https://us.v-cdn.net/6038474/uploads/attachments/migrated/image.05T5g00000pphQwEAI.jpg\", \"embedType\": \"image\", \"displaySize\": \"large\", \"float\": \"none\", \"name\": \"mceclip0 - 2023-07-09T224809.457.png\", \"width\": 1280, \"height\": 720}, \"children\": [{\"text\": \"\"}]}]}]}]",
+  "fixes_applied": {
+    "urls": {
+      "leaving_cleaned": 0,
+      "unsafe_removed": 0,
+      "s_article_mapped": 0,
+      "s_article_removed": 0,
+      "fragments_mapped": 0,
+      "fragments_stripped": 0,
+      "internal_fragments_fixed": 0,
+      "double_id_fixed": 0,
+      "kb_fragments_stripped": 0
+    },
+    "toc": 0,
+    "related": 0,
+    "lists": 0,
+    "headings": 0,
+    "reconverted": false
+  }
+}

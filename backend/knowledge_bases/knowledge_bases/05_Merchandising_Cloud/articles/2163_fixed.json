@@ -1,0 +1,17 @@
+{
+  "articleID": 2163,
+  "knowledgeCategoryID": 373,
+  "sort": 6,
+  "name": "UTM Tracking Query",
+  "body": "[{\"type\": \"p\", \"children\": [{\"text\": \"You can maintain accurate UTM tracking parameters in your analytics platform even when the Merchandising Cloud script modifies URLs on collection pages and search results. Most analytics platforms capture the original URL before any JavaScript modifications, ensuring your campaign tracking and attribution data remains intact and reliable.\"}]}, {\"type\": \"p\", \"children\": [{\"text\": \"Understanding how UTM parameters interact with the Merchandising Cloud script helps ensure your marketing analytics continue to function correctly. By positioning your analytics script properly and verifying that original URLs are captured, you can maintain accurate campaign performance tracking while benefiting from enhanced search and collection functionality.\"}]}, {\"type\": \"p\", \"children\": [{\"text\": \"\"}]}, {\"type\": \"h2\", \"children\": [{\"text\": \"Issue:\", \"bold\": true}]}, {\"type\": \"p\", \"children\": [{\"text\": \"Our script replaces UTM query from URL on smart collection pages and search results.\"}]}, {\"type\": \"p\", \"children\": [{\"text\": \"Don't worry, most analytics platforms use the original URL instead of the replaced one. This means all provided data will be sent to its recipient.\"}]}, {\"type\": \"p\", \"children\": [{\"text\": \"To make sure:\"}]}, {\"type\": \"ul\", \"children\": [{\"type\": \"li\", \"children\": [{\"text\": \"Check for your analytics script position in HTML - it should be placed before our script.\"}]}, {\"type\": \"li\", \"children\": [{\"text\": \"Open \\\"developer tools\\\" in your browser and check the request that was sent to the analytics platform. The original URL with the correct query should be present in the \\\"query string parameters\\\" section.\"}]}]}, {\"type\": \"p\", \"children\": [{\"text\": \"\", \"bold\": true}]}, {\"type\": \"h2\", \"children\": [{\"bold\": true, \"text\": \"Manual Script\"}]}, {\"type\": \"p\", \"children\": [{\"text\": \"In case you are implementing your own analytics, or trying to access the original URL inside Google Tag Manager:\\n\\nStore the initial URL on the page window.initialUrl = window.location.href`\"}]}, {\"type\": \"p\", \"children\": [{\"text\": \"Then use this value inside your script\"}]}, {\"type\": \"p\", \"children\": [{\"text\": \"\"}]}, {\"type\": \"p\", \"children\": [{\"text\": \"\"}]}]",
+  "format": "rich2",
+  "featured": false,
+  "locale": "en",
+  "status": "published",
+  "foreignID": null,
+  "dateUpdated": "2026-02-02T06:12:27+00:00",
+  "_source_kb_id": 5,
+  "_source_kb_name": "Merchandising Cloud",
+  "_sync_date": "2026-02-06T07:20:38.613552+00:00",
+  "_incremental_update": true
+}

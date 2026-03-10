@@ -1,0 +1,26 @@
+{
+  "articleID": 1260,
+  "name": "Video - POS Cash Up",
+  "slug": "1260-video-pos-cash-up",
+  "format": "rich2",
+  "locale": "en",
+  "body": "[{\"type\": \"p\", \"children\": [{\"text\": \"You can learn POS cash-up procedures through video training in \"}, {\"text\": \"Retail Express\", \"bold\": true}, {\"text\": \" to ensure accurate end-of-day reconciliation processes. This video resource helps improve cash handling accuracy by providing visual step-by-step guidance for counting cash, reconciling payments, and completing daily closeout procedures that maintain financial integrity across retail locations.\"}]}, {\"type\": \"p\", \"children\": [{\"text\": \"Using video training for cash-up involves following visual procedures, understanding reconciliation workflows, and implementing best practices for cash management. When staff are properly trained on cash-up procedures, you can expect improved cash handling accuracy, reduced reconciliation discrepancies, and better financial controls across retail operations.\"}]}, {\"type\": \"p\", \"children\": [{\"text\": \"\"}]}, {\"type\": \"h1\", \"children\": [{\"text\": \"Video - POS Cash Up\"}], \"data-id\": \"video-pos-cash-up\"}, {\"type\": \"p\", \"children\": [{\"text\": \"In this video we show you how to perform a Cash Up/End of Day process at POS. During this process you'll be able to count the cash within your register and balance it to the records in Retail Express.\"}]}, {\"type\": \"p\", \"children\": [{\"text\": \"\"}]}]",
+  "fixes_applied": {
+    "urls": {
+      "leaving_cleaned": 0,
+      "unsafe_removed": 0,
+      "s_article_mapped": 0,
+      "s_article_removed": 0,
+      "fragments_mapped": 0,
+      "fragments_stripped": 0,
+      "internal_fragments_fixed": 0,
+      "double_id_fixed": 0,
+      "kb_fragments_stripped": 0
+    },
+    "toc": 0,
+    "related": 1,
+    "lists": 0,
+    "headings": 0,
+    "reconverted": false
+  }
+}

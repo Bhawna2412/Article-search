@@ -1,0 +1,26 @@
+{
+  "articleID": 622,
+  "name": "\"Blank refunds are not allowed\" error in POS",
+  "slug": "622-blank-refunds-are-not-allowed-error-in-pos",
+  "format": "rich2",
+  "locale": "en",
+  "body": "[{\"type\": \"p\", \"children\": [{\"text\": \"You can resolve refund processing errors in Retail Express by understanding system requirements for return transactions, helping your retail operators complete refunds smoothly and maintain customer satisfaction. This capability explains why refund errors occur and how to correct them, which helps ensure your team can process returns efficiently without delays or customer frustration.\"}]}, {\"type\": \"p\", \"children\": [{\"text\": \"Setting up proper refund procedures and error handling enables your retail operations to maintain smooth return processing, helping optimize customer service during potentially sensitive interactions. This helps retail businesses handle returns professionally by ensuring staff understand refund requirements and can resolve common processing issues quickly.\"}]}, {\"type\": \"p\", \"children\": [{\"text\": \"If you have not yet enabled the Blank Refunds feature, you will encounter an error \\\"Blank refunds are not allowed\\\" in POS when tryhing to create a Blank Refund. You will need to enable the setting from within Back Office.\"}]}, {\"type\": \"callout\", \"children\": [{\"type\": \"callout-item\", \"children\": [{\"text\": \"Once you have applied the updates you will need to log out of POS and back in before you will see the changes.\"}]}], \"appearance\": \"alert\"}, {\"type\": \"p\", \"children\": [{\"text\": \"\"}]}, {\"type\": \"h2\", \"children\": [{\"type\": \"a\", \"url\": \"\", \"children\": [{\"text\": \"\"}]}, {\"text\": \"POS Order Settings\"}], \"data-id\": \"pos-order-settings\"}, {\"type\": \"p\", \"children\": [{\"text\": \"To enable Blank Refunds:\"}]}, {\"type\": \"ol\", \"children\": [{\"type\": \"li\", \"children\": [{\"type\": \"lic\", \"children\": [{\"text\": \"Navigate to Settings > POS Settings > Order Settings\"}]}]}, {\"type\": \"li\", \"children\": [{\"type\": \"lic\", \"children\": [{\"text\": \"Tick \"}, {\"text\": \"Allow Blank Refunds\", \"bold\": true}]}]}, {\"type\": \"li\", \"children\": [{\"type\": \"lic\", \"children\": [{\"text\": \"Click \"}, {\"text\": \"Save Changes\", \"bold\": true}]}]}]}, {\"type\": \"p\", \"children\": [{\"text\": \"\"}]}, {\"type\": \"h2\", \"children\": [{\"type\": \"a\", \"url\": \"\", \"children\": [{\"text\": \"\"}]}, {\"text\": \"Security Profile\"}], \"data-id\": \"security-profile\"}, {\"type\": \"p\", \"children\": [{\"text\": \"The Blank Refunds feature can be enabled for specific user accounts only through the Security Profiles (everyone for that specific Profile will have the same permissions).\"}]}, {\"type\": \"p\", \"children\": [{\"text\": \"To configure the Security Profile:\"}]}, {\"type\": \"ol\", \"children\": [{\"type\": \"li\", \"children\": [{\"type\": \"lic\", \"children\": [{\"text\": \"Navigate to \"}, {\"text\": \"Staff > POS Security Features\", \"bold\": true}]}]}, {\"type\": \"li\", \"children\": [{\"type\": \"lic\", \"children\": [{\"text\": \"Select the \"}, {\"text\": \"Profile \", \"bold\": true}, {\"text\": \"from the drop down list\"}]}]}, {\"type\": \"li\", \"children\": [{\"type\": \"lic\", \"children\": [{\"text\": \"Tick \"}, {\"text\": \"Allow Creation of Blank Refunds\", \"bold\": true}]}]}, {\"type\": \"li\", \"children\": [{\"type\": \"lic\", \"children\": [{\"text\": \"Click \"}, {\"text\": \"Save\", \"bold\": true}]}]}]}, {\"type\": \"rich_embed_card\", \"dataSourceType\": \"image\", \"url\": \"https://us.v-cdn.net/6038474/uploads/attachments/migrated/image.05T5g00000pmDRZEA2.jpg\", \"embedData\": {\"url\": \"https://us.v-cdn.net/6038474/uploads/attachments/migrated/image.05T5g00000pmDRZEA2.jpg\", \"embedType\": \"image\", \"displaySize\": \"large\", \"float\": \"none\", \"name\": \"mceclip0.png\", \"width\": 1280, \"height\": 720}, \"children\": [{\"text\": \"\"}]}, {\"type\": \"callout\", \"children\": [{\"type\": \"callout-item\", \"children\": [{\"text\": \"Once you have applied the updates you will need to log out of POS and back in before you will see the changes.\"}]}], \"appearance\": \"alert\"}, {\"type\": \"p\", \"children\": [{\"text\": \"\"}]}]",
+  "fixes_applied": {
+    "urls": {
+      "leaving_cleaned": 0,
+      "unsafe_removed": 2,
+      "s_article_mapped": 0,
+      "s_article_removed": 0,
+      "fragments_mapped": 0,
+      "fragments_stripped": 0,
+      "internal_fragments_fixed": 0,
+      "double_id_fixed": 0,
+      "kb_fragments_stripped": 0
+    },
+    "toc": 0,
+    "related": 1,
+    "lists": 0,
+    "headings": 0,
+    "reconverted": false
+  }
+}

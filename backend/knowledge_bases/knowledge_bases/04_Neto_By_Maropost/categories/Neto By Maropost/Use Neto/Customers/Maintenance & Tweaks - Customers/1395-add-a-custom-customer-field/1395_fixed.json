@@ -1,0 +1,29 @@
+{
+  "articleID": 1395,
+  "name": "Add a Custom Customer Field",
+  "slug": "1395-add-a-custom-customer-field",
+  "format": "rich2",
+  "locale": "en",
+  "body": "[{\"type\": \"p\", \"children\": [{\"text\": \"To add custom fields to your customers:\"}]}, {\"type\": \"ol\", \"children\": [{\"type\": \"li\", \"children\": [{\"type\": \"lic\", \"children\": [{\"text\": \"In your Neto control panel navigate to \"}, {\"text\": \"Settings & Tools\", \"bold\": true}, {\"text\": \" > \"}, {\"text\": \"All settings & tools\", \"bold\": true}, {\"text\": \".\"}]}]}, {\"type\": \"li\", \"children\": [{\"type\": \"lic\", \"children\": [{\"text\": \"Click on the \"}, {\"text\": \"Customers\", \"bold\": true}, {\"text\": \" tab and click \"}, {\"text\": \"Custom Customer Fields\", \"bold\": true}, {\"text\": \".\"}]}]}, {\"type\": \"li\", \"children\": [{\"type\": \"lic\", \"children\": [{\"text\": \"Click \"}, {\"text\": \"Add New\", \"bold\": true}, {\"text\": \" button on the top right hand side.\"}]}]}, {\"type\": \"li\", \"children\": [{\"type\": \"lic\", \"children\": [{\"text\": \"Add the details of your new custom field using the table below as a guide:\"}]}, {\"type\": \"table\", \"children\": [{\"type\": \"tr\", \"children\": [{\"type\": \"th\", \"children\": [{\"type\": \"p\", \"children\": [{\"text\": \"Field Name\"}]}]}, {\"type\": \"th\", \"children\": [{\"type\": \"p\", \"children\": [{\"text\": \"Description\"}]}]}]}, {\"type\": \"tr\", \"children\": [{\"type\": \"td\", \"children\": [{\"type\": \"p\", \"children\": [{\"text\": \"Misc Field\"}]}]}, {\"type\": \"td\", \"children\": [{\"type\": \"p\", \"children\": [{\"text\": \"This will be the base tag name, eg. [@misc2@]. If unsure leave this field as is.\"}]}]}]}, {\"type\": \"tr\", \"children\": [{\"type\": \"td\", \"children\": [{\"type\": \"p\", \"children\": [{\"text\": \"Field Name\"}]}]}, {\"type\": \"td\", \"children\": [{\"type\": \"p\", \"children\": [{\"text\": \"This will be the field name as presented on the customer card.\"}]}]}]}, {\"type\": \"tr\", \"children\": [{\"type\": \"td\", \"children\": [{\"type\": \"p\", \"children\": [{\"text\": \"Field Type\"}]}]}, {\"type\": \"td\", \"children\": [{\"type\": \"p\", \"children\": [{\"text\": \"You can make this a text or short text field (255 character max), date, integer number, decimal number, True/False field or a selection box.\"}]}]}]}, {\"type\": \"tr\", \"children\": [{\"type\": \"td\", \"children\": [{\"type\": \"p\", \"children\": [{\"text\": \"Show on Website\"}]}]}, {\"type\": \"td\", \"children\": [{\"type\": \"p\", \"children\": [{\"text\": \"The ability for customers to see this in their account.\"}]}]}]}, {\"type\": \"tr\", \"children\": [{\"type\": \"td\", \"children\": [{\"type\": \"p\", \"children\": [{\"text\": \"Field Description\"}]}]}, {\"type\": \"td\", \"children\": [{\"type\": \"p\", \"children\": [{\"text\": \"Add an explanation of this field.\"}]}]}]}], \"id\": \"rich-table-061d4e3a\"}]}, {\"type\": \"li\", \"children\": [{\"type\": \"lic\", \"children\": [{\"text\": \"Click the \"}, {\"text\": \"Save\", \"bold\": true}, {\"text\": \" button.\"}]}]}]}, {\"type\": \"p\", \"children\": [{\"text\": \"\"}]}, {\"type\": \"p\", \"children\": [{\"text\": \"Your custom field now appears on all customer cards, and can be populated manually or via \"}, {\"type\": \"a\", \"url\": \"https://galaxy.maropost.com/kb/articles/1396-customer-import-wizard\", \"children\": [{\"text\": \"import\"}]}, {\"text\": \".\"}]}, {\"type\": \"p\", \"children\": [{\"text\": \"\"}]}]",
+  "fixes_applied": {
+    "rebrand": 1,
+    "urls": {
+      "leaving_cleaned": 0,
+      "unsafe_removed": 0,
+      "s_article_mapped": 3,
+      "s_article_removed": 0,
+      "fragments_mapped": 1,
+      "fragments_stripped": 0,
+      "internal_fragments_fixed": 0,
+      "double_id_fixed": 0,
+      "kb_fragments_stripped": 0
+    },
+    "toc": 0,
+    "related": 1,
+    "lists": 5,
+    "headings": 0,
+    "reconverted": false
+  },
+  "_sf_cleanup_date": "2026-02-02T06:17:41.606871+00:00",
+  "_sf_removals": 3
+}

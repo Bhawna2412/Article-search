@@ -1,0 +1,27 @@
+{
+  "articleID": 1596,
+  "name": "Control Panel Notification Emails",
+  "slug": "1596-control-panel-notification-emails",
+  "format": "rich2",
+  "locale": "en",
+  "body": "[{\"type\": \"p\", \"children\": [{\"text\": \"Control panel notification emails are an extra layer of security to ensure that when important settings are changed, staff are notified about the change. If you receive one of these notifications when you haven't made a change, you can confer with staff to find out who made the change and why.\"}]}, {\"type\": \"h2\", \"children\": [{\"text\": \"Payment Method Notifications\"}], \"data-id\": \"payment-method-notifications\"}, {\"type\": \"p\", \"children\": [{\"text\": \"To keep you aware of important changes to your payment methods, Neto\\u00a0will automatically notify you if the payment method settings page is saved. All staff Administrator users will receive an email with the details below:\"}]}, {\"type\": \"ul\", \"children\": [{\"type\": \"li\", \"children\": [{\"type\": \"lic\", \"children\": [{\"text\": \"Payment method changed.\"}]}]}, {\"type\": \"li\", \"children\": [{\"type\": \"lic\", \"children\": [{\"text\": \"Time the change was made.\"}]}]}, {\"type\": \"li\", \"children\": [{\"type\": \"lic\", \"children\": [{\"text\": \"Staff user who made the change.\"}]}]}, {\"type\": \"li\", \"children\": [{\"type\": \"lic\", \"children\": [{\"text\": \"Neto\\u00a0website URL where the change was made.\"}]}]}]}, {\"type\": \"p\", \"children\": [{\"text\": \"If you\\u2019re aware of the changes triggered by this email, you can safely ignore it. If you believe the change is due to suspicious activity, please contact the Neto\\u00a0support team.\"}]}]",
+  "fixes_applied": {
+    "rebrand": 0,
+    "urls": {
+      "leaving_cleaned": 0,
+      "unsafe_removed": 0,
+      "s_article_mapped": 0,
+      "s_article_removed": 0,
+      "fragments_mapped": 0,
+      "fragments_stripped": 0,
+      "internal_fragments_fixed": 0,
+      "double_id_fixed": 0,
+      "kb_fragments_stripped": 0
+    },
+    "toc": 0,
+    "related": 0,
+    "lists": 0,
+    "headings": 1,
+    "reconverted": false
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "articleID": 274,
+  "name": "PO Payments Report",
+  "slug": "274-po-payments-report",
+  "format": "rich2",
+  "locale": "en",
+  "body": "[{\"type\": \"p\", \"children\": [{\"text\": \"You can track purchase order payment history and supplier payment obligations by accessing the PO Payments Report, which shows payment amounts, dates, and outstanding balances across supplier purchase orders. This report helps retail operators manage supplier payment schedules, verify payment processing, and maintain accurate accounts payable records for purchase order transactions.\"}]}, {\"type\": \"p\", \"children\": [{\"text\": \"Using the PO Payments Report helps retail operators monitor supplier payment obligations, identify overdue payments, and maintain good supplier relationships through timely payment management and accurate accounts payable tracking.\"}]}, {\"type\": \"p\", \"children\": [{\"text\": \"The PO Payments Report is used to assist with the processing and receipt of \"}, {\"text\": \"international Purchase Orders\"}, {\"text\": \". Using the report, you can view payments made against Purchase Orders and dates for balances due.\"}]}, {\"type\": \"callout\", \"children\": [{\"type\": \"callout-item\", \"children\": [{\"text\": \"Only Purchase Orders that have a payment processed against them will be displayed\\n\"}, {\"text\": \"\\n\"}, {\"text\": \"To use the PO Payments Report:\"}]}], \"appearance\": \"info\"}, {\"type\": \"ol\", \"children\": [{\"type\": \"li\", \"children\": [{\"type\": \"lic\", \"children\": [{\"text\": \"Navigate to \"}, {\"text\": \"Reports > Finance Reports > PO Payments Report\", \"bold\": true}]}]}, {\"type\": \"li\", \"children\": [{\"type\": \"lic\", \"children\": [{\"text\": \"Update the \"}, {\"text\": \"Filters \", \"bold\": true}, {\"text\": \"as required|\"}, {\"type\": \"rich_embed_card\", \"dataSourceType\": \"image\", \"url\": \"https://us.v-cdn.net/6038474/uploads/attachments/migrated/image.05T5g00000ppVX4EAM.jpg\", \"embedData\": {\"url\": \"https://us.v-cdn.net/6038474/uploads/attachments/migrated/image.05T5g00000ppVX4EAM.jpg\", \"embedType\": \"image\", \"displaySize\": \"inline\", \"float\": \"none\", \"name\": \"blobid0 (26).png\"}, \"children\": [{\"text\": \"\"}]}]}]}, {\"type\": \"li\", \"children\": [{\"type\": \"lic\", \"children\": [{\"text\": \"Click \"}, {\"text\": \"Search\", \"bold\": true}]}]}, {\"type\": \"li\", \"children\": [{\"type\": \"lic\", \"children\": [{\"text\": \"The results will be displayed\"}]}, {\"type\": \"rich_embed_card\", \"dataSourceType\": \"image\", \"url\": \"https://us.v-cdn.net/6038474/uploads/attachments/migrated/image.05T5g00000ppW1bEAE.jpg\", \"embedData\": {\"url\": \"https://us.v-cdn.net/6038474/uploads/attachments/migrated/image.05T5g00000ppW1bEAE.jpg\", \"embedType\": \"image\", \"displaySize\": \"large\", \"float\": \"none\", \"name\": \"blobid1 (16).png\"}, \"children\": [{\"text\": \"\"}]}]}, {\"type\": \"li\", \"children\": [{\"type\": \"lic\", \"children\": [{\"text\": \"Click \"}, {\"text\": \"Print \", \"bold\": true}, {\"text\": \"or \"}, {\"text\": \"Export to Excel \", \"bold\": true}, {\"text\": \"as required\"}]}, {\"type\": \"rich_embed_card\", \"dataSourceType\": \"image\", \"url\": \"https://us.v-cdn.net/6038474/uploads/attachments/migrated/image.05T5g00000ppW1gEAE.jpg\", \"embedData\": {\"url\": \"https://us.v-cdn.net/6038474/uploads/attachments/migrated/image.05T5g00000ppW1gEAE.jpg\", \"embedType\": \"image\", \"displaySize\": \"large\", \"float\": \"none\", \"name\": \"mceclip0 - 2023-07-08T230910.808.png\"}, \"children\": [{\"text\": \"\"}]}]}, {\"type\": \"li\", \"children\": [{\"type\": \"lic\", \"children\": [{\"text\": \"Use the Action buttons to:\"}, {\"text\": \"\\n\"}, {\"text\": \"\\t- \"}, {\"type\": \"rich_embed_card\", \"dataSourceType\": \"image\", \"url\": \"https://us.v-cdn.net/6038474/uploads/attachments/migrated/image.05T5g00000ppW1lEAE.jpg\", \"embedData\": {\"url\": \"https://us.v-cdn.net/6038474/uploads/attachments/migrated/image.05T5g00000ppW1lEAE.jpg\", \"embedType\": \"image\", \"displaySize\": \"inline\", \"float\": \"none\", \"name\": \"mceclip1 (77).png\"}, \"children\": [{\"text\": \"\"}]}, {\"text\": \" Edit the Purchase Order\"}, {\"text\": \"\\n\"}, {\"text\": \"\\t- \"}, {\"type\": \"rich_embed_card\", \"dataSourceType\": \"image\", \"url\": \"https://us.v-cdn.net/6038474/uploads/attachments/migrated/image.05T5g00000ppVexEAE.jpg\", \"embedData\": {\"url\": \"https://us.v-cdn.net/6038474/uploads/attachments/migrated/image.05T5g00000ppVexEAE.jpg\", \"embedType\": \"image\", \"displaySize\": \"inline\", \"float\": \"none\", \"name\": \"mceclip2 (47).png\"}, \"children\": [{\"text\": \"\"}]}, {\"text\": \" Enter a Payment\"}]}]}]}, {\"type\": \"p\", \"children\": [{\"text\": \"\"}]}, {\"type\": \"p\", \"children\": [{\"text\": \"\"}]}]",
+  "fixes_applied": {
+    "urls": {
+      "leaving_cleaned": 0,
+      "unsafe_removed": 0,
+      "s_article_mapped": 0,
+      "s_article_removed": 1,
+      "fragments_mapped": 0,
+      "fragments_stripped": 0,
+      "internal_fragments_fixed": 1,
+      "double_id_fixed": 0,
+      "kb_fragments_stripped": 0
+    },
+    "toc": 0,
+    "related": 1,
+    "lists": 0,
+    "headings": 0,
+    "reconverted": false
+  }
+}

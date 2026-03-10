@@ -1,0 +1,16 @@
+{
+  "articleID": 1375,
+  "knowledgeCategoryID": 1,
+  "sort": 88,
+  "name": "Log in to a Client Webstore - Overview",
+  "body": "<h3 id=\"scenario-1\" data-id=\"scenario-1\">Scenario 1</h3>\n<p>If you are a Maropost Commerce Design and Solutions partner and have created the store on behalf of the merchant using the <a rel=\"nofollow\" href=\"https://galaxy.maropost.com/s/article/Create-A-Store-On-Behalf-Of-A-Client\">Partner Tools</a> portal you will be able to log in to the store using your Partner Portal credentials.</p>\n<p>If you have forgotten your username and password:</p>\n<ol><li>\n<p>Access the <strong>Partner Portal Login</strong> page.</p>\n\t</li><li>\n<p>Click the <strong>Manage your password</strong> link.</p>\n\t</li></ol><p>Once you have reset your password for the partner portal, you will be able to log in to your client’s webstore.</p>\n<p><strong>Please Note</strong>: If your access has been revoked by the merchant at any time after you have created the store on their behalf, you will need to follow the steps in scenario 2 to reinstate your access.</p>\n<h3 id=\"scenario-2\" data-id=\"scenario-2\">Scenario 2</h3>\n<p>For all other partner types, such as referral and Add-on/Integration partners, as well as Design and Solutions partners who have not created the store on behalf of the merchant using the Partner Tools portal, you will need to ask the merchant to complete the <a rel=\"nofollow\" href=\"http://galaxy.maropost.com/home/leaving?allowTrusted=1&amp;target=https%3A%2F%2Fwww.netohq.com%2Fsupport%2Fs%2Frequest-partner-access\">request webstore access</a> form to grant you access to their webstore.</p>\n<p>To find out more about this process please refer to <a rel=\"nofollow\" href=\"https://galaxy.maropost.com/s/article/partner-access-for-merchant-site\">this article</a>.</p>",
+  "format": "html",
+  "featured": false,
+  "locale": "en",
+  "status": "published",
+  "foreignID": null,
+  "dateUpdated": "2023-02-02T04:44:33+00:00",
+  "_source_kb_id": 1,
+  "_source_kb_name": "Help Articles",
+  "_sync_date": "2026-02-02T05:48:53.222891+00:00"
+}

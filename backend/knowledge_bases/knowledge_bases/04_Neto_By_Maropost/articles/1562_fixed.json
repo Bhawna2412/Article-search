@@ -1,0 +1,17 @@
+{
+  "articleID": 1562,
+  "knowledgeCategoryID": 139,
+  "sort": 4,
+  "name": "Merge Customer Accounts",
+  "body": "[{\"type\": \"callout\", \"children\": [{\"type\": \"callout-item\", \"children\": [{\"text\": \"Once the accounts are merged, you will not be able to undo the merge. The first account will be deleted after they are merged and orders will also be merged into the one account.\"}]}], \"appearance\": \"info\"}, {\"type\": \"p\", \"children\": [{\"text\": \"To merge the accounts, go to \"}, {\"text\": \"Customers > View All Customers\", \"bold\": true}, {\"text\": \" and search for the customer account that you want to merge into another account. Click on the username to edit the account. On the customer card, click on the \"}, {\"text\": \"Merge\", \"bold\": true}, {\"text\": \" button:\"}]}, {\"type\": \"p\", \"children\": [{\"text\": \"Then search for the customer account you want to merge the first account into. Click in the field under \"}, {\"text\": \"Merge user account\", \"bold\": true}, {\"text\": \" and enter the username or name of the account you want to merge with. Then select the account from the search results.\"}]}, {\"type\": \"p\", \"children\": [{\"text\": \"The company and name of this customer account will appear. If this is correct, click on the \"}, {\"text\": \"Confirm Merge\", \"bold\": true}, {\"text\": \" button.\"}]}, {\"type\": \"p\", \"children\": [{\"text\": \"The customer details and sales orders will be merged, and accessible from the second account.\"}]}]",
+  "format": "rich2",
+  "featured": false,
+  "locale": "en",
+  "status": "published",
+  "foreignID": null,
+  "dateUpdated": "2025-12-11T04:36:50+00:00",
+  "_source_kb_id": 4,
+  "_source_kb_name": "Neto By Maropost",
+  "_sync_date": "2026-02-06T07:18:03.850448+00:00",
+  "_incremental_update": true
+}

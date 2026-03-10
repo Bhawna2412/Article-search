@@ -1,0 +1,16 @@
+{
+  "articleID": 1791,
+  "knowledgeCategoryID": 439,
+  "sort": 9,
+  "name": "Marketing Cloud Release Notes – 9 Aug 2023",
+  "body": "[{\"type\":\"p\",\"children\":[{\"text\":\"OVERVIEW\",\"bold\":true}]},{\"type\":\"p\",\"children\":[{\"text\":\"In this release, we launched the enhanced UI for segment details.\"}]},{\"type\":\"p\",\"children\":[{\"text\":\" \"}]},{\"type\":\"p\",\"children\":[{\"text\":\"ENHANCEMENT\",\"bold\":true}]},{\"type\":\"p\",\"children\":[{\"text\":\"Redesigned Segment Details UI \",\"bold\":true}]},{\"type\":\"p\",\"children\":[{\"text\":\"The segment details UI has been redesigned to enhance both usability and look and feel. To learn about segments including the new enhancement details, see \"},{\"type\":\"a\",\"url\":\"https://galaxy.maropost.com/s/article/Introduction-to-Segments\",\"target\":\"_blank\",\"children\":[{\"text\":\"Introduction to Segments\",\"bold\":true}]},{\"text\":\".\"}]},{\"type\":\"p\",\"children\":[{\"text\":\" \"}]},{\"type\":\"p\",\"children\":[{\"text\":\"On the \"},{\"text\":\"Email Segments\",\"bold\":true},{\"text\":\" page, (In Navigation > AUDIENCE > Segments), click the segment name to go to its details view. You’ll notice a significant upgrade to how information is displayed on the UI. The segment rules are now visually presented in a way that’s more readable and comprehensible.\"}]},{\"type\":\"p\",\"children\":[{\"type\":\"rich_embed_card\",\"children\":[{\"text\":\"\"}],\"dataSourceType\":\"image\",\"url\":\"https://us.v-cdn.net/6038474/uploads/attachments/migrated/SegmentOverview.0685g00000G89CMAAZ.jpg\",\"embedData\":{\"url\":\"https://us.v-cdn.net/6038474/uploads/attachments/migrated/SegmentOverview.0685g00000G89CMAAZ.jpg\",\"name\":\"Segment Overview\",\"embedType\":\"image\",\"float\":\"none\",\"height\":2166,\"width\":2560}},{\"type\":\"p\",\"children\":[{\"text\":\" \"}]}]},{\"type\":\"p\",\"children\":[{\"text\":\"A Timeline feature has been introduced enabling you to see all the Email Campaigns, Journeys, and Data Journeys in which the segment is used.\"}]},{\"type\":\"p\",\"children\":[{\"type\":\"rich_embed_card\",\"children\":[{\"text\":\"\"}],\"dataSourceType\":\"image\",\"url\":\"https://us.v-cdn.net/6038474/uploads/attachments/migrated/SegmentTimeline.0685g00000G89IGAAZ.png\",\"embedData\":{\"url\":\"https://us.v-cdn.net/6038474/uploads/attachments/migrated/SegmentTimeline.0685g00000G89IGAAZ.png\",\"name\":\"Segment - Timeline\",\"embedType\":\"image\",\"float\":\"none\",\"height\":996,\"width\":1438}}]}]",
+  "format": "rich2",
+  "featured": false,
+  "locale": "en",
+  "status": "published",
+  "foreignID": null,
+  "dateUpdated": "2025-08-07T11:19:02+00:00",
+  "_source_kb_id": 11,
+  "_source_kb_name": "MC Release Notes",
+  "_sync_date": "2026-02-02T05:57:27.137236+00:00"
+}

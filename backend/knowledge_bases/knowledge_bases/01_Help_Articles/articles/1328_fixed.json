@@ -1,0 +1,16 @@
+{
+  "articleID": 1328,
+  "knowledgeCategoryID": 1,
+  "sort": 62,
+  "name": "Glossary of Terms",
+  "body": "<h1 data-id=\"glossary-of-terms\">Glossary of Terms</h1>\n<p><a name=\"o\" id=\"o\"></a> </p>\n<p>O </p>\n<table><tbody><tr><td colspan=\"1\" rowspan=\"1\">Outlet</td><td colspan=\"1\" rowspan=\"1\">Every store and warehouse is referred to as an Outlet. Each Outlet has its own license and inventory level, and can have unique selling price for products.</td></tr><tr><td colspan=\"1\" rowspan=\"1\"> </td><td colspan=\"1\" rowspan=\"1\"> </td></tr></tbody></table>",
+  "format": "html",
+  "featured": false,
+  "locale": "en",
+  "status": "published",
+  "foreignID": null,
+  "dateUpdated": "2023-05-11T04:01:05+00:00",
+  "_source_kb_id": 1,
+  "_source_kb_name": "Help Articles",
+  "_sync_date": "2026-02-02T05:48:43.223733+00:00"
+}

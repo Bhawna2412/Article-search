@@ -1,0 +1,26 @@
+{
+  "articleID": 385,
+  "name": "Stock Receipt Variance Reasons",
+  "slug": "385-stock-receipt-variance-reasons",
+  "format": "rich2",
+  "locale": "en",
+  "body": "[{\"type\": \"p\", \"children\": [{\"text\": \"You can configure stock receipt variance reasons to categorize discrepancies between ordered and received quantities, helping track supplier performance and identify recurring issues. This improves your retail operations by providing structured variance documentation, with properly configured variance reasons typically enabling better supplier accountability and identification of systematic quality or fulfillment problems.\"}]}, {\"type\": \"p\", \"children\": [{\"text\": \"Understanding stock receipt variance reasons involves recognizing variance categorization benefits, supplier performance tracking, and reporting implications to help retail operators focus on the right receiving quality workflows, ensuring your retail strategy consistently drives better supplier management and inventory accuracy outcomes.\"}]}, {\"type\": \"p\", \"children\": [{\"text\": \"Variance Reasons allow you to categorise discrepancies in your Stock Receipts, so you can understand why the full balance of stock may not have been received. You can report on Variance Reasons using the PO Stock Receipt Detail Report and the Purchase Order Errors (POE) Report.\"}]}, {\"type\": \"rich_embed_card\", \"dataSourceType\": \"image\", \"url\": \"https://us.v-cdn.net/6038474/uploads/attachments/migrated/image.05T5g00000ppi9cEAA.jpg\", \"embedData\": {\"url\": \"https://us.v-cdn.net/6038474/uploads/attachments/migrated/image.05T5g00000ppi9cEAA.jpg\", \"embedType\": \"image\", \"displaySize\": \"large\", \"float\": \"none\", \"name\": \"mceclip1 - 2023-07-10T013649.280.png\"}, \"children\": [{\"text\": \"\"}]}, {\"type\": \"p\", \"children\": [{\"text\": \"\"}]}, {\"type\": \"h2\", \"children\": [{\"text\": \"Create a new Variance Reason\"}], \"data-id\": \"create-a-new-variance-reason\"}, {\"type\": \"p\", \"children\": [{\"text\": \"To create a new variance Reason:\"}]}, {\"type\": \"ol\", \"children\": [{\"type\": \"li\", \"children\": [{\"type\": \"lic\", \"children\": [{\"text\": \"Navigate to \"}, {\"text\": \"Settings > Purchase Order Setup > Receipt Variance Reasons\", \"bold\": true}]}]}, {\"type\": \"li\", \"children\": [{\"type\": \"lic\", \"children\": [{\"text\": \"Click \"}, {\"text\": \"Create New\", \"bold\": true}]}]}, {\"type\": \"li\", \"children\": [{\"type\": \"lic\", \"children\": [{\"text\": \"Enter a \"}, {\"text\": \"Name \", \"bold\": true}, {\"text\": \"e.g. Out of Stock\"}]}, {\"type\": \"p\", \"children\": [{\"text\": \"Names can be up to 100 characters long\"}]}]}, {\"type\": \"li\", \"children\": [{\"type\": \"lic\", \"children\": [{\"text\": \"Tick \"}, {\"text\": \"Enabled\", \"bold\": true}]}]}, {\"type\": \"li\", \"children\": [{\"type\": \"lic\", \"children\": [{\"text\": \"Click \"}, {\"text\": \"Save\", \"bold\": true}]}]}]}, {\"type\": \"p\", \"children\": [{\"text\": \"\"}]}, {\"type\": \"h2\", \"children\": [{\"text\": \"Editing Variance Reasons\"}], \"data-id\": \"editing-variance-reasons\"}, {\"type\": \"p\", \"children\": [{\"text\": \"To edit an existing Variance Reason:\"}]}, {\"type\": \"ol\", \"children\": [{\"type\": \"li\", \"children\": [{\"type\": \"lic\", \"children\": [{\"text\": \"Click the \"}, {\"text\": \"Name \", \"bold\": true}, {\"text\": \"of the Variance Reason\"}]}]}, {\"type\": \"li\", \"children\": [{\"type\": \"lic\", \"children\": [{\"text\": \"Type in the new name\"}]}]}, {\"type\": \"li\", \"children\": [{\"type\": \"lic\", \"children\": [{\"text\": \"Click \"}, {\"text\": \"Save\", \"bold\": true}]}]}]}, {\"type\": \"p\", \"children\": [{\"text\": \"\"}]}, {\"type\": \"h2\", \"children\": [{\"text\": \"Disabling a Variance Reason\"}], \"data-id\": \"disabling-a-variance-reason\"}, {\"type\": \"p\", \"children\": [{\"text\": \"You can disable a Variance Reason so that it's not available to select from when creating a PO Stock Receipt.\"}]}, {\"type\": \"ol\", \"children\": [{\"type\": \"li\", \"children\": [{\"type\": \"lic\", \"children\": [{\"text\": \"Click the \"}, {\"text\": \"Name\", \"bold\": true}, {\"text\": \" of the Variance Reason\"}]}]}, {\"type\": \"li\", \"children\": [{\"type\": \"lic\", \"children\": [{\"text\": \"Untick \"}, {\"text\": \"Enabled\", \"bold\": true}]}]}, {\"type\": \"li\", \"children\": [{\"type\": \"lic\", \"children\": [{\"text\": \"Click \"}, {\"text\": \"Save\", \"bold\": true}]}]}]}, {\"type\": \"p\", \"children\": [{\"text\": \"\"}]}]",
+  "fixes_applied": {
+    "urls": {
+      "leaving_cleaned": 0,
+      "unsafe_removed": 0,
+      "s_article_mapped": 0,
+      "s_article_removed": 0,
+      "fragments_mapped": 0,
+      "fragments_stripped": 0,
+      "internal_fragments_fixed": 0,
+      "double_id_fixed": 0,
+      "kb_fragments_stripped": 0
+    },
+    "toc": 0,
+    "related": 1,
+    "lists": 0,
+    "headings": 0,
+    "reconverted": false
+  }
+}

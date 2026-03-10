@@ -1,0 +1,17 @@
+{
+  "articleID": 1486,
+  "knowledgeCategoryID": 25,
+  "sort": 1,
+  "name": "Crazy Egg",
+  "body": "[{\"type\": \"rich_embed_card\", \"dataSourceType\": \"image\", \"url\": \"https://www.neto.com.au/assets/thumb/APP-59.jpg\", \"embedData\": {\"url\": \"https://www.neto.com.au/assets/thumb/APP-59.jpg\", \"embedType\": \"image\", \"displaySize\": \"large\", \"float\": \"none\"}, \"children\": [{\"text\": \"\"}]}, {\"type\": \"h3\", \"children\": [{\"text\": \"This add-on was built by Crazy Egg.\"}]}, {\"type\": \"p\", \"children\": [{\"type\": \"a\", \"url\": \"http://www.crazyegg.com/\", \"children\": [{\"text\": \"Visit Add-On Website\"}]}]}, {\"type\": \"p\", \"children\": [{\"text\": \"For support with this add-on \"}, {\"type\": \"a\", \"url\": \"https://support.crazyegg.com/hc/en-us/requests/new\", \"children\": [{\"text\": \"contact Crazy Egg\"}]}, {\"text\": \".\"}]}, {\"type\": \"h2\", \"children\": [{\"text\": \"Set up the Crazy Egg add-on\"}]}, {\"type\": \"ol\", \"children\": [{\"type\": \"li\", \"children\": [{\"type\": \"lic\", \"children\": [{\"text\": \"Register your account for \"}, {\"type\": \"a\", \"url\": \"http://www.crazyegg.com/\", \"children\": [{\"text\": \"Crazy Egg\"}]}, {\"text\": \".\"}]}]}, {\"type\": \"li\", \"children\": [{\"type\": \"lic\", \"children\": [{\"text\": \"Locate your code by following\\u00a0the instructions provided \"}, {\"type\": \"a\", \"url\": \"https://app.crazyegg.com/instructions\", \"children\": [{\"text\": \"here\"}]}, {\"text\": \". Copy this code so that it can be entered into Neto.\"}]}]}, {\"type\": \"li\", \"children\": [{\"type\": \"lic\", \"children\": [{\"text\": \"In your Neto control panel select \"}, {\"text\": \"Addons\", \"bold\": true}, {\"text\": \" from the menu.\"}]}]}, {\"type\": \"li\", \"children\": [{\"type\": \"lic\", \"children\": [{\"text\": \"Find the Crazy Egg add-on and click the \"}, {\"text\": \"Install\", \"bold\": true}, {\"text\": \" button.\"}]}]}, {\"type\": \"li\", \"children\": [{\"type\": \"lic\", \"children\": [{\"text\": \"Paste the code you copied previously, and click the \"}, {\"text\": \"Save\", \"bold\": true}, {\"text\": \"button.\"}]}]}]}]",
+  "format": "rich2",
+  "featured": false,
+  "locale": "en",
+  "status": "published",
+  "foreignID": null,
+  "dateUpdated": "2025-12-11T04:36:11+00:00",
+  "_source_kb_id": 4,
+  "_source_kb_name": "Neto By Maropost",
+  "_sync_date": "2026-02-06T07:18:25.975067+00:00",
+  "_incremental_update": true
+}

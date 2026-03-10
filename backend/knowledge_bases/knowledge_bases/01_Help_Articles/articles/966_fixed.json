@@ -1,0 +1,16 @@
+{
+  "articleID": 966,
+  "knowledgeCategoryID": 1,
+  "sort": 145,
+  "name": "Ticket Prioritisation",
+  "body": "[{\"type\": \"h1\", \"children\": [{\"text\": \"Ticket Prioritisation\"}], \"data-id\": \"ticket-prioritisation\"}, {\"type\": \"p\", \"children\": [{\"text\": \"The below matrix is to be used to determine the appropriate priority for a Support Incident. Using the Priority Matrix first, a number of points is assigned to the ticket based on the matching criteria. The number of points awarded determines the final priority leve.\"}]}, {\"type\": \"p\", \"children\": [{\"text\": \"In this article:\"}]}, {\"type\": \"ul\", \"children\": [{\"type\": \"li\", \"children\": [{\"type\": \"lic\", \"children\": [{\"type\": \"a\", \"url\": \"#matrix\", \"children\": [{\"text\": \"Priority Matrix\"}]}]}]}, {\"type\": \"li\", \"children\": [{\"type\": \"lic\", \"children\": [{\"type\": \"a\", \"url\": \"#score\", \"children\": [{\"text\": \"Priority Score\"}]}]}]}]}, {\"type\": \"p\", \"children\": [{\"text\": \"\"}]}, {\"type\": \"h2\", \"children\": [{\"type\": \"a\", \"url\": \"\", \"children\": [{\"text\": \"\"}]}, {\"text\": \"Priority Matrix\"}], \"data-id\": \"priority-matrix\"}, {\"type\": \"p\", \"children\": [{\"text\": \"To use the Priority Matrix add the points for each condition met in the table below. This information will then be used in the next step with the Priority Score.\"}, {\"text\": \"\"}, {\"type\": \"rich_embed_card\", \"dataSourceType\": \"image\", \"url\": \"https://us.v-cdn.net/6038474/uploads/attachments/migrated/image.05T5g00000ppiKuEAI.jpg\", \"embedData\": {\"url\": \"https://us.v-cdn.net/6038474/uploads/attachments/migrated/image.05T5g00000ppiKuEAI.jpg\", \"embedType\": \"image\", \"displaySize\": \"inline\", \"float\": \"none\", \"name\": \"rtaImage - 2023-07-10T024330.757.png\"}, \"children\": [{\"text\": \"\"}]}]}, {\"type\": \"p\", \"children\": [{\"text\": \"\"}]}, {\"type\": \"h2\", \"children\": [{\"type\": \"a\", \"url\": \"\", \"children\": [{\"text\": \"\"}]}, {\"text\": \"Priority Score\"}], \"data-id\": \"priority-score\"}, {\"type\": \"p\", \"children\": [{\"text\": \"To determine a score, review the conditions in the Priority Matrix above. The Priority for the Incident is as per the score table below.\"}]}, {\"type\": \"rich_embed_card\", \"dataSourceType\": \"image\", \"url\": \"https://us.v-cdn.net/6038474/uploads/attachments/migrated/image.05T5g00000ppiKzEAI.jpg\", \"embedData\": {\"url\": \"https://us.v-cdn.net/6038474/uploads/attachments/migrated/image.05T5g00000ppiKzEAI.jpg\", \"embedType\": \"image\", \"displaySize\": \"large\", \"float\": \"none\", \"name\": \"rtaImage - 2023-07-10T024335.892.png\"}, \"children\": [{\"text\": \"\"}]}]",
+  "format": "rich2",
+  "featured": false,
+  "locale": "en",
+  "status": "published",
+  "foreignID": null,
+  "dateUpdated": "2025-12-01T04:26:10+00:00",
+  "_source_kb_id": 1,
+  "_source_kb_name": "Help Articles",
+  "_sync_date": "2026-02-02T05:47:20.064137+00:00"
+}

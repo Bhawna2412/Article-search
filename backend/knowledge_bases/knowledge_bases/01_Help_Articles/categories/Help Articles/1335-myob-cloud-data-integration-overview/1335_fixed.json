@@ -1,0 +1,16 @@
+{
+  "articleID": 1335,
+  "knowledgeCategoryID": 1,
+  "sort": 91,
+  "name": "MYOB Cloud Data Integration Overview",
+  "body": "<h1 data-id=\"myob-cloud-data-integration-overview\">MYOB Cloud Data Integration Overview</h1>\n<p>The information below displays data synchronised automatically - daily from Retail Express with the corresponding transactions in MYOB AccountRight 2019+. </p>\n<div>\n<p>Please note: This article refers to the cloud integration method - <a rel=\"nofollow\" href=\"https://galaxy.maropost.com/s/article/MYOB-AccountRight-Accounting-Data-Export\">click here for information on the Manual Data Export option</a>.</p>\n</div>\n<p>For more detailed information regarding how transactions are integrated, please refer to <a rel=\"nofollow\" href=\"https://galaxy.maropost.com/s/article/Integrated-Data\">Accounting Integrations - Integrated data sent from Retail Express</a></p>\n<table><tbody><tr><td colspan=\"1\" rowspan=\"1\"><strong>Retail Express</strong></td><td colspan=\"1\" rowspan=\"1\"><strong>MYOB</strong></td></tr><tr><td colspan=\"1\" rowspan=\"1\">\n<p>Cash and Carry sales</p>\n<p>Layby movements</p>\n<p>Debtors movements</p>\n<p>Cost of Goods Sold (COGS)</p>\n<p>Freight on sales</p>\n<p>Voucher sales</p>\n<p>Expired Vouchers</p>\n<p>Surcharges</p>\n</td><td colspan=\"1\" rowspan=\"1\">Daily Sales Invoice (per store)</td></tr><tr><td colspan=\"1\" rowspan=\"1\">\n<p>Payments (per Payment Type including Direct Deposits)</p>\n</td><td colspan=\"1\" rowspan=\"1\">Summarised or Individual Payments (applied to the Daily Sales Invoice)</td></tr><tr><td colspan=\"1\" rowspan=\"1\">\n<p>Purchase Orders (received)</p>\n</td><td colspan=\"1\" rowspan=\"1\">Bills (per Purchase Order)</td></tr><tr><td colspan=\"1\" rowspan=\"1\">\n<p>Direct Costs</p>\n</td><td colspan=\"1\" rowspan=\"1\">Bills (per Purchase Order)</td></tr><tr><td colspan=\"1\" rowspan=\"1\">\n<p>Suppliers</p>\n</td><td colspan=\"1\" rowspan=\"1\">Contacts</td></tr><tr><td colspan=\"1\" rowspan=\"1\">\n<p>Duty</p>\n</td><td colspan=\"1\" rowspan=\"1\">General Journal</td></tr><tr><td colspan=\"1\" rowspan=\"1\">\n<p>Stock Transfers</p>\n</td><td colspan=\"1\" rowspan=\"1\">General Journal</td></tr><tr><td colspan=\"1\" rowspan=\"1\">\n<p>Stock Adjustments</p>\n</td><td colspan=\"1\" rowspan=\"1\">General Journal</td></tr><tr><td colspan=\"1\" rowspan=\"1\">\n<p>Cash Up Variances</p>\n</td><td colspan=\"1\" rowspan=\"1\">\n<p>General Journal</p>\n</td></tr><tr><td colspan=\"1\" rowspan=\"1\">\n<p>Purchase Variances</p>\n</td><td colspan=\"1\" rowspan=\"1\">\n<p>General Journal</p>\n</td></tr><tr><td colspan=\"1\" rowspan=\"1\">\n<p>Petty Cash (Money In/Out)</p>\n</td><td colspan=\"1\" rowspan=\"1\">\n<p>General Journal</p>\n</td></tr></tbody></table>",
+  "format": "html",
+  "featured": false,
+  "locale": "en",
+  "status": "published",
+  "foreignID": null,
+  "dateUpdated": "2023-05-11T04:01:11+00:00",
+  "_source_kb_id": 1,
+  "_source_kb_name": "Help Articles",
+  "_sync_date": "2026-02-02T05:48:41.151055+00:00"
+}

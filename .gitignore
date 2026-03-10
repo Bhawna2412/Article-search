@@ -1,0 +1,17 @@
+# Dependencies
+node_modules/
+
+# Env and secrets (never commit tokens)
+.env
+.env.local
+.env.*.local
+backend/.env
+
+# Build
+dist/
+build/
+*.tsbuildinfo
+
+# Logs and OS
+*.log
+.DS_Store

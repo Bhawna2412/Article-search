@@ -1,0 +1,17 @@
+{
+  "articleID": 1582,
+  "knowledgeCategoryID": 136,
+  "sort": 4,
+  "name": "Set up Order Notifications by Email",
+  "body": "[{\"type\": \"p\", \"children\": [{\"text\": \"You can improve operational visibility and enable faster response to order issues by configuring real-time email notifications for all customer orders and system activity. This centralized notification approach helps ensure relevant team members stay informed about order flow, enabling proactive issue resolution and better customer service management across your B2B operations.\"}]}, {\"type\": \"p\", \"children\": [{\"text\": \"Setting up BCC email notifications provides your team with complete visibility into customer communications and order activity without manual monitoring. This automated notification system typically improves response times to customer inquiries and helps ensure no orders slip through the cracks during high-volume periods, supporting better operational efficiency and customer order experience.\"}]}, {\"type\": \"ol\", \"children\": [{\"type\": \"li\", \"children\": [{\"type\": \"lic\", \"children\": [{\"text\": \"In your\\u00a0Neto control panel navigate to\\u00a0\"}, {\"text\": \"Settings & Tools\", \"bold\": true}, {\"text\": \" >\\u00a0\"}, {\"text\": \"Business Details\", \"bold\": true}, {\"text\": \".\"}]}]}, {\"type\": \"li\", \"children\": [{\"type\": \"lic\", \"children\": [{\"text\": \"Enter the email address that you want to receive a copy of all system emails into \"}, {\"text\": \"BCC Email Address\", \"bold\": true}, {\"text\": \" field. All system emails will be blind copied (BCC) to this address, including order receipts. You can have multiple email addresses in this field separated by a comma (,).\"}]}, {\"type\": \"p\", \"children\": [{\"text\": \"Tip\", \"bold\": true}, {\"text\": \": Ensure the \"}, {\"text\": \"[$BCC_EMAIL$]\", \"code\": true}, {\"text\": \" B@SE tag is used on your system email templates in the BCC field.\"}]}]}]}, {\"type\": \"p\", \"children\": [{\"text\": \"Please Note\", \"bold\": true}, {\"text\": \": Because you are sending emails to yourself, we don\\u2019t recommend using a Hotmail or Yahoo address. These mail servers have been found to mark emails to yourself as spam on occasion.\"}]}]",
+  "format": "rich2",
+  "featured": false,
+  "locale": "en",
+  "status": "published",
+  "foreignID": null,
+  "dateUpdated": "2025-12-11T04:37:00+00:00",
+  "_source_kb_id": 4,
+  "_source_kb_name": "Neto By Maropost",
+  "_sync_date": "2026-02-06T07:17:59.964859+00:00",
+  "_incremental_update": true
+}

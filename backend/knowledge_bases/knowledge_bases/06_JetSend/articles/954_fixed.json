@@ -1,0 +1,16 @@
+{
+  "articleID": 954,
+  "knowledgeCategoryID": 230,
+  "sort": 0,
+  "name": "Send Emails With JetSend",
+  "body": "<h2 data-id=\"using-smtp\">Using SMTP</h2>\n<p>When using the SMTP method, the email server uses the rules of Simple Mail Transfer Protocol (SMTP) to send the emails.</p>\n<p>Some of its distinguishable features are:</p>\n<ul><li>Simpler setup</li><li>Requires less technical and coding skills</li></ul><p>See <a rel=\"nofollow\" href=\"https://galaxy.maropost.com/s/article/sending-emails-using-smtp\">Send Emails Using SMTP</a> to learn more.</p>\n<p> </p>\n<h2 data-id=\"using-api\">Using API</h2>\n<p>When using the API method, the email server uses the HyperText Transfer Protocol (HTTP) to send the emails.</p>\n<p>Some of its distinguishable features are:</p>\n<ul><li>Faster than SMTP</li><li>Better scalability</li><li>Ideal for sending emails in larger volumes</li></ul><p>See <a rel=\"nofollow\" href=\"https://galaxy.maropost.com/s/article/sending-emails-using-apis\">Send Emails Using APIs</a> to learn more.</p>",
+  "format": "html",
+  "featured": false,
+  "locale": "en",
+  "status": "published",
+  "foreignID": null,
+  "dateUpdated": "2024-04-16T18:05:54+00:00",
+  "_source_kb_id": 6,
+  "_source_kb_name": "JetSend",
+  "_sync_date": "2026-02-02T05:55:12.495272+00:00"
+}

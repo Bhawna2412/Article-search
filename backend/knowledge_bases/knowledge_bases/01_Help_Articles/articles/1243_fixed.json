@@ -1,0 +1,16 @@
+{
+  "articleID": 1243,
+  "knowledgeCategoryID": 1,
+  "sort": 133,
+  "name": "Sales: Troubleshooting Contract Process",
+  "body": "<h1 data-id=\"sales-troubleshooting-contract-process\">Sales: Troubleshooting Contract Process</h1>\n<p><span><span>This article explains how to troubleshoot the panda creation and associated invoice creation issues that sometimes arise.</span></span></p>\n<p> </p>\n<p><span>Unable to Create Panda Doc</span></p>\n<p> Pandadoc preview doesn't come up, this is commonly caused by an illegal character in special conditions note that includes carriage return, so number or list special conditions as required instead for ease of reading, e.g. a) no fees till go live b)  </p>\n<p> </p>\n<p><span>Contract signed but no invoice generated</span></p>\n<p> </p>\n<p>This is commonly caused by the contract being signed <img class=\"emoji\" src=\"http://galaxy.maropost.com/resources/emoji/heart.png\" title=\"&lt;3\" alt=\"&lt;3\" height=\"20\" loading=\"lazy\"></img> hours after the initial opportunity(lead?) has been raised, and hence Zoho CRM has not synced the account information to Zoho Books so it can't find the customer information in Zoho Books to update and automation fails.</p>\n<p>When this occurs the following steps need to performed to resolve the issue:</p>\n<p>1. Select Account &gt; Quote then click Zoho Finance and click New Invoice then close and that will force the customer to push over</p>\n<p>2. Select Create Zoho Invoice (?)</p>\n<p>2. Select Create Update Subs</p>\n<p>3. Check Panda doc to see payment methods chosen and if Payment Plan (regardless of dd or cc) select Create Payment Plan</p>\n<p>4. Create appropriate link(s) in Customer Control Centre &gt; Client Administration &gt; Customer Manager and send appropriate link(s) to client via email</p>\n<p> </p>\n<p> <span>Contract Signed but No Payment Details Entered</span></p>\n<p> </p>\n<p>This is commonly caused by the client exiting out of the browser before entering details into the payment methods screen.</p>\n<p>Client automatically gets an email 1 day later with the appropriate auto generated links to enter their details</p>\n<p>Check this report on a daily basis to see which clients fall into this category</p>\n<p> </p>\n<p><span>Contract Signed but then Client wants to change Payment Method(s)</span></p>\n<p>How to cancel a payment plan - go into recurring invoices and select Stop from dropdown</p>\n<p>Create appropriate link(s) in Customer Control Centre &gt; Client Administration &gt; Customer Manager and send appropriate link(s) to client via email</p>\n<p> </p>",
+  "format": "html",
+  "featured": false,
+  "locale": "en",
+  "status": "published",
+  "foreignID": null,
+  "dateUpdated": "2023-06-01T04:07:22+00:00",
+  "_source_kb_id": 1,
+  "_source_kb_name": "Help Articles",
+  "_sync_date": "2026-02-02T05:48:25.129528+00:00"
+}

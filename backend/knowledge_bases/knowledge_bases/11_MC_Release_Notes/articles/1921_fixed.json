@@ -1,0 +1,16 @@
+{
+  "articleID": 1921,
+  "knowledgeCategoryID": 440,
+  "sort": 19,
+  "name": "Marketing Cloud Release Notes – 11 Jan 2022",
+  "body": "[{\"type\":\"h2\",\"children\":[{\"text\":\"OVERVIEW\",\"bold\":true}]},{\"type\":\"p\",\"children\":[{\"text\":\"This release consists of a new enhancement for the Shopify integration feature.\"}]},{\"type\":\"p\",\"children\":[{\"text\":\"For more details, read on!\"}]},{\"type\":\"p\",\"children\":[{\"text\":\" \"}]},{\"type\":\"h2\",\"children\":[{\"text\":\"ENHANCEMENT\",\"bold\":true}]},{\"type\":\"h3\",\"children\":[{\"text\":\"Shopify Integration Update – Real-Time Synching of Order Financial Status \",\"bold\":true}]},{\"type\":\"p\",\"children\":[{\"text\":\"All updates to the financial status of Shopify orders are now synced to Marketing Cloud in real-time. The order financial status is also synched every time an order is created or updated.\"}]},{\"type\":\"p\",\"children\":[{\"text\":\"This is especially helpful for setting up journeys and segments based on order financial status.\"}]},{\"type\":\"p\",\"children\":[{\"text\":\" \"}]},{\"type\":\"p\",\"children\":[{\"text\":\"Important!!! \",\"bold\":true}]},{\"type\":\"p\",\"children\":[{\"text\":\"While the functionality is automatically available for the new integrations, you'll have to activate it for your existing Shopify integrations. To activate the functionality in your existing integration, disable the integration and then enable it.\"}]},{\"type\":\"p\",\"children\":[{\"text\":\"To learn about the Shopify integration, see \"},{\"type\":\"a\",\"url\":\"https://galaxy.maropost.com/s/article/Integration-with-Shopify\",\"target\":\"_blank\",\"children\":[{\"text\":\"Integration with Shopify\"}]},{\"text\":\" and \"},{\"type\":\"a\",\"url\":\"https://galaxy.maropost.com/s/article/Adding-a-Shopify-Integration\",\"target\":\"_blank\",\"children\":[{\"text\":\"Adding a Shopify Integration\"}]},{\"text\":\".\"}]}]",
+  "format": "rich2",
+  "featured": false,
+  "locale": "en",
+  "status": "published",
+  "foreignID": null,
+  "dateUpdated": "2025-05-26T18:49:39+00:00",
+  "_source_kb_id": 11,
+  "_source_kb_name": "MC Release Notes",
+  "_sync_date": "2026-02-02T05:58:17.852049+00:00"
+}

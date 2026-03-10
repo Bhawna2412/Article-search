@@ -1,0 +1,26 @@
+{
+  "articleID": 1213,
+  "name": "Announcing the new MYOB Cloud Integration",
+  "slug": "1213-announcing-the-new-myob-cloud-integration",
+  "format": "rich2",
+  "locale": "en",
+  "body": "[{\"type\": \"p\", \"children\": [{\"text\": \"You can integrate \"}, {\"text\": \"Retail Express\", \"bold\": true}, {\"text\": \" with MYOB Cloud accounting to automate financial data synchronization for Australian retailers using MYOB. This integration helps improve accounting efficiency and accuracy by automatically transferring sales, inventory, and purchase data to your cloud-based accounting system, reducing manual bookkeeping and supporting better financial management.\"}]}, {\"type\": \"p\", \"children\": [{\"text\": \"Setting up MYOB Cloud integration involves configuring connection settings, mapping chart of accounts, and establishing data synchronization preferences. When properly configured, this integration typically leads to reduced accounting overhead through automation, improved financial accuracy through direct data transfer, and better financial visibility for ANZ retail operations.\"}]}, {\"type\": \"p\", \"children\": [{\"text\": \"\"}]}, {\"type\": \"h1\", \"children\": [{\"text\": \"Announcing the new MYOB Cloud Integration\"}], \"data-id\": \"announcing-the-new-myob-cloud-integration\"}, {\"type\": \"p\", \"children\": [{\"text\": \"We're excited to announce we've expanded our Accounting Integration options, with a new MYOB Cloud Integration!\"}]}, {\"type\": \"p\", \"children\": [{\"text\": \"Streamline your accounting processes and get accurate financial insights to make better business decisions.\"}]}, {\"type\": \"rich_embed_card\", \"dataSourceType\": \"image\", \"url\": \"https://us.v-cdn.net/6038474/uploads/attachments/migrated/image.05T5g00000pmI1rEAE.jpg\", \"embedData\": {\"url\": \"https://us.v-cdn.net/6038474/uploads/attachments/migrated/image.05T5g00000pmI1rEAE.jpg\", \"embedType\": \"image\", \"displaySize\": \"large\", \"float\": \"none\", \"name\": \"accounting integration.png\"}, \"children\": [{\"text\": \"\"}]}, {\"type\": \"p\", \"children\": [{\"text\": \"The new MYOB Cloud integration offers you:\"}]}, {\"type\": \"ul\", \"children\": [{\"type\": \"li\", \"children\": [{\"type\": \"lic\", \"children\": [{\"text\": \"Automated daily synchronisation between Retail Express and MYOB AccountRight 2019+\"}]}, {\"type\": \"p\", \"children\": [{\"text\": \"You will need to store your Company File online\"}]}]}, {\"type\": \"li\", \"children\": [{\"type\": \"lic\", \"children\": [{\"text\": \"Simple setup\"}]}]}, {\"type\": \"li\", \"children\": [{\"type\": \"lic\", \"children\": [{\"text\": \"Comprehensive Reporting\"}]}]}, {\"type\": \"li\", \"children\": [{\"type\": \"lic\", \"children\": [{\"text\": \"Backdate your integration \\\"Start Date\\\" by up to 3 months\"}]}]}, {\"type\": \"li\", \"children\": [{\"type\": \"lic\", \"children\": [{\"text\": \"Create transactions automatically :\"}]}, {\"type\": \"ul\", \"children\": [{\"type\": \"li\", \"children\": [{\"type\": \"lic\", \"children\": [{\"text\": \"General Journals\"}]}]}, {\"type\": \"li\", \"children\": [{\"type\": \"lic\", \"children\": [{\"text\": \"Daily Invoice\"}]}]}, {\"type\": \"li\", \"children\": [{\"type\": \"lic\", \"children\": [{\"text\": \"Store Invoice\"}]}]}, {\"type\": \"li\", \"children\": [{\"type\": \"lic\", \"children\": [{\"text\": \"Bills\"}]}]}, {\"type\": \"li\", \"children\": [{\"type\": \"lic\", \"children\": [{\"text\": \"Contacts\"}]}]}]}]}]}, {\"type\": \"p\", \"children\": [{\"text\": \"\"}]}, {\"type\": \"p\", \"children\": [{\"text\": \"Ready to get started?\"}, {\"text\": \"Click here to begin setting up your integration now!\"}]}, {\"type\": \"p\", \"children\": [{\"text\": \"Before proceeding with any change of Accounting package we strongly recommend you review integration with your bookkeeper or accountant to ensure the integration is right for your business.\"}]}, {\"type\": \"p\", \"children\": [{\"text\": \"\"}]}]",
+  "fixes_applied": {
+    "urls": {
+      "leaving_cleaned": 0,
+      "unsafe_removed": 0,
+      "s_article_mapped": 0,
+      "s_article_removed": 1,
+      "fragments_mapped": 0,
+      "fragments_stripped": 0,
+      "internal_fragments_fixed": 0,
+      "double_id_fixed": 0,
+      "kb_fragments_stripped": 0
+    },
+    "toc": 0,
+    "related": 1,
+    "lists": 0,
+    "headings": 0,
+    "reconverted": false
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "articleID": 1872,
+  "knowledgeCategoryID": 454,
+  "sort": 17,
+  "name": "Neto by Maropost Release Notes – 01 Jul 2020",
+  "body": "[{\"type\":\"p\",\"children\":[{\"text\":\"Release Version\",\"bold\":true},{\"text\":\": 6.109\"}]},{\"type\":\"p\",\"children\":[{\"text\":\" \"}]},{\"type\":\"h2\",\"children\":[{\"text\":\"Minor Improvements\",\"bold\":true}]},{\"type\":\"ul\",\"children\":[{\"type\":\"li\",\"children\":[{\"text\":\"Various security improvements have been implemented for the control panel and webstore.\"}]}]},{\"type\":\"p\",\"children\":[{\"text\":\" \"}]},{\"type\":\"h2\",\"children\":[{\"text\":\"Bug Fixes\",\"bold\":true}]},{\"type\":\"ul\",\"children\":[{\"type\":\"li\",\"children\":[{\"type\":\"lic\",\"children\":[{\"text\":\"Fixed an issue where the password reset email expired before being used.\"}]}]}]},{\"type\":\"p\",\"children\":[{\"text\":\" \"}]}]",
+  "format": "rich2",
+  "featured": false,
+  "locale": "en",
+  "status": "published",
+  "foreignID": null,
+  "dateUpdated": "2025-06-10T15:14:42+00:00",
+  "_source_kb_id": 12,
+  "_source_kb_name": "Neto Release Notes",
+  "_sync_date": "2026-02-02T05:59:18.987328+00:00"
+}

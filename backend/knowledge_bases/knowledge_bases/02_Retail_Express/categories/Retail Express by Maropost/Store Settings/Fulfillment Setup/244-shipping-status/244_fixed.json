@@ -1,0 +1,26 @@
+{
+  "articleID": 244,
+  "name": "Shipping Status",
+  "slug": "244-shipping-status",
+  "format": "rich2",
+  "locale": "en",
+  "body": "[{\"type\": \"p\", \"children\": [{\"text\": \"You can track the progress of supplier shipments by configuring shipping status options like \\\"in transit,\\\" \\\"at port,\\\" or \\\"ready for pickup\\\" on purchase orders. Using shipping status fields in the PO Manager helps retail operators monitor incoming inventory more effectively, enabling better receiving resource planning and helping communicate anticipated stock arrival dates to customers waiting for special orders.\"}]}, {\"type\": \"p\", \"children\": [{\"text\": \"Setting up shipping status tracking aligned with your supplier communication patterns helps retail operators maintain visibility over purchase order progress from supplier dispatch through to warehouse receipt.\"}]}, {\"type\": \"p\", \"children\": [{\"text\": \"The Shipping Status field is used to manage the status of orders being sent by your suppliers. The Shipping Status field is selected on a Purchase Order, then used to search and filter on your orders in the PO Manager.\"}]}, {\"type\": \"rich_embed_card\", \"dataSourceType\": \"image\", \"url\": \"https://us.v-cdn.net/6038474/uploads/attachments/migrated/image.05T5g00000pphvGEAQ.jpg\", \"embedData\": {\"url\": \"https://us.v-cdn.net/6038474/uploads/attachments/migrated/image.05T5g00000pphvGEAQ.jpg\", \"embedType\": \"image\", \"displaySize\": \"large\", \"float\": \"none\", \"name\": \"mceclip1 - 2023-07-10T001110.447.png\"}, \"children\": [{\"text\": \"\"}]}, {\"type\": \"p\", \"children\": [{\"text\": \"\"}]}, {\"type\": \"h2\", \"children\": [{\"text\": \"Create a Shipping Status\"}], \"data-id\": \"create-a-shipping-status\"}, {\"type\": \"p\", \"children\": [{\"text\": \"To create a new Shipping Status:\"}]}, {\"type\": \"ol\", \"children\": [{\"type\": \"li\", \"children\": [{\"type\": \"lic\", \"children\": [{\"text\": \"Navigate to \"}, {\"text\": \"Settings > Purchase Order Setup > Shipping Status\", \"bold\": true}]}]}, {\"type\": \"li\", \"children\": [{\"type\": \"lic\", \"children\": [{\"text\": \"Enter a name into the \"}, {\"text\": \"Shipping Status \", \"bold\": true}, {\"text\": \"field\"}]}, {\"type\": \"rich_embed_card\", \"dataSourceType\": \"image\", \"url\": \"https://us.v-cdn.net/6038474/uploads/attachments/migrated/image.05T5g00000pphvLEAQ.jpg\", \"embedData\": {\"url\": \"https://us.v-cdn.net/6038474/uploads/attachments/migrated/image.05T5g00000pphvLEAQ.jpg\", \"embedType\": \"image\", \"displaySize\": \"large\", \"float\": \"none\", \"name\": \"mceclip0 - 2023-07-10T001114.991.png\"}, \"children\": [{\"text\": \"\"}]}]}, {\"type\": \"li\", \"children\": [{\"type\": \"lic\", \"children\": [{\"text\": \"Click \"}, {\"text\": \"Create\", \"bold\": true}]}]}]}, {\"type\": \"p\", \"children\": [{\"text\": \"\"}]}, {\"type\": \"h2\", \"children\": [{\"text\": \"Manage an Existing Shipping Status\"}], \"data-id\": \"manage-an-existing-shipping-status\"}, {\"type\": \"p\", \"children\": [{\"text\": \"To edit or delete an existing shipping status:\"}]}, {\"type\": \"ol\", \"children\": [{\"type\": \"li\", \"children\": [{\"type\": \"lic\", \"children\": [{\"text\": \"Click the\"}, {\"text\": \"Pencil icon\", \"bold\": true}, {\"text\": \"to\"}, {\"text\": \"edit\", \"bold\": true}, {\"text\": \"the name\"}]}, {\"type\": \"rich_embed_card\", \"dataSourceType\": \"image\", \"url\": \"https://us.v-cdn.net/6038474/uploads/attachments/migrated/image.05T5g00000pphMWEAY.jpg\", \"embedData\": {\"url\": \"https://us.v-cdn.net/6038474/uploads/attachments/migrated/image.05T5g00000pphMWEAY.jpg\", \"embedType\": \"image\", \"displaySize\": \"large\", \"float\": \"none\", \"name\": \"mceclip1 - 2023-07-10T001128.575.png\"}, \"children\": [{\"text\": \"\"}]}]}, {\"type\": \"li\", \"children\": [{\"type\": \"lic\", \"children\": [{\"text\": \"Click the\"}, {\"text\": \"Trash can \", \"bold\": true}, {\"text\": \"icon\"}, {\"text\": \"to delete an existing Shipment Type\"}]}, {\"type\": \"rich_embed_card\", \"dataSourceType\": \"image\", \"url\": \"https://us.v-cdn.net/6038474/uploads/attachments/migrated/image.05T5g00000pphvQEAQ.jpg\", \"embedData\": {\"url\": \"https://us.v-cdn.net/6038474/uploads/attachments/migrated/image.05T5g00000pphvQEAQ.jpg\", \"embedType\": \"image\", \"displaySize\": \"large\", \"float\": \"none\", \"name\": \"mceclip3 (55).png\"}, \"children\": [{\"text\": \"\"}]}]}]}, {\"type\": \"p\", \"children\": [{\"text\": \"\"}]}]",
+  "fixes_applied": {
+    "urls": {
+      "leaving_cleaned": 0,
+      "unsafe_removed": 0,
+      "s_article_mapped": 0,
+      "s_article_removed": 0,
+      "fragments_mapped": 0,
+      "fragments_stripped": 0,
+      "internal_fragments_fixed": 0,
+      "double_id_fixed": 0,
+      "kb_fragments_stripped": 0
+    },
+    "toc": 0,
+    "related": 1,
+    "lists": 0,
+    "headings": 0,
+    "reconverted": false
+  }
+}

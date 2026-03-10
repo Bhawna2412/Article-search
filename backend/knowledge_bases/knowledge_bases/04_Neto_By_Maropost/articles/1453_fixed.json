@@ -1,0 +1,17 @@
+{
+  "articleID": 1453,
+  "knowledgeCategoryID": 288,
+  "sort": 0,
+  "name": "Video: Amazon Australia Category and Field Mapping",
+  "body": "[{\"type\": \"rich_embed_card\", \"children\": [{\"text\": \"\"}], \"dataSourceType\": \"url\", \"url\": \"https://youtu.be/1iIU8VyjS_0\", \"embedData\": {\"height\": 360, \"width\": 640, \"photoUrl\": \"https://i.ytimg.com/vi/1iIU8VyjS_0/hqdefault.jpg\", \"videoID\": \"1iIU8VyjS_0\", \"showRelated\": false, \"start\": 0, \"url\": \"https://youtu.be/1iIU8VyjS_0\", \"embedType\": \"youtube\", \"name\": \"\", \"frameSrc\": \"https://www.youtube.com/embed/1iIU8VyjS_0?feature=oembed&autoplay=1\"}}, {\"type\": \"ul\", \"children\": [{\"type\": \"li\", \"children\": [{\"type\": \"lic\", \"children\": [{\"text\": \"Set up Amazon Australia\"}]}]}, {\"type\": \"li\", \"children\": [{\"type\": \"lic\", \"children\": [{\"text\": \"Map Custom Fields for Amazon and Catch\"}]}]}]}]",
+  "format": "rich2",
+  "featured": false,
+  "locale": "en",
+  "status": "published",
+  "foreignID": null,
+  "dateUpdated": "2025-12-11T04:35:55+00:00",
+  "_source_kb_id": 4,
+  "_source_kb_name": "Neto By Maropost",
+  "_sync_date": "2026-02-06T07:18:36.352124+00:00",
+  "_incremental_update": true
+}

@@ -1,0 +1,16 @@
+{
+  "articleID": 986,
+  "knowledgeCategoryID": 1,
+  "sort": 83,
+  "name": "JRD Test Article",
+  "body": "<h1 data-id=\"article-headline\">Article Headline</h1>\n<h3 data-id=\"click-to-go-to-anchor-position\"><a rel=\"nofollow\" href=\"#AnchorPreAccordian\"><strong>Click to Go To Anchor Position</strong></a></h3>\n<h1 data-id=\"test-article-header-1\"><br/>Test Article Header 1</h1>\n<ul><li>Bullet Point 1</li><li>Bullet Point 2</li><li>Bullet Point 3</li></ul><p> More inormation would go here.  More inormation would go here. More inormation would go here. More inormation would go here. More inormation would go here. More inormation would go here.</p>\n<details><summary><span><strong>Test Article Header 3 as Accordian</strong></span></summary><ul><li><span>Bullet 1 in Accordion</span></li><li><span>Bullet 2 in Accordion</span>\n<ul><li><span>Sub Bullet</span></li></ul></li><li>Bullet 3 in Accordion</li></ul></details><details><summary><span><strong>Test Article Header 3 as Accordian</strong></span></summary><ul><li>Bullet 1 in Accordion</li><li>Bullet 2 in Accordion</li><li>Bullet 3 in AccordionTest Article Header 2</li></ul></details><p>More inormation would go here.</p>\n<details><summary><span><a id=\"AnchorPreAccordian\" name=\"AnchorPreAccordian\"></a><strong>Accordian Test with Anchor</strong></span></summary><ul><li>Bullet Point 1\n<ul><li>Sub Bullet</li><li>Sub Bullet</li></ul></li><li>Bullet Point 2\n<ul><li>Sub Bullet</li></ul></li><li>Bullet Point 3</li></ul></details><p> </p>\n<p> </p>",
+  "format": "html",
+  "featured": false,
+  "locale": "en",
+  "status": "published",
+  "foreignID": null,
+  "dateUpdated": "2024-04-08T23:21:44+00:00",
+  "_source_kb_id": 1,
+  "_source_kb_name": "Help Articles",
+  "_sync_date": "2026-02-02T05:47:50.907742+00:00"
+}

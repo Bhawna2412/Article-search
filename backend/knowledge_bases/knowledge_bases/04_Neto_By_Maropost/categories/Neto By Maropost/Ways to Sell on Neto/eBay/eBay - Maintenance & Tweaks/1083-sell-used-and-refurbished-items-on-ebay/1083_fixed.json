@@ -1,0 +1,27 @@
+{
+  "articleID": 1083,
+  "name": "Sell Used and Refurbished Items on eBay",
+  "slug": "1083-sell-used-and-refurbished-items-on-ebay",
+  "format": "rich2",
+  "locale": "en",
+  "body": "[{\"type\": \"p\", \"children\": [{\"text\": \"To set up item condition on your products, so that they can be displayed on your eBay listings:\"}]}, {\"type\": \"ol\", \"children\": [{\"type\": \"li\", \"children\": [{\"type\": \"lic\", \"children\": [{\"text\": \"Add a \"}, {\"type\": \"a\", \"url\": \"https://galaxy.maropost.com/kb/articles/26-add-and-manage-products#add-product-categories-to-products-via-import\", \"children\": [{\"text\": \"Custom Product Field\"}]}, {\"text\": \" with the details below:\"}]}, {\"type\": \"table\", \"children\": [{\"type\": \"tr\", \"children\": [{\"type\": \"th\", \"children\": [{\"type\": \"p\", \"children\": [{\"text\": \"Field Name\"}]}]}, {\"type\": \"th\", \"children\": [{\"type\": \"p\", \"children\": [{\"text\": \"Field Value\"}]}]}]}, {\"type\": \"tr\", \"children\": [{\"type\": \"td\", \"children\": [{\"type\": \"p\", \"children\": [{\"text\": \"Name\"}]}]}, {\"type\": \"td\", \"children\": [{\"type\": \"p\", \"children\": [{\"text\": \"eBay Item Condition\"}]}]}]}, {\"type\": \"tr\", \"children\": [{\"type\": \"td\", \"children\": [{\"type\": \"p\", \"children\": [{\"text\": \"Field Type\"}]}]}, {\"type\": \"td\", \"children\": [{\"type\": \"p\", \"children\": [{\"text\": \"Selection Box \\u2013 Single Selection\"}]}]}]}, {\"type\": \"tr\", \"children\": [{\"type\": \"td\", \"children\": [{\"type\": \"p\", \"children\": [{\"text\": \"Selection Box Options\"}]}]}, {\"type\": \"td\", \"children\": [{\"type\": \"p\", \"children\": [{\"text\": \"Seller Refurbished\", \"code\": true}, {\"text\": \"\\n\"}, {\"text\": \"Used\", \"code\": true}, {\"text\": \"\\n\"}, {\"text\": \"2010 Excellent | Refurbished\", \"code\": true}, {\"text\": \"\\n\"}, {\"text\": \"2020 Very Good | Refurbished\", \"code\": true}, {\"text\": \"\\n\"}, {\"text\": \"2030 Good | Refurbished\", \"code\": true}, {\"text\": \"\\n\"}, {\"text\": \"2000 Certified | Refurbished\", \"code\": true}]}]}]}, {\"type\": \"tr\", \"children\": [{\"type\": \"td\", \"children\": [{\"type\": \"p\", \"children\": [{\"text\": \"Section\"}]}]}, {\"type\": \"td\", \"children\": [{\"type\": \"p\", \"children\": [{\"text\": \"Choose any depending on where you want this field to display on the product page.\"}]}]}]}, {\"type\": \"tr\", \"children\": [{\"type\": \"td\", \"children\": [{\"type\": \"p\", \"children\": [{\"text\": \"Show On Product Display Page\"}]}]}, {\"type\": \"td\", \"children\": [{\"type\": \"p\", \"children\": [{\"text\": \"Hidden\"}]}]}]}, {\"type\": \"tr\", \"children\": [{\"type\": \"td\", \"children\": [{\"type\": \"p\", \"children\": [{\"text\": \"Show On Product Thumbnail\"}]}]}, {\"type\": \"td\", \"children\": [{\"type\": \"p\", \"children\": [{\"text\": \"Hidden\"}]}]}]}], \"id\": \"rich-table-80245031\"}, {\"type\": \"rich_embed_card\", \"dataSourceType\": \"image\", \"url\": \"https://us.v-cdn.net/6038474/uploads/attachments/migrated/SellUsedandRefurbishedItemsoneBay1.05T5g00000v4asrEAA.png\", \"embedData\": {\"url\": \"https://us.v-cdn.net/6038474/uploads/attachments/migrated/SellUsedandRefurbishedItemsoneBay1.05T5g00000v4asrEAA.png\", \"embedType\": \"image\", \"displaySize\": \"large\", \"float\": \"none\", \"name\": \"image1\", \"width\": 700, \"height\": 259}, \"children\": [{\"text\": \"\"}]}]}, {\"type\": \"li\", \"children\": [{\"type\": \"lic\", \"children\": [{\"type\": \"a\", \"url\": \"https://galaxy.maropost.com/kb/articles/782-ebay-field-mapping\", \"children\": [{\"text\": \"Update the mapping\"}]}, {\"text\": \" on your Listing Rule Templates so that your custom product field matchs the \"}, {\"text\": \"eBay Item Condition\", \"bold\": true}, {\"text\": \" field.\"}]}, {\"type\": \"rich_embed_card\", \"dataSourceType\": \"image\", \"url\": \"https://us.v-cdn.net/6038474/uploads/attachments/migrated/SellUsedandRefurbishedItemsoneBay2.05T5g00000v4b4qEAA.png\", \"embedData\": {\"url\": \"https://us.v-cdn.net/6038474/uploads/attachments/migrated/SellUsedandRefurbishedItemsoneBay2.05T5g00000v4b4qEAA.png\", \"embedType\": \"image\", \"displaySize\": \"large\", \"float\": \"none\", \"name\": \"image2\", \"width\": 700, \"height\": 246}, \"children\": [{\"text\": \"\"}]}]}, {\"type\": \"li\", \"children\": [{\"type\": \"lic\", \"children\": [{\"text\": \"Use the \"}, {\"type\": \"a\", \"url\": \"https://galaxy.maropost.com/kb/articles/668-product-import-wizard\", \"children\": [{\"text\": \"Data Import Wizard\"}]}, {\"text\": \" to populate your custom product field with their corresponding values from the table above.\"}]}]}, {\"type\": \"li\", \"children\": [{\"type\": \"lic\", \"children\": [{\"type\": \"a\", \"url\": \"https://galaxy.maropost.com/kb/articles/1082-revise-active-ebay-listings\", \"children\": [{\"text\": \"Revise the listings\"}]}, {\"text\": \".\"}]}]}]}]",
+  "fixes_applied": {
+    "rebrand": 0,
+    "urls": {
+      "leaving_cleaned": 0,
+      "unsafe_removed": 0,
+      "s_article_mapped": 4,
+      "s_article_removed": 0,
+      "fragments_mapped": 1,
+      "fragments_stripped": 0,
+      "internal_fragments_fixed": 0,
+      "double_id_fixed": 0,
+      "kb_fragments_stripped": 0
+    },
+    "toc": 0,
+    "related": 0,
+    "lists": 4,
+    "headings": 0,
+    "reconverted": true
+  }
+}

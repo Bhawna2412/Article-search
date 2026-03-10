@@ -1,0 +1,27 @@
+{
+  "articleID": 788,
+  "name": "Disable Print Preview of Receipts in Chrome",
+  "slug": "788-disable-print-preview-of-receipts-in-chrome",
+  "format": "rich2",
+  "locale": "en",
+  "body": "[{\"type\": \"p\", \"children\": [{\"text\": \"Please Note\", \"bold\": true}, {\"text\": \": Neto POS is not available outside of Australia and New Zealand.\"}]}, {\"type\": \"p\", \"children\": [{\"text\": \"Kiosk or Silent printing disables the print preview / confirmation popup that otherwise appears when you print a receipt in Maropost POS. By doing this, you can cut out an entire step in the sales process.\"}]}, {\"type\": \"p\", \"children\": [{\"text\": \"Please Note\", \"bold\": true}, {\"text\": \": Printing is handled by your browser, e.g. Google Chrome, not Neto. As such, we have no control over the process. If the information provided here does not work for you then we recommend contacting Google Chrome support directly.\"}]}, {\"type\": \"p\", \"children\": [{\"text\": \"\"}]}, {\"type\": \"p\", \"children\": [{\"text\": \"\"}]}, {\"type\": \"h2\", \"children\": [{\"text\": \"Chrome for Windows\"}], \"data-id\": \"chrome-for-windows\"}, {\"type\": \"ol\", \"children\": [{\"type\": \"li\", \"children\": [{\"type\": \"lic\", \"children\": [{\"text\": \"If you have not already installed the \"}, {\"type\": \"a\", \"url\": \"https://www.google.com/chrome\", \"children\": [{\"text\": \"Google Chrome browser\"}]}, {\"text\": \", do so first. Once installed, \"}, {\"type\": \"a\", \"url\": \"https://galaxy.maropost.com/kb/articles/1630-maropost-pos-compatible-hardware\", \"children\": [{\"text\": \"setup your receipt printer\"}]}, {\"text\": \" as your default printer.\"}]}]}, {\"type\": \"li\", \"children\": [{\"type\": \"lic\", \"children\": [{\"text\": \"Navigate to your computer's desktop and right click on the Google Chrome icon. A menu will appear, select the \\\"Properties\\\" option from the menu.\"}]}, {\"type\": \"rich_embed_card\", \"dataSourceType\": \"image\", \"url\": \"https://us.v-cdn.net/6038474/uploads/attachments/migrated/DisablePrintPreviewofReceiptsinChrome1.05T5g00000szOnmEAE.png\", \"embedData\": {\"url\": \"https://us.v-cdn.net/6038474/uploads/attachments/migrated/DisablePrintPreviewofReceiptsinChrome1.05T5g00000szOnmEAE.png\", \"embedType\": \"image\", \"displaySize\": \"large\", \"float\": \"none\", \"name\": \"image1\"}, \"children\": [{\"text\": \"\"}]}]}, {\"type\": \"li\", \"children\": [{\"type\": \"lic\", \"children\": [{\"text\": \"A properties window will be displayed. Locate the \\\"Target\\\" field in this window and append a space and the text \"}, {\"text\": \" -disable-print-preview\", \"code\": true}, {\"text\": \" to the end of existing string of text.\"}]}, {\"type\": \"callout\", \"children\": [{\"type\": \"callout-item\", \"children\": [{\"text\": \"make sure there is a space between \"}, {\"text\": \" -disable-print-preview\", \"code\": true}, {\"text\": \" and the end of the string of text that already exists as shown below.\"}]}], \"appearance\": \"alert\"}, {\"type\": \"p\", \"children\": [{\"text\": \"\"}]}, {\"type\": \"rich_embed_card\", \"dataSourceType\": \"image\", \"url\": \"https://us.v-cdn.net/6038474/uploads/attachments/migrated/DisablePrintPreviewofReceiptsinChrome2.05T5g00000szOzaEAE.png\", \"embedData\": {\"url\": \"https://us.v-cdn.net/6038474/uploads/attachments/migrated/DisablePrintPreviewofReceiptsinChrome2.05T5g00000szOzaEAE.png\", \"embedType\": \"image\", \"displaySize\": \"large\", \"float\": \"none\", \"name\": \"image2\"}, \"children\": [{\"text\": \"\"}]}]}, {\"type\": \"li\", \"children\": [{\"type\": \"lic\", \"children\": [{\"text\": \"Apply the changes, close the window, and restart your computer.\"}]}]}]}, {\"type\": \"p\", \"children\": [{\"text\": \"\"}]}, {\"type\": \"p\", \"children\": [{\"text\": \"You can now test kiosk printing by making a sale in Maropost POS and printing a receipt.\"}]}, {\"type\": \"p\", \"children\": [{\"text\": \"\"}]}, {\"type\": \"h2\", \"children\": [{\"text\": \"Chrome for Mac\"}], \"data-id\": \"chrome-for-mac\"}, {\"type\": \"ol\", \"children\": [{\"type\": \"li\", \"children\": [{\"type\": \"lic\", \"children\": [{\"text\": \"Open the terminal in \"}, {\"text\": \"Applications\", \"bold\": true}, {\"text\": \" > \"}, {\"text\": \"Utilities\", \"bold\": true}, {\"text\": \".\"}]}]}, {\"type\": \"li\", \"children\": [{\"type\": \"lic\", \"children\": [{\"text\": \"Enter \"}, {\"text\": \"defaults write com.google.Chrome DisablePrintPreview -bool true\", \"code\": true}, {\"text\": \".\"}]}]}, {\"type\": \"li\", \"children\": [{\"type\": \"lic\", \"children\": [{\"text\": \"Open Google Chrome and check the default printer is correct (Command + P).\"}]}]}]}]",
+  "fixes_applied": {
+    "rebrand": 2,
+    "urls": {
+      "leaving_cleaned": 1,
+      "unsafe_removed": 0,
+      "s_article_mapped": 1,
+      "s_article_removed": 0,
+      "fragments_mapped": 0,
+      "fragments_stripped": 0,
+      "internal_fragments_fixed": 2,
+      "double_id_fixed": 0,
+      "kb_fragments_stripped": 0
+    },
+    "toc": 1,
+    "related": 0,
+    "lists": 6,
+    "headings": 1,
+    "reconverted": false
+  }
+}

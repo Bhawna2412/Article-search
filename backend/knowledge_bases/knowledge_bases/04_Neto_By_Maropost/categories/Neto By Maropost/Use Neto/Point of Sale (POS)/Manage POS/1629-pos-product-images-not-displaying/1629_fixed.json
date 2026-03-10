@@ -1,0 +1,27 @@
+{
+  "articleID": 1629,
+  "name": "POS Product Images not Displaying",
+  "slug": "1629-pos-product-images-not-displaying",
+  "format": "rich2",
+  "locale": "en",
+  "body": "[{\"type\": \"p\", \"children\": [{\"text\": \"Please Note\", \"bold\": true}, {\"text\": \": Neto POS is not available outside of Australia and New Zealand.\"}]}, {\"type\": \"p\", \"children\": [{\"text\": \"Maropost POS runs image updates on a daily schedule so your images you may have added to your products may not appear straight away. We can manually override this schedule so it updates straight away.\"}]}, {\"type\": \"ol\", \"children\": [{\"type\": \"li\", \"children\": [{\"type\": \"lic\", \"children\": [{\"text\": \"To do this, login to your Neto control panel and navigate to \"}, {\"text\": \"Settings & Tools\", \"bold\": true}, {\"text\": \" > \"}, {\"text\": \"All settings & tools\", \"bold\": true}, {\"text\": \".\"}]}]}, {\"type\": \"li\", \"children\": [{\"type\": \"lic\", \"children\": [{\"text\": \"Click on the \"}, {\"text\": \"Processes & Scheduled Jobs\", \"bold\": true}, {\"text\": \" tab and click \"}, {\"text\": \"System Scheduled Tasks\", \"bold\": true}, {\"text\": \".\"}]}]}, {\"type\": \"li\", \"children\": [{\"type\": \"lic\", \"children\": [{\"text\": \"Scroll down to \"}, {\"text\": \"Inventory Images\", \"bold\": true}, {\"text\": \" task and on the right hand side, click the \"}, {\"text\": \"Run Now\", \"bold\": true}, {\"text\": \" button.\"}]}]}, {\"type\": \"li\", \"children\": [{\"type\": \"lic\", \"children\": [{\"text\": \"A batch task will be created and put into a queue for processing. Click the link to open the process.\"}]}]}, {\"type\": \"li\", \"children\": [{\"type\": \"lic\", \"children\": [{\"text\": \"Click the \"}, {\"text\": \"Run Now\", \"bold\": true}, {\"text\": \" button again to run the task immediately above other tasks. You can then press F5 on the browser to refresh the browser and review the status of the job. Once the status changes to \"}, {\"text\": \"Finished\", \"bold\": true}, {\"text\": \", navigate back to POS, synchronise your data and your images will now appear.\"}]}]}]}]",
+  "fixes_applied": {
+    "rebrand": 0,
+    "urls": {
+      "leaving_cleaned": 0,
+      "unsafe_removed": 0,
+      "s_article_mapped": 0,
+      "s_article_removed": 0,
+      "fragments_mapped": 0,
+      "fragments_stripped": 0,
+      "internal_fragments_fixed": 0,
+      "double_id_fixed": 0,
+      "kb_fragments_stripped": 0
+    },
+    "toc": 0,
+    "related": 0,
+    "lists": 5,
+    "headings": 0,
+    "reconverted": false
+  }
+}

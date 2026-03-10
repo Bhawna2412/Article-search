@@ -1,0 +1,26 @@
+{
+  "articleID": 200,
+  "name": "How to Calibrate a Zebra Label printer via Windows 10",
+  "slug": "200-how-to-calibrate-a-zebra-label-printer-via-windows-10",
+  "format": "rich2",
+  "locale": "en",
+  "body": "[{\"type\": \"p\", \"children\": [{\"text\": \"You can maintain accurate label printing by calibrating Zebra label printers properly on Windows 10 systems, ensuring labels print correctly positioned without waste. This helps optimize your retail operations by preventing label waste, maintaining professional product presentation, and ensuring barcode scanability for inventory management.\"}]}, {\"type\": \"p\", \"children\": [{\"text\": \"If the client is having issues calibrating a Zebra label printer. Most Zebra Label printers are detected by Windows 10\"}]}, {\"type\": \"p\", \"children\": [{\"text\": \"You can calibrate a Zebra Label printer via 'Printers and Scanners'\"}]}, {\"type\": \"p\", \"children\": [{\"text\": \"1. Open 'Printers & Scanners'\"}, {\"text\": \"\\n\"}, {\"text\": \"2. Locate the Zebra Printer within the list\"}, {\"text\": \"\\n\"}, {\"text\": \"3. Click on the printer and click 'Manage'\"}, {\"text\": \"\\n\"}, {\"type\": \"rich_embed_card\", \"dataSourceType\": \"image\", \"url\": \"https://us.v-cdn.net/6038474/uploads/attachments/migrated/image.05T5g00000ppOODEA2.jpg\", \"embedData\": {\"url\": \"https://us.v-cdn.net/6038474/uploads/attachments/migrated/image.05T5g00000ppOODEA2.jpg\", \"embedType\": \"image\", \"displaySize\": \"inline\", \"float\": \"none\", \"name\": \"rtaImage - 2023-07-08T111826.875.png\"}, \"children\": [{\"text\": \"\"}]}, {\"text\": \"\\n\"}, {\"text\": \"4. Click on 'Printing Preferences' and then 'Tools'\"}, {\"text\": \"\\n\"}, {\"type\": \"rich_embed_card\", \"dataSourceType\": \"image\", \"url\": \"https://us.v-cdn.net/6038474/uploads/attachments/migrated/image.05T5g00000ppOONEA2.jpg\", \"embedData\": {\"url\": \"https://us.v-cdn.net/6038474/uploads/attachments/migrated/image.05T5g00000ppOONEA2.jpg\", \"embedType\": \"image\", \"displaySize\": \"inline\", \"float\": \"none\", \"name\": \"rtaImage - 2023-07-08T111835.917.png\"}, \"children\": [{\"text\": \"\"}]}, {\"text\": \"\\n\"}, {\"text\": \"5. Select 'Reset Printer' then press 'Send'\"}, {\"text\": \"\\n\"}, {\"type\": \"rich_embed_card\", \"dataSourceType\": \"image\", \"url\": \"https://us.v-cdn.net/6038474/uploads/attachments/migrated/image.05T5g00000ppOOSEA2.jpg\", \"embedData\": {\"url\": \"https://us.v-cdn.net/6038474/uploads/attachments/migrated/image.05T5g00000ppOOSEA2.jpg\", \"embedType\": \"image\", \"displaySize\": \"inline\", \"float\": \"none\", \"name\": \"rtaImage - 2023-07-08T111841.568.png\"}, \"children\": [{\"text\": \"\"}]}, {\"text\": \"\\n\"}, {\"text\": \"6. Select 'Load factory defaults' then press 'Send' then press 'Apply'\"}, {\"text\": \"\\n\"}, {\"type\": \"rich_embed_card\", \"dataSourceType\": \"image\", \"url\": \"https://us.v-cdn.net/6038474/uploads/attachments/migrated/image.05T5g00000ppOOXEA2.jpg\", \"embedData\": {\"url\": \"https://us.v-cdn.net/6038474/uploads/attachments/migrated/image.05T5g00000ppOOXEA2.jpg\", \"embedType\": \"image\", \"displaySize\": \"inline\", \"float\": \"none\", \"name\": \"rtaImage - 2023-07-08T111846.601.png\"}, \"children\": [{\"text\": \"\"}]}, {\"text\": \"\\n\"}, {\"text\": \"7. Select 'Calibrate Media' then press 'Send'\"}, {\"text\": \"\"}, {\"type\": \"rich_embed_card\", \"dataSourceType\": \"image\", \"url\": \"https://us.v-cdn.net/6038474/uploads/attachments/migrated/image.05T5g00000ppOOmEAM.jpg\", \"embedData\": {\"url\": \"https://us.v-cdn.net/6038474/uploads/attachments/migrated/image.05T5g00000ppOOmEAM.jpg\", \"embedType\": \"image\", \"displaySize\": \"inline\", \"float\": \"none\", \"name\": \"rtaImage - 2023-07-08T111852.688.png\"}, \"children\": [{\"text\": \"\"}]}]}, {\"type\": \"p\", \"children\": [{\"text\": \"\"}]}]",
+  "fixes_applied": {
+    "urls": {
+      "leaving_cleaned": 0,
+      "unsafe_removed": 0,
+      "s_article_mapped": 0,
+      "s_article_removed": 0,
+      "fragments_mapped": 0,
+      "fragments_stripped": 0,
+      "internal_fragments_fixed": 0,
+      "double_id_fixed": 0,
+      "kb_fragments_stripped": 0
+    },
+    "toc": 0,
+    "related": 1,
+    "lists": 0,
+    "headings": 0,
+    "reconverted": false
+  }
+}

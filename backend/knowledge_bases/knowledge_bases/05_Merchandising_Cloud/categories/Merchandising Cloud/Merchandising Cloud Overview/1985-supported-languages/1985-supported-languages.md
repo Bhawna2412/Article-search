@@ -1,0 +1,20 @@
+---
+title: "Supported Languages"
+articleID: 1985
+category: "Merchandising Cloud Overview"
+knowledgeBase: "Merchandising Cloud"
+---
+
+# Supported Languages
+
+You can serve customers globally with Merchandising Cloud's support for numerous languages, covering widely spoken options like English, Spanish, and Chinese as well as less common languages. This language flexibility helps you deliver relevant search results and personalized product discovery to shoppers in their native language, improving the customer experience and conversion potential across international markets.
+
+Configuring multi-language support enables you to expand your ecommerce reach while maintaining search accuracy and AI-powered personalization for each language. The platform's language capabilities ensure your search relevance, autocomplete, and product recommendations work effectively regardless of which language your customers prefer, helping you serve diverse customer bases without compromising merchandising performance.
+
+What languages are supported by Merchandising Cloud?
+
+Merchandising Cloud supports languages for a large portion of the world's native speaking population. We offer widely spoken languages such as English, Spanish, and Chinese and also less commonly used languages.
+
+Here is a full list of the languages supported:
+
+![e8b9b43d7280aa847dcc7506c225d8c2ed93931b1e1cfd87ea92786f3500c891-image.png](https://us.v-cdn.net/6038474/uploads/MPBOBKM5B658/e8b9b43d7280aa847dcc7506c225d8c2ed93931b1e1cfd87ea92786f3500c891-image.png)

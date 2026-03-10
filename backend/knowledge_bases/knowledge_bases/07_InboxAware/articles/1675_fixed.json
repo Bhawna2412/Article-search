@@ -1,0 +1,16 @@
+{
+  "articleID": 1675,
+  "knowledgeCategoryID": 89,
+  "sort": null,
+  "name": "Manage your User Profile",
+  "body": "<p>Your profile is where you add your name, your contact telephone number, and your preferred time zone.</p>\n<p>Click on your user name in the top right of the menu bar, and click on <strong>Profile</strong> from the menu.</p>\n<p>InboxAware stores all timestamps in UTC. Set your preferred time zone to automatically display every date/time you see in InboxAware adjusted to your location.</p>\n<p>To change your password, click the link to change password. InboxAware enforces best practices for strong passwords including:</p>\n<ul><li>Must be at least 8 characters long.</li><li>Must contain at least 1 upper case character.</li><li>Must contain at least 1 special character (-,+!).</li><li>Must contain at least 1 number.</li><li>Cannot have 2 consecutive characters.</li></ul>",
+  "format": "html",
+  "featured": false,
+  "locale": "en",
+  "status": "published",
+  "foreignID": null,
+  "dateUpdated": "2022-03-22T00:53:47+00:00",
+  "_source_kb_id": 7,
+  "_source_kb_name": "InboxAware",
+  "_sync_date": "2026-02-02T05:55:27.258487+00:00"
+}

@@ -1,0 +1,29 @@
+{
+  "articleID": 1558,
+  "name": "Set up Zendesk Chat",
+  "slug": "1558-set-up-zendesk-chat",
+  "format": "rich2",
+  "locale": "en",
+  "body": "[{\"type\": \"h3\", \"children\": [{\"text\": \"This add-on was built by Zopim.\"}]}, {\"type\": \"p\", \"children\": [{\"text\": \"Visit Add-On Website\"}]}, {\"type\": \"p\", \"children\": [{\"text\": \"For support with this add-on \"}, {\"type\": \"a\", \"url\": \"\", \"children\": [{\"text\": \"contact \"}]}, {\"text\": \".\"}]}, {\"type\": \"h2\", \"children\": [{\"text\": \"To Install and Set up the Zendesk Chat Add-on\"}]}, {\"type\": \"ol\", \"children\": [{\"type\": \"li\", \"children\": [{\"type\": \"lic\", \"children\": [{\"text\": \"In your Neto control panel navigate to the \"}, {\"text\": \"Addons\", \"bold\": true}, {\"text\": \" store and look for \"}, {\"text\": \"Zendesk Chat\", \"bold\": true}, {\"text\": \" and click \"}, {\"text\": \"Install\", \"bold\": true}, {\"text\": \".\"}]}]}, {\"type\": \"li\", \"children\": [{\"type\": \"lic\", \"children\": [{\"text\": \"Insert the \"}, {\"text\": \"Header Script\", \"bold\": true}, {\"text\": \" to insert into the pop up window that appears.\"}]}, {\"type\": \"p\", \"children\": [{\"text\": \"\"}]}]}, {\"type\": \"li\", \"children\": [{\"type\": \"lic\", \"children\": [{\"text\": \"To find this header script, go to \"}, {\"type\": \"a\", \"url\": \"https://www.zendesk.com/service/messaging/live-chat/\", \"children\": [{\"text\": \"https://www.zendesk.com/service/messaging/live-chat/\"}]}, {\"text\": \" and either sign-in or register your account.\"}]}]}, {\"type\": \"li\", \"children\": [{\"type\": \"lic\", \"children\": [{\"text\": \"From the left hand side menu, click \"}, {\"text\": \"Widgets\", \"bold\": true}, {\"text\": \" and copy the Zopim provided live chat widget code and paste it into the header script field in Neto.\"}]}, {\"type\": \"p\", \"children\": [{\"text\": \"\"}]}]}]}]",
+  "fixes_applied": {
+    "rebrand": 0,
+    "urls": {
+      "leaving_cleaned": 3,
+      "unsafe_removed": 0,
+      "s_article_mapped": 0,
+      "s_article_removed": 0,
+      "fragments_mapped": 0,
+      "fragments_stripped": 0,
+      "internal_fragments_fixed": 0,
+      "double_id_fixed": 0,
+      "kb_fragments_stripped": 0
+    },
+    "toc": 0,
+    "related": 0,
+    "lists": 4,
+    "headings": 1,
+    "reconverted": false
+  },
+  "_sf_cleanup_date": "2026-02-02T06:17:42.614875+00:00",
+  "_sf_removals": 3
+}

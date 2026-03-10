@@ -1,0 +1,29 @@
+{
+  "articleID": 1417,
+  "name": "Print Purchase Order Documents",
+  "slug": "1417-print-purchase-order-documents",
+  "format": "rich2",
+  "locale": "en",
+  "body": "[{\"type\": \"p\", \"children\": [{\"text\": \"There are 3 documents you can print in relation to your purchase orders:\"}]}, {\"type\": \"ul\", \"children\": [{\"type\": \"li\", \"children\": [{\"type\": \"lic\", \"children\": [{\"type\": \"a\", \"url\": \"https://galaxy.maropost.com/kb/articles/1417-print-purchase-order-documents#2\", \"children\": [{\"text\": \"Purchase Order\"}]}]}]}, {\"type\": \"li\", \"children\": [{\"type\": \"lic\", \"children\": [{\"type\": \"a\", \"url\": \"https://galaxy.maropost.com/kb/articles/1417-print-purchase-order-documents#3\", \"children\": [{\"text\": \"Put Away Sheet\"}]}]}]}, {\"type\": \"li\", \"children\": [{\"type\": \"lic\", \"children\": [{\"type\": \"a\", \"url\": \"https://galaxy.maropost.com/kb/articles/1417-print-purchase-order-documents#3\", \"children\": [{\"text\": \"Product Labels\"}]}]}]}]}, {\"type\": \"p\", \"children\": [{\"text\": \"\"}]}, {\"type\": \"h2\", \"children\": [{\"text\": \"Purchase Order\"}], \"data-id\": \"1\"}, {\"type\": \"p\", \"children\": [{\"text\": \"At any stage in the purchase order process (pending, approved, sent, received) you can print a copy of the purchase order. It lists your details, your supplier's details, and the orderlines.\"}]}, {\"type\": \"p\", \"children\": [{\"text\": \"Please Note\", \"bold\": true}, {\"text\": \": Purchase order print templates cannot be modified.\"}]}, {\"type\": \"p\", \"children\": [{\"text\": \"The image below shows an example purchase order that has been received and completed. Note that some orderlines show 0 ordered. This is because they weren't received, and were split out into a new purchase order.\"}]}, {\"type\": \"callout\", \"children\": [{\"type\": \"callout-item\", \"children\": [{\"text\": \"The logo on your purchase order uses the \"}, {\"text\": \"PDF Invoice Logo\"}, {\"text\": \" image when printed, or the HTML Invoice Logo when emailed.\"}]}], \"appearance\": \"info\"}, {\"type\": \"p\", \"children\": [{\"text\": \"\"}]}, {\"type\": \"h2\", \"children\": [{\"text\": \"Put Away Sheet\"}], \"data-id\": \"2\"}, {\"type\": \"p\", \"children\": [{\"text\": \"A put away sheet helps you and your warehouse staff move received stock to their correct locations in your warehouse. As such, it can only be printed after the purchase order has been received and completed.\"}]}, {\"type\": \"p\", \"children\": [{\"text\": \"The image below is a sample put away sheet. It lists the orderlines, quantity received, and the warehouse locations (pick zone) configured on the product.\"}]}, {\"type\": \"p\", \"children\": [{\"text\": \"To make full use of this document add \"}, {\"type\": \"a\", \"url\": \"https://galaxy.maropost.com/kb/articles/1578-prepare-your-products-for-pickn-pack#3\", \"children\": [{\"text\": \"pick zones\"}]}, {\"text\": \" to all of your products.\"}]}, {\"type\": \"p\", \"children\": [{\"text\": \"\"}]}, {\"type\": \"h2\", \"children\": [{\"text\": \"Product Labels\"}], \"data-id\": \"3\"}, {\"type\": \"p\", \"children\": [{\"text\": \"Product labels are designed to be printed onto small adhesive labels that you can apply to your products. They contain a barcode (generated from the UPC or SKU), product name, and price.\"}]}, {\"type\": \"p\", \"children\": [{\"text\": \"Product labels can only be printed after a purchase order has been received. A label is generated for each item received on the purchase order. So if you received 5 of an orderline, 5 labels for that product will be generated.\"}]}, {\"type\": \"p\", \"children\": [{\"text\": \"You can also product labels just for orderlines you select. If you need to navigate across pages, your previous selects will not be removed.\"}]}, {\"type\": \"p\", \"children\": [{\"text\": \"The product label template can be edited to suit your needs and different label sizes. More information on the template file can be found in our developer documentation \"}, {\"type\": \"a\", \"url\": \"https://developers.neto.com.au/documentation/web-designers/emails-printables/system-documents/product/product-barcode/\", \"children\": [{\"text\": \"here\"}]}, {\"text\": \".\"}]}, {\"type\": \"p\", \"children\": [{\"text\": \"\"}]}]",
+  "fixes_applied": {
+    "rebrand": 2,
+    "urls": {
+      "leaving_cleaned": 0,
+      "unsafe_removed": 0,
+      "s_article_mapped": 1,
+      "s_article_removed": 3,
+      "fragments_mapped": 1,
+      "fragments_stripped": 0,
+      "internal_fragments_fixed": 3,
+      "double_id_fixed": 0,
+      "kb_fragments_stripped": 0
+    },
+    "toc": 1,
+    "related": 1,
+    "lists": 0,
+    "headings": 1,
+    "reconverted": false
+  },
+  "_sf_cleanup_date": "2026-02-02T06:17:41.774741+00:00",
+  "_sf_removals": 5
+}

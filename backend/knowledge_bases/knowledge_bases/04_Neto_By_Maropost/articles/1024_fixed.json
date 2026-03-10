@@ -1,0 +1,17 @@
+{
+  "articleID": 1024,
+  "knowledgeCategoryID": 243,
+  "sort": 9,
+  "name": "NZ Post eShip Setup",
+  "body": "[{\"type\":\"p\",\"children\":[{\"text\":\"You can set up NZ Post eShip integration to work with Neto by following the guide on the eShip website.\"}]},{\"type\":\"callout\",\"children\":[{\"type\":\"callout-item\",\"children\":[{\"text\":\"Important:\",\"bold\":true},{\"text\":\" NZ Post is supported only via eShip.\"}]}],\"appearance\":\"alert\"},{\"type\":\"p\",\"children\":[{\"text\":\"We recommend that the \"},{\"text\":\"Pack\",\"bold\":true},{\"text\":\" be entered in the order status field in step 4 of their guide, as orders should not be exported for consignments until this order status is met.\"}]},{\"type\":\"callout\",\"children\":[{\"type\":\"callout-item\",\"children\":[{\"text\":\"Note:\",\"bold\":true},{\"text\":\" If orders coming into Neto go straight to the \\\"\"},{\"text\":\"Pick\",\"bold\":true},{\"text\":\"\\\" status, you will need to enter \\\"\"},{\"text\":\"Pick\",\"bold\":true},{\"text\":\"\\\" or \\\"\"},{\"text\":\"Pack\",\"bold\":true},{\"text\":\"\\\" in the order status to make sure all orders are imported.\"}]}],\"appearance\":\"info\"},{\"type\":\"p\",\"children\":[{\"text\":\"\"}]}]",
+  "format": "rich2",
+  "featured": false,
+  "locale": "en",
+  "status": "published",
+  "foreignID": null,
+  "dateUpdated": "2026-01-06T09:31:55+00:00",
+  "_source_kb_id": 4,
+  "_source_kb_name": "Neto By Maropost",
+  "_sync_date": "2026-02-06T07:16:31.943754+00:00",
+  "_incremental_update": true
+}

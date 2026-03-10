@@ -1,0 +1,26 @@
+{
+  "articleID": 369,
+  "name": "Why is my Tax Free / International Purchase Order displaying Tax?",
+  "slug": "369-why-is-my-tax-free-international-purchase-order-displaying-tax",
+  "format": "rich2",
+  "locale": "en",
+  "body": "[{\"type\": \"p\", \"children\": [{\"text\": \"You can troubleshoot tax display issues on international purchase orders to ensure tax-free imports are processed correctly, helping maintain accurate cost calculations for international procurement. This improves your retail operations by resolving tax configuration problems, with properly configured international PO settings typically ensuring correct inventory valuation and compliance with import regulations.\"}]}, {\"type\": \"p\", \"children\": [{\"text\": \"Understanding international PO tax settings involves recognizing tax-free supplier configuration, currency handling, and import duty versus tax distinctions to help retail operators focus on the right international procurement workflows, ensuring your retail strategy consistently drives better cost accuracy and regulatory compliance outcomes.\"}]}, {\"type\": \"p\", \"children\": [{\"text\": \"The Retail Express PO Manager displays a Tax column which has tax included based off the global tax rate in Retail Express.\"}, {\"text\": \"\\n\"}, {\"text\": \"\\n\"}, {\"text\": \"While we understand your desire to have tax removed for International Purchase Orders, the ability to remove the Tax Column is not supported in the current version of Retail Express.\"}, {\"text\": \"\\n\"}, {\"text\": \"\\n\"}, {\"text\": \"While you may see the feature you are requesting appear in future versions of the Retail Express PO Manager, please be advised that we do not provide ETAs, Timelines or any details on upcoming Retail Express Developments.\"}, {\"text\": \"\\n\"}, {\"text\": \"\\n\"}, {\"text\": \"To handle this using the current version of Retail Express, please enter a comment into the Supplier Comments field of the PO, stating that the Tax column is for domestic Australian Suppliers only, and international suppliers should ignore the Tax column.\"}]}, {\"type\": \"p\", \"children\": [{\"text\": \"We are in the process of updating the Back Office and this will be a particular area of the system that we will be improving on.\"}]}, {\"type\": \"p\", \"children\": [{\"text\": \"\"}]}]",
+  "fixes_applied": {
+    "urls": {
+      "leaving_cleaned": 0,
+      "unsafe_removed": 0,
+      "s_article_mapped": 0,
+      "s_article_removed": 0,
+      "fragments_mapped": 0,
+      "fragments_stripped": 0,
+      "internal_fragments_fixed": 0,
+      "double_id_fixed": 0,
+      "kb_fragments_stripped": 0
+    },
+    "toc": 0,
+    "related": 1,
+    "lists": 0,
+    "headings": 0,
+    "reconverted": false
+  }
+}

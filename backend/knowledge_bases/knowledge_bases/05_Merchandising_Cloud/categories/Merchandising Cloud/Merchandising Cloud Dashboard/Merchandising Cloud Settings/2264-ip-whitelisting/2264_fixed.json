@@ -1,0 +1,31 @@
+{
+  "articleID": 2264,
+  "name": "IP Whitelisting",
+  "format": "rich2",
+  "locale": "en",
+  "body": "[{\"type\": \"p\", \"children\": [{\"text\": \"Implementing IP whitelisting helps you maintain secure development and staging environments while protecting your configuration changes. When you can restrict access to specific IP addresses, you help ensure that only authorized users can access sensitive setup areas, which supports better security practices and protects your merchandising configuration from unauthorized changes.\"}]}, {\"type\": \"p\", \"children\": [{\"text\": \"IP-based access control enables safer development workflows and testing procedures. This helps protect your ecommerce operations by ensuring configuration changes are made only by authorized team members, supporting better operational security and reducing risks from unauthorized access to your merchandising platform settings.\"}]}, {\"type\": \"p\", \"children\": [{\"text\": \"Product Sync Whitelisting\"}]}, {\"type\": \"p\", \"children\": [{\"text\": \"If accessing the product feed requires IP whitelisting in your firewall, you need to whitelist the following IPs for our product sync mechanism to download the product feed from you\"}]}, {\"type\": \"ul\", \"children\": [{\"type\": \"li\", \"children\": [{\"type\": \"lic\", \"children\": [{\"text\": \"34.69.253.49\"}]}]}, {\"type\": \"li\", \"children\": [{\"type\": \"lic\", \"children\": [{\"text\": \"34.136.57.29\"}]}]}, {\"type\": \"li\", \"children\": [{\"type\": \"lic\", \"children\": [{\"text\": \"34.70.45.199\"}]}]}]}, {\"type\": \"p\", \"children\": [{\"text\": \"\"}]}, {\"type\": \"p\", \"children\": [{\"text\": \"Test environment access\"}]}, {\"type\": \"p\", \"children\": [{\"text\": \"If your test environment is hidden to the general public, but Maropost Merchandising Cloud (formerly Findify) requires access to it (to verify installation, do customizations or help with your queries), you can whitelist the following IP address and our team would be able to access your test environment:\"}]}, {\"type\": \"ul\", \"children\": [{\"type\": \"li\", \"children\": [{\"type\": \"lic\", \"children\": [{\"text\": \"50.16.12.102\"}]}]}]}, {\"type\": \"p\", \"children\": [{\"text\": \"\"}]}]",
+  "knowledgeCategoryID": 391,
+  "sort": 3,
+  "status": "published",
+  "_source_kb_id": 5,
+  "_source_kb_name": "Merchandising Cloud",
+  "_fix_date": "2026-02-02T06:05:47.635405+00:00",
+  "fixes_applied": {
+    "urls": {
+      "leaving_cleaned": 0,
+      "unsafe_removed": 0,
+      "s_article_mapped": 0,
+      "s_article_removed": 0,
+      "fragments_mapped": 0,
+      "fragments_stripped": 0,
+      "internal_fragments_fixed": 0,
+      "double_id_fixed": 0,
+      "kb_fragments_stripped": 0
+    },
+    "toc": 0,
+    "related": 1,
+    "lists": 0,
+    "headings": 0,
+    "reconverted": false
+  }
+}

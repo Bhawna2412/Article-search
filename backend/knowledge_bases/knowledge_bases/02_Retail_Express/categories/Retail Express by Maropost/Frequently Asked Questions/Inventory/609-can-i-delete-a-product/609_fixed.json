@@ -1,0 +1,26 @@
+{
+  "articleID": 609,
+  "name": "Can I delete a product?",
+  "slug": "609-can-i-delete-a-product",
+  "format": "rich2",
+  "locale": "en",
+  "body": "[{\"type\": \"p\", \"children\": [{\"text\": \"You can manage product lifecycle and catalog maintenance in Retail Express while understanding the implications of product deletion on historical data, helping your retail operations maintain data integrity. This capability explains product removal options and their impact on sales history and reporting, which helps ensure you make informed decisions about product catalog management that preserve important business records.\"}]}, {\"type\": \"p\", \"children\": [{\"text\": \"Setting up proper product management practices enables your retail operations to maintain clean catalogs while protecting historical transaction data, helping optimize catalog organization and data preservation. This helps retail businesses balance the need for current, relevant product catalogs with the requirement to maintain accurate historical sales and inventory records.\"}]}, {\"type\": \"p\", \"children\": [{\"text\": \"Products and Packages can't be deleted, but they can be disabled. When you disable a product:\"}]}, {\"type\": \"ul\", \"children\": [{\"type\": \"li\", \"children\": [{\"type\": \"lic\", \"children\": [{\"text\": \"The product won't appear in most reports (unless Disabled Products are explicitly included)\"}]}]}, {\"type\": \"li\", \"children\": [{\"type\": \"lic\", \"children\": [{\"text\": \"Integrated web stores will not receive updates about the product (so you will need to ensure the product has been disabled on the web stores too)\"}]}]}, {\"type\": \"li\", \"children\": [{\"type\": \"lic\", \"children\": [{\"text\": \"The product will be excluded from POS Search results\"}, {\"text\": \"\\n\\n\"}]}, {\"type\": \"callout\", \"children\": [{\"type\": \"callout-item\", \"children\": [{\"text\": \"You can still manually add a Disabled product to a POS sale, and the inventory counting will continue to behave as normal (however the above notes still apply)\"}]}], \"appearance\": \"info\"}, {\"type\": \"p\", \"children\": [{\"text\": \"\"}]}]}]}, {\"type\": \"p\", \"children\": [{\"text\": \"\"}]}, {\"type\": \"p\", \"children\": [{\"text\": \"To disable a product:\"}]}, {\"type\": \"ol\", \"children\": [{\"type\": \"li\", \"children\": [{\"type\": \"lic\", \"children\": [{\"text\": \"Open the product\", \"bold\": true}, {\"text\": \" in Back Office\"}]}]}, {\"type\": \"li\", \"children\": [{\"type\": \"lic\", \"children\": [{\"text\": \"On the \"}, {\"text\": \"Main \", \"bold\": true}, {\"text\": \"tab locate the \"}, {\"text\": \"Advanced Options \", \"bold\": true}, {\"text\": \"section\"}]}]}, {\"type\": \"li\", \"children\": [{\"type\": \"lic\", \"children\": [{\"text\": \"Tick \"}, {\"text\": \"Disabled\", \"bold\": true}, {\"text\": \"\\n\\n\"}]}, {\"type\": \"callout\", \"children\": [{\"type\": \"callout-item\", \"children\": [{\"text\": \"If a product has already been disabled it will show the date/time it was disabled on the page\"}]}], \"appearance\": \"info\"}, {\"type\": \"p\", \"children\": [{\"text\": \"\"}]}, {\"type\": \"rich_embed_card\", \"dataSourceType\": \"image\", \"url\": \"https://us.v-cdn.net/6038474/uploads/attachments/migrated/image.05T5g00000poSgeEAE.jpg\", \"embedData\": {\"url\": \"https://us.v-cdn.net/6038474/uploads/attachments/migrated/image.05T5g00000poSgeEAE.jpg\", \"embedType\": \"image\", \"displaySize\": \"large\", \"float\": \"none\", \"name\": \"mceclip0.png\"}, \"children\": [{\"text\": \"\"}]}]}, {\"type\": \"li\", \"children\": [{\"type\": \"lic\", \"children\": [{\"text\": \"Click \"}, {\"text\": \"Save Changes\", \"bold\": true}]}]}]}, {\"type\": \"callout\", \"children\": [{\"type\": \"callout-item\", \"children\": [{\"text\": \"Products can also be disabled in bulk using Mass Download or the Product Search & Management feature.\"}]}], \"appearance\": \"info\"}, {\"type\": \"p\", \"children\": [{\"text\": \"\"}]}]",
+  "fixes_applied": {
+    "urls": {
+      "leaving_cleaned": 0,
+      "unsafe_removed": 0,
+      "s_article_mapped": 0,
+      "s_article_removed": 0,
+      "fragments_mapped": 0,
+      "fragments_stripped": 0,
+      "internal_fragments_fixed": 0,
+      "double_id_fixed": 0,
+      "kb_fragments_stripped": 0
+    },
+    "toc": 0,
+    "related": 1,
+    "lists": 1,
+    "headings": 0,
+    "reconverted": false
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "articleID": 901,
+  "name": "Theme Terms & Conditions",
+  "slug": "901-theme-terms-conditions",
+  "format": "rich2",
+  "locale": "en",
+  "body": "[{\"type\": \"ol\", \"children\": [{\"type\": \"li\", \"children\": [{\"type\": \"lic\", \"children\": [{\"text\": \"You may establish the appearance of your Neto Store with a design template from Neto Theme Store (\\u201ca Theme\\u201d). If you download a Theme, you are licensed to use it for a single Store only. You are free to transfer a Theme to a second one of your own Stores if you close your first Store. To initiate a transfer of a Theme to a second one of your Stores, please contact Neto Support. You are not permitted to transfer or sell a Theme to any other person\\u2019s Store on Neto or elsewhere. Multiple Stores require multiple downloads and each download is subject to the applicable fee. Neto gives no assurance that a particular Theme will remain available for additional downloads.\"}]}]}, {\"type\": \"li\", \"children\": [{\"type\": \"lic\", \"children\": [{\"text\": \"You may modify the Theme to suit your Store. Neto may modify the Theme where it contains, in our sole discretion, an element that violates the Neto Terms of Service, even if you received the Theme in that condition. Neto may modify the Theme to reflect technical changes and updates as required. Updates made to this theme by the vendor will be free for the life of the item, but will require re-installation. This will result in the loss of any customisations made to the theme assets or templates after the initial installation.\"}]}]}, {\"type\": \"li\", \"children\": [{\"type\": \"lic\", \"children\": [{\"text\": \"The intellectual property rights of the Theme remain the property of the designer. If you exceed the rights granted by your purchase of a Theme, the designer may take legal action against you, and, without prejudice to our other rights or remedies, Neto may take administrative action such as modifying your Store or closing your Store.\"}]}]}, {\"type\": \"li\", \"children\": [{\"type\": \"lic\", \"children\": [{\"text\": \"Technical support for a Theme is the responsibility of the designer, and Neto accepts no responsibility to provide such support. Neto may be able to help you contact the designer. Technical support refers to bugs or defects within the theme code or issues with the custom features included in the theme, and does not include providing assistance with standard features of the Neto platform. If a theme is removed from the Theme Store, technical support will no longer be available for that theme.\"}]}]}, {\"type\": \"li\", \"children\": [{\"type\": \"lic\", \"children\": [{\"text\": \"It is the responsibility of the user, and not Neto , to ensure that the installation of a new theme does not overwrite or damage the current or preexisting theme, or UI, of the user.\"}]}]}, {\"type\": \"li\", \"children\": [{\"type\": \"lic\", \"children\": [{\"text\": \"A Theme may not support all Neto features out-of-the-box at time of purchase.\"}]}]}, {\"type\": \"li\", \"children\": [{\"type\": \"lic\", \"children\": [{\"text\": \"Refunds due to change of mind are only available if the refund request is emailed to accounts@maropost.com within 48 hours of purchase.\"}]}]}]}]",
+  "fixes_applied": {
+    "rebrand": 14,
+    "urls": {
+      "leaving_cleaned": 0,
+      "unsafe_removed": 0,
+      "s_article_mapped": 0,
+      "s_article_removed": 0,
+      "fragments_mapped": 0,
+      "fragments_stripped": 0,
+      "internal_fragments_fixed": 0,
+      "double_id_fixed": 0,
+      "kb_fragments_stripped": 0
+    },
+    "toc": 0,
+    "related": 0,
+    "lists": 7,
+    "headings": 0,
+    "reconverted": false
+  }
+}

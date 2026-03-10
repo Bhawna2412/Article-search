@@ -1,0 +1,26 @@
+{
+  "articleID": 196,
+  "name": "Why are Returns issued as a 'Tax Invoice'?",
+  "slug": "196-why-are-returns-issued-as-a-tax-invoice",
+  "format": "rich2",
+  "locale": "en",
+  "body": "[{\"type\": \"p\", \"children\": [{\"text\": \"You can understand why \"}, {\"text\": \"Retail Express\", \"bold\": true}, {\"text\": \" processes customer returns as tax invoices in accounting integrations, complying with Australian taxation requirements for GST adjustments on returned goods. This helps optimize your tax compliance by ensuring return transactions create appropriate accounting entries that properly adjust GST liabilities when customers return products, maintaining compliance with ATO requirements.\"}]}, {\"type\": \"p\", \"children\": [{\"text\": \"Understanding return accounting treatment enables you to verify appropriate tax handling and explain accounting entries to auditors or accountants. When you comprehend why returns use tax invoice treatment, you can expect proper GST adjustments maintaining tax compliance, accurate financial records reflecting return impacts, appropriate audit trails supporting tax reporting, maintained compliance with Australian taxation requirements, and confidence that return processing meets accounting and tax standards.\"}]}, {\"type\": \"p\", \"children\": [{\"text\": \"Retail Express issues the Return as a \"}, {\"text\": \"new\", \"italic\": true}, {\"text\": \" document - with a \"}, {\"text\": \"new\", \"italic\": true}, {\"text\": \" reference (Invoice) number.\"}]}, {\"type\": \"ul\", \"children\": [{\"type\": \"li\", \"children\": [{\"type\": \"lic\", \"children\": [{\"text\": \"If the Return was issued against the original Invoice number, this would be considered an 'Adjustment'\"}]}]}, {\"type\": \"li\", \"children\": [{\"type\": \"lic\", \"children\": [{\"text\": \"The document would be need to be titled to reflect this (e.g. Adjustment Note, Credit Note, Tax Invoice Adjustment)\"}]}]}]}, {\"type\": \"p\", \"children\": [{\"text\": \"\"}]}, {\"type\": \"p\", \"children\": [{\"text\": \"As each Return creates a new document with a new Tax Invoice number, this document is entitled to be called a Tax Invoice due to the fact that it has a negative total value.  This negative value clearly defines the intent of the Tax Invoice as a return.\"}]}, {\"type\": \"p\", \"children\": [{\"text\": \"Should the customer choose to purchase additional products (i.e. exchange) at the time of processing of the Return (refund / credit / exchange) this can be accommodated within the Return Tax Invoice. The consuming of this negative value with a voucher, refund or exchange product reinforces the accurate title of Tax Invoice in this instance.\"}]}, {\"type\": \"p\", \"children\": [{\"text\": \"Within Accounting circumstances a negative Total Value Tax Invoice is a normal occurrence, and can usually be issued from within Accounting Packages themselves (except Xero, which do differentiate).\"}]}, {\"type\": \"p\", \"children\": [{\"text\": \"\"}]}]",
+  "fixes_applied": {
+    "urls": {
+      "leaving_cleaned": 0,
+      "unsafe_removed": 0,
+      "s_article_mapped": 0,
+      "s_article_removed": 0,
+      "fragments_mapped": 0,
+      "fragments_stripped": 0,
+      "internal_fragments_fixed": 0,
+      "double_id_fixed": 0,
+      "kb_fragments_stripped": 0
+    },
+    "toc": 0,
+    "related": 1,
+    "lists": 0,
+    "headings": 0,
+    "reconverted": false
+  }
+}

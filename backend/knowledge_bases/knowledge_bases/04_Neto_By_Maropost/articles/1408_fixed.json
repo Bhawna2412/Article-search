@@ -1,0 +1,17 @@
+{
+  "articleID": 1408,
+  "knowledgeCategoryID": 296,
+  "sort": 1,
+  "name": "Video: Stripe Credit Card, Apple Pay and Google Pay Payment Methods",
+  "body": "[{\"type\": \"rich_embed_card\", \"children\": [{\"text\": \"\"}], \"dataSourceType\": \"url\", \"url\": \"https://youtu.be/kMJRVAIDc0U\", \"embedData\": {\"height\": 360, \"width\": 640, \"photoUrl\": \"https://i.ytimg.com/vi/kMJRVAIDc0U/hqdefault.jpg\", \"videoID\": \"kMJRVAIDc0U\", \"showRelated\": false, \"start\": 0, \"url\": \"https://youtu.be/kMJRVAIDc0U\", \"embedType\": \"youtube\", \"name\": \"\", \"frameSrc\": \"https://www.youtube.com/embed/kMJRVAIDc0U?feature=oembed&autoplay=1\"}}]",
+  "format": "rich2",
+  "featured": false,
+  "locale": "en",
+  "status": "published",
+  "foreignID": null,
+  "dateUpdated": "2025-12-11T04:35:37+00:00",
+  "_source_kb_id": 4,
+  "_source_kb_name": "Neto By Maropost",
+  "_sync_date": "2026-02-06T07:18:47.447035+00:00",
+  "_incremental_update": true
+}

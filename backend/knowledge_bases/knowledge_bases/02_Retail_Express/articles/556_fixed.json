@@ -1,0 +1,26 @@
+{
+  "articleID": 556,
+  "name": "View Detailed Product Information in POS",
+  "slug": "556-view-detailed-product-information-in-pos",
+  "format": "rich2",
+  "locale": "en",
+  "body": "[{\"type\": \"p\", \"children\": [{\"text\": \"You can access comprehensive product information directly within the Retail Express POS to help your retail operators make informed decisions during customer interactions, improving sales effectiveness and customer service quality. This capability provides real-time visibility into stock levels, pricing tiers, and product attributes without leaving the sales interface, which helps streamline transactions and reduces the time needed to answer customer questions.\"}]}, {\"type\": \"p\", \"children\": [{\"text\": \"Setting up quick access to detailed product information enables your retail team to provide better customer service while maintaining sales momentum, helping optimize the checkout experience and improve customer satisfaction. This helps retail operators respond confidently to customer inquiries about product availability and pricing across multiple store locations.\"}]}, {\"type\": \"p\", \"children\": [{\"text\": \"In POS, you can view detailed product information, including stock levels, pricing, and attributes, all in one place. This guide explains how to access and utilize this information effectively during sales.\"}]}, {\"type\": \"p\", \"children\": [{\"text\": \"From POS it's possible to view detailed information on the product including:\"}]}, {\"type\": \"ul\", \"children\": [{\"type\": \"li\", \"children\": [{\"type\": \"lic\", \"children\": [{\"text\": \"Product image\"}]}]}, {\"type\": \"li\", \"children\": [{\"type\": \"lic\", \"children\": [{\"text\": \"Product Attributes (ID, SKU codes, Custom fields, Size colour etc)\"}]}]}, {\"type\": \"li\", \"children\": [{\"type\": \"lic\", \"children\": [{\"text\": \"Inventory levels (the only outlets that are displayed at the ones the current user has access to)\"}]}]}, {\"type\": \"li\", \"children\": [{\"type\": \"lic\", \"children\": [{\"text\": \"Standard Pricing (price, discount $ and %, tax)\"}]}]}, {\"type\": \"li\", \"children\": [{\"type\": \"lic\", \"children\": [{\"text\": \"Price Groups and associated prices (click the Discount Groups tab)\"}]}]}]}, {\"type\": \"rich_embed_card\", \"dataSourceType\": \"image\", \"url\": \"https://us.v-cdn.net/6038474/uploads/attachments/migrated/image.05T5g00000ppkNREAY.jpg\", \"embedData\": {\"url\": \"https://us.v-cdn.net/6038474/uploads/attachments/migrated/image.05T5g00000ppkNREAY.jpg\", \"embedType\": \"image\", \"displaySize\": \"large\", \"float\": \"none\", \"name\": \"mceclip3 (79).png\"}, \"children\": [{\"text\": \"\"}]}, {\"type\": \"p\", \"children\": [{\"text\": \"To access the Detailed Product Information page:\"}]}, {\"type\": \"ol\", \"children\": [{\"type\": \"li\", \"children\": [{\"type\": \"lic\", \"children\": [{\"text\": \"Double-click \", \"bold\": true}, {\"text\": \"on a product row (if using a mobile device or tablet press and hold on the row)\"}]}]}, {\"type\": \"li\", \"children\": [{\"type\": \"lic\", \"children\": [{\"text\": \"View the detailed information\"}]}]}, {\"type\": \"li\", \"children\": [{\"type\": \"lic\", \"children\": [{\"text\": \"If required, edit the \"}, {\"text\": \"Description\", \"bold\": true}, {\"text\": \" (see the section earlier in this article)\"}]}]}, {\"type\": \"li\", \"children\": [{\"type\": \"lic\", \"children\": [{\"text\": \"If you need to remove the tax untick the \"}, {\"text\": \"Tax \", \"bold\": true}, {\"text\": \"button\"}]}]}, {\"type\": \"li\", \"children\": [{\"type\": \"lic\", \"children\": [{\"text\": \"To change the \"}, {\"text\": \"Fulfilment \", \"bold\": true}, {\"text\": \"method click the associated icon (refer to the section \\\"Change Fulfilment\\\" later in this article)\"}]}]}, {\"type\": \"li\", \"children\": [{\"type\": \"lic\", \"children\": [{\"text\": \"Click \"}, {\"text\": \"Done \", \"bold\": true}, {\"text\": \"to save the changes and return to the sale window\"}]}]}]}, {\"type\": \"callout\", \"children\": [{\"type\": \"callout-item\", \"children\": [{\"text\": \"In the 'Fulfillment' section: For Special Orders, you will see the option to access the \\\"Select PO\\\" to allocate from existing PO.\"}]}], \"appearance\": \"info\"}, {\"type\": \"rich_embed_card\", \"dataSourceType\": \"image\", \"url\": \"https://us.v-cdn.net/6038474/uploads/attachments/migrated/Screenshot20240131at122509PM.05T5g000018qAgqEAE.png\", \"embedData\": {\"url\": \"https://us.v-cdn.net/6038474/uploads/attachments/migrated/Screenshot20240131at122509PM.05T5g000018qAgqEAE.png\", \"embedType\": \"image\", \"displaySize\": \"large\", \"float\": \"none\", \"name\": \"User-added image\", \"width\": 1000, \"height\": 583}, \"children\": [{\"text\": \"\"}]}, {\"type\": \"p\", \"children\": [{\"text\": \"\"}]}]",
+  "fixes_applied": {
+    "urls": {
+      "leaving_cleaned": 0,
+      "unsafe_removed": 0,
+      "s_article_mapped": 0,
+      "s_article_removed": 0,
+      "fragments_mapped": 0,
+      "fragments_stripped": 0,
+      "internal_fragments_fixed": 0,
+      "double_id_fixed": 0,
+      "kb_fragments_stripped": 0
+    },
+    "toc": 0,
+    "related": 1,
+    "lists": 0,
+    "headings": 0,
+    "reconverted": false
+  }
+}

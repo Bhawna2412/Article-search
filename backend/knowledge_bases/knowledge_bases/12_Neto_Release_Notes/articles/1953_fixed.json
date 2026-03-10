@@ -1,0 +1,16 @@
+{
+  "articleID": 1953,
+  "knowledgeCategoryID": 452,
+  "sort": 22,
+  "name": "Neto by Maropost Release Notes – 30 Jan 2023",
+  "body": "[{\"type\":\"h2\",\"children\":[{\"text\":\"Improvements and Updates\",\"bold\":true}]},{\"type\":\"ul\",\"children\":[{\"type\":\"li\",\"children\":[{\"type\":\"lic\",\"children\":[{\"text\":\"Added an eligibility check to the PayPal Advanced Debit and Credit payment method during setup and editing to check whether the merchant’s PayPal account is eligible to offer this option.\"}]}]},{\"type\":\"li\",\"children\":[{\"type\":\"lic\",\"children\":[{\"text\":\"Added an eligibility check to the My Account page of the webstore so that PayPal Cards does not appear as an available payment method if the method is not available to the merchant’s PayPal account.\"}]}]}]},{\"type\":\"p\",\"children\":[{\"text\":\"\"}]},{\"type\":\"h2\",\"children\":[{\"text\":\"Deprecated\",\"bold\":true}]},{\"type\":\"p\",\"children\":[{\"text\":\"Removed non-supported and legacy carriers from the available carriers in the new Carrier & Labels configuration page. Note: existing setups can continue to be used, though they will not be maintained or updated. \"}]},{\"type\":\"p\",\"children\":[{\"text\":\" \"}]},{\"type\":\"h2\",\"children\":[{\"text\":\"Fixes\",\"bold\":true}]},{\"type\":\"ul\",\"children\":[{\"type\":\"li\",\"children\":[{\"text\":\"Fixed an issue with payment method setup and editing where an error message stating “Your PayPal account is not eligible for PayPal Cards. This method will not be visible on the webstore.” would incorrectly show in non-PayPal payment methods.\"}]},{\"type\":\"li\",\"children\":[{\"text\":\"Fixed an issue with the Sales by SKU report where the incorrect values were being shown if the was a US store. \"}]},{\"type\":\"li\",\"children\":[{\"text\":\"Fixed an issue with eParcel consignments where transit cover was not being applied to the shipping cost when creating the consignment.\"}]},{\"type\":\"li\",\"children\":[{\"type\":\"lic\",\"children\":[{\"text\":\"Fixed an issue with order imports where, if the shipping country does not match one set as Available in your Maropost Commerce Cloud control panel, then the first Available country alphabetically will be used instead, e.g., Afghanistan.\"}]}]}]},{\"type\":\"p\",\"children\":[{\"text\":\"\"}]}]",
+  "format": "rich2",
+  "featured": false,
+  "locale": "en",
+  "status": "published",
+  "foreignID": null,
+  "dateUpdated": "2025-07-16T01:28:07+00:00",
+  "_source_kb_id": 12,
+  "_source_kb_name": "Neto Release Notes",
+  "_sync_date": "2026-02-02T05:58:36.210603+00:00"
+}

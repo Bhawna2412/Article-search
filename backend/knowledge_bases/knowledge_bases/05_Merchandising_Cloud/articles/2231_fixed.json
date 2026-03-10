@@ -1,0 +1,17 @@
+{
+  "articleID": 2231,
+  "knowledgeCategoryID": 408,
+  "sort": 2,
+  "name": "Custom Icons",
+  "body": "[{\"type\": \"p\", \"children\": [{\"text\": \"You can customize icons throughout your search and merchandising interface to maintain brand consistency and improve user experience. When your filter controls, navigation elements, and interactive components use on-brand iconography, you create more cohesive shopping experiences that help customers navigate product discovery more intuitively, which tends to enhance engagement and conversion rates.\"}]}, {\"type\": \"p\", \"children\": [{\"text\": \"Custom icon implementation enables you to align visual elements with your brand identity while maintaining clear functionality. This helps ensure that customers can easily understand and interact with search filters, sorting options, and navigation controls, supporting better product discovery and a more polished shopping experience.\"}]}, {\"type\": \"blockquote\", \"children\": [{\"type\": \"blockquote-line\", \"children\": [{\"text\": \"Warning!If you want to modify default icons (plus, minus signs, arrows etc.), you should not change the default components in the components/Icons/ path, instead, you need to create a new component with custom icons.\"}]}]}, {\"type\": \"rich_embed_card\", \"dataSourceType\": \"image\", \"url\": \"https://files.readme.io/b01b891-Icons.png\", \"embedData\": {\"url\": \"https://files.readme.io/b01b891-Icons.png\", \"embedType\": \"image\", \"displaySize\": \"large\", \"float\": \"none\", \"name\": \"1897\", \"width\": 1280, \"height\": 720}, \"children\": [{\"text\": \"\"}]}, {\"type\": \"p\", \"children\": [{\"text\": \"Generally, there are multiple ways to create custom icons. Let's create a new component called 'CustomIcons.tsx' and here is how we can code new custom icons:\"}]}, {\"type\": \"p\", \"children\": [{\"text\": \"CustomIcons.tsx\"}]}, {\"type\": \"code_block\", \"children\": [{\"type\": \"code_line\", \"children\": [{\"text\": \"import React from 'react';export const SomeCustomIcon1 = (props) => (  <svg className='some_class_name'>    ...  </svg>);export const SomeCustomIcon2 = (props) => (  <svg className='some_class_name'>    ...  </svg>);export const SomeCustomIcon3 = (props) => (  <svg className='some_class_name'>    ...  </svg>);\"}]}], \"lang\": \"plaintext\"}, {\"type\": \"p\", \"children\": [{\"text\": \"And then you will be able to use these icons in any other component like that:\"}]}, {\"type\": \"p\", \"children\": [{\"text\": \"Some component\"}]}, {\"type\": \"code_block\", \"children\": [{\"type\": \"code_line\", \"children\": [{\"text\": \"...some imports here...import { SomeCustomIcon1, SomeCustomIcon2, ...more icons if needed } from 'CustomIcons.tsx'; // import newly created file with custom icons        ...some code here...<SomeCustomIcon1 props={props} /> //Here is how you can use an icon...some code here\"}]}], \"lang\": \"plaintext\"}, {\"type\": \"p\", \"children\": [{\"text\": \"\"}]}]",
+  "format": "rich2",
+  "featured": false,
+  "locale": "en",
+  "status": "published",
+  "foreignID": null,
+  "dateUpdated": "2026-02-02T06:10:29+00:00",
+  "_source_kb_id": 5,
+  "_source_kb_name": "Merchandising Cloud",
+  "_sync_date": "2026-02-06T07:21:17.450859+00:00",
+  "_incremental_update": true
+}

@@ -1,0 +1,16 @@
+{
+  "articleID": 2143,
+  "knowledgeCategoryID": 450,
+  "sort": 12,
+  "name": "Neto by Maropost Release Notes – 22 Jun 2025",
+  "body": "[{\"type\":\"h2\",\"children\":[{\"text\":\"Overview\"}]},{\"type\":\"p\",\"children\":[{\"text\":\"This release contains updates for the eCommerce versions 6.333.0, 6.334.0, 6.335.0, and 6.336.0.\"}]},{\"type\":\"p\",\"children\":[{\"text\":\" \"}]},{\"type\":\"h2\",\"children\":[{\"text\":\"Enhancements and Changes\"}]},{\"type\":\"h3\",\"children\":[{\"text\":\"Updated Unleashed Integration as Per the New Breaking Change\"}]},{\"type\":\"p\",\"children\":[{\"text\":\"Unleashed is introducing a breaking change to their API that requires all API connections to send a Client-Type header in the HTTP request, which will allow tracking connected APIs and monitoring usage.\"}]},{\"type\":\"p\",\"children\":[{\"text\":\"Neto has updated the \"},{\"type\":\"a\",\"url\":\"https://galaxy.maropost.com/kb/articles/1613-unleashed-inventory-management\",\"target\":\"_blank\",\"children\":[{\"text\":\"Unleashed Inventory Management\"}]},{\"text\":\" integration to ensure compliance with the new change.\"}]},{\"type\":\"p\",\"children\":[{\"text\":\" \"}]},{\"type\":\"h3\",\"children\":[{\"text\":\"Deprecated Payment Gateways\"}]},{\"type\":\"p\",\"children\":[{\"text\":\"The following payment gateways have been deprecated and hence, removed:\"}]},{\"type\":\"ul\",\"children\":[{\"type\":\"li\",\"children\":[{\"type\":\"lic\",\"children\":[{\"text\":\"Neto Gateway\"}]}]},{\"type\":\"li\",\"children\":[{\"type\":\"lic\",\"children\":[{\"text\":\"Merchant Warrior\"}]}]},{\"type\":\"li\",\"children\":[{\"type\":\"lic\",\"children\":[{\"text\":\"ANZ eGate 3-Party Payments\"}]}]},{\"type\":\"li\",\"children\":[{\"type\":\"lic\",\"children\":[{\"text\":\"Payflow Pro or Website Payment Pro\"}]}]}]},{\"type\":\"p\",\"children\":[{\"text\":\" \"}]},{\"type\":\"h2\",\"children\":[{\"text\":\"Fixes\"}]},{\"type\":\"ul\",\"children\":[{\"type\":\"li\",\"children\":[{\"type\":\"lic\",\"children\":[{\"text\":\"Fixed an issue where selecting the “Due 7 days from Dispatch” option on customer default invoice terms resulted in “Cash on Delivery” as the payment method, rather than the one selected. This has been fixed, and the selected payment method is retained upon saving.\"}]}]},{\"type\":\"li\",\"children\":[{\"type\":\"lic\",\"children\":[{\"text\":\"Fixed a rounding issue in the template that was causing a difference in RRP and Price A, making it look like the product was on sale. This has been fixed.\"}]}]},{\"type\":\"li\",\"children\":[{\"type\":\"lic\",\"children\":[{\"text\":\"Fixed an issue with webstore orders paid using Stripe, where the order total did not include the surcharge.\"}]}]}]},{\"type\":\"p\",\"children\":[{\"text\":\"\"}]}]",
+  "format": "rich2",
+  "featured": false,
+  "locale": "en",
+  "status": "published",
+  "foreignID": null,
+  "dateUpdated": "2025-07-17T15:02:21+00:00",
+  "_source_kb_id": 12,
+  "_source_kb_name": "Neto Release Notes",
+  "_sync_date": "2026-02-02T05:58:33.096390+00:00"
+}

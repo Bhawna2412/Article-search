@@ -1,0 +1,26 @@
+{
+  "articleID": 611,
+  "name": "Can multiple staff do a stocktake at the same time?",
+  "slug": "611-can-multiple-staff-do-a-stocktake-at-the-same-time",
+  "format": "rich2",
+  "locale": "en",
+  "body": "[{\"type\": \"p\", \"children\": [{\"text\": \"You can optimize stocktake efficiency in Retail Express through collaborative counting capabilities, helping your retail operations complete inventory counts faster with multiple team members working simultaneously. This capability enables parallel stock counting across different product sections or locations, which helps reduce the time required for physical inventory verification and minimizes business disruption during stocktakes.\"}]}, {\"type\": \"p\", \"children\": [{\"text\": \"Setting up collaborative stocktake processes enables your retail operations to complete inventory audits efficiently, helping optimize staff productivity during counting activities. This helps retail businesses maintain accurate inventory records while reducing the operational impact of physical stock counts through coordinated team efforts.\"}]}, {\"type\": \"p\", \"children\": [{\"text\": \"Undertaking a Stocktake can be more efficient when you have two or more staff members counting stock at the same time.\"}]}, {\"type\": \"p\", \"children\": [{\"text\": \"Retail Express has a range of ways to complete a stocktake - below we've included tips on how to use these methods with multiple staff members.\"}]}, {\"type\": \"table\", \"children\": [{\"type\": \"tr\", \"children\": [{\"type\": \"td\", \"children\": [{\"type\": \"p\", \"children\": [{\"text\": \"Method\", \"bold\": true}]}]}, {\"type\": \"td\", \"children\": [{\"type\": \"p\", \"children\": [{\"text\": \"Tips\", \"bold\": true}]}]}]}, {\"type\": \"tr\", \"children\": [{\"type\": \"td\", \"children\": [{\"type\": \"p\", \"children\": [{\"text\": \"Browser Stocktake\"}]}]}, {\"type\": \"td\", \"children\": [{\"type\": \"p\", \"children\": [{\"text\": \"Multiple staff members can create Stocktakes at the same time \"}, {\"text\": \"providing the same products are not on more than one list\", \"bold\": true}, {\"text\": \".\"}]}, {\"type\": \"p\", \"children\": [{\"text\": \"Use the Filters to generate separate lists for counting e.g. one staff member counting clothing, another counting accessories.\"}]}]}]}, {\"type\": \"tr\", \"children\": [{\"type\": \"td\", \"children\": [{\"type\": \"p\", \"children\": [{\"text\": \"Excel Basic\"}]}]}, {\"type\": \"td\", \"children\": [{\"type\": \"p\", \"children\": [{\"text\": \"Multiple staff members can do a Stocktake at the same time.\"}]}, {\"type\": \"p\", \"children\": [{\"text\": \"Product counts must be manually combined in Excel prior to upload \", \"bold\": true}, {\"text\": \"e.g. two staff members counting the same clothing.\"}]}, {\"type\": \"p\", \"children\": [{\"text\": \"Separate uploads will replace previous counts.\"}]}, {\"type\": \"p\", \"children\": [{\"text\": \"Counts of separate products can be uploaded individually e.g. a count of clothing, a count of accessories.\"}]}]}]}, {\"type\": \"tr\", \"children\": [{\"type\": \"td\", \"children\": [{\"type\": \"p\", \"children\": [{\"text\": \"Excel Advanced\"}]}]}, {\"type\": \"td\", \"children\": [{\"type\": \"p\", \"children\": [{\"text\": \"Multiple staff members can do a Stocktake at the same time.\"}]}, {\"type\": \"p\", \"children\": [{\"text\": \"Product counts must be manually combined in Excel prior to upload \", \"bold\": true}, {\"text\": \"e.g. two staff members counting the same clothing.\"}]}, {\"type\": \"p\", \"children\": [{\"text\": \"Separate uploads will replace previous counts.\"}]}, {\"type\": \"p\", \"children\": [{\"text\": \"Counts of separate products can be uploaded individually e.g. a count of clothing, a count of accessories.\"}]}]}]}, {\"type\": \"tr\", \"children\": [{\"type\": \"td\", \"children\": [{\"type\": \"p\", \"children\": [{\"text\": \"Mobile Devices/PDA\"}]}]}, {\"type\": \"td\", \"children\": [{\"type\": \"p\", \"children\": [{\"text\": \"Multiple staff members can do a Stocktake at the same time.\"}]}, {\"type\": \"p\", \"children\": [{\"text\": \"Product counts must be manually combined in Excel prior to upload \", \"bold\": true}, {\"text\": \"e.g. two staff members counting the same clothing.\"}]}, {\"type\": \"p\", \"children\": [{\"text\": \"Separate uploads will replace previous counts.\"}]}, {\"type\": \"p\", \"children\": [{\"text\": \"Counts of separate products can be uploaded individually e.g. a count of clothing, a count of accessories.\"}]}]}]}], \"id\": \"rich-table-95303110\"}, {\"type\": \"p\", \"children\": [{\"text\": \"\"}]}]",
+  "fixes_applied": {
+    "urls": {
+      "leaving_cleaned": 0,
+      "unsafe_removed": 0,
+      "s_article_mapped": 0,
+      "s_article_removed": 0,
+      "fragments_mapped": 0,
+      "fragments_stripped": 0,
+      "internal_fragments_fixed": 0,
+      "double_id_fixed": 0,
+      "kb_fragments_stripped": 0
+    },
+    "toc": 0,
+    "related": 1,
+    "lists": 0,
+    "headings": 0,
+    "reconverted": false
+  }
+}

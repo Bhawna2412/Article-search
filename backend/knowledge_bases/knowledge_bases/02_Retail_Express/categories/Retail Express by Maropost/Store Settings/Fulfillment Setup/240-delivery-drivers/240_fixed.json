@@ -1,0 +1,26 @@
+{
+  "articleID": 240,
+  "name": "Delivery Drivers",
+  "slug": "240-delivery-drivers",
+  "format": "rich2",
+  "locale": "en",
+  "body": "[{\"type\": \"p\", \"children\": [{\"text\": \"You can manage delivery personnel and courier assignments more efficiently by creating delivery driver records that correspond with your actual drivers, couriers, or shipping methods used for customer deliveries. When combined with delivery zones and times, delivery driver assignments help organize and schedule fulfilment operations effectively through the Fulfilment Report, improving delivery coordination and customer communication.\"}]}, {\"type\": \"p\", \"children\": [{\"text\": \"Setting up delivery drivers aligned with your retail operations workflow helps streamline order fulfilment processing, whether you use internal delivery staff or external courier services, ensuring accurate delivery tracking and schedule management across your retail locations.\"}]}, {\"type\": \"p\", \"children\": [{\"text\": \"Delivery Drivers is a useful feature for listing the drivers or couriers that will deliver products to your customers. Used in conjunction with Delivery Zones and Delivery Times, the Delivery Driver can assist in organising and scheduling your required deliveries - all managed within your Fulfilment Report.\"}]}, {\"type\": \"p\", \"children\": [{\"text\": \"Alternatively, if you have a web store, you can also create Delivery Drivers that correspond with your Shipping Methods to allow more efficient processing of online orders.\"}]}, {\"type\": \"p\", \"children\": [{\"text\": \"To manage your Delivery Drivers:\"}]}, {\"type\": \"ol\", \"children\": [{\"type\": \"li\", \"children\": [{\"type\": \"lic\", \"children\": [{\"text\": \"Navigate to \"}, {\"text\": \"Settings > Fulfilment Setup > Delivery Drivers\", \"bold\": true}]}, {\"type\": \"rich_embed_card\", \"dataSourceType\": \"image\", \"url\": \"https://us.v-cdn.net/6038474/uploads/attachments/migrated/image.05T5g00000powWEEAY.jpg\", \"embedData\": {\"url\": \"https://us.v-cdn.net/6038474/uploads/attachments/migrated/image.05T5g00000powWEEAY.jpg\", \"embedType\": \"image\", \"displaySize\": \"large\", \"float\": \"none\", \"name\": \"delivery drivers.png\"}, \"children\": [{\"text\": \"\"}]}]}, {\"type\": \"li\", \"children\": [{\"type\": \"lic\", \"children\": [{\"text\": \"Type in the name in the \"}, {\"text\": \"Add Delivery Driver \", \"bold\": true}, {\"text\": \"field\"}]}]}, {\"type\": \"li\", \"children\": [{\"type\": \"lic\", \"children\": [{\"text\": \"Click \"}, {\"text\": \"Insert\", \"bold\": true}]}]}, {\"type\": \"li\", \"children\": [{\"type\": \"lic\", \"children\": [{\"text\": \"Click the \"}, {\"text\": \"pencil icon \", \"bold\": true}, {\"text\": \"to edit a Delivery Driver\"}]}, {\"type\": \"rich_embed_card\", \"dataSourceType\": \"image\", \"url\": \"https://us.v-cdn.net/6038474/uploads/attachments/migrated/image.05T5g00000powWOEAY.jpg\", \"embedData\": {\"url\": \"https://us.v-cdn.net/6038474/uploads/attachments/migrated/image.05T5g00000powWOEAY.jpg\", \"embedType\": \"image\", \"displaySize\": \"large\", \"float\": \"none\", \"name\": \"mceclip0 (47).png\"}, \"children\": [{\"text\": \"\"}]}]}, {\"type\": \"li\", \"children\": [{\"type\": \"lic\", \"children\": [{\"text\": \"Click the \"}, {\"text\": \"trash can \", \"bold\": true}, {\"text\": \"icon to delete an existing Delivery Driver\"}]}, {\"type\": \"rich_embed_card\", \"dataSourceType\": \"image\", \"url\": \"https://us.v-cdn.net/6038474/uploads/attachments/migrated/image.05T5g00000powWTEAY.jpg\", \"embedData\": {\"url\": \"https://us.v-cdn.net/6038474/uploads/attachments/migrated/image.05T5g00000powWTEAY.jpg\", \"embedType\": \"image\", \"displaySize\": \"large\", \"float\": \"none\", \"name\": \"mceclip1 (26).png\"}, \"children\": [{\"text\": \"\"}]}]}]}, {\"type\": \"p\", \"children\": [{\"text\": \"\"}]}, {\"type\": \"p\", \"children\": [{\"text\": \"The Delivery Driver can be selected when creating a sale on the \"}, {\"text\": \"Fulfilment Tab\"}, {\"text\": \" of the sale in POS.\"}]}, {\"type\": \"p\", \"children\": [{\"text\": \"\"}]}]",
+  "fixes_applied": {
+    "urls": {
+      "leaving_cleaned": 0,
+      "unsafe_removed": 0,
+      "s_article_mapped": 0,
+      "s_article_removed": 1,
+      "fragments_mapped": 0,
+      "fragments_stripped": 0,
+      "internal_fragments_fixed": 0,
+      "double_id_fixed": 0,
+      "kb_fragments_stripped": 0
+    },
+    "toc": 0,
+    "related": 1,
+    "lists": 0,
+    "headings": 0,
+    "reconverted": false
+  }
+}

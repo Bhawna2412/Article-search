@@ -1,0 +1,26 @@
+{
+  "articleID": 461,
+  "name": "Products without Inventory",
+  "slug": "461-products-without-inventory",
+  "format": "rich2",
+  "locale": "en",
+  "body": "[{\"type\": \"p\", \"children\": [{\"text\": \"You can streamline service sales and non-stocked item transactions through products without inventory in \"}, {\"text\": \"Retail Express\", \"bold\": true}, {\"text\": \", which enable selling items that don't require stock tracking such as services, warranties, or on-demand items. This flexible product configuration helps retail operators simplify transaction processing for non-inventory items, with effective use of non-inventory products typically reducing administrative overhead and improving POS efficiency across Australian retail operations.\"}]}, {\"type\": \"p\", \"children\": [{\"text\": \"Non-inventory product functionality in \"}, {\"text\": \"Retail Express\", \"bold\": true}, {\"text\": \" enables retail operators to sell services and special-order items without triggering inventory tracking requirements, helping maintain accurate stock records while supporting diverse product offerings. This product configuration capability helps ensure your retail operations can efficiently process service transactions while maintaining clean inventory management focused on physical stock items.\"}]}, {\"type\": \"p\", \"children\": [{\"text\": \"There are circumstances where you may need to create products that don't have an inventory value e.g. Service Fee, Lay-by Termination Fee etc.\"}]}, {\"type\": \"p\", \"children\": [{\"text\": \"Retail Express tracks inventory for all products, however, it's possible to create a non-inventory product in a way that you can exclude it from your reporting etc.\"}]}, {\"type\": \"p\", \"children\": [{\"text\": \"\"}]}, {\"type\": \"h2\", \"children\": [{\"text\": \"Create a Non-Inventory Product\"}], \"data-id\": \"create-a-non-inventory-product\"}, {\"type\": \"p\", \"children\": [{\"text\": \"To create a non-inventory product:\"}]}, {\"type\": \"ol\", \"children\": [{\"type\": \"li\", \"children\": [{\"type\": \"lic\", \"children\": [{\"text\": \"Create a \"}, {\"text\": \"Product Type\"}, {\"text\": \" e.g. Services, or Fees (this will be used to exclude the product from your reports)\"}]}]}, {\"type\": \"li\", \"children\": [{\"type\": \"lic\", \"children\": [{\"text\": \"Create a Supplier\"}, {\"text\": \" using your business name e.g. your business name\"}]}]}, {\"type\": \"li\", \"children\": [{\"type\": \"lic\", \"children\": [{\"text\": \"Create a product\"}, {\"text\": \" for each service e.g. Lay-by Termination Fee\"}]}]}, {\"type\": \"li\", \"children\": [{\"type\": \"lic\", \"children\": [{\"text\": \"Ensure each product has a cost (your costs) and sell price (the amount charged to the customer)\"}]}, {\"type\": \"rich_embed_card\", \"dataSourceType\": \"image\", \"url\": \"https://us.v-cdn.net/6038474/uploads/attachments/migrated/image.05T5g00000ppWimEAE.jpg\", \"embedData\": {\"url\": \"https://us.v-cdn.net/6038474/uploads/attachments/migrated/image.05T5g00000ppWimEAE.jpg\", \"embedType\": \"image\", \"displaySize\": \"large\", \"float\": \"none\", \"name\": \"mceclip0 - 2023-07-09T003732.234.png\"}, \"children\": [{\"text\": \"\"}]}]}]}, {\"type\": \"p\", \"children\": [{\"text\": \"\"}]}, {\"type\": \"h2\", \"children\": [{\"text\": \"Exclude the product from Reporting\"}], \"data-id\": \"exclude-the-product-from-reporting\"}, {\"type\": \"p\", \"children\": [{\"text\": \"To exclude non-inventory products from reporting, you will just need to highlight all Product Types and Suppliers, then unselect the Supplier and Product Type for your non-inventory products. For example on the Stock Value vs Sales Report\"}]}, {\"type\": \"callout\", \"children\": [{\"type\": \"callout-item\", \"children\": [{\"text\": \"Hold the Ctrl button to unselect just one.\"}]}], \"appearance\": \"info\"}, {\"type\": \"rich_embed_card\", \"dataSourceType\": \"image\", \"url\": \"https://us.v-cdn.net/6038474/uploads/attachments/migrated/image.05T5g00000ppX80EAE.jpg\", \"embedData\": {\"url\": \"https://us.v-cdn.net/6038474/uploads/attachments/migrated/image.05T5g00000ppX80EAE.jpg\", \"embedType\": \"image\", \"displaySize\": \"large\", \"float\": \"none\", \"name\": \"mceclip1 (92).png\"}, \"children\": [{\"text\": \"\"}]}, {\"type\": \"p\", \"children\": [{\"text\": \"\"}]}]",
+  "fixes_applied": {
+    "urls": {
+      "leaving_cleaned": 0,
+      "unsafe_removed": 0,
+      "s_article_mapped": 0,
+      "s_article_removed": 3,
+      "fragments_mapped": 0,
+      "fragments_stripped": 0,
+      "internal_fragments_fixed": 0,
+      "double_id_fixed": 0,
+      "kb_fragments_stripped": 0
+    },
+    "toc": 0,
+    "related": 1,
+    "lists": 0,
+    "headings": 0,
+    "reconverted": false
+  }
+}

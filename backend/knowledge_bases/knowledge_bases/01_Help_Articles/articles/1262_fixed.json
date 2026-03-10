@@ -1,0 +1,16 @@
+{
+  "articleID": 1262,
+  "knowledgeCategoryID": 1,
+  "sort": 146,
+  "name": "Troubleshooting POS performance and speed issues",
+  "body": "[{\"type\": \"h1\", \"children\": [{\"text\": \"Troubleshooting POS performance and speed issues\"}], \"data-id\": \"troubleshooting-pos-performance-and-speed-issues\"}, {\"type\": \"p\", \"children\": [{\"text\": \"If you're finding your system is performing slower than normal, Retail Express offers a handy troubleshooting guide. The guide is designed to step you through a series of checks to ensure there isn't anything on your network potentially impacting on the performance of your system.\"}]}, {\"type\": \"p\", \"children\": [{\"text\": \"The guide is broken into two sections:\"}]}, {\"type\": \"ul\", \"children\": [{\"type\": \"li\", \"children\": [{\"type\": \"lic\", \"children\": [{\"text\": \"Basic troubleshooting, which can be performed by staff confident with using computers\"}]}]}, {\"type\": \"li\", \"children\": [{\"type\": \"lic\", \"children\": [{\"text\": \"Advanced troubleshooting, recommended for IT professionals and technicians.\"}]}]}]}, {\"type\": \"p\", \"children\": [{\"text\": \"\"}]}, {\"type\": \"p\", \"children\": [{\"type\": \"a\", \"url\": \"http://galaxy.maropost.com/home/leaving?allowTrusted=1&target=https%3A%2F%2Fwww.retailexpressmedia.com%2Fdocuments%2Fsupport%2FPOSPerformanceTroubleshooting.docx\", \"children\": [{\"text\": \"Download POS Performance Troubleshooting Guide\"}]}]}, {\"type\": \"p\", \"children\": [{\"text\": \"Need more information? Find related articles here:\"}]}, {\"type\": \"ul\", \"children\": [{\"type\": \"li\", \"children\": [{\"type\": \"lic\", \"children\": [{\"type\": \"a\", \"url\": \"https://galaxy.maropost.com/s/article/Hardware-and-Software-System-Requirements\", \"children\": [{\"text\": \"Hardware - System Requirements, Supported POS Terminals and Operating Systems\"}]}]}]}]}]",
+  "format": "rich2",
+  "featured": false,
+  "locale": "en",
+  "status": "published",
+  "foreignID": null,
+  "dateUpdated": "2025-12-01T04:25:50+00:00",
+  "_source_kb_id": 1,
+  "_source_kb_name": "Help Articles",
+  "_sync_date": "2026-02-02T05:47:35.313266+00:00"
+}

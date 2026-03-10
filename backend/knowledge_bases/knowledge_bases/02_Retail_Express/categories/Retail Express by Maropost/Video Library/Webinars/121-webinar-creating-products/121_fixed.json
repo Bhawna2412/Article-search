@@ -1,0 +1,26 @@
+{
+  "articleID": 121,
+  "name": "Webinar - Creating Products",
+  "slug": "121-webinar-creating-products",
+  "format": "rich2",
+  "locale": "en",
+  "body": "[{\"type\": \"p\", \"children\": [{\"text\": \"In this webinar, we walk you through creating products in Retail Express, including creating a Product manually and in bulk and duplicating an existing Product.\"}]}, {\"type\": \"p\", \"children\": [{\"type\": \"a\", \"url\": \"https://player.vimeo.com/video/304756399\", \"children\": [{\"text\": \"\\n        https://player.vimeo.com/video/304756399\\n    \"}]}]}]",
+  "fixes_applied": {
+    "urls": {
+      "leaving_cleaned": 1,
+      "unsafe_removed": 0,
+      "s_article_mapped": 0,
+      "s_article_removed": 0,
+      "fragments_mapped": 0,
+      "fragments_stripped": 0,
+      "internal_fragments_fixed": 0,
+      "double_id_fixed": 0,
+      "kb_fragments_stripped": 0
+    },
+    "toc": 0,
+    "related": 0,
+    "lists": 0,
+    "headings": 0,
+    "reconverted": false
+  }
+}

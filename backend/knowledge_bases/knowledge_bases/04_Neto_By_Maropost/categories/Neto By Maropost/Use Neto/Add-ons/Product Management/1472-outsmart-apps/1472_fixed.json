@@ -1,0 +1,27 @@
+{
+  "articleID": 1472,
+  "name": "Outsmart Apps",
+  "slug": "1472-outsmart-apps",
+  "format": "rich2",
+  "locale": "en",
+  "body": "[{\"type\": \"p\", \"children\": [{\"text\": \"[Image: User-added image]\"}]}, {\"type\": \"p\", \"children\": [{\"text\": \"This add-on was built by \"}, {\"text\": \"Outsmart\", \"bold\": true}, {\"text\": \".\"}, {\"text\": \"\\n\"}, {\"type\": \"a\", \"url\": \"https://outsmart.digital\", \"children\": [{\"text\": \"Visit add-on website!\"}]}, {\"text\": \"\\n\"}, {\"text\": \"For support with this add-on \"}, {\"type\": \"a\", \"url\": \"https://outsmart.digital/\", \"children\": [{\"text\": \"contact Outsmart\"}]}, {\"text\": \".\"}]}, {\"type\": \"h2\", \"children\": [{\"text\": \"Overview\"}], \"data-id\": \"overview\"}, {\"type\": \"p\", \"children\": [{\"text\": \"Outsmart is a suite of conversion apps, featuring One Click Upsells. One Click Upsells lets you offer relevant upsells and cross sells at the right time and place to your customers.\"}]}, {\"type\": \"p\", \"children\": [{\"text\": \"Outsmart uses the below data from Neto:\"}]}, {\"type\": \"ul\", \"children\": [{\"type\": \"li\", \"children\": [{\"type\": \"lic\", \"children\": [{\"text\": \"Products\"}]}]}, {\"type\": \"li\", \"children\": [{\"type\": \"lic\", \"children\": [{\"text\": \"Categories\"}]}]}, {\"type\": \"li\", \"children\": [{\"type\": \"lic\", \"children\": [{\"text\": \"Brands\"}]}]}, {\"type\": \"li\", \"children\": [{\"type\": \"lic\", \"children\": [{\"text\": \"Sales order orderlines\"}]}]}]}, {\"type\": \"h2\", \"children\": [{\"text\": \"Benefits & Features\"}], \"data-id\": \"benefits-features\"}, {\"type\": \"p\", \"children\": [{\"text\": \"Integrating ease of use and seamless optimisation\", \"bold\": true}, {\"text\": \"\\n\"}, {\"text\": \"At last, upsells and cross-sells at one with your business thanks to One Click Upsells. Increase profits the smart way.\"}]}, {\"type\": \"p\", \"children\": [{\"text\": \"Relevance + timing = more profit + less effort\", \"bold\": true}, {\"text\": \"\\n\"}, {\"text\": \"Present the right offers at the right time to the right shoppers to boost your business bottom line.\"}]}, {\"type\": \"p\", \"children\": [{\"text\": \"Data-driven decisions deliver confidence\", \"bold\": true}, {\"text\": \"\\n\"}, {\"text\": \"Placement of offers are determined by online shopper preferences and purchases. That\\u2019s profit growth by design.\"}]}, {\"type\": \"p\", \"children\": [{\"text\": \"Sales-focused because your results matter most\", \"bold\": true}, {\"text\": \"\\n\"}, {\"text\": \"One Click Upsells focuses on delivering more profit per transaction because our success is based entirely on yours.\"}]}, {\"type\": \"p\", \"children\": [{\"text\": \"Unprecedented intuitive cross selling & upselling\", \"bold\": true}, {\"text\": \"\\n\"}, {\"text\": \"The first add-on of its kind to effectively focus on increasing cart size in multiple ways during the shopper experience.\"}]}, {\"type\": \"p\", \"children\": [{\"text\": \"Clean, clear and concise by design\", \"bold\": true}, {\"text\": \"\\n\"}, {\"text\": \"One Click Upsells declutters sales pages for a clearer path to upsell/cross-sell opportunities with smart layout and execution.\"}]}, {\"type\": \"h2\", \"children\": [{\"text\": \"Install and Set up the Outsmart Apps Add-on\"}], \"data-id\": \"install-and-set-up-the-outsmart-apps-add-on\"}, {\"type\": \"p\", \"children\": [{\"text\": \"To install and set up the Outsmart Apps add-on:\"}]}, {\"type\": \"ol\", \"children\": [{\"type\": \"li\", \"children\": [{\"type\": \"lic\", \"children\": [{\"text\": \"In your Neto\\u00a0control panel navigate to the \"}, {\"text\": \"Addons\", \"bold\": true}, {\"text\": \" menu.\"}]}]}, {\"type\": \"li\", \"children\": [{\"type\": \"lic\", \"children\": [{\"text\": \"Find the \"}, {\"text\": \"Outsmart Apps\", \"bold\": true}, {\"text\": \" add-on and click the \"}, {\"text\": \"Install\", \"bold\": true}, {\"text\": \" button.\"}]}, {\"type\": \"p\", \"children\": [{\"text\": \"You\\u2019ll be redirected to the Outsmart dashboard to authenticate or create your account.\"}]}]}, {\"type\": \"li\", \"children\": [{\"type\": \"lic\", \"children\": [{\"text\": \"Follow the set up steps in the Outsmart \"}, {\"type\": \"a\", \"url\": \"https://docs.outsmart.digital/\", \"children\": [{\"text\": \"help guide\"}]}, {\"text\": \".\"}]}]}]}]",
+  "fixes_applied": {
+    "rebrand": 0,
+    "urls": {
+      "leaving_cleaned": 3,
+      "unsafe_removed": 0,
+      "s_article_mapped": 0,
+      "s_article_removed": 0,
+      "fragments_mapped": 0,
+      "fragments_stripped": 0,
+      "internal_fragments_fixed": 0,
+      "double_id_fixed": 0,
+      "kb_fragments_stripped": 0
+    },
+    "toc": 0,
+    "related": 0,
+    "lists": 3,
+    "headings": 1,
+    "reconverted": false
+  }
+}

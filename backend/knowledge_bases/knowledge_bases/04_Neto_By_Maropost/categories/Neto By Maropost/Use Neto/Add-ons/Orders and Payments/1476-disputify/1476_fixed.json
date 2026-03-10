@@ -1,0 +1,27 @@
+{
+  "articleID": 1476,
+  "name": "Disputify",
+  "slug": "1476-disputify",
+  "format": "rich2",
+  "locale": "en",
+  "body": "[{\"type\": \"p\", \"children\": [{\"text\": \"[Image: User-added image]\"}]}, {\"type\": \"p\", \"children\": [{\"text\": \"This add-on was built by \"}, {\"text\": \"Disputify\", \"bold\": true}, {\"text\": \".\"}, {\"text\": \"\\n\"}, {\"type\": \"a\", \"url\": \"https://www.disputify.com/\", \"children\": [{\"text\": \"Visit add-on website\"}]}, {\"text\": \"\\n\"}, {\"text\": \"For support with this add-on \"}, {\"type\": \"a\", \"url\": \"https://disputify.atlassian.net/servicedesk/customer/portal/2/group/3/create/12\", \"children\": [{\"text\": \"contact Disputify\"}]}, {\"text\": \".\"}]}, {\"type\": \"h2\", \"children\": [{\"text\": \"Overview\"}], \"data-id\": \"overview\"}, {\"type\": \"p\", \"children\": [{\"text\": \"Disputify sits invisibly on your Neto webstore checkout to track your Stripe transactions in real-time. Disputify leverages a network of data points to calculate the probability of any given transaction resulting in a fraudulent chargeback.\"}]}, {\"type\": \"p\", \"children\": [{\"text\": \"Dispute scores are added to each of your transactions allowing you to view your customers fraud history before dispatching orders, essentially creating a virtual \\u201cblocklist\\u201d of high risk customers.\"}]}, {\"type\": \"h2\", \"children\": [{\"text\": \"Install and Set up the Disputify Add-on\"}], \"data-id\": \"install-and-set-up-the-disputify-add-on\"}, {\"type\": \"p\", \"children\": [{\"text\": \"To set up the Disputify add-on in your Neto webstore:\"}]}, {\"type\": \"ol\", \"children\": [{\"type\": \"li\", \"children\": [{\"type\": \"lic\", \"children\": [{\"text\": \"In your Neto control panel click on the \"}, {\"text\": \"Addons\", \"bold\": true}, {\"text\": \" menu.\"}]}]}, {\"type\": \"li\", \"children\": [{\"type\": \"lic\", \"children\": [{\"text\": \"Find the Disputify add-on and click the \"}, {\"text\": \"Install\", \"bold\": true}, {\"text\": \" button.\"}]}, {\"type\": \"p\", \"children\": [{\"text\": \"The Disputify add-on will be installed in your control panel.\"}]}]}, {\"type\": \"li\", \"children\": [{\"type\": \"lic\", \"children\": [{\"text\": \"In the pop-up window, click the \"}, {\"text\": \"Configure Disputify\", \"bold\": true}, {\"text\": \" button.\"}]}]}, {\"type\": \"li\", \"children\": [{\"type\": \"lic\", \"children\": [{\"text\": \"Follow the steps on the \"}, {\"type\": \"a\", \"url\": \"https://disputify.atlassian.net/servicedesk/customer/portal/2/article/524291\", \"children\": [{\"text\": \"Disputify help site\"}]}, {\"text\": \" to configure your Disputify connection.\"}]}]}]}]",
+  "fixes_applied": {
+    "rebrand": 0,
+    "urls": {
+      "leaving_cleaned": 3,
+      "unsafe_removed": 0,
+      "s_article_mapped": 0,
+      "s_article_removed": 0,
+      "fragments_mapped": 0,
+      "fragments_stripped": 0,
+      "internal_fragments_fixed": 0,
+      "double_id_fixed": 0,
+      "kb_fragments_stripped": 0
+    },
+    "toc": 0,
+    "related": 0,
+    "lists": 4,
+    "headings": 1,
+    "reconverted": false
+  }
+}

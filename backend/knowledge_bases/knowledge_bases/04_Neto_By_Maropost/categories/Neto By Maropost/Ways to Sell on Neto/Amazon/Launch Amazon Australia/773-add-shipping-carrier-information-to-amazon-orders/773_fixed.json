@@ -1,0 +1,27 @@
+{
+  "articleID": 773,
+  "name": "Add Shipping Carrier Information to Amazon Orders",
+  "slug": "773-add-shipping-carrier-information-to-amazon-orders",
+  "format": "rich2",
+  "locale": "en",
+  "body": "[{\"type\": \"p\", \"children\": [{\"text\": \"Before you begin, ensure you have completed the steps to \"}, {\"text\": \"integrate your Amazon Australia account with Neto\"}, {\"text\": \".\"}]}, {\"type\": \"p\", \"children\": [{\"text\": \"When a sales order from Amazon is dispatched, Neto sends the courier name and tracking information to Amazon. Amazon then displays this to your buyer, so they can track their order. To ensure the correct carrier name is sent through, follow the steps below:\"}]}, {\"type\": \"ol\", \"children\": [{\"type\": \"li\", \"children\": [{\"type\": \"lic\", \"children\": [{\"text\": \"In your Neto control panel navigate to \"}, {\"text\": \"Shipping\", \"bold\": true}, {\"text\": \" > \"}, {\"text\": \"Shipping Options\", \"bold\": true}, {\"text\": \".\"}]}]}, {\"type\": \"li\", \"children\": [{\"type\": \"lic\", \"children\": [{\"text\": \"Locate a shipping option which will be used for Amazon orders, and click on the link under the \"}, {\"text\": \"Service/Rates\", \"bold\": true}, {\"text\": \" column.\"}]}]}, {\"type\": \"li\", \"children\": [{\"type\": \"lic\", \"children\": [{\"text\": \"In the \"}, {\"text\": \"Marketplace carrier mapping\", \"bold\": true}, {\"text\": \" section, select your Amazon AU shipping carrier from the drop down menu. If your carrier is not in the list, select \"}, {\"text\": \"Other\", \"bold\": true}, {\"text\": \" and type the name of the carrier in exactly.\"}]}, {\"type\": \"p\", \"children\": [{\"text\": \"Tip\", \"bold\": true}, {\"text\": \": Australia Post and StarTrack shipping should be set to \"}, {\"text\": \"Other\", \"bold\": true}, {\"text\": \". If the tracking number is 10 - 16 characters long use \"}, {\"text\": \"Australia Post-Consignment\", \"code\": true}, {\"text\": \"/\"}, {\"text\": \"StarTrack-Consignment\", \"code\": true}, {\"text\": \", while 20 - 23 digit numbers use \"}, {\"text\": \"Australia Post-ArticleID\", \"code\": true}, {\"text\": \"/\"}, {\"text\": \"StarTrack-ArticleID\", \"code\": true}, {\"text\": \".\"}]}, {\"type\": \"p\", \"children\": [{\"text\": \"[Image: image1]\"}]}]}, {\"type\": \"li\", \"children\": [{\"type\": \"lic\", \"children\": [{\"text\": \"Click the \"}, {\"text\": \"Save & Close\", \"bold\": true}, {\"text\": \" button. Repeat these steps for any other shipping options you use to dispatch Amazon orders.\"}]}]}]}, {\"type\": \"h2\", \"children\": [{\"text\": \"Other Values\"}]}, {\"type\": \"p\", \"children\": [{\"text\": \"When you set the carrier to Other, Amazon will accept a value from the list below:\"}]}, {\"type\": \"ul\", \"children\": [{\"type\": \"li\", \"children\": [{\"type\": \"lic\", \"children\": [{\"text\": \"Australia Post-Consignment\"}]}]}, {\"type\": \"li\", \"children\": [{\"type\": \"lic\", \"children\": [{\"text\": \"Australia Post-ArticleID\"}]}]}, {\"type\": \"li\", \"children\": [{\"type\": \"lic\", \"children\": [{\"text\": \"Couriers Please\"}]}]}, {\"type\": \"li\", \"children\": [{\"type\": \"lic\", \"children\": [{\"text\": \"StarTrack-Consignment\"}]}]}, {\"type\": \"li\", \"children\": [{\"type\": \"lic\", \"children\": [{\"text\": \"StarTrack-ArticleID\"}]}]}, {\"type\": \"li\", \"children\": [{\"type\": \"lic\", \"children\": [{\"text\": \"Fastway\"}]}]}, {\"type\": \"li\", \"children\": [{\"type\": \"lic\", \"children\": [{\"text\": \"Team Global Express\"}]}]}, {\"type\": \"li\", \"children\": [{\"type\": \"lic\", \"children\": [{\"text\": \"China Post\"}]}]}, {\"type\": \"li\", \"children\": [{\"type\": \"lic\", \"children\": [{\"text\": \"FedEx\"}]}]}, {\"type\": \"li\", \"children\": [{\"type\": \"lic\", \"children\": [{\"text\": \"DHL\"}]}]}, {\"type\": \"li\", \"children\": [{\"type\": \"lic\", \"children\": [{\"text\": \"USPS\"}]}]}, {\"type\": \"li\", \"children\": [{\"type\": \"lic\", \"children\": [{\"text\": \"UPS\"}]}]}, {\"type\": \"li\", \"children\": [{\"type\": \"lic\", \"children\": [{\"text\": \"Aramex\"}]}]}, {\"type\": \"li\", \"children\": [{\"type\": \"lic\", \"children\": [{\"text\": \"4PX\"}]}]}, {\"type\": \"li\", \"children\": [{\"type\": \"lic\", \"children\": [{\"text\": \"EUB\"}]}]}, {\"type\": \"li\", \"children\": [{\"type\": \"lic\", \"children\": [{\"text\": \"Yun Express\"}]}]}]}]",
+  "fixes_applied": {
+    "rebrand": 0,
+    "urls": {
+      "leaving_cleaned": 0,
+      "unsafe_removed": 0,
+      "s_article_mapped": 0,
+      "s_article_removed": 1,
+      "fragments_mapped": 0,
+      "fragments_stripped": 0,
+      "internal_fragments_fixed": 0,
+      "double_id_fixed": 0,
+      "kb_fragments_stripped": 0
+    },
+    "toc": 0,
+    "related": 0,
+    "lists": 4,
+    "headings": 1,
+    "reconverted": false
+  }
+}

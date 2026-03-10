@@ -1,0 +1,26 @@
+{
+  "articleID": 317,
+  "name": "Return Reason Report (Limited)",
+  "slug": "317-return-reason-report-limited",
+  "format": "rich2",
+  "locale": "en",
+  "body": "[{\"type\": \"p\", \"children\": [{\"text\": \"You can analyze customer return patterns without viewing cost and profitability data by accessing the Return Reason Report Limited version, which shows return reasons and quantities while hiding sensitive financial information. This restricted reporting helps retail operators share return analysis with appropriate staff members while maintaining confidentiality around cost prices and margin impact.\"}]}, {\"type\": \"p\", \"children\": [{\"text\": \"Using the Return Reason Report Limited helps retail operators distribute return analysis to customer service teams who need return pattern visibility without accessing confidential financial data reserved for management.\"}]}, {\"type\": \"p\", \"children\": [{\"text\": \"The Return Reason Report (Limited) is a restricted version of the  \"}, {\"text\": \"Return Reason Report\"}, {\"text\": \". This report is recommended for use when you want staff to access the Return Reason Report, but don't wish for them to view Cost or GP information.\"}]}, {\"type\": \"p\", \"children\": [{\"text\": \"This report displays returns processed via POS with the associated Return Reason.  This report can be helpful for internal reporting purposes as you can also \"}, {\"text\": \"configure your own Return Reasons\"}, {\"text\": \".\"}]}, {\"type\": \"p\", \"children\": [{\"text\": \"Keep track of products being returned to track common or recurring themes, e.g., continued use of a Reason Code such as \\\"Didn't fit correctly\\\" may be indicator that sales staff aren't providing enough assistance when customers are trying on items.\"}]}, {\"type\": \"p\", \"children\": [{\"text\": \"Considerations when using this report:\", \"bold\": true}]}, {\"type\": \"ul\", \"children\": [{\"type\": \"li\", \"children\": [{\"type\": \"lic\", \"children\": [{\"text\": \"Cancelled items show the products \"}, {\"text\": \"original unit price at the time of sale\", \"bold\": true}, {\"text\": \" without any discounts that may have been applied to the line.\"}]}]}]}, {\"type\": \"p\", \"children\": [{\"text\": \"\"}]}, {\"type\": \"p\", \"children\": [{\"text\": \"To access the Return Reason Report (Limited), navigate to : \"}, {\"text\": \"Reports > Sales Reports > Return Reason Report (Limited)\", \"bold\": true}]}, {\"type\": \"rich_embed_card\", \"dataSourceType\": \"image\", \"url\": \"https://us.v-cdn.net/6038474/uploads/attachments/migrated/image.05T5g00000pphA8EAI.jpg\", \"embedData\": {\"url\": \"https://us.v-cdn.net/6038474/uploads/attachments/migrated/image.05T5g00000pphA8EAI.jpg\", \"embedType\": \"image\", \"displaySize\": \"large\", \"float\": \"none\", \"name\": \"blobid0 (32).png\"}, \"children\": [{\"text\": \"\"}]}, {\"type\": \"p\", \"children\": [{\"text\": \"\"}]}, {\"type\": \"h2\", \"children\": [{\"text\": \"Special Filters\"}], \"data-id\": \"special-filters\"}, {\"type\": \"p\", \"children\": [{\"text\": \"Most of the filtering fields are self explanatory, however see the detailed information below for the more advanced fields.\"}]}, {\"type\": \"p\", \"children\": [{\"text\": \"Product PLU - \", \"bold\": true}, {\"text\": \"valid PLUs are: SupplierSKU, ManufacturerSKU and Product ID. Enter multiple PLUs separated by a comma.\"}]}, {\"type\": \"p\", \"children\": [{\"text\": \"Apply filters as required > click \"}, {\"text\": \"Search.\", \"bold\": true}]}, {\"type\": \"rich_embed_card\", \"dataSourceType\": \"image\", \"url\": \"https://us.v-cdn.net/6038474/uploads/attachments/migrated/image.05T5g00000pphdwEAA.jpg\", \"embedData\": {\"url\": \"https://us.v-cdn.net/6038474/uploads/attachments/migrated/image.05T5g00000pphdwEAA.jpg\", \"embedType\": \"image\", \"displaySize\": \"large\", \"float\": \"none\", \"name\": \"blobid1 (20).png\"}, \"children\": [{\"text\": \"\"}]}, {\"type\": \"p\", \"children\": [{\"text\": \"View this report in-page or export to Excel.\"}]}, {\"type\": \"p\", \"children\": [{\"text\": \"Alternatively, click the edit (pencil) icon to open the Return and edit in POS, or click the Invoice ($) icon to access a PDF copy of the invoice.\"}]}, {\"type\": \"callout\", \"children\": [{\"type\": \"callout-item\", \"children\": [{\"text\": \"Click column headings to sort into ascending or descending order\"}]}], \"appearance\": \"info\"}, {\"type\": \"callout\", \"children\": [{\"type\": \"callout-item\", \"children\": [{\"text\": \"For API Users, Use the Source Filter to select web orders if you are looking to filter for refunds created via the Webstore API\"}]}], \"appearance\": \"info\"}, {\"type\": \"p\", \"children\": [{\"text\": \"\"}]}]",
+  "fixes_applied": {
+    "urls": {
+      "leaving_cleaned": 0,
+      "unsafe_removed": 0,
+      "s_article_mapped": 0,
+      "s_article_removed": 2,
+      "fragments_mapped": 0,
+      "fragments_stripped": 0,
+      "internal_fragments_fixed": 1,
+      "double_id_fixed": 0,
+      "kb_fragments_stripped": 0
+    },
+    "toc": 0,
+    "related": 1,
+    "lists": 0,
+    "headings": 2,
+    "reconverted": false
+  }
+}

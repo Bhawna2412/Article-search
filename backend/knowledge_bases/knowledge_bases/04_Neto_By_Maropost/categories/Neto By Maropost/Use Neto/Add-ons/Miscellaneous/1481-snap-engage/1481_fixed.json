@@ -1,0 +1,29 @@
+{
+  "articleID": 1481,
+  "name": "Snap Engage",
+  "slug": "1481-snap-engage",
+  "format": "rich2",
+  "locale": "en",
+  "body": "[{\"type\": \"h2\", \"children\": [{\"text\": \"This add-on was built by Snap Engage.\"}]}, {\"type\": \"p\", \"children\": [{\"text\": \"Visit Add-On Website\"}]}, {\"type\": \"p\", \"children\": [{\"text\": \"For support with this add-on \"}, {\"type\": \"a\", \"url\": \"https://help.snapengage.com/\", \"children\": [{\"text\": \"contact Snap Engage\"}]}, {\"text\": \".\"}]}, {\"type\": \"p\", \"children\": [{\"text\": \"Deliver exceptional customer experiences with Snap Engage. Their flexible, powerful chat solution handles business complexity with ease. Capture more leads, reduce costs, and skyrocket customer satisfaction. To set up the Snap Engage add-on:\"}]}, {\"type\": \"ol\", \"children\": [{\"type\": \"li\", \"children\": [{\"type\": \"lic\", \"children\": [{\"text\": \"Create an account with \"}, {\"type\": \"a\", \"url\": \"https://snapengage.com/\", \"children\": [{\"text\": \"Snap Engage\"}]}, {\"text\": \" and copy the code for your website.\"}]}]}, {\"type\": \"li\", \"children\": [{\"type\": \"lic\", \"children\": [{\"text\": \"In your Neto by Maropost control panel click on the \"}, {\"text\": \"Addons\", \"bold\": true}, {\"text\": \" menu.\"}]}]}, {\"type\": \"li\", \"children\": [{\"type\": \"lic\", \"children\": [{\"text\": \"Locate the Snap Engage add-on and click the \"}, {\"text\": \"Install\", \"bold\": true}, {\"text\": \" button.\"}]}]}, {\"type\": \"li\", \"children\": [{\"type\": \"lic\", \"children\": [{\"text\": \"Paste the code from Snap Engage and click save changes.\"}]}]}]}]",
+  "fixes_applied": {
+    "rebrand": 0,
+    "urls": {
+      "leaving_cleaned": 2,
+      "unsafe_removed": 0,
+      "s_article_mapped": 0,
+      "s_article_removed": 0,
+      "fragments_mapped": 0,
+      "fragments_stripped": 0,
+      "internal_fragments_fixed": 0,
+      "double_id_fixed": 0,
+      "kb_fragments_stripped": 0
+    },
+    "toc": 0,
+    "related": 0,
+    "lists": 4,
+    "headings": 2,
+    "reconverted": false
+  },
+  "_sf_cleanup_date": "2026-02-02T06:17:42.090811+00:00",
+  "_sf_removals": 1
+}

@@ -1,0 +1,17 @@
+{
+  "articleID": 1053,
+  "knowledgeCategoryID": 266,
+  "sort": 5,
+  "name": "TradeMe Product Category Sheet",
+  "body": "[{\"type\": \"p\", \"children\": [{\"text\": \"It's important to note, when assigning your categories to your products, please ensure the \"}, {\"text\": \"Category Code\", \"bold\": true}, {\"text\": \" is used, otherwise it will be rejected during the data feed export.\"}]}, {\"type\": \"p\", \"children\": [{\"text\": \"Click here to \"}, {\"type\": \"a\", \"url\": \"https://support.tradevine.com/import-fields/\", \"children\": [{\"text\": \"download the latest list of categories\"}]}, {\"text\": \" available for Trade Me.\"}]}]",
+  "format": "rich2",
+  "featured": false,
+  "locale": "en",
+  "status": "published",
+  "foreignID": null,
+  "dateUpdated": "2025-12-11T04:34:30+00:00",
+  "_source_kb_id": 4,
+  "_source_kb_name": "Neto By Maropost",
+  "_sync_date": "2026-02-06T07:19:44.619097+00:00",
+  "_incremental_update": true
+}

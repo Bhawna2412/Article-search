@@ -1,0 +1,27 @@
+{
+  "articleID": 1491,
+  "name": "StreetPricer",
+  "slug": "1491-streetpricer",
+  "format": "rich2",
+  "locale": "en",
+  "body": "[{\"type\": \"h3\", \"children\": [{\"text\": \"This add-on was built by StreetPricer.\"}], \"data-id\": \"this-add-on-was-built-by-streetpricer\"}, {\"type\": \"p\", \"children\": [{\"type\": \"a\", \"url\": \"https://www.streetpricer.com/prices/prices\", \"children\": [{\"text\": \"Visit Add-On Website\"}]}]}, {\"type\": \"p\", \"children\": [{\"text\": \"For support with this add-on \"}, {\"type\": \"a\", \"url\": \"https://streetpricer.com/contact/\", \"children\": [{\"text\": \"contact StreetPricer\"}]}, {\"text\": \".\"}]}, {\"type\": \"p\", \"children\": [{\"text\": \"\"}]}, {\"type\": \"h2\", \"children\": [{\"text\": \"Overview\"}], \"data-id\": \"overview\"}, {\"type\": \"p\", \"children\": [{\"text\": \"StreetPricer is an automated price tracking and repricing application. StreetPricer's Radar scans eBay and Amazon for listings that compete with yours to help you price your products more competitively, leading to higher turnover and more profit in less time.\"}]}, {\"type\": \"p\", \"children\": [{\"text\": \"For catalog and non-catalog items, the more structured the data (e.g. UPC, Brand, MPN) in your listings and your competitors', the higher the level of automation you can achieve. You have a variety of AI (artificial intelligence), item-specifics or keyword scan options, filters and settings to tailor the results to your stores.\"}]}, {\"type\": \"p\", \"children\": [{\"text\": \"StreetPricer will allow you to:\"}]}, {\"type\": \"ul\", \"children\": [{\"type\": \"li\", \"children\": [{\"type\": \"lic\", \"children\": [{\"text\": \"Find the eBay and/or Amazon listings of your competitors that you're also selling.\"}]}]}, {\"type\": \"li\", \"children\": [{\"type\": \"lic\", \"children\": [{\"text\": \"Lock in which items you want to compete with.\"}]}]}, {\"type\": \"li\", \"children\": [{\"type\": \"lic\", \"children\": [{\"text\": \"Set a floor price of how low you will offer your products.\"}]}]}, {\"type\": \"li\", \"children\": [{\"type\": \"lic\", \"children\": [{\"text\": \"Automatically reprice your products according to your price rules.\"}]}]}]}, {\"type\": \"p\", \"children\": [{\"text\": \"\"}]}, {\"type\": \"h2\", \"children\": [{\"text\": \"Set up StreetPricer\"}], \"data-id\": \"set-up-streetpricer\"}, {\"type\": \"p\", \"children\": [{\"text\": \"Please follow the instructions StreetPricer have provided in their \"}, {\"type\": \"a\", \"url\": \"https://www.streetpricer.com/guides/howto_api_neto\", \"children\": [{\"text\": \"integration article\"}]}, {\"text\": \".\"}]}]",
+  "fixes_applied": {
+    "rebrand": 0,
+    "urls": {
+      "leaving_cleaned": 0,
+      "unsafe_removed": 0,
+      "s_article_mapped": 0,
+      "s_article_removed": 0,
+      "fragments_mapped": 0,
+      "fragments_stripped": 0,
+      "internal_fragments_fixed": 0,
+      "double_id_fixed": 0,
+      "kb_fragments_stripped": 0
+    },
+    "toc": 0,
+    "related": 0,
+    "lists": 0,
+    "headings": 0,
+    "reconverted": true
+  }
+}

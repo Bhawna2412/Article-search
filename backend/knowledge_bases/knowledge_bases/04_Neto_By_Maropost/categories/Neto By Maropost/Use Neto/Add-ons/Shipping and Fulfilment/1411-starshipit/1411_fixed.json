@@ -1,0 +1,27 @@
+{
+  "articleID": 1411,
+  "name": "Starshipit",
+  "slug": "1411-starshipit",
+  "format": "rich2",
+  "locale": "en",
+  "body": "[{\"type\": \"rich_embed_card\", \"dataSourceType\": \"image\", \"url\": \"https://us.v-cdn.net/6038474/uploads/attachments/migrated/SSILogoHorizontalBlue.05T5g00000Y7PSsEAN.png\", \"embedData\": {\"url\": \"https://us.v-cdn.net/6038474/uploads/attachments/migrated/SSILogoHorizontalBlue.05T5g00000Y7PSsEAN.png\", \"embedType\": \"image\", \"displaySize\": \"large\", \"float\": \"none\", \"name\": \"User-added image\", \"width\": 500, \"height\": 172}, \"children\": [{\"text\": \"\"}]}, {\"type\": \"p\", \"children\": [{\"text\": \"\"}]}, {\"type\": \"h2\", \"children\": [{\"text\": \"This add-on was built by Starshipit.\"}], \"data-id\": \"this-add-on-was-built-by-starshipit\"}, {\"type\": \"p\", \"children\": [{\"type\": \"a\", \"url\": \"https://www.starshipit.com/partner/neto/\", \"children\": [{\"text\": \"Visit Add-On Website\"}]}]}, {\"type\": \"p\", \"children\": [{\"text\": \"For support with this add-on \"}, {\"type\": \"a\", \"url\": \"https://support.starshipit.com/hc/en-us/requests/new\", \"children\": [{\"text\": \"contact Starshipit\"}]}, {\"text\": \".\"}]}, {\"type\": \"p\", \"children\": [{\"text\": \"Starshipit simplifies and automates the process of fulfilling on and offline orders with labels, branded tracking, multiple carriers and more. Improve and streamline your customers' purchasing experience with accurate postage rates, auto correct and populate fields, delivery option selection and supports multiple carriers. Print labels (single or batch print) with full support for return labels direct to thermal or A4 printer.\"}]}, {\"type\": \"p\", \"children\": [{\"text\": \"With Starshipit you can:\"}]}, {\"type\": \"ul\", \"children\": [{\"type\": \"li\", \"children\": [{\"type\": \"lic\", \"children\": [{\"text\": \"Generate shipping labels.\"}]}]}, {\"type\": \"li\", \"children\": [{\"type\": \"lic\", \"children\": [{\"text\": \"Automatically send SMS & email notifications.\"}]}]}, {\"type\": \"li\", \"children\": [{\"type\": \"lic\", \"children\": [{\"text\": \"Display accurate postage rate calculations.\"}]}]}, {\"type\": \"li\", \"children\": [{\"type\": \"lic\", \"children\": [{\"text\": \"Automatically create packing slips, manifests & customs documentations.\"}]}]}, {\"type\": \"li\", \"children\": [{\"type\": \"lic\", \"children\": [{\"text\": \"Support multiple couriers.\"}]}]}, {\"type\": \"li\", \"children\": [{\"type\": \"lic\", \"children\": [{\"text\": \"Integrate with the couriers you already use.\"}]}]}, {\"type\": \"li\", \"children\": [{\"type\": \"lic\", \"children\": [{\"text\": \"Support multiple sales channels.\"}]}]}, {\"type\": \"li\", \"children\": [{\"type\": \"lic\", \"children\": [{\"text\": \"Automatically import orders & update tracking.\"}]}]}, {\"type\": \"li\", \"children\": [{\"type\": \"lic\", \"children\": [{\"text\": \"Autocorrect invalid addresses.\"}]}]}, {\"type\": \"li\", \"children\": [{\"type\": \"lic\", \"children\": [{\"text\": \"Automatically assign orders to couriers.\"}]}]}, {\"type\": \"li\", \"children\": [{\"type\": \"lic\", \"children\": [{\"text\": \"Support order-splitting, ship from store, & multi-location shipping.\"}]}]}, {\"type\": \"li\", \"children\": [{\"type\": \"lic\", \"children\": [{\"text\": \"Look up addresses & auto-populate fields.\"}]}]}, {\"type\": \"li\", \"children\": [{\"type\": \"lic\", \"children\": [{\"text\": \"Enable multiple delivery options.\"}]}]}, {\"type\": \"li\", \"children\": [{\"type\": \"lic\", \"children\": [{\"text\": \"Market to customers post-purchase.\"}]}]}, {\"type\": \"li\", \"children\": [{\"type\": \"lic\", \"children\": [{\"text\": \"Simplify the returns process.\"}]}]}]}, {\"type\": \"p\", \"children\": [{\"text\": \"\"}]}, {\"type\": \"p\", \"children\": [{\"text\": \"Please follow the instructions Starshipit have provided in their \"}, {\"type\": \"a\", \"url\": \"https://support.starshipit.com/hc/en-us/articles/212085063-Neto-Integration\", \"children\": [{\"text\": \"integration article\"}]}, {\"text\": \".\"}]}]",
+  "fixes_applied": {
+    "rebrand": 0,
+    "urls": {
+      "leaving_cleaned": 0,
+      "unsafe_removed": 0,
+      "s_article_mapped": 0,
+      "s_article_removed": 0,
+      "fragments_mapped": 0,
+      "fragments_stripped": 0,
+      "internal_fragments_fixed": 0,
+      "double_id_fixed": 0,
+      "kb_fragments_stripped": 0
+    },
+    "toc": 0,
+    "related": 0,
+    "lists": 0,
+    "headings": 0,
+    "reconverted": true
+  }
+}

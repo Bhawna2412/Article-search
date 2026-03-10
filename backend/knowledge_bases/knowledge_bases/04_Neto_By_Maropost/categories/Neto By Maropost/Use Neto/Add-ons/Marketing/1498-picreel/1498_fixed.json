@@ -1,0 +1,29 @@
+{
+  "articleID": 1498,
+  "name": "Picreel",
+  "slug": "1498-picreel",
+  "format": "rich2",
+  "locale": "en",
+  "body": "[{\"type\": \"p\", \"children\": [{\"text\": \"[Image: User-added image]\"}]}, {\"type\": \"h3\", \"children\": [{\"text\": \"This add-on was built by Picreel.\"}]}, {\"type\": \"p\", \"children\": [{\"type\": \"a\", \"url\": \"https://www.picreel.com/\", \"children\": [{\"text\": \"Visit Add-on Website!\"}]}]}, {\"type\": \"p\", \"children\": [{\"text\": \"For support with this add-on \"}, {\"type\": \"a\", \"url\": \"https://www.picreel.com/contact-us/\", \"children\": [{\"text\": \"contact Picreel\"}]}, {\"text\": \".\"}]}, {\"type\": \"h2\", \"children\": [{\"text\": \"Overview\"}], \"data-id\": \"overview\"}, {\"type\": \"p\", \"children\": [{\"text\": \"Picreel is a marketing tool that allows you to track visitor activity on a specific page on your website. By analysing the overall mouse velocity and movement on the site\\u2019s page, Picreel can detect when a visitor is about to leave your site. Once the visitor leaves, Picreel can trigger an event \\u2013 such as showing an ad banner or promotional feature to the user \\u2013 in order to engage the visitor with the website, and keep him/her on your site.\"}]}, {\"type\": \"h2\", \"children\": [{\"text\": \"Install and Set up Picreel\"}], \"data-id\": \"install-and-set-up-picreel\"}, {\"type\": \"p\", \"children\": [{\"text\": \"To set up Picreel for your Neto webstore:\"}]}, {\"type\": \"ol\", \"children\": [{\"type\": \"li\", \"children\": [{\"type\": \"lic\", \"children\": [{\"text\": \"Sign up to \"}, {\"type\": \"a\", \"url\": \"https://www.picreel.com/signup/\", \"children\": [{\"text\": \"Picreel\"}]}, {\"text\": \" and log in to your account.\"}]}]}, {\"type\": \"li\", \"children\": [{\"type\": \"lic\", \"children\": [{\"text\": \"Create your campaign using Picreel\\u2019s instructions. In the last step you will be given some code. Copy this text, so that it can be entered into Neto.\"}]}, {\"type\": \"p\", \"children\": [{\"text\": \"\"}]}]}, {\"type\": \"li\", \"children\": [{\"type\": \"lic\", \"children\": [{\"text\": \"In your Neto control panel click on the \"}, {\"text\": \"Addons\", \"bold\": true}, {\"text\": \" menu.\"}]}]}, {\"type\": \"li\", \"children\": [{\"type\": \"lic\", \"children\": [{\"text\": \"Find the Picreel add-on and click the \"}, {\"text\": \"Install\", \"bold\": true}, {\"text\": \" button.\"}]}]}, {\"type\": \"li\", \"children\": [{\"type\": \"lic\", \"children\": [{\"text\": \"Paste your code into the pop-up window and click the \"}, {\"text\": \"Install\", \"bold\": true}, {\"text\": \" button.\"}]}]}]}]",
+  "fixes_applied": {
+    "rebrand": 0,
+    "urls": {
+      "leaving_cleaned": 4,
+      "unsafe_removed": 0,
+      "s_article_mapped": 0,
+      "s_article_removed": 0,
+      "fragments_mapped": 0,
+      "fragments_stripped": 0,
+      "internal_fragments_fixed": 0,
+      "double_id_fixed": 0,
+      "kb_fragments_stripped": 0
+    },
+    "toc": 0,
+    "related": 0,
+    "lists": 5,
+    "headings": 1,
+    "reconverted": false
+  },
+  "_sf_cleanup_date": "2026-02-02T06:17:42.188121+00:00",
+  "_sf_removals": 1
+}

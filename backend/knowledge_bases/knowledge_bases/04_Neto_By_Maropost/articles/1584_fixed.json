@@ -1,0 +1,17 @@
+{
+  "articleID": 1584,
+  "knowledgeCategoryID": 136,
+  "sort": 1,
+  "name": "Charge GST on International Orders",
+  "body": "[{\"type\": \"p\", \"children\": [{\"text\": \"You can ensure tax compliance for international B2B orders by configuring country-specific tax zones that automatically apply or exclude GST based on customer shipping locations. This flexible tax configuration helps ensure accurate tax calculations across domestic and international orders, reducing compliance risk and eliminating manual tax adjustments during order processing.\"}]}, {\"type\": \"p\", \"children\": [{\"text\": \"Properly configured international tax settings typically improve order processing efficiency by automating tax calculations and helping ensure your business meets regional tax requirements. The ability to define default tax zones and international tax exemptions supports accurate financial reporting and reduces the administrative burden associated with managing multi-country tax obligations.\"}]}, {\"type\": \"p\", \"children\": [{\"text\": \"To change your tax settings:\"}]}, {\"type\": \"ol\", \"children\": [{\"type\": \"li\", \"children\": [{\"type\": \"lic\", \"children\": [{\"text\": \"In your Neto control panel navigate to \"}, {\"text\": \"Settings & Tools\", \"bold\": true}, {\"text\": \" > \"}, {\"text\": \"Currencies & Tax\", \"bold\": true}, {\"text\": \".\"}]}]}, {\"type\": \"li\", \"children\": [{\"type\": \"lic\", \"children\": [{\"text\": \"Under \"}, {\"text\": \"Countries included in default tax zone\", \"bold\": true}, {\"text\": \", press the Ctrl key to select multiple countries that you wish to include in your default tax rate.\"}]}]}, {\"type\": \"li\", \"children\": [{\"type\": \"lic\", \"children\": [{\"text\": \"You can also toggle the option: \"}, {\"text\": \"Internationally Shipped Orders Default to Tax Free\", \"bold\": true}, {\"text\": \".\"}]}]}]}, {\"type\": \"p\", \"children\": [{\"text\": \"\"}]}]",
+  "format": "rich2",
+  "featured": false,
+  "locale": "en",
+  "status": "published",
+  "foreignID": null,
+  "dateUpdated": "2025-12-11T04:37:01+00:00",
+  "_source_kb_id": 4,
+  "_source_kb_name": "Neto By Maropost",
+  "_sync_date": "2026-02-06T07:17:59.505079+00:00",
+  "_incremental_update": true
+}

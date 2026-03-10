@@ -1,0 +1,29 @@
+{
+  "articleID": 1614,
+  "name": "Add an API User Account",
+  "slug": "1614-add-an-api-user-account",
+  "format": "rich2",
+  "locale": "en",
+  "body": "[{\"type\": \"p\", \"children\": [{\"text\": \"To add an API user for a 3rd party developer:\"}]}, {\"type\": \"ol\", \"children\": [{\"type\": \"li\", \"children\": [{\"type\": \"lic\", \"children\": [{\"text\": \"In your Neto by Maropost control panel, navigate to \"}, {\"text\": \"Settings & tools\", \"bold\": true}, {\"text\": \" > \"}, {\"text\": \"Staff users\", \"bold\": true}, {\"text\": \".\"}]}]}, {\"type\": \"li\", \"children\": [{\"type\": \"lic\", \"children\": [{\"text\": \"Click the \"}, {\"text\": \"Add new staff user\", \"bold\": true}, {\"text\": \" button.\"}]}]}, {\"type\": \"li\", \"children\": [{\"type\": \"lic\", \"children\": [{\"text\": \"\"}]}, {\"type\": \"ul\", \"children\": [{\"type\": \"li\", \"children\": [{\"type\": \"lic\", \"children\": [{\"text\": \"Username\"}]}]}, {\"type\": \"li\", \"children\": [{\"type\": \"lic\", \"children\": [{\"text\": \"First Name\"}]}]}, {\"type\": \"li\", \"children\": [{\"type\": \"lic\", \"children\": [{\"text\": \"Last Name\"}]}]}, {\"type\": \"li\", \"children\": [{\"type\": \"lic\", \"children\": [{\"text\": \"Email address (cannot be the same as another staff user)\"}]}]}, {\"type\": \"li\", \"children\": [{\"type\": \"lic\", \"children\": [{\"text\": \"Password\"}]}]}]}, {\"type\": \"p\", \"children\": [{\"text\": \"Complete the required fields:\"}]}, {\"type\": \"p\", \"children\": [{\"text\": \"\"}]}]}, {\"type\": \"li\", \"children\": [{\"type\": \"lic\", \"children\": [{\"text\": \"Click the \"}, {\"text\": \"Regenerate\", \"bold\": true}, {\"text\": \" button to create an API key for this user.\"}]}]}, {\"type\": \"li\", \"children\": [{\"type\": \"lic\", \"children\": [{\"text\": \"In the \"}, {\"text\": \"User Permission Group\", \"bold\": true}, {\"text\": \" dropdown menu select \"}, {\"text\": \"API User\", \"bold\": true}, {\"text\": \".\"}]}, {\"type\": \"p\", \"children\": [{\"text\": \"Tip\"}]}, {\"type\": \"p\", \"children\": [{\"text\": \": You can also create a custom permission group by clicking on the\"}]}, {\"type\": \"p\", \"children\": [{\"text\": \"Add or Edit User Permission Groups\"}]}, {\"type\": \"p\", \"children\": [{\"text\": \"link. We recommend that you clone the API user group and then add or remove permissions.\"}]}, {\"type\": \"p\", \"children\": [{\"text\": \"\"}]}]}, {\"type\": \"li\", \"children\": [{\"type\": \"lic\", \"children\": [{\"text\": \"Click the \"}, {\"text\": \"Save\", \"bold\": true}, {\"text\": \" button.\"}]}]}, {\"type\": \"li\", \"children\": [{\"type\": \"lic\", \"children\": [{\"text\": \"\"}]}, {\"type\": \"ul\", \"children\": [{\"type\": \"li\", \"children\": [{\"type\": \"lic\", \"children\": [{\"text\": \"Username\"}]}]}, {\"type\": \"li\", \"children\": [{\"type\": \"lic\", \"children\": [{\"text\": \"API Key\"}]}]}, {\"type\": \"li\", \"children\": [{\"type\": \"lic\", \"children\": [{\"text\": \"API URL (\"}, {\"type\": \"a\", \"url\": \"https://www.yourdomain.com.au/do/WS/NetoAPI\", \"children\": [{\"text\": \"https://www.yourdomain.com.au/do/WS/NetoAPI\"}]}, {\"text\": \")\"}]}]}]}, {\"type\": \"p\", \"children\": [{\"text\": \"Provide your developer or third party the below information:\"}]}]}]}, {\"type\": \"p\", \"children\": [{\"text\": \"Your developer or 3rd party integration will now be able to connect to your control panel using these credentials.\"}]}, {\"type\": \"p\", \"children\": [{\"text\": \"Tip\", \"bold\": true}, {\"text\": \": To revoke access make the user account Inactive.\"}]}]",
+  "fixes_applied": {
+    "rebrand": 0,
+    "urls": {
+      "leaving_cleaned": 3,
+      "unsafe_removed": 0,
+      "s_article_mapped": 0,
+      "s_article_removed": 0,
+      "fragments_mapped": 0,
+      "fragments_stripped": 0,
+      "internal_fragments_fixed": 0,
+      "double_id_fixed": 0,
+      "kb_fragments_stripped": 0
+    },
+    "toc": 0,
+    "related": 0,
+    "lists": 5,
+    "headings": 0,
+    "reconverted": false
+  },
+  "_sf_cleanup_date": "2026-02-02T06:17:42.970587+00:00",
+  "_sf_removals": 2
+}

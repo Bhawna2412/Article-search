@@ -1,0 +1,27 @@
+{
+  "articleID": 1541,
+  "name": "Consign Stock to a Re-seller",
+  "slug": "1541-consign-stock-to-a-re-seller",
+  "format": "rich2",
+  "locale": "en",
+  "body": "[{\"type\": \"p\", \"children\": [{\"text\": \"Consigning stock to a re-seller is not supported in Neto by Maropost, but can be achieved by following a specific workflow.\"}]}, {\"type\": \"p\", \"children\": [{\"text\": \"Warning\", \"bold\": true}, {\"text\": \": Recording consigned stock in a separate warehouse is not recommended as the stock will still be available for purchase through all sales channels.\"}]}, {\"type\": \"p\", \"children\": [{\"text\": \"In this article we refer to two parties, the consignor (you) and the consignee (your re-seller).\"}]}, {\"type\": \"ul\", \"children\": [{\"type\": \"li\", \"children\": [{\"type\": \"lic\", \"children\": [{\"text\": \"Consignor\", \"bold\": true}, {\"text\": \": The party who delivers goods that they own to a re-seller, to hold and sell them on the the consignor\\u2019s behalf.\"}]}]}, {\"type\": \"li\", \"children\": [{\"type\": \"lic\", \"children\": [{\"text\": \"Consignee\", \"bold\": true}, {\"text\": \": The recipient of the goods who sells them on behalf of the consignor.\"}]}]}]}, {\"type\": \"p\", \"children\": [{\"text\": \"Tip\", \"bold\": true}, {\"text\": \": Start with a small amount of stock to ensure the process works for you, before increasing how much stock you consign.\"}]}, {\"type\": \"h2\", \"children\": [{\"text\": \"Allocate Stock to your Consignee\"}], \"data-id\": \"1\"}, {\"type\": \"p\", \"children\": [{\"type\": \"a\", \"url\": \"https://galaxy.maropost.com/kb/articles/1591-add-a-sales-order\", \"children\": [{\"text\": \"Add a sales order\"}]}, {\"text\": \" for the company you will consign stock to. Add the product lines that will be sent to them and the correct quantities. Leave the order in the \"}, {\"text\": \"On Hold\", \"bold\": true}, {\"text\": \" status.\"}]}, {\"type\": \"p\", \"children\": [{\"text\": \"Tip\", \"bold\": true}, {\"text\": \": Add a note to the order explaining that it is consigned stock, and that the order should not be processed.\"}]}, {\"type\": \"p\", \"children\": [{\"text\": \"By leaving the order on hold, stock is committed and not available for sale on your webstore, POS, or other sales channels. From an accounting perspective, the stock remains owned by the consignor as well.\"}]}, {\"type\": \"h2\", \"children\": [{\"text\": \"When the Consignee Reports Sales\"}], \"data-id\": \"2\"}, {\"type\": \"p\", \"children\": [{\"text\": \"When the re-seller you\\u2019ve consigned stock to makes a sale there are two important steps you must perform:\"}]}, {\"type\": \"ol\", \"children\": [{\"type\": \"li\", \"children\": [{\"type\": \"lic\", \"children\": [{\"type\": \"a\", \"url\": \"https://galaxy.maropost.com/kb/articles/1591-add-a-sales-order\", \"children\": [{\"text\": \"Add a sales order\"}]}, {\"text\": \" for product lines and quantities that were sold by the consignee. \"}, {\"text\": \"Process this sales order\"}, {\"text\": \" fully.\"}]}]}, {\"type\": \"li\", \"children\": [{\"type\": \"lic\", \"children\": [{\"text\": \"Edit the on hold order and deduct the stock sold by the consignee.\"}]}, {\"type\": \"p\", \"children\": [{\"text\": \"This ensures that the consignee is billed correctly for the stock sold, and you keep an accurate record of the amount of stock they\\u2019re holding for accounting purposes.\"}]}]}, {\"type\": \"li\", \"children\": [{\"type\": \"lic\", \"children\": [{\"text\": \"Once all stock is sold, \"}, {\"type\": \"a\", \"url\": \"https://galaxy.maropost.com/kb/articles/1446-cancel-or-delete-a-sales-order\", \"children\": [{\"text\": \"cancel the on hold order\"}]}, {\"text\": \".\"}]}]}]}, {\"type\": \"h2\", \"children\": [{\"text\": \"Damaged Stock\"}], \"data-id\": \"3\"}, {\"type\": \"p\", \"children\": [{\"text\": \"If your consignee reports that stock has been damaged you need to:\"}]}, {\"type\": \"ol\", \"children\": [{\"type\": \"li\", \"children\": [{\"type\": \"lic\", \"children\": [{\"type\": \"a\", \"url\": \"https://galaxy.maropost.com/kb/articles/1591-add-a-sales-order\", \"children\": [{\"text\": \"Add a sales order\"}]}, {\"text\": \" for the product lines and stock amounts damaged, in the consignee\\u2019s name.\"}]}]}, {\"type\": \"li\", \"children\": [{\"type\": \"lic\", \"children\": [{\"text\": \"Process this order\"}, {\"text\": \" completely to dispatched.\"}]}]}, {\"type\": \"li\", \"children\": [{\"type\": \"lic\", \"children\": [{\"text\": \"Create an\\u00a0RMA\"}, {\"text\": \" on the sales order and process it.\"}]}]}]}, {\"type\": \"p\", \"children\": [{\"text\": \"This ensures your inventory is accounted for correctly in your stock management system and reporting.\"}]}]",
+  "fixes_applied": {
+    "rebrand": 0,
+    "urls": {
+      "leaving_cleaned": 2,
+      "unsafe_removed": 0,
+      "s_article_mapped": 4,
+      "s_article_removed": 3,
+      "fragments_mapped": 0,
+      "fragments_stripped": 0,
+      "internal_fragments_fixed": 0,
+      "double_id_fixed": 0,
+      "kb_fragments_stripped": 0
+    },
+    "toc": 0,
+    "related": 0,
+    "lists": 6,
+    "headings": 1,
+    "reconverted": false
+  }
+}

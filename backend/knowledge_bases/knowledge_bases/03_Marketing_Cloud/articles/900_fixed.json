@@ -1,0 +1,16 @@
+{
+  "articleID": 900,
+  "knowledgeCategoryID": 264,
+  "sort": 0,
+  "name": "Tags in Content: Overview",
+  "body": "[{\"type\": \"p\", \"children\": [{\"text\": \"You can use various content tags to create dynamic, personalized email experiences that enhance subscriber engagement and improve campaign effectiveness. These tags help streamline campaign production by automatically inserting relevant contact information, campaign data, and dynamic content elements throughout your email templates.\"}]}, {\"type\": \"p\", \"children\": [{\"text\": \"Content tags enable you to maintain brand consistency while delivering personalized messaging at scale. When properly configured, dynamic tags significantly improve your marketing effectiveness by automatically customizing content for each recipient, helping optimize engagement rates and creating more relevant subscriber experiences.\"}]}, {\"type\": \"p\", \"children\": [{\"text\": \"There are various tags supported within the content editors that can be used in the content, in a hyperlink URL, and in the subject line of a campaign.\"}, {\"text\": \"\\n\"}, {\"text\": \"\\n\"}, {\"text\": \"\\n\"}, {\"text\": \"You can learn more about these tags by clicking the following links:\"}]}, {\"type\": \"ul\", \"children\": [{\"type\": \"li\", \"children\": [{\"type\": \"lic\", \"children\": [{\"text\": \"Campaign Tags\"}]}]}, {\"type\": \"li\", \"children\": [{\"type\": \"lic\", \"children\": [{\"text\": \"Contact Tags\"}]}]}, {\"type\": \"li\", \"children\": [{\"type\": \"lic\", \"children\": [{\"text\": \"Other Tags\"}]}]}, {\"type\": \"li\", \"children\": [{\"type\": \"lic\", \"children\": [{\"text\": \"Dynamic Tags\"}]}]}, {\"type\": \"li\", \"children\": [{\"type\": \"lic\", \"children\": [{\"text\": \"Table Tags\"}]}]}, {\"type\": \"li\", \"children\": [{\"type\": \"lic\", \"children\": [{\"text\": \"Web Funnel Tags\"}]}]}, {\"type\": \"li\", \"children\": [{\"type\": \"lic\", \"children\": [{\"text\": \"Coupon Tags\"}]}]}]}, {\"type\": \"p\", \"children\": [{\"text\": \"\"}]}]",
+  "format": "rich2",
+  "featured": false,
+  "locale": "en",
+  "status": "published",
+  "foreignID": null,
+  "dateUpdated": "2026-02-06T07:28:48+00:00",
+  "_source_kb_id": 3,
+  "_source_kb_name": "Marketing Cloud",
+  "_sync_date": "2026-02-06T07:33:06.743596+00:00"
+}

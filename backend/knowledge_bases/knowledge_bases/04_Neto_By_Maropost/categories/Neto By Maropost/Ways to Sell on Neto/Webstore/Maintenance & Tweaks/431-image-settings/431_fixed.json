@@ -1,0 +1,27 @@
+{
+  "articleID": 431,
+  "name": "Image Settings",
+  "slug": "431-image-settings",
+  "format": "rich2",
+  "locale": "en",
+  "body": "[{\"type\": \"p\", \"children\": [{\"text\": \"Neto by Maropost creates multiple versions of each product image you upload. This includes one main image and two thumbnail images (for product lists, searches, etc).\"}]}, {\"type\": \"p\", \"children\": [{\"text\": \"Product images can be any dimensions but must be no larger than 2 MB in size to be uploaded. Neto then automatically converts images into WebP format, resizes images, and compresses images based on the settings you define.\"}]}, {\"type\": \"p\", \"children\": [{\"text\": \"\"}]}, {\"type\": \"h2\", \"children\": [{\"text\": \"Change Image Settings\"}], \"data-id\": \"change-image-settings\"}, {\"type\": \"p\", \"children\": [{\"text\": \"To reduce website load times, it's recommended to keep your images as small as possible. To alter the resize settings and more:\"}]}, {\"type\": \"ol\", \"children\": [{\"type\": \"li\", \"children\": [{\"type\": \"lic\", \"children\": [{\"text\": \"In your Neto control panel, navigate to \"}, {\"text\": \"Settings & tools\", \"bold\": true}, {\"text\": \" > \"}, {\"text\": \"All Settings & tools\", \"bold\": true}, {\"text\": \".\"}]}]}, {\"type\": \"li\", \"children\": [{\"type\": \"lic\", \"children\": [{\"text\": \"Click the \"}, {\"text\": \"Web Store \", \"bold\": true}, {\"text\": \"link. The \"}, {\"text\": \"Settings & tools\", \"bold\": true}, {\"text\": \" page will scroll to the \"}, {\"text\": \"Web Store \", \"bold\": true}, {\"text\": \"section.\"}]}]}, {\"type\": \"li\", \"children\": [{\"type\": \"lic\", \"children\": [{\"text\": \"\"}]}, {\"type\": \"ul\", \"children\": [{\"type\": \"li\", \"children\": [{\"type\": \"lic\", \"children\": [{\"text\": \"Convert to WebP image format\"}]}]}, {\"type\": \"li\", \"children\": [{\"type\": \"lic\", \"children\": [{\"text\": \"Image dimensions for full, thumbs, RMA, customers and store finder.\"}]}]}, {\"type\": \"li\", \"children\": [{\"type\": \"lic\", \"children\": [{\"text\": \"Number of images that display per product.\"}]}]}, {\"type\": \"li\", \"children\": [{\"type\": \"lic\", \"children\": [{\"text\": \"Thumb image quality.\"}]}]}, {\"type\": \"li\", \"children\": [{\"type\": \"lic\", \"children\": [{\"text\": \"Number of alternate images for content pages.\"}]}]}]}, {\"type\": \"p\", \"children\": [{\"text\": \"Click the \"}, {\"text\": \"Image Settings\", \"bold\": true}, {\"text\": \" link.\"}]}, {\"type\": \"rich_embed_card\", \"dataSourceType\": \"image\", \"url\": \"https://us.v-cdn.net/6038474/uploads/attachments/migrated/image.05TJ100000Q0iRtMAJ.jpg\", \"embedData\": {\"url\": \"https://us.v-cdn.net/6038474/uploads/attachments/migrated/image.05TJ100000Q0iRtMAJ.jpg\", \"embedType\": \"image\", \"displaySize\": \"large\", \"float\": \"none\", \"name\": \"ImageSettings.png\", \"width\": 701, \"height\": 519}, \"children\": [{\"text\": \"\"}]}, {\"type\": \"p\", \"children\": [{\"text\": \"On the \"}, {\"text\": \"Image Settings\", \"bold\": true}, {\"text\": \" page, you can change:\"}]}, {\"type\": \"callout\", \"children\": [{\"type\": \"callout-item\", \"children\": [{\"text\": \"These settings are not applied retroactively to your images. If you need to make changes to existing images, refer to instructions on \"}, {\"type\": \"a\", \"url\": \"https://galaxy.maropost.com/kb/articles/1554-add-images-to-products#add-images-by-importing-urls\", \"children\": [{\"text\": \"reprocessing images\"}]}, {\"text\": \".\"}]}], \"appearance\": \"info\"}, {\"type\": \"p\", \"children\": [{\"text\": \"\"}]}]}, {\"type\": \"li\", \"children\": [{\"type\": \"lic\", \"children\": [{\"text\": \"Make any changes and click the \"}, {\"text\": \"Save Changes\", \"bold\": true}, {\"text\": \" button.\"}]}]}]}]",
+  "fixes_applied": {
+    "rebrand": 0,
+    "urls": {
+      "leaving_cleaned": 0,
+      "unsafe_removed": 0,
+      "s_article_mapped": 1,
+      "s_article_removed": 0,
+      "fragments_mapped": 1,
+      "fragments_stripped": 0,
+      "internal_fragments_fixed": 0,
+      "double_id_fixed": 0,
+      "kb_fragments_stripped": 0
+    },
+    "toc": 0,
+    "related": 0,
+    "lists": 3,
+    "headings": 0,
+    "reconverted": true
+  }
+}

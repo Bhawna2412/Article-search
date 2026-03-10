@@ -1,0 +1,27 @@
+{
+  "articleID": 1659,
+  "name": "Course: eBay Sales Channel",
+  "slug": "1659-course-ebay-sales-channel",
+  "format": "rich2",
+  "locale": "en",
+  "body": "[{\"type\": \"table\", \"children\": [{\"type\": \"tr\", \"children\": [{\"type\": \"th\", \"children\": [{\"type\": \"p\", \"children\": [{\"text\": \"Lessons\"}]}]}, {\"type\": \"th\", \"children\": [{\"type\": \"p\", \"children\": [{\"text\": \"Length\"}]}]}]}, {\"type\": \"tr\", \"children\": [{\"type\": \"td\", \"children\": [{\"type\": \"p\", \"children\": [{\"type\": \"a\", \"url\": \"https://training.maropost.com/set-up-your-store/ebay/before you connect/content/index.html\", \"children\": [{\"text\": \"Before you Connect\"}]}]}]}, {\"type\": \"td\", \"children\": [{\"type\": \"p\", \"children\": [{\"text\": \"20 mins\"}]}]}]}, {\"type\": \"tr\", \"children\": [{\"type\": \"td\", \"children\": [{\"type\": \"p\", \"children\": [{\"type\": \"a\", \"url\": \"https://training.maropost.com/set-up-your-store/ebay/connect and import/content/index.html\", \"children\": [{\"text\": \"Connect and Import\"}]}]}]}, {\"type\": \"td\", \"children\": [{\"type\": \"p\", \"children\": [{\"text\": \"25 mins\"}]}]}]}, {\"type\": \"tr\", \"children\": [{\"type\": \"td\", \"children\": [{\"type\": \"p\", \"children\": [{\"type\": \"a\", \"url\": \"https://training.maropost.com/set-up-your-store/ebay/design templates/content/index.html\", \"children\": [{\"text\": \"Listing Design Templates\"}]}]}]}, {\"type\": \"td\", \"children\": [{\"type\": \"p\", \"children\": [{\"text\": \"3 mins\"}]}]}]}, {\"type\": \"tr\", \"children\": [{\"type\": \"td\", \"children\": [{\"type\": \"p\", \"children\": [{\"type\": \"a\", \"url\": \"https://training.maropost.com/set-up-your-store/ebay/migrate design/content/index.html\", \"children\": [{\"text\": \"Migrate Design\"}]}]}]}, {\"type\": \"td\", \"children\": [{\"type\": \"p\", \"children\": [{\"text\": \"10 mins\"}]}]}]}, {\"type\": \"tr\", \"children\": [{\"type\": \"td\", \"children\": [{\"type\": \"p\", \"children\": [{\"type\": \"a\", \"url\": \"https://training.maropost.com/set-up-your-store/ebay/category mapping/content/index.html\", \"children\": [{\"text\": \"Mapping\"}]}]}]}, {\"type\": \"td\", \"children\": [{\"type\": \"p\", \"children\": [{\"text\": \"25 mins\"}]}]}]}, {\"type\": \"tr\", \"children\": [{\"type\": \"td\", \"children\": [{\"type\": \"p\", \"children\": [{\"type\": \"a\", \"url\": \"https://training.maropost.com/set-up-your-store/ebay/listing rules templates/content/index.html\", \"children\": [{\"text\": \"Listing Rules Templates\"}]}]}]}, {\"type\": \"td\", \"children\": [{\"type\": \"p\", \"children\": [{\"text\": \"45 mins\"}]}]}]}, {\"type\": \"tr\", \"children\": [{\"type\": \"td\", \"children\": [{\"type\": \"p\", \"children\": [{\"type\": \"a\", \"url\": \"https://training.maropost.com/set-up-your-store/ebay/update existing listings/content/index.html\", \"children\": [{\"text\": \"Update Existing Listings\"}]}]}]}, {\"type\": \"td\", \"children\": [{\"type\": \"p\", \"children\": [{\"text\": \"5 mins\"}]}]}]}, {\"type\": \"tr\", \"children\": [{\"type\": \"td\", \"children\": [{\"type\": \"p\", \"children\": [{\"type\": \"a\", \"url\": \"https://training.maropost.com/set-up-your-store/ebay/list on ebay/content/index.html\", \"children\": [{\"text\": \"List on eBay\"}]}]}]}, {\"type\": \"td\", \"children\": [{\"type\": \"p\", \"children\": [{\"text\": \"20 mins\"}]}]}]}], \"id\": \"rich-table-68742477\"}]",
+  "fixes_applied": {
+    "rebrand": 0,
+    "urls": {
+      "leaving_cleaned": 0,
+      "unsafe_removed": 0,
+      "s_article_mapped": 0,
+      "s_article_removed": 0,
+      "fragments_mapped": 0,
+      "fragments_stripped": 0,
+      "internal_fragments_fixed": 0,
+      "double_id_fixed": 0,
+      "kb_fragments_stripped": 0
+    },
+    "toc": 0,
+    "related": 0,
+    "lists": 0,
+    "headings": 0,
+    "reconverted": true
+  }
+}

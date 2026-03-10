@@ -1,0 +1,27 @@
+{
+  "articleID": 1475,
+  "name": "Keesubscriptions",
+  "slug": "1475-keesubscriptions",
+  "format": "rich2",
+  "locale": "en",
+  "body": "[{\"type\": \"p\", \"children\": [{\"text\": \"[Image: User-added image]\"}]}, {\"type\": \"h3\", \"children\": [{\"text\": \"This add-on was built by Keetrax.\"}]}, {\"type\": \"p\", \"children\": [{\"type\": \"a\", \"url\": \"https://keesubscriptions.com/\", \"children\": [{\"text\": \"Visit Add-on Website!\"}]}]}, {\"type\": \"p\", \"children\": [{\"text\": \"For support with this add-on \"}, {\"type\": \"a\", \"url\": \"https://keesubscriptions.com/support/\", \"children\": [{\"text\": \"contact Keetrax\"}]}, {\"text\": \".\"}]}, {\"type\": \"h2\", \"children\": [{\"text\": \"Overview\"}], \"data-id\": \"overview\"}, {\"type\": \"p\", \"children\": [{\"text\": \"Keesubscriptions makes selling subscription products on any Neto webstore easy:\"}]}, {\"type\": \"ul\", \"children\": [{\"type\": \"li\", \"children\": [{\"type\": \"lic\", \"children\": [{\"text\": \"Recurring products - Transform existing one-time products into subscription options easily. Give your customers auto-delivery options for the products they love.\"}]}]}, {\"type\": \"li\", \"children\": [{\"type\": \"lic\", \"children\": [{\"text\": \"Subscription boxes - Sell monthly surprise boxes, veggie boxes or replenishments right from your Neto control panel.\"}]}]}, {\"type\": \"li\", \"children\": [{\"type\": \"lic\", \"children\": [{\"text\": \"Subscribe and save - Quickly add the option to subscribe and save to your product page. Offer a discount to customers who receive your product on a recurring schedule.\"}]}]}, {\"type\": \"li\", \"children\": [{\"type\": \"lic\", \"children\": [{\"text\": \"Sell and manage repeat orders all within Neto! At last, your subscription orders are together in one place and easier than ever to manage. Seamless integration with Neto means order management is a piece of cake.\"}]}]}, {\"type\": \"li\", \"children\": [{\"type\": \"lic\", \"children\": [{\"text\": \"Simple to use. Get up and running with Keesubscriptions in minutes with absolutely no strings attached. Transform one-time products into subscription products.\"}]}]}]}, {\"type\": \"h2\", \"children\": [{\"text\": \"Install and set up Keesubscriptions\"}], \"data-id\": \"install-and-set-up-add-on-name\"}, {\"type\": \"p\", \"children\": [{\"text\": \"To set up Keesubscriptions please see the installation instructions on the \"}, {\"type\": \"a\", \"url\": \"https://keesubscriptions.com/install-instructions/\", \"children\": [{\"text\": \"Keesubscriptions website\"}]}, {\"text\": \".\"}]}]",
+  "fixes_applied": {
+    "rebrand": 0,
+    "urls": {
+      "leaving_cleaned": 3,
+      "unsafe_removed": 0,
+      "s_article_mapped": 0,
+      "s_article_removed": 0,
+      "fragments_mapped": 0,
+      "fragments_stripped": 0,
+      "internal_fragments_fixed": 0,
+      "double_id_fixed": 0,
+      "kb_fragments_stripped": 0
+    },
+    "toc": 0,
+    "related": 0,
+    "lists": 0,
+    "headings": 1,
+    "reconverted": false
+  }
+}

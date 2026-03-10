@@ -1,0 +1,16 @@
+{
+  "articleID": 1645,
+  "knowledgeCategoryID": 1,
+  "sort": 63,
+  "name": "Grant Access To a Client For A Webstore You've Created",
+  "body": "<p>When you create a webstore from <a rel=\"nofollow\" href=\"http://galaxy.maropost.com/home/leaving?allowTrusted=1&amp;target=https%3A%2F%2Fwww.netohq.com%2Fsupport%2Fs%2Farticle%2FUnderstand-the-Partner-Tools-Home-page\">within the Partner Tools Home page</a>, your clients do not get access to the webstore by default.<br/><br/>During the trial or at the point of transferring ownership, you can add a client to the webstore by adding a staff user with administrator access.</p>\n<h4 data-id=\"to-add-a-staff-user\">To add a staff user:</h4>\n<ol><li><a rel=\"nofollow\" href=\"/articles/Knowledge/Create-A-Store-On-Behalf-Of-A-Client\">Create A Maropost Commerce Store On Behalf Of A Client</a>.</li><li>Refer to the instructions for <a rel=\"nofollow\" href=\"http://galaxy.maropost.com/home/leaving?allowTrusted=1&amp;target=https%3A%2F%2Fwww.netohq.com%2Fsupport%2Fs%2Farticle%2FDoes-each-staff-member-have-their-own-account-and-dashboard\">Adding a User account here</a>.</li></ol>",
+  "format": "html",
+  "featured": false,
+  "locale": "en",
+  "status": "published",
+  "foreignID": null,
+  "dateUpdated": "2022-02-02T06:57:30+00:00",
+  "_source_kb_id": 1,
+  "_source_kb_name": "Help Articles",
+  "_sync_date": "2026-02-02T05:48:56.834286+00:00"
+}

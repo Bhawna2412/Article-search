@@ -1,0 +1,18 @@
+{
+  "articleID": 1441,
+  "name": "Video: Xero Accounting Integration",
+  "format": "rich2",
+  "locale": "en",
+  "body": "[{\"type\": \"rich_embed_card\", \"children\": [{\"text\": \"\"}], \"dataSourceType\": \"url\", \"url\": \"https://youtu.be/vyzYs2Lrjb8\", \"embedData\": {\"height\": 315, \"width\": 560, \"photoUrl\": \"https://i.ytimg.com/vi/vyzYs2Lrjb8/hqdefault.jpg\", \"videoID\": \"vyzYs2Lrjb8\", \"showRelated\": false, \"start\": 0, \"url\": \"https://youtu.be/vyzYs2Lrjb8\", \"embedType\": \"youtube\", \"name\": \"\", \"frameSrc\": \"https://www.youtube.com/embed/vyzYs2Lrjb8?feature=oembed&autoplay=1\"}}]",
+  "knowledgeCategoryID": 287,
+  "sort": 0,
+  "status": "published",
+  "_source_kb_id": 4,
+  "_source_kb_name": "Neto By Maropost",
+  "_fix_date": "2026-02-06T07:29:55.176161+00:00",
+  "_patch_type": "duplicate_intro_and_related_articles",
+  "fixes_applied": {
+    "duplicate_intros": 1,
+    "related_articles": 0
+  }
+}

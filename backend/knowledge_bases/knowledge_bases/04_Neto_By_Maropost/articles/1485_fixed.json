@@ -1,0 +1,17 @@
+{
+  "articleID": 1485,
+  "knowledgeCategoryID": 25,
+  "sort": 5,
+  "name": "Visual Website Optimizer",
+  "body": "[{\"type\": \"rich_embed_card\", \"dataSourceType\": \"image\", \"url\": \"https://www.neto.com.au/assets/thumb/APP-54.png\", \"embedData\": {\"url\": \"https://www.neto.com.au/assets/thumb/APP-54.png\", \"embedType\": \"image\", \"displaySize\": \"large\", \"float\": \"none\"}, \"children\": [{\"text\": \"\"}]}, {\"type\": \"h3\", \"children\": [{\"text\": \"This add-on was built by VWO.\"}]}, {\"type\": \"p\", \"children\": [{\"text\": \"Visit Add-On Website\"}]}, {\"type\": \"p\", \"children\": [{\"text\": \"For support with this add-on \"}, {\"type\": \"a\", \"url\": \"https://vwo.com/contact-us/\", \"children\": [{\"text\": \"contact VWO\"}]}, {\"text\": \".\"}]}, {\"type\": \"h2\", \"children\": [{\"text\": \"Set up the Visual Website Optimizer Add-on\"}]}, {\"type\": \"ol\", \"children\": [{\"type\": \"li\", \"children\": [{\"type\": \"lic\", \"children\": [{\"text\": \"Create a campaign in \"}, {\"type\": \"a\", \"url\": \"https://vwo.com/\", \"children\": [{\"text\": \"Visual Website Optimizer\"}]}, {\"text\": \" and copy the smart code generated.\"}]}]}, {\"type\": \"li\", \"children\": [{\"type\": \"lic\", \"children\": [{\"text\": \"In your Neto by Maropost control panel select \"}, {\"text\": \"Addons\", \"bold\": true}, {\"text\": \" in the menu.\"}]}]}, {\"type\": \"li\", \"children\": [{\"type\": \"lic\", \"children\": [{\"text\": \"Locate the Visual Website Optimizer add-on and click the \"}, {\"text\": \"Install\", \"bold\": true}, {\"text\": \" button.\"}]}]}, {\"type\": \"li\", \"children\": [{\"type\": \"lic\", \"children\": [{\"text\": \"Paste the code into the add-on and click the \"}, {\"text\": \"Save\", \"bold\": true}, {\"text\": \" button.\"}]}]}]}]",
+  "format": "rich2",
+  "featured": false,
+  "locale": "en",
+  "status": "published",
+  "foreignID": null,
+  "dateUpdated": "2025-12-11T04:36:11+00:00",
+  "_source_kb_id": 4,
+  "_source_kb_name": "Neto By Maropost",
+  "_sync_date": "2026-02-06T07:18:25.546378+00:00",
+  "_incremental_update": true
+}

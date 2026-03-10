@@ -1,0 +1,29 @@
+{
+  "articleID": 1483,
+  "name": "Managed Checkout",
+  "slug": "1483-managed-checkout",
+  "format": "rich2",
+  "locale": "en",
+  "body": "[{\"type\": \"p\", \"children\": [{\"text\": \"Managed Checkout is designed with responsiveness in mind, helping you capture more sales, allowing you to focus on running your business and less time chasing abandoned carts. By using Neto's managed checkout, any updates will be applied automatically keeping you using the latest technology and security features.\"}]}, {\"type\": \"p\", \"children\": [{\"text\": \"Please Note\", \"bold\": true}, {\"text\": \": The design of your Managed checkout is separate to the rest of your Neto website. Customising managed checkout is not available outside of the available settings.\"}]}, {\"type\": \"p\", \"children\": [{\"text\": \"Managed Checkout is a standard feature for customers who created an account after September 2016. If you're an existing Neto customer using Neto version 6.4 and onward, you can choose to make \"}, {\"text\": \"Managed Checkout\", \"bold\": true}, {\"text\": \" the default checkout on your web store.\"}]}, {\"type\": \"p\", \"children\": [{\"text\": \"\"}]}, {\"type\": \"h2\", \"children\": [{\"text\": \"Turn on Managed Checkout\"}], \"data-id\": \"enabling-managed-checkout\"}, {\"type\": \"p\", \"children\": [{\"text\": \"Before you turn on managed checkout it's important to check if you have any existing customisations on your checkout page. Customisations will be lost if you enable managed checkout without consultation from our design specialists.\"}]}, {\"type\": \"p\", \"children\": [{\"text\": \"To verify if managed checkout is already enabled, or if you can turn it on, please follow the steps below.\"}]}, {\"type\": \"p\", \"children\": [{\"text\": \"\"}]}, {\"type\": \"h3\", \"children\": [{\"text\": \"Visual check\"}], \"data-id\": \"1-visual-check\"}, {\"type\": \"p\", \"children\": [{\"text\": \"One way to confirm if managed checkout is enabled is to compare the legacy checkout page to our \"}, {\"type\": \"a\", \"url\": \"https://inspirationtheme.neto.com.au/_mycart?ts=1497844939174507&fn=payment&sku=173\", \"children\": [{\"text\": \"managed checkout\"}]}, {\"text\": \" page.\"}]}, {\"type\": \"p\", \"children\": [{\"text\": \"Legacy Checkout\", \"bold\": true}, {\"text\": \"\\n\"}, {\"text\": \"- Under the title \"}, {\"text\": \"Secure Checkout\", \"bold\": true}, {\"text\": \" it will have the \"}, {\"text\": \"Returning Customer\", \"bold\": true}, {\"text\": \" alert section.\"}, {\"text\": \"\\n\"}, {\"text\": \"- In Step 3 (\"}, {\"text\": \"Payment Details\", \"bold\": true}, {\"text\": \") it will have the payment methods as buttons and also a dropdown selection.\"}]}, {\"type\": \"p\", \"children\": [{\"text\": \"Managed Checkout\", \"bold\": true}, {\"text\": \"\\n\"}, {\"text\": \"- Under the \"}, {\"text\": \"Secure Checkout\", \"bold\": true}, {\"text\": \" title, it will have three columns; \"}, {\"text\": \"Returning Customers\", \"bold\": true}, {\"text\": \",\"}, {\"text\": \"* Checkout With Payment*\", \"italic\": true}, {\"text\": \", or \"}, {\"text\": \"Proceed To Checkout\", \"bold\": true}, {\"text\": \", with available payment methods.\"}, {\"text\": \"\\n\"}, {\"text\": \"- In step 3 (\"}, {\"text\": \"Payment Details\", \"bold\": true}, {\"text\": \"), it will have the payment methods as radio buttons and display the payment method's description when you select a method.\"}]}, {\"type\": \"p\", \"children\": [{\"text\": \"\"}]}, {\"type\": \"h3\", \"children\": [{\"text\": \"Control Panel Settings\"}], \"data-id\": \"2-control-panel-settings\"}, {\"type\": \"p\", \"children\": [{\"text\": \"If you're still not sure if managed checkout is enabled, you can also check by logging into your Neto control panel to check the settings.\"}]}, {\"type\": \"p\", \"children\": [{\"text\": \"In your Neto control panel navigate to \"}, {\"text\": \"Settings & Tools\", \"bold\": true}, {\"text\": \" > \"}, {\"text\": \"Payment Methods\", \"bold\": true}, {\"text\": \".\"}]}, {\"type\": \"p\", \"children\": [{\"text\": \"If you don't have the button that says \"}, {\"text\": \"Enable New Methods\", \"bold\": true}, {\"text\": \" then you're already using managed checkout, and your account is ready for the newer payment methods to be set up.\"}]}, {\"type\": \"p\", \"children\": [{\"text\": \"If you do see the button that says \"}, {\"text\": \"Enable New Methods\", \"bold\": true}, {\"text\": \" then you do not have managed checkout enabled.\"}]}, {\"type\": \"p\", \"children\": [{\"text\": \"\"}]}]",
+  "fixes_applied": {
+    "rebrand": 6,
+    "urls": {
+      "leaving_cleaned": 0,
+      "unsafe_removed": 0,
+      "s_article_mapped": 2,
+      "s_article_removed": 1,
+      "fragments_mapped": 0,
+      "fragments_stripped": 0,
+      "internal_fragments_fixed": 0,
+      "double_id_fixed": 0,
+      "kb_fragments_stripped": 0
+    },
+    "toc": 0,
+    "related": 1,
+    "lists": 0,
+    "headings": 1,
+    "reconverted": false
+  },
+  "_sf_cleanup_date": "2026-02-02T06:17:42.114612+00:00",
+  "_sf_removals": 1
+}

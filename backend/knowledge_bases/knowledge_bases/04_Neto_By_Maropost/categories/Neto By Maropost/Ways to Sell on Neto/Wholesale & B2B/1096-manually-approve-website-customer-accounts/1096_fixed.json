@@ -1,0 +1,27 @@
+{
+  "articleID": 1096,
+  "name": "Manually Approve Website Customer Accounts",
+  "slug": "1096-manually-approve-website-customer-accounts",
+  "format": "rich2",
+  "locale": "en",
+  "body": "[{\"type\": \"p\", \"children\": [{\"text\": \"Neto\\u00a0automatically approves new customer account registrations. You can change this setting for \"}, {\"text\": \"Retail\", \"bold\": true}, {\"text\": \" and \"}, {\"text\": \"Wholesale\", \"bold\": true}, {\"text\": \" customers, allowing staff to manually to verify every registration before they can order from the webstore.\"}]}, {\"type\": \"ol\", \"children\": [{\"type\": \"li\", \"children\": [{\"type\": \"lic\", \"children\": [{\"text\": \"In your\\u00a0Neto control panel navigate to \"}, {\"text\": \"Settings & Tools\", \"bold\": true}, {\"text\": \" > \"}, {\"text\": \"All Settings & tools\", \"bold\": true}, {\"text\": \".\"}]}]}, {\"type\": \"li\", \"children\": [{\"type\": \"lic\", \"children\": [{\"text\": \"Click on the \"}, {\"text\": \"Customers\", \"bold\": true}, {\"text\": \" tab from the left hand side navigation menu, and click \"}, {\"text\": \"Customer Settings\", \"bold\": true}, {\"text\": \".\"}]}]}, {\"type\": \"li\", \"children\": [{\"type\": \"lic\", \"children\": [{\"text\": \"Here you can toggle whether or not you wish customers to be automatically approved when they sign up.\"}, {\"text\": \"\\n\"}, {\"text\": \"\\n\"}, {\"text\": \"[Image: image1]\"}]}]}, {\"type\": \"li\", \"children\": [{\"type\": \"lic\", \"children\": [{\"text\": \"Save Changes\", \"bold\": true}, {\"text\": \".\"}]}]}, {\"type\": \"li\", \"children\": [{\"type\": \"lic\", \"children\": [{\"text\": \"To enable the user, simply navigate to \"}, {\"text\": \"Customers\", \"bold\": true}, {\"text\": \" > \"}, {\"text\": \"View customers & prospects\", \"bold\": true}, {\"text\": \". Find and edit the customer you wish to make changes to.\"}]}]}, {\"type\": \"li\", \"children\": [{\"type\": \"lic\", \"children\": [{\"text\": \"On the top right hand side, click the \"}, {\"text\": \"Active\", \"bold\": true}, {\"text\": \" button on the top right hand side and save changes.\"}, {\"text\": \"\\n\"}, {\"text\": \"\\n\"}, {\"text\": \"[Image: image2]\"}]}]}]}]",
+  "fixes_applied": {
+    "rebrand": 0,
+    "urls": {
+      "leaving_cleaned": 0,
+      "unsafe_removed": 0,
+      "s_article_mapped": 0,
+      "s_article_removed": 0,
+      "fragments_mapped": 0,
+      "fragments_stripped": 0,
+      "internal_fragments_fixed": 0,
+      "double_id_fixed": 0,
+      "kb_fragments_stripped": 0
+    },
+    "toc": 0,
+    "related": 0,
+    "lists": 6,
+    "headings": 0,
+    "reconverted": false
+  }
+}

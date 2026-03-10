@@ -1,0 +1,27 @@
+{
+  "articleID": 1365,
+  "name": "Batch Order Processing",
+  "slug": "1365-batch-order-processing",
+  "format": "rich2",
+  "locale": "en",
+  "body": "[{\"type\": \"rich_embed_card\", \"dataSourceType\": \"image\", \"url\": \"https://us.v-cdn.net/6038474/uploads/attachments/migrated/BatchOrderProcessing.05T5g00000gQCunEAG.png\", \"embedData\": {\"url\": \"https://us.v-cdn.net/6038474/uploads/attachments/migrated/BatchOrderProcessing.05T5g00000gQCunEAG.png\", \"embedType\": \"image\", \"displaySize\": \"large\", \"float\": \"none\", \"name\": \"User-added image\"}, \"children\": [{\"text\": \"\"}]}, {\"type\": \"p\", \"children\": [{\"text\": \"\"}]}, {\"type\": \"h3\", \"children\": [{\"text\": \"This add-on was built by \"}, {\"text\": \"Maropost\", \"bold\": true}]}, {\"type\": \"p\", \"children\": [{\"text\": \"Add-ons and integrations built in-house by Maropost are documented and supported by our customer service team. If you need help with this add-on,\"}, {\"type\": \"a\", \"url\": \"https://www.netohq.com/support/s/ask-us\", \"children\": [{\"text\": \"let us know!\"}]}]}, {\"type\": \"p\", \"children\": [{\"text\": \"\"}]}, {\"type\": \"h2\", \"children\": [{\"text\": \"Overview\"}], \"data-id\": \"overview\"}, {\"type\": \"p\", \"children\": [{\"text\": \"Create consignments (labels) for orders in batches and mark dispatched at the click of a button. For large order volumes, this can speed up your order processing by creating multiple consignment numbers in one easy step.\"}]}, {\"type\": \"p\", \"children\": [{\"text\": \"\"}]}, {\"type\": \"h2\", \"children\": [{\"text\": \"Set up the Batch Order Processing Add-on\"}], \"data-id\": \"setup-instructions\"}, {\"type\": \"p\", \"children\": [{\"text\": \"To install the batch order processing add-on:\"}]}, {\"type\": \"ol\", \"children\": [{\"type\": \"li\", \"children\": [{\"type\": \"lic\", \"children\": [{\"text\": \"In your Neto control panel navigate to the \"}, {\"text\": \"Addons\", \"bold\": true}, {\"text\": \" menu.\"}]}]}, {\"type\": \"li\", \"children\": [{\"type\": \"lic\", \"children\": [{\"text\": \"In the order management section, find \"}, {\"text\": \"Batch Order Processing\", \"bold\": true}, {\"text\": \" and click the install button.\"}]}, {\"type\": \"callout\", \"children\": [{\"type\": \"callout-item\", \"children\": [{\"text\": \"To remove the add-on, click the \"}, {\"text\": \"Uninstall\", \"bold\": true}, {\"text\": \" button.\"}]}], \"appearance\": \"info\"}, {\"type\": \"p\", \"children\": [{\"text\": \"\"}]}]}]}, {\"type\": \"p\", \"children\": [{\"text\": \"\"}]}, {\"type\": \"p\", \"children\": [{\"text\": \"Once installed, the \"}, {\"text\": \"Bulk Pick\", \"bold\": true}, {\"text\": \" and \"}, {\"text\": \"Bulk Create Consignments & Dispatch\", \"bold\": true}, {\"text\": \" buttons will appear at the bottom of the order listing in the control panel. For more information on processing orders in bulk see \"}, {\"text\": \"this article\"}, {\"text\": \".\"}]}, {\"type\": \"p\", \"children\": [{\"text\": \"Please Note\", \"bold\": true}, {\"text\": \": Only \"}, {\"text\": \"Bulk Pick\", \"bold\": true}, {\"text\": \" will appear in the \"}, {\"text\": \"New\", \"bold\": true}, {\"text\": \" orders list.\"}]}, {\"type\": \"rich_embed_card\", \"dataSourceType\": \"image\", \"url\": \"https://us.v-cdn.net/6038474/uploads/attachments/migrated/BatchOrderProcessing1.05T5g00000gQFRbEAO.jpg\", \"embedData\": {\"url\": \"https://us.v-cdn.net/6038474/uploads/attachments/migrated/BatchOrderProcessing1.05T5g00000gQFRbEAO.jpg\", \"embedType\": \"image\", \"displaySize\": \"large\", \"float\": \"none\"}, \"children\": [{\"text\": \"\"}]}, {\"type\": \"p\", \"children\": [{\"text\": \"\"}]}]",
+  "fixes_applied": {
+    "rebrand": 1,
+    "urls": {
+      "leaving_cleaned": 0,
+      "unsafe_removed": 0,
+      "s_article_mapped": 1,
+      "s_article_removed": 3,
+      "fragments_mapped": 0,
+      "fragments_stripped": 0,
+      "internal_fragments_fixed": 0,
+      "double_id_fixed": 0,
+      "kb_fragments_stripped": 0
+    },
+    "toc": 0,
+    "related": 1,
+    "lists": 2,
+    "headings": 1,
+    "reconverted": false
+  }
+}

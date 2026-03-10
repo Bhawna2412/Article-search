@@ -1,0 +1,27 @@
+{
+  "articleID": 1598,
+  "name": "Understand Content Delivery Networks with Neto",
+  "slug": "1598-understand-content-delivery-networks-with-neto",
+  "format": "rich2",
+  "locale": "en",
+  "body": "[{\"type\": \"p\", \"children\": [{\"text\": \"All Neto\\u00a0websites are routed through a global industrial CDN (Content Delivery Network) in order to serve website content to customers with high availability and high performance, whilst also maintaining high security for website and application data. Our CDN is a globally distributed system of data centres that use intelligent caching and cache control options, as well as optimisation tools for content and network to make websites and web applications run faster. To minimise the distance between the visitors and your website's server, a CDN stores a cached version of its content in multiple geographical locations.\"}]}, {\"type\": \"p\", \"children\": [{\"text\": \"For a CDN to work effectively, it needs to be the default inbound gateway for all incoming traffic. Therefore, it is Maropost company policy that we cannot support the use of multiple CDN accounts to route your website\\u00a0through. Seeing as all Neto\\u00a0websites are already configured through our CDN provider, adding an additional layer will cause issues with performance, caching and speed and may limit some security protocols.\"}]}, {\"type\": \"p\", \"children\": [{\"text\": \"For these reasons, Neto\\u00a0cannot provide support for site performance, site security, firewalls, web crawlers and/or bot attacks and various other security and performance aspects if you choose to use a 3rd-party CDN.\"}]}]",
+  "fixes_applied": {
+    "rebrand": 0,
+    "urls": {
+      "leaving_cleaned": 0,
+      "unsafe_removed": 0,
+      "s_article_mapped": 0,
+      "s_article_removed": 0,
+      "fragments_mapped": 0,
+      "fragments_stripped": 0,
+      "internal_fragments_fixed": 0,
+      "double_id_fixed": 0,
+      "kb_fragments_stripped": 0
+    },
+    "toc": 0,
+    "related": 0,
+    "lists": 0,
+    "headings": 0,
+    "reconverted": false
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "articleID": 548,
+  "name": "Remove a Customer from a Sale",
+  "slug": "548-remove-a-customer-from-a-sale",
+  "format": "rich2",
+  "locale": "en",
+  "body": "[{\"type\": \"p\", \"children\": [{\"text\": \"You can correct customer associations and process anonymous sales through removing customers from sales in \"}, {\"text\": \"Retail Express\", \"bold\": true}, {\"text\": \" POS, which enables unlinking customer records from transactions when needed. This customer removal capability helps retail operators handle customer privacy requests and correct mistaken associations, with effective customer removal typically supporting data accuracy and flexible customer service across Australian retail operations.\"}]}, {\"type\": \"p\", \"children\": [{\"text\": \"Customer removal functionality in \"}, {\"text\": \"Retail Express\", \"bold\": true}, {\"text\": \" enables retail operators to disassociate customers from transactions, helping support privacy preferences and correct customer assignment errors. This removal capability helps ensure your retail operations can maintain flexible customer data management while respecting customer preferences and supporting accurate transaction records.\"}]}, {\"type\": \"p\", \"children\": [{\"text\": \"To remove a customer from the sale (setting it back to a Cash Sale):\"}]}, {\"type\": \"ol\", \"children\": [{\"type\": \"li\", \"children\": [{\"type\": \"lic\", \"children\": [{\"text\": \"Click on the \"}, {\"text\": \"Customers \", \"bold\": true}, {\"text\": \"tab\"}]}]}, {\"type\": \"li\", \"children\": [{\"type\": \"lic\", \"children\": [{\"text\": \"Click \"}, {\"text\": \"Remove Customer From Sale\", \"bold\": true}]}]}, {\"type\": \"li\", \"children\": [{\"type\": \"lic\", \"children\": [{\"text\": \"Click \"}, {\"text\": \"OK\", \"bold\": true}]}]}, {\"type\": \"li\", \"children\": [{\"type\": \"lic\", \"children\": [{\"text\": \"The customer will be removed and the sale will return to a \"}, {\"text\": \"Cash Sale \", \"bold\": true}, {\"text\": \"state (note that no laybys or account customer purchases can be performed without a customer attached to the sale)\"}]}]}]}, {\"type\": \"rich_embed_card\", \"dataSourceType\": \"image\", \"url\": \"https://us.v-cdn.net/6038474/uploads/attachments/migrated/image.05T5g00000pphMpEAI.jpg\", \"embedData\": {\"url\": \"https://us.v-cdn.net/6038474/uploads/attachments/migrated/image.05T5g00000pphMpEAI.jpg\", \"embedType\": \"image\", \"displaySize\": \"large\", \"float\": \"none\", \"name\": \"mceclip1 - 2023-07-09T223542.738.png\"}, \"children\": [{\"text\": \"\"}]}, {\"type\": \"p\", \"children\": [{\"text\": \"\"}]}]",
+  "fixes_applied": {
+    "urls": {
+      "leaving_cleaned": 0,
+      "unsafe_removed": 0,
+      "s_article_mapped": 0,
+      "s_article_removed": 0,
+      "fragments_mapped": 0,
+      "fragments_stripped": 0,
+      "internal_fragments_fixed": 0,
+      "double_id_fixed": 0,
+      "kb_fragments_stripped": 0
+    },
+    "toc": 0,
+    "related": 1,
+    "lists": 1,
+    "headings": 0,
+    "reconverted": false
+  }
+}

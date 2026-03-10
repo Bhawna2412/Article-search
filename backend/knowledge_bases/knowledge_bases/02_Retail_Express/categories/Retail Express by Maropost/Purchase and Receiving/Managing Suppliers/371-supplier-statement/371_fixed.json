@@ -1,0 +1,26 @@
+{
+  "articleID": 371,
+  "name": "Supplier Statement",
+  "slug": "371-supplier-statement",
+  "format": "rich2",
+  "locale": "en",
+  "body": "[{\"type\": \"p\", \"children\": [{\"text\": \"You can generate supplier statements to review outstanding purchase order balances and payment obligations, helping manage supplier relationships and cash flow planning. This improves your retail operations by providing clear visibility into amounts owed to suppliers, with properly configured supplier statements typically enabling better payment scheduling and supplier account reconciliation.\"}]}, {\"type\": \"p\", \"children\": [{\"text\": \"Understanding supplier statements involves recognizing balance calculations, payment tracking, and reconciliation processes to help retail operators focus on the right supplier financial management workflows, ensuring your retail strategy consistently drives better cash flow management and supplier relationship outcomes.\"}]}, {\"type\": \"p\", \"children\": [{\"text\": \"The Supplier Statement report is useful to view every product sold for a selected Supplier, listed by individual invoice. You can view sales dates, quantities and Buy and Sale pricing.\"}]}, {\"type\": \"p\", \"children\": [{\"text\": \"The Supplier Statement can be used as a supplement to the \"}, {\"text\": \"Supplier Report\"}, {\"text\": \" when more detailed information is required, or to view details for Consignment sales.\"}]}, {\"type\": \"p\", \"children\": [{\"text\": \"You must select at least one Product Type to return results\"}]}, {\"type\": \"p\", \"children\": [{\"text\": \"To use the Supplier Statement:\"}]}, {\"type\": \"ol\", \"children\": [{\"type\": \"li\", \"children\": [{\"type\": \"lic\", \"children\": [{\"text\": \"Navigate to: \"}, {\"text\": \"Reports > Supplier Reports > Supplier Statement\", \"bold\": true}]}]}, {\"type\": \"li\", \"children\": [{\"type\": \"lic\", \"children\": [{\"text\": \"Update the \"}, {\"text\": \"Filters \", \"bold\": true}, {\"text\": \"as required\"}]}, {\"type\": \"rich_embed_card\", \"dataSourceType\": \"image\", \"url\": \"https://us.v-cdn.net/6038474/uploads/attachments/migrated/image.05T5g00000ppiAHEAY.jpg\", \"embedData\": {\"url\": \"https://us.v-cdn.net/6038474/uploads/attachments/migrated/image.05T5g00000ppiAHEAY.jpg\", \"embedType\": \"image\", \"displaySize\": \"large\", \"float\": \"none\", \"name\": \"blobid0 (46).png\"}, \"children\": [{\"text\": \"\"}]}]}, {\"type\": \"li\", \"children\": [{\"type\": \"lic\", \"children\": [{\"text\": \"Click \"}, {\"text\": \"Search\", \"bold\": true}]}]}, {\"type\": \"li\", \"children\": [{\"type\": \"lic\", \"children\": [{\"text\": \"The results will be displayed\"}]}, {\"type\": \"rich_embed_card\", \"dataSourceType\": \"image\", \"url\": \"https://us.v-cdn.net/6038474/uploads/attachments/migrated/image.05T5g00000ppiHCEAY.jpg\", \"embedData\": {\"url\": \"https://us.v-cdn.net/6038474/uploads/attachments/migrated/image.05T5g00000ppiHCEAY.jpg\", \"embedType\": \"image\", \"displaySize\": \"large\", \"float\": \"none\", \"name\": \"blobid1 (32).png\"}, \"children\": [{\"text\": \"\"}]}]}, {\"type\": \"li\", \"children\": [{\"type\": \"lic\", \"children\": [{\"text\": \"Click \"}, {\"text\": \"View Statement \", \"bold\": true}, {\"text\": \"to display a printable list for the supplier (pop-ups must be enabled)\"}]}]}, {\"type\": \"li\", \"children\": [{\"type\": \"lic\", \"children\": [{\"text\": \"Press \"}, {\"text\": \"Ctrl+P \", \"bold\": true}, {\"text\": \"to print the statement (or right click > print)\"}]}]}]}, {\"type\": \"p\", \"children\": [{\"text\": \"\"}]}, {\"type\": \"p\", \"children\": [{\"text\": \"View this report in-page, or click View Statement to generate printable list to provide to a Supplier.\"}]}, {\"type\": \"p\", \"children\": [{\"text\": \"\"}]}]",
+  "fixes_applied": {
+    "urls": {
+      "leaving_cleaned": 0,
+      "unsafe_removed": 0,
+      "s_article_mapped": 0,
+      "s_article_removed": 1,
+      "fragments_mapped": 0,
+      "fragments_stripped": 0,
+      "internal_fragments_fixed": 1,
+      "double_id_fixed": 0,
+      "kb_fragments_stripped": 0
+    },
+    "toc": 0,
+    "related": 1,
+    "lists": 0,
+    "headings": 0,
+    "reconverted": false
+  }
+}

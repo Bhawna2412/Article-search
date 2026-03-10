@@ -1,0 +1,17 @@
+{
+  "articleID": 1620,
+  "knowledgeCategoryID": 248,
+  "sort": 5,
+  "name": "Set up Shipping Carrier Labels",
+  "body": "[{\"type\": \"callout\", \"children\": [{\"type\": \"callout-item\", \"children\": [{\"text\": \"If you are using an integrated carrier we will assist you to configure your integrated labels and manifests as part of the setup process. Complete the \"}, {\"type\": \"a\", \"url\": \"https://forms.neto.com.au/services/shippingcarrierlabelsetup.html\", \"children\": [{\"text\": \"Shipping Carrier Label Form\"}]}, {\"text\": \" for each of the carriers you wish to use, and our customer support team will contact you when complete.\"}]}], \"appearance\": \"info\"}, {\"type\": \"p\", \"children\": [{\"text\": \"To set up your shipping carrier labels:\"}]}, {\"type\": \"ol\", \"children\": [{\"type\": \"li\", \"children\": [{\"type\": \"lic\", \"children\": [{\"text\": \"In your Neto control panel navigate to \"}, {\"text\": \"Settings & Tools\", \"bold\": true}, {\"text\": \" > \"}, {\"text\": \"Shipping\", \"bold\": true}, {\"text\": \".\"}]}]}, {\"type\": \"li\", \"children\": [{\"type\": \"lic\", \"children\": [{\"text\": \"Click on \"}, {\"text\": \"Carriers & Labels\", \"bold\": true}, {\"text\": \".\"}]}]}, {\"type\": \"li\", \"children\": [{\"type\": \"lic\", \"children\": [{\"text\": \"On the top right hand side, click the green \"}, {\"text\": \"Add New\", \"bold\": true}, {\"text\": \" button and select the carrier you wish to create a label for. For this purpose we will be creating a generic label, so select \"}, {\"text\": \"Universal\", \"bold\": true}, {\"text\": \".\"}]}]}, {\"type\": \"li\", \"children\": [{\"type\": \"lic\", \"children\": [{\"text\": \"Add your \"}, {\"text\": \"Carrier Details\", \"bold\": true}, {\"text\": \".\"}]}]}, {\"type\": \"li\", \"children\": [{\"type\": \"lic\", \"children\": [{\"text\": \"Fill out the \"}, {\"text\": \"Return Address\", \"bold\": true}, {\"text\": \" which will appear on the labels.\"}]}]}, {\"type\": \"li\", \"children\": [{\"type\": \"lic\", \"children\": [{\"text\": \"Select the \"}, {\"text\": \"Shipping Services\", \"bold\": true}, {\"text\": \" you wish to use the label with.\"}]}]}]}, {\"type\": \"p\", \"children\": [{\"text\": \"\"}]}, {\"type\": \"h2\", \"children\": [{\"text\": \"Want a personalised label?\"}], \"data-id\": \"want-a-personalised-label\"}, {\"type\": \"callout\", \"children\": [{\"type\": \"callout-item\", \"children\": [{\"text\": \"Most integrated couriers do not allow modifications to their labels. However if you wish to make design changes to a generic label, \"}, {\"type\": \"a\", \"url\": \"http://forms.neto.com.au/services/designtweak.html\", \"children\": [{\"text\": \"contact a design partner\"}]}, {\"text\": \" for a quote.\"}]}], \"appearance\": \"info\"}, {\"type\": \"p\", \"children\": [{\"text\": \"\"}]}]",
+  "format": "rich2",
+  "featured": false,
+  "locale": "en",
+  "status": "published",
+  "foreignID": null,
+  "dateUpdated": "2026-02-02T06:21:36+00:00",
+  "_source_kb_id": 4,
+  "_source_kb_name": "Neto By Maropost",
+  "_sync_date": "2026-02-06T07:14:55.422801+00:00",
+  "_incremental_update": true
+}

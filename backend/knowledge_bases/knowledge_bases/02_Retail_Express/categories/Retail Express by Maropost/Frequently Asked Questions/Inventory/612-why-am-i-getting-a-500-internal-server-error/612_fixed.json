@@ -1,0 +1,26 @@
+{
+  "articleID": 612,
+  "name": "Why am I getting a 500 Internal Server Error?",
+  "slug": "612-why-am-i-getting-a-500-internal-server-error",
+  "format": "rich2",
+  "locale": "en",
+  "body": "[{\"type\": \"p\", \"children\": [{\"text\": \"You can troubleshoot server connectivity issues in Retail Express to restore normal operations quickly, helping your retail team minimize disruptions from technical errors. This capability provides guidance for identifying and resolving server-related problems, which helps ensure your retail operations can resume normal transaction processing and data access promptly.\"}]}, {\"type\": \"p\", \"children\": [{\"text\": \"Setting up proper error response procedures enables your retail operations to handle technical issues systematically, helping optimize system uptime and operational continuity. This helps retail businesses maintain productivity by providing clear troubleshooting steps that enable quick issue resolution and minimize the impact of technical disruptions.\"}]}, {\"type\": \"p\", \"children\": [{\"text\": \"A 500 Internal Server Error typically occurs when an invalid or illegal character, such as symbols like ' \\\" , : ; * ! @ # $ % ^ & * ( ), is entered into a field. These characters are not supported in certain fields and can disrupt the system's ability to process the data.\"}, {\"text\": \"\\n\"}, {\"text\": \"\\n\"}, {\"text\": \"\\n\"}, {\"text\": \"To avoid this error, ensure that only valid and acceptable characters are used when entering information. If the issue persists, review the input or consult support for further assistance.\"}]}, {\"type\": \"rich_embed_card\", \"dataSourceType\": \"image\", \"url\": \"https://us.v-cdn.net/6038474/uploads/attachments/migrated/image.05T5g00000ppiGDEAY.jpg\", \"embedData\": {\"url\": \"https://us.v-cdn.net/6038474/uploads/attachments/migrated/image.05T5g00000ppiGDEAY.jpg\", \"embedType\": \"image\", \"displaySize\": \"large\", \"float\": \"none\", \"name\": \"rtaImage - 2023-07-10T060913.682.jpeg\"}, \"children\": [{\"text\": \"\"}]}, {\"type\": \"p\", \"children\": [{\"text\": \"For detailed information regarding valid and illegal characters, please refer to the article\"}, {\"text\": \"Valid Characters for Retail Express Fields\"}]}, {\"type\": \"p\", \"children\": [{\"text\": \"\"}]}]",
+  "fixes_applied": {
+    "urls": {
+      "leaving_cleaned": 0,
+      "unsafe_removed": 0,
+      "s_article_mapped": 0,
+      "s_article_removed": 1,
+      "fragments_mapped": 0,
+      "fragments_stripped": 0,
+      "internal_fragments_fixed": 0,
+      "double_id_fixed": 0,
+      "kb_fragments_stripped": 0
+    },
+    "toc": 0,
+    "related": 1,
+    "lists": 0,
+    "headings": 0,
+    "reconverted": false
+  }
+}

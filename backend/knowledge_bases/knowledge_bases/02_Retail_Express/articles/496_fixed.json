@@ -1,0 +1,26 @@
+{
+  "articleID": 496,
+  "name": "Enter a Due Date for a sale",
+  "slug": "496-enter-a-due-date-for-a-sale",
+  "format": "rich2",
+  "locale": "en",
+  "body": "[{\"type\": \"p\", \"children\": [{\"text\": \"You can manage special orders and coordinate timely fulfilment through entering due dates on sales in \"}, {\"text\": \"Retail Express\", \"bold\": true}, {\"text\": \", which enables tracking expected delivery or completion dates for customer orders. This delivery scheduling helps retail operators coordinate order fulfilment and manage customer expectations, with effective due date tracking typically improving on-time delivery and supporting better customer communication across Australian retail operations.\"}]}, {\"type\": \"p\", \"children\": [{\"text\": \"Due date functionality in \"}, {\"text\": \"Retail Express\", \"bold\": true}, {\"text\": \" enables retail operators to record customer delivery expectations and track order fulfilment timelines, helping ensure timely completion and supporting customer satisfaction. This scheduling capability helps ensure your retail operations can efficiently manage special orders while maintaining clear visibility over delivery commitments supporting reliable customer service.\"}]}, {\"type\": \"p\", \"children\": [{\"text\": \"\"}]}, {\"type\": \"h1\", \"children\": [{\"text\": \"Enter a Due Date for a sale\"}], \"data-id\": \"enter-a-due-date-for-a-sale\"}, {\"type\": \"p\", \"children\": [{\"text\": \"You can enter a Due Date against a sale, used to track when customers would like their products to arrive. For example, if a customer is planning to be available on a specific date for the goods to arrive.\"}]}, {\"type\": \"p\", \"children\": [{\"text\": \"To enter a Due Date:\"}]}, {\"type\": \"ol\", \"children\": [{\"type\": \"li\", \"children\": [{\"type\": \"lic\", \"children\": [{\"text\": \"Double click \", \"bold\": true}, {\"text\": \"on a product\"}, {\"text\": \"\\n\\n\"}]}, {\"type\": \"callout\", \"children\": [{\"type\": \"callout-item\", \"children\": [{\"text\": \"On mobile devices or touch screens press and hold on the line\"}]}], \"appearance\": \"info\"}, {\"type\": \"p\", \"children\": [{\"text\": \"\"}]}]}, {\"type\": \"li\", \"children\": [{\"type\": \"lic\", \"children\": [{\"text\": \"The \"}, {\"text\": \"Fulfilment Details \", \"bold\": true}, {\"text\": \"window will open\"}]}]}, {\"type\": \"li\", \"children\": [{\"type\": \"lic\", \"children\": [{\"text\": \"Click the \"}, {\"text\": \"Due Date\", \"bold\": true}, {\"text\": \" field\"}]}]}, {\"type\": \"li\", \"children\": [{\"type\": \"lic\", \"children\": [{\"text\": \"Enter a date in the format \"}, {\"text\": \"dd Mon YYYY \", \"bold\": true}, {\"text\": \"e.g.\"}, {\"text\": \" \", \"bold\": true}, {\"text\": \"11 Feb 2019\"}, {\"text\": \"\\n\\n\"}]}, {\"type\": \"callout\", \"children\": [{\"type\": \"callout-item\", \"children\": [{\"text\": \"If the information isn't in the correct date format the field will become blank when you exit the field and the data will not be saved\"}]}], \"appearance\": \"info\"}, {\"type\": \"p\", \"children\": [{\"text\": \"\"}]}]}, {\"type\": \"li\", \"children\": [{\"type\": \"lic\", \"children\": [{\"text\": \"To display a calendar picker click the \"}, {\"text\": \"Calendar \", \"bold\": true}, {\"text\": \"icon and select a date\"}]}]}, {\"type\": \"li\", \"children\": [{\"type\": \"lic\", \"children\": [{\"text\": \"Click \"}, {\"text\": \"Done\", \"bold\": true}]}]}, {\"type\": \"li\", \"children\": [{\"type\": \"lic\", \"children\": [{\"text\": \"The date will be displayed in the \"}, {\"text\": \"Fulfilment \", \"bold\": true}, {\"text\": \"column\"}]}]}]}, {\"type\": \"rich_embed_card\", \"dataSourceType\": \"image\", \"url\": \"https://us.v-cdn.net/6038474/uploads/attachments/migrated/image.05T5g00000powltEAA.jpg\", \"embedData\": {\"url\": \"https://us.v-cdn.net/6038474/uploads/attachments/migrated/image.05T5g00000powltEAA.jpg\", \"embedType\": \"image\", \"displaySize\": \"large\", \"float\": \"none\", \"name\": \"mceclip9 (2).png\"}, \"children\": [{\"text\": \"\"}]}, {\"type\": \"p\", \"children\": [{\"text\": \"\"}]}]",
+  "fixes_applied": {
+    "urls": {
+      "leaving_cleaned": 0,
+      "unsafe_removed": 0,
+      "s_article_mapped": 0,
+      "s_article_removed": 0,
+      "fragments_mapped": 0,
+      "fragments_stripped": 0,
+      "internal_fragments_fixed": 0,
+      "double_id_fixed": 0,
+      "kb_fragments_stripped": 0
+    },
+    "toc": 0,
+    "related": 1,
+    "lists": 0,
+    "headings": 0,
+    "reconverted": false
+  }
+}

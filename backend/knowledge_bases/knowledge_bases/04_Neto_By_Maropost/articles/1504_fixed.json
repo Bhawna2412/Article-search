@@ -1,0 +1,17 @@
+{
+  "articleID": 1504,
+  "knowledgeCategoryID": 149,
+  "sort": 11,
+  "name": "GetResponse",
+  "body": "[{\"type\": \"h3\", \"children\": [{\"text\": \"This add-on was built by GetResponse.\"}], \"data-id\": \"this-add-on-was-built-by-getresponse\"}, {\"type\": \"p\", \"children\": [{\"type\": \"a\", \"url\": \"https://www.getresponse.com/?utm_source=neto\", \"children\": [{\"text\": \"Visit Add-On Website\"}]}]}, {\"type\": \"p\", \"children\": [{\"text\": \"For support with this add-on \"}, {\"type\": \"a\", \"url\": \"https://www.getresponse.com/features/support\", \"children\": [{\"text\": \"contact GetResponse\"}]}, {\"text\": \".\"}]}, {\"type\": \"p\", \"children\": [{\"text\": \"\"}]}, {\"type\": \"h2\", \"children\": [{\"text\": \"Overview\"}], \"data-id\": \"overview\"}, {\"type\": \"p\", \"children\": [{\"text\": \"The GetResponse email marketing and online campaign management platform helps marketers build targeted subscriber lists and send high-impact newsletters and follow-up campaigns. It offers marketing automation, responsive email design, hundreds of ready-to-use email templates, landing page creator, and detailed statistics.\"}]}, {\"type\": \"p\", \"children\": [{\"text\": \"GetResponse are also proud to be a spam-free solution, achieving a consistent deliverability rate of over 99%, the highest deliverability rate in the industry.\"}]}, {\"type\": \"p\", \"children\": [{\"text\": \"\"}]}, {\"type\": \"h2\", \"children\": [{\"text\": \"Set up GetResponse\"}], \"data-id\": \"set-up-getresponse\"}, {\"type\": \"p\", \"children\": [{\"text\": \"Please follow the instructions GetResponse have provided in their \"}, {\"type\": \"a\", \"url\": \"https://www.getresponse.com/help/integrations-and-api/can-i-add-neto-customers-and-prospects-to-my-contact-list.html\", \"children\": [{\"text\": \"integration article\"}]}, {\"text\": \".\"}]}]",
+  "format": "rich2",
+  "featured": false,
+  "locale": "en",
+  "status": "published",
+  "foreignID": null,
+  "dateUpdated": "2025-12-11T04:36:20+00:00",
+  "_source_kb_id": 4,
+  "_source_kb_name": "Neto By Maropost",
+  "_sync_date": "2026-02-06T07:18:18.596029+00:00",
+  "_incremental_update": true
+}

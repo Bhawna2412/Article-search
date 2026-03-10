@@ -1,0 +1,16 @@
+{
+  "articleID": 1952,
+  "knowledgeCategoryID": 452,
+  "sort": 23,
+  "name": "Neto by Maropost Release Notes – 10 Jan 2023",
+  "body": "[{\"type\":\"h2\",\"children\":[{\"text\":\"UPDATE\",\"bold\":true}]},{\"type\":\"ul\",\"children\":[{\"type\":\"li\",\"children\":[{\"type\":\"lic\",\"children\":[{\"text\":\"Updated the Couriers Please service codes to match the latest updates made by the carrier.\"}]}]}]},{\"type\":\"p\",\"children\":[{\"text\":\"\"}]},{\"type\":\"h2\",\"children\":[{\"text\":\"FIXES\",\"bold\":true}]},{\"type\":\"ul\",\"children\":[{\"type\":\"li\",\"children\":[{\"text\":\"Fixed an issue with the Amazon Listing pages where the “no sync errors to report” message would not be cleared and replaced when an error was detected on subsequent revisions. The listing will now display the correct and corresponding message for any errors detected in the latest attempt.\"}]},{\"type\":\"li\",\"children\":[{\"text\":\"Fixed an issue with Sales Channels listings where the Promo Start and Promo End dates of products could be incorrect due to an inaccurate time zone conversion. This would result in some cases where pricing promotions on Amazon and Catch were beginning and ending one day before the dates listed in the Maropost Commerce Cloud Control Panel. This has been corrected so that the dates now align.\"}]},{\"type\":\"li\",\"children\":[{\"text\":\"Fixed an issue with the Set Random Password feature on Edit/Add Staff User page where the generated password did not adhere to the password complexity requirements.\"}]},{\"type\":\"li\",\"children\":[{\"text\":\"Fixed an issue with the Webstore Checkout when changing the displayed shipping address to add or remove a PO Box location where the shipping options and rates would not update correctly to reflect.\"}]},{\"type\":\"li\",\"children\":[{\"text\":\"Fixed an issue with the displayed price of tax exclusive products when the webstore was set to display tax inclusive prices where the price displayed on the product page and the checkout could differ in some instances. Both prices will now display the correct price that will be charged.\"}]}]},{\"type\":\"li\",\"children\":[{\"type\":\"lic\",\"children\":[{\"text\":\"\"}]}]},{\"type\":\"p\",\"children\":[{\"text\":\" \"}]}]",
+  "format": "rich2",
+  "featured": false,
+  "locale": "en",
+  "status": "published",
+  "foreignID": null,
+  "dateUpdated": "2025-07-11T13:50:01+00:00",
+  "_source_kb_id": 12,
+  "_source_kb_name": "Neto Release Notes",
+  "_sync_date": "2026-02-02T05:59:01.733929+00:00"
+}

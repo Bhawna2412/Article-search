@@ -1,0 +1,31 @@
+{
+  "articleID": 2256,
+  "name": "Include Sorting within Mobile Filters",
+  "format": "rich2",
+  "locale": "en",
+  "body": "[{\"type\": \"p\", \"children\": [{\"text\": \"Integrating sorting options within mobile filter panels helps optimize screen space and improve mobile navigation efficiency. When mobile users can access both filtering and sorting from a single interface, you reduce navigation complexity and help improve mobile product discovery, which tends to enhance mobile conversion rates through more streamlined search refinement workflows.\"}]}, {\"type\": \"p\", \"children\": [{\"text\": \"Combined filter and sort interfaces maximize mobile usability by consolidating search controls. This helps improve mobile engagement by reducing the number of interactions needed to refine results, supporting better mobile conversion through more efficient search interfaces that respect mobile screen constraints and user interaction patterns.\"}]}, {\"type\": \"rich_embed_card\", \"dataSourceType\": \"image\", \"url\": \"https://files.readme.io/14d6e99-96a1f50-Bildschirmfoto_2020-03-02_um_19.38.54.png\", \"embedData\": {\"url\": \"https://files.readme.io/14d6e99-96a1f50-Bildschirmfoto_2020-03-02_um_19.38.54.png\", \"embedType\": \"image\", \"displaySize\": \"large\", \"float\": \"none\", \"name\": \"640\", \"width\": 1280, \"height\": 720}, \"children\": [{\"text\": \"\"}]}, {\"type\": \"p\", \"children\": [{\"text\": \"Integration Steps\"}]}, {\"type\": \"blockquote\", \"children\": [{\"type\": \"blockquote-line\", \"children\": [{\"text\": \"Componentscomponents/search/MobileActions/index.tsxcomponents/search/MobileFacets/index.tsx\"}]}]}, {\"type\": \"p\", \"children\": [{\"text\": \"This example is going to remove the default sorting options button and includes the desktop sorting dropdown inside mobile filters as you can see in the example picture on top of this page.\"}]}, {\"type\": \"p\", \"children\": [{\"text\": \"components/search/MobileActions/index.tsxcomponents/search/MobileFacets/index.tsxCSS\"}]}, {\"type\": \"code_block\", \"children\": [{\"type\": \"code_line\", \"children\": [{\"text\": \"{/*...  some code ... */}return (      <div className={theme.root}>        <Query display-if={!isCollection} theme={{ root: theme.query }} />        <div className={theme.bottomRow}>        {/* Hide default Mobile Sorting  */}                   {/*           <Button onClick={showSort} className={theme.button}>            <Text primary uppercase>              <Icon name=\\\"Sorting\\\" title=\\\"Sorting\\\" className={theme.icon} />              {currentSort.get('label')}            </Text>          </Button>          <div className={theme.divider} />         */}          <Button onClick={showFacets} className={theme.button}>            <Text primary uppercase>              <Icon name=\\\"Filters\\\" title=\\\"Filters\\\" />              {translate('actions.filter')}              <span className={theme.facetCount}>({total})</span>            </Text>          </Button>        </div>      </div>    );  });{/*...  some code ... */}\"}]}], \"lang\": \"plaintext\"}, {\"type\": \"p\", \"children\": [{\"text\": \"MJS Version\"}]}, {\"type\": \"p\", \"children\": [{\"text\": \"This module has been optimized for \"}, {\"text\": \"MJS version 7.1.15\", \"bold\": true}]}, {\"type\": \"p\", \"children\": [{\"text\": \"\"}]}]",
+  "knowledgeCategoryID": 413,
+  "sort": 0,
+  "status": "published",
+  "_source_kb_id": 5,
+  "_source_kb_name": "Merchandising Cloud",
+  "_fix_date": "2026-02-02T06:05:47.603784+00:00",
+  "fixes_applied": {
+    "urls": {
+      "leaving_cleaned": 0,
+      "unsafe_removed": 0,
+      "s_article_mapped": 0,
+      "s_article_removed": 0,
+      "fragments_mapped": 0,
+      "fragments_stripped": 0,
+      "internal_fragments_fixed": 0,
+      "double_id_fixed": 0,
+      "kb_fragments_stripped": 0
+    },
+    "toc": 0,
+    "related": 1,
+    "lists": 0,
+    "headings": 0,
+    "reconverted": false
+  }
+}

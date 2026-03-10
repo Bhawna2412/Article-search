@@ -1,0 +1,31 @@
+{
+  "articleID": 2042,
+  "name": "Context Passing from FE",
+  "format": "rich2",
+  "locale": "en",
+  "body": "[{\"type\": \"p\", \"children\": [{\"text\": \"You can pass contextual information from your frontend to Merchandising Cloud APIs, enabling more sophisticated personalization based on user attributes, session data, or business context not available in standard integration. This capability helps enhance AI personalization by providing additional signals about customer segments, preferences, or contexts-supporting more targeted search results and recommendations that improve relevance and conversion through deeper understanding of individual customer situations.\"}]}, {\"type\": \"p\", \"children\": [{\"text\": \"Implementing context passing helps unlock advanced personalization scenarios. You can send user segment information, loyalty status, geographic data, or custom attributes that inform search ranking and recommendations-enabling personalization strategies that consider business rules and customer attributes beyond behavioral signals, supporting more sophisticated merchandising that balances AI-driven relevance with strategic business priorities for improved customer experience and conversion.\"}]}, {\"type\": \"p\", \"children\": [{\"text\": \"In order to return correct data in a search, collection or recommendation, the correct context needs to be passed to Merchandising Cloud in the request.\"}]}, {\"type\": \"p\", \"children\": [{\"text\": \"Here is a request sample for search-api, the multi-market part is context where locale region currency should be provided and if not the code will fallback to the default values for these fields.\"}]}, {\"type\": \"p\", \"children\": [{\"text\": \"json\"}]}, {\"type\": \"code_block\", \"children\": [{\"type\": \"code_line\", \"children\": [{\"text\": \"{  \\\"user\\\": {    \\\"lang\\\": [\\\"en-GB\\\"],    \\\"uid\\\": \\\"test1\\\",    \\\"sid\\\": \\\"ssid\\\",    \\\"email\\\": \\\"test@test .com\\\",    \\\"ip\\\": \\\"192.168.0.1\\\",    \\\"ua\\\": \\\"Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/41.0.2228.0 Safari/537.36\\\"  },  \\\"q\\\": \\\"TESTQUERY\\\",  \\\"t_client\\\": 1484742065791,  \\\"filters\\\": [    {      \\\"name\\\": \\\"category1\\\",      \\\"type\\\": \\\"category\\\",      \\\"values\\\": [{ \\\"value\\\": \\\"TEST CATEGORY\\\" }]    }  ],  \\\"rules\\\": [    {      \\\"action\\\": \\\"top\\\",      \\\"name\\\": \\\"brand\\\",      \\\"type\\\": \\\"text\\\",      \\\"values\\\": [{ \\\"value\\\": \\\"TEST BRAND\\\" }]    }  ],  \\\"sort\\\": [{ \\\"field\\\": \\\"price\\\", \\\"order\\\": \\\"desc\\\" }],  \\\"offset\\\": 0,  \\\"limit\\\": 20,  \\\"log\\\": false,  \\\"context\\\": { \\\"locale\\\": \\\"en\\\", \\\"region\\\": \\\"SE\\\", \\\"currency\\\": \\\"SEK\\\" }}\"}]}], \"lang\": \"plaintext\"}, {\"type\": \"p\", \"children\": [{\"text\": \"\"}]}]",
+  "knowledgeCategoryID": 458,
+  "sort": 5,
+  "status": "published",
+  "_source_kb_id": 5,
+  "_source_kb_name": "Merchandising Cloud",
+  "_fix_date": "2026-02-02T06:05:45.986429+00:00",
+  "fixes_applied": {
+    "urls": {
+      "leaving_cleaned": 0,
+      "unsafe_removed": 0,
+      "s_article_mapped": 0,
+      "s_article_removed": 0,
+      "fragments_mapped": 0,
+      "fragments_stripped": 0,
+      "internal_fragments_fixed": 0,
+      "double_id_fixed": 0,
+      "kb_fragments_stripped": 0
+    },
+    "toc": 0,
+    "related": 1,
+    "lists": 0,
+    "headings": 0,
+    "reconverted": true
+  }
+}

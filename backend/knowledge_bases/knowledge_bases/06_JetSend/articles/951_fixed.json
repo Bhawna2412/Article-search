@@ -1,0 +1,16 @@
+{
+  "articleID": 951,
+  "knowledgeCategoryID": 230,
+  "sort": 4,
+  "name": "Adding Email Attachments",
+  "body": "<p>You can include attachments when sending emails through API as well as SMTP.<br/><br/>The following are some key points regarding email attachments:</p>\n<ul><li>JetSend supports up to 3 attachments – each with a maximum size of 5 MB. The total size of the email, including content and attachments, must not exceed 20 MB.</li><li>The supported file types are PDF, TXT, CSV, JPEG, JPG, and PNG.</li><li>The attachment file must be in Base 64 encoded format.</li></ul><p> </p>\n<h2 data-id=\"adding-attachments-using-api\">Adding Attachments Using API</h2>\n<p>You can use the <b>attachments</b> parameter in <a rel=\"nofollow\" href=\"http://galaxy.maropost.com/home/leaving?allowTrusted=1&amp;target=https%3A%2F%2Fdocs.jetsend.com%2F%23tag%2FTransmissions\">Transmissions API</a> to include the email attachments. The attachments must be passed as an array of objects.</p>\n<p><b>Note</b>: When receiving the attachment, API timeout for the server is­ 5 minutes.<br/> </p>\n<p><b>Example Snippet:</b></p>\n<p>\"attachments\":<br/>   [<br/>      {<br/>          “name”: “order_confirmation.pdf”,<br/>          “type”: “application/pdf”,<br/>          “data”:<br/>       }<br/>    ],</p>\n<p> </p>\n<h2 data-id=\"adding-attachments-using-smtp\">Adding Attachments Using SMTP</h2>\n<p>The following example code snippet in Ruby sends an email with a PDF attachment through SMTP:</p>\n<pre class=\"code codeBlock\" spellcheck=\"false\" tabindex=\"0\">require 'mail'<br/>options = { :address =&gt; 'smtp.yourserver.com',<br/>          :port =&gt; 2525,<br/>          :domain =&gt; 'yourdomain.com',<br/>          :user_name =&gt; 'smtpuser',<br/>          :password =&gt; '&lt;password&gt;',<br/>          :authentication =&gt; 'login',<br/>          :enable_starttls_auto =&gt; true<br/>          }<br/>Mail.defaults do<br/>          delivery_method :smtp, options<br/>end<br/>mail = Mail.new do<br/>       to 'your@user.com'<br/>       from 'info@example.com'<br/>       subject 'Email with HTML and an attachment'<br/><br/>       text_part do<br/>            body 'Put your plain text here'<br/>       end<br/>       html_part do<br/>            content_type 'text/html;charset=UTF-8'<br/>            body '&lt;h1&gt;Put your HTML here&lt;/h1&gt;'<br/>       end<br/>       add_file '/path/to/Attachment.pdf'<br/><br/>       headers['X-JET-API'] = '{\"options\":{\"tracking_domain\":\"\"}, \"metadata\" : {\"has_pets\":true, \"pet_name\": \"Spot\"}, \"tags\": [\"cat\",\"dog\"]}'<br/>end<br/><br/>mail.deliver!<br/><br/></pre>",
+  "format": "html",
+  "featured": false,
+  "locale": "en",
+  "status": "published",
+  "foreignID": null,
+  "dateUpdated": "2024-04-16T18:06:22+00:00",
+  "_source_kb_id": 6,
+  "_source_kb_name": "JetSend",
+  "_sync_date": "2026-02-02T05:55:11.611892+00:00"
+}

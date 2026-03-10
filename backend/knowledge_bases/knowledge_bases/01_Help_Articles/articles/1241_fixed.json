@@ -1,0 +1,16 @@
+{
+  "articleID": 1241,
+  "knowledgeCategoryID": 1,
+  "sort": 75,
+  "name": "How to use multiple currencies through the Web Service API",
+  "body": "<h1 data-id=\"how-to-use-multiple-currencies-through-the-web-service-api\">How to use multiple currencies through the Web Service API</h1>\n<p>It is entirely possible to run a single Web Store that displays different pricing based off the currency the customer selects, and it simply requires you to have separate outlets in Retail Express with different currencies assigned.</p>\n<p>You can do this by setting up the different currencies in Retail Express via the <a rel=\"nofollow\" href=\"https://galaxy.maropost.com/s/article/Country-Configuration\">Country Setup</a> section, and then <a rel=\"nofollow\" href=\"https://galaxy.maropost.com/s/article/Settings-Using-Regions-to-group-Outlets\">assigning the Outlets to the Country</a> you have set up.</p>\n<p>For example, if you want to sell in both AUD and USD, you need to have at least one outlet using AUD and one outlet using USD.</p>\n<p>Once done, you then need to update the outlet specific pricing in those Outlets to be the outlet's local currency price. For example, if you have a product that sells for $99 AUD and $75 USD, you need to make the price $99 in the Australian outlet and $75 is the US outlet.</p>\n<p>When you have the Outlets and products set up, you then need to set up a Sales Channel for each Outlet (I.e. channel 1 for $AUD and channel 2 for $USD). You can even connect the Sales Channels to the same Source Groups, which means that while the price will be different both of the Sales Channels will be getting stock from the same locations, and so will have the same stock levels.</p>\n<p>After that it is up to the developers to set up the Web Store to retrieve and store the information based off the currency selected.</p>\n<p>What they will probably need to do is store the $AUD pricing and the $USD pricing in separate tables on the Web Store's database, and each night run 2 product synchronisations (one for Channel 1 and one for Channel 2) to get the $AUD and $USD prices on mass separately.</p>\n<p>Then when customers are browsing the site they will need to be prompted to select their currency and all of the on demand methods that are used while they are browsing (I.e. to update price and stock, to create an order, etc.) will need to use the channel for the currency they have specified.</p>",
+  "format": "html",
+  "featured": false,
+  "locale": "en",
+  "status": "published",
+  "foreignID": null,
+  "dateUpdated": "2023-06-01T04:07:37+00:00",
+  "_source_kb_id": 1,
+  "_source_kb_name": "Help Articles",
+  "_sync_date": "2026-02-02T05:48:24.145225+00:00"
+}

@@ -1,0 +1,26 @@
+{
+  "articleID": 1261,
+  "name": "Video - Survey and Marketing Profiles for Customers",
+  "slug": "1261-video-survey-and-marketing-profiles-for-customers",
+  "format": "rich2",
+  "locale": "en",
+  "body": "[{\"type\": \"p\", \"children\": [{\"text\": \"You can learn to capture customer survey data and communication preferences through video training in \"}, {\"text\": \"Retail Express\", \"bold\": true}, {\"text\": \" to build better customer profiles. This video resource helps improve customer relationship management by demonstrating how to collect valuable customer information, supporting more effective communication strategies and personalized service across retail locations.\"}]}, {\"type\": \"p\", \"children\": [{\"text\": \"Using video training for customer profiles involves learning data capture techniques, understanding communication preference management, and implementing customer engagement strategies. When staff effectively capture customer data, you can expect improved customer communication targeting, better personalized service, and enhanced customer relationship building across retail operations.\"}]}, {\"type\": \"p\", \"children\": [{\"text\": \"\"}]}, {\"type\": \"h1\", \"children\": [{\"text\": \"Video - Survey and Marketing Profiles for Customers\"}], \"data-id\": \"video-survey-and-marketing-profiles-for-customers\"}, {\"type\": \"p\", \"children\": [{\"text\": \"In this video we show you how to use the marketing features at POS for your customers, including the survey and marketing profiles.\"}]}, {\"type\": \"p\", \"children\": [{\"text\": \"\"}]}]",
+  "fixes_applied": {
+    "urls": {
+      "leaving_cleaned": 0,
+      "unsafe_removed": 0,
+      "s_article_mapped": 0,
+      "s_article_removed": 0,
+      "fragments_mapped": 0,
+      "fragments_stripped": 0,
+      "internal_fragments_fixed": 0,
+      "double_id_fixed": 0,
+      "kb_fragments_stripped": 0
+    },
+    "toc": 0,
+    "related": 1,
+    "lists": 0,
+    "headings": 0,
+    "reconverted": false
+  }
+}

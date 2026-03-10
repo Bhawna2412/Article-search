@@ -1,0 +1,27 @@
+{
+  "articleID": 1510,
+  "name": "Commission Factory",
+  "slug": "1510-commission-factory",
+  "format": "rich2",
+  "locale": "en",
+  "body": "[{\"type\": \"p\", \"children\": [{\"text\": \"[Image: User-added image]\"}]}, {\"type\": \"h3\", \"children\": [{\"text\": \"This add-on was built by Commission Factory.\"}]}, {\"type\": \"p\", \"children\": [{\"type\": \"a\", \"url\": \"https://www.commissionfactory.com/\", \"children\": [{\"text\": \"Visit Add-on Website!\"}]}]}, {\"type\": \"p\", \"children\": [{\"text\": \"For support with this add-on \"}, {\"type\": \"a\", \"url\": \"https://www.commissionfactory.com/contact-us\", \"children\": [{\"text\": \"contact Commission Factory\"}]}, {\"text\": \".\"}]}, {\"type\": \"h2\", \"children\": [{\"text\": \"Overview\"}], \"data-id\": \"overview\"}, {\"type\": \"p\", \"children\": [{\"text\": \"Commission Factory has been designed to foster a spirit of collaboration between Merchants, Affiliates and Agencies in order to grow mutually beneficial and prosperous relationships. They are little to no barriers to entry of using Commission Factory, therefore they have an enormously fast growing user base that enables companies of all sizes to discover the power of performance marketing.\"}]}, {\"type\": \"h2\", \"children\": [{\"text\": \"Set up Commission Factory\"}], \"data-id\": \"setup-instructions\"}, {\"type\": \"ol\", \"children\": [{\"type\": \"li\", \"children\": [{\"type\": \"lic\", \"children\": [{\"text\": \"Create an account with \"}, {\"type\": \"a\", \"url\": \"https://www.commissionfactory.com/\", \"children\": [{\"text\": \"Commission Factory\"}]}, {\"text\": \" and make note of your account ID.\"}]}]}, {\"type\": \"li\", \"children\": [{\"type\": \"lic\", \"children\": [{\"text\": \"In your Neto control panel click the \"}, {\"text\": \"Addons\", \"bold\": true}, {\"text\": \" menu.\"}]}]}, {\"type\": \"li\", \"children\": [{\"type\": \"lic\", \"children\": [{\"text\": \"Find the Commission Factory add-on and click the \"}, {\"text\": \"Install\", \"bold\": true}, {\"text\": \" button.\"}]}]}, {\"type\": \"li\", \"children\": [{\"type\": \"lic\", \"children\": [{\"text\": \"Enter your \"}, {\"text\": \"Commission Factory Account ID\", \"bold\": true}, {\"text\": \" and click the \"}, {\"text\": \"Install\", \"bold\": true}, {\"text\": \" button.\"}]}]}]}, {\"type\": \"p\", \"children\": [{\"text\": \"Commission Factory is now set up in your Neto control panel.\"}]}]",
+  "fixes_applied": {
+    "rebrand": 0,
+    "urls": {
+      "leaving_cleaned": 3,
+      "unsafe_removed": 0,
+      "s_article_mapped": 0,
+      "s_article_removed": 0,
+      "fragments_mapped": 0,
+      "fragments_stripped": 0,
+      "internal_fragments_fixed": 0,
+      "double_id_fixed": 0,
+      "kb_fragments_stripped": 0
+    },
+    "toc": 0,
+    "related": 0,
+    "lists": 4,
+    "headings": 1,
+    "reconverted": false
+  }
+}

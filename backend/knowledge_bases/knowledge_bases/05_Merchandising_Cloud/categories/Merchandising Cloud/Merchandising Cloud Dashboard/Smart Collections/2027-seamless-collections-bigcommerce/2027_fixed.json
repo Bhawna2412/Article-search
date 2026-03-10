@@ -1,0 +1,31 @@
+{
+  "articleID": 2027,
+  "name": "Seamless Collections (BigCommerce)",
+  "format": "rich2",
+  "locale": "en",
+  "body": "[{\"type\": \"p\", \"children\": [{\"text\": \"You can enable automatic collection synchronization for BigCommerce, allowing Merchandising Cloud to sync your category configurations automatically without manual setup. This seamless integration helps streamline collection management by automatically importing and updating collections from your BigCommerce platform, enabling you to maintain AI-powered personalized collections without duplicating configuration work across systems.\"}]}, {\"type\": \"p\", \"children\": [{\"text\": \"Implementing Seamless Collections for BigCommerce helps reduce operational overhead while enhancing collection performance. The automatic synchronization ensures your collections stay up-to-date with platform changes, while AI-powered ranking and filtering capabilities improve customer experience and conversion rates-enabling you to focus on merchandising strategy rather than technical synchronization while benefiting from dynamic, behavior-driven product positioning.\"}]}, {\"type\": \"rich_embed_card\", \"dataSourceType\": \"image\", \"url\": \"https://us.v-cdn.net/6038474/uploads/T1CHRGGZB0G3/efdfae9-collections-283-29.png\", \"embedData\": {\"url\": \"https://us.v-cdn.net/6038474/uploads/T1CHRGGZB0G3/efdfae9-collections-283-29.png\", \"embedType\": \"image\", \"displaySize\": \"large\", \"float\": \"none\", \"name\": \"efdfae9-Collections (3).png\", \"width\": 864, \"height\": 561}, \"children\": [{\"text\": \"\"}]}, {\"type\": \"p\", \"children\": [{\"text\": \"\"}]}, {\"type\": \"h2\", \"children\": [{\"text\": \"What Are Smart Collections?\"}], \"data-id\": \"what-are-smart-collections\"}, {\"type\": \"p\", \"children\": [{\"text\": \"Smart Collections by Maropost Merchandising Cloud (formerly Findify) covers a selection of products displayed with a static URL, mainly for browsing purposes.\"}]}, {\"type\": \"p\", \"children\": [{\"text\": \"Most common are divisions based on categories or brands, but any field in the database can be used to set up collections.\"}]}, {\"type\": \"p\", \"children\": [{\"text\": \"The dynamic abilities ensures they are constantly up to date without any manual work required.\"}, {\"text\": \"\\n\"}, {\"text\": \"e.g. If a collection is set up to include all products where\", \"italic\": true}, {\"text\": \" \"}, {\"text\": \"Brand = Findify\", \"bold\": true}, {\"text\": \", \"}, {\"text\": \"new products fulfilling the criteria will automatically be added as soon as they enter the catalogue.\", \"italic\": true}]}, {\"type\": \"p\", \"children\": [{\"text\": \"Using our Smart Collections feature enables the full suite of features such as \"}, {\"text\": \"Merchandising Suite\", \"bold\": true}, {\"text\": \", \"}, {\"text\": \"Personalization\", \"bold\": true}, {\"text\": \", \"}, {\"text\": \"Dynamic Filters & Sorting\", \"bold\": true}, {\"text\": \", \"}, {\"text\": \"Promo Cards\", \"bold\": true}, {\"text\": \" etc.\"}, {\"type\": \"a\", \"url\": \"https://developers.findify.io/docs/smart-collections\", \"children\": [{\"text\": \"Read More\"}]}]}, {\"type\": \"p\", \"children\": [{\"text\": \"\"}]}, {\"type\": \"h2\", \"children\": [{\"text\": \"How does Seamless BigCommerce Collections Work?\"}], \"data-id\": \"how-does-seamless-bigcommerce-collections-work\"}, {\"type\": \"p\", \"children\": [{\"text\": \"This feature works in a similar way to the \"}, {\"type\": \"a\", \"url\": \"https://developers.findify.io/docs/bigcommerce-seamless-collections\", \"children\": [{\"text\": \"Seamless Shopify Collections capability\"}]}, {\"text\": \".\"}]}, {\"type\": \"p\", \"children\": [{\"text\": \"We will automatically sync any changes made to BigCommerce collections (that are based on categories and brands) within a few minutes of the change being made. This takes place automatically - without the need to do any extra configuration in the Merchant Dashboard.\"}]}, {\"type\": \"p\", \"children\": [{\"type\": \"a\", \"url\": \"https://youtu.be/PC5NKhaH1w0\", \"children\": [{\"text\": \"https://youtu.be/PC5NKhaH1w0\"}]}]}, {\"type\": \"p\", \"children\": [{\"text\": \"\"}]}]",
+  "knowledgeCategoryID": 386,
+  "sort": 3,
+  "status": "published",
+  "_source_kb_id": 5,
+  "_source_kb_name": "Merchandising Cloud",
+  "_fix_date": "2026-02-02T06:05:45.807362+00:00",
+  "fixes_applied": {
+    "urls": {
+      "leaving_cleaned": 3,
+      "unsafe_removed": 0,
+      "s_article_mapped": 0,
+      "s_article_removed": 0,
+      "fragments_mapped": 0,
+      "fragments_stripped": 0,
+      "internal_fragments_fixed": 0,
+      "double_id_fixed": 0,
+      "kb_fragments_stripped": 0
+    },
+    "toc": 0,
+    "related": 1,
+    "lists": 0,
+    "headings": 0,
+    "reconverted": false
+  }
+}

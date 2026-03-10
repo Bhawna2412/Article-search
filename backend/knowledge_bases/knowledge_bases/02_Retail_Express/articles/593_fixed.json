@@ -1,0 +1,26 @@
+{
+  "articleID": 593,
+  "name": "Using POS Quick Products",
+  "slug": "593-using-pos-quick-products",
+  "format": "rich2",
+  "locale": "en",
+  "body": "[{\"type\": \"p\", \"children\": [{\"text\": \"You can accelerate checkout speed in Retail Express using quick product functionality for commonly-sold items, helping your retail operators process transactions faster during busy periods. This capability provides instant access to frequently-purchased products without searching or scanning, which helps reduce transaction time and improve customer throughput.\"}]}, {\"type\": \"p\", \"children\": [{\"text\": \"Setting up effective quick product shortcuts enables your retail team to handle high-volume sales efficiently, helping optimize point-of-sale performance for popular items. This helps retail operations improve operational efficiency by reducing the steps needed to add bestselling products to sales, particularly valuable during peak shopping hours.\"}]}, {\"type\": \"p\", \"children\": [{\"text\": \"Quick Products is a feature where you can quickly add products to the sale without the need to scan or search for them i.e. favourites. Each Register can have their own set of Quick Products configured, which can be useful when you have registers in different departments or sections of your store.\"}]}, {\"type\": \"p\", \"children\": [{\"text\": \"To access Quick Products from POS:\"}]}, {\"type\": \"ol\", \"children\": [{\"type\": \"li\", \"children\": [{\"type\": \"lic\", \"children\": [{\"text\": \"Create a sale\"}]}]}, {\"type\": \"li\", \"children\": [{\"type\": \"lic\", \"children\": [{\"text\": \"Click the \"}, {\"text\": \"Quick Products\", \"bold\": true}, {\"text\": \" icon\"}]}, {\"type\": \"rich_embed_card\", \"dataSourceType\": \"image\", \"url\": \"https://us.v-cdn.net/6038474/uploads/attachments/migrated/image.05T5g00000ppj2dEAA.jpg\", \"embedData\": {\"url\": \"https://us.v-cdn.net/6038474/uploads/attachments/migrated/image.05T5g00000ppj2dEAA.jpg\", \"embedType\": \"image\", \"displaySize\": \"large\", \"float\": \"none\", \"name\": \"mceclip0 - 2023-07-10T044844.663.png\"}, \"children\": [{\"text\": \"\"}]}]}, {\"type\": \"li\", \"children\": [{\"type\": \"lic\", \"children\": [{\"text\": \"A list of \"}, {\"text\": \"T\", \"bold\": true}, {\"text\": \"abs \", \"bold\": true}, {\"text\": \"will be displayed; each tab can display up to 10 products\"}]}, {\"type\": \"rich_embed_card\", \"dataSourceType\": \"image\", \"url\": \"https://us.v-cdn.net/6038474/uploads/attachments/migrated/image.05T5g00000ppjQFEAY.jpg\", \"embedData\": {\"url\": \"https://us.v-cdn.net/6038474/uploads/attachments/migrated/image.05T5g00000ppjQFEAY.jpg\", \"embedType\": \"image\", \"displaySize\": \"large\", \"float\": \"none\", \"name\": \"mceclip1 - 2023-07-10T044848.787.png\"}, \"children\": [{\"text\": \"\"}]}]}, {\"type\": \"li\", \"children\": [{\"type\": \"lic\", \"children\": [{\"text\": \"To add a product click anyone on the product rectangle, or click into the Quantity field - use the +/- buttons or manually type in the value\"}]}]}, {\"type\": \"li\", \"children\": [{\"type\": \"lic\", \"children\": [{\"text\": \"Click \"}, {\"text\": \"Add Item(s) \", \"bold\": true}, {\"text\": \"to add the products to the sale products\"}]}]}]}, {\"type\": \"p\", \"children\": [{\"text\": \"\"}]}]",
+  "fixes_applied": {
+    "urls": {
+      "leaving_cleaned": 0,
+      "unsafe_removed": 0,
+      "s_article_mapped": 0,
+      "s_article_removed": 0,
+      "fragments_mapped": 0,
+      "fragments_stripped": 0,
+      "internal_fragments_fixed": 0,
+      "double_id_fixed": 0,
+      "kb_fragments_stripped": 0
+    },
+    "toc": 0,
+    "related": 1,
+    "lists": 0,
+    "headings": 0,
+    "reconverted": false
+  }
+}

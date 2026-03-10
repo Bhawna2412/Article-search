@@ -1,0 +1,29 @@
+{
+  "articleID": 1536,
+  "name": "Automatically Apply a Discount with a Link",
+  "slug": "1536-automatically-apply-a-discount-with-a-link",
+  "format": "rich2",
+  "locale": "en",
+  "body": "[{\"type\": \"p\", \"children\": [{\"text\": \"You can automatically apply a discount to a customer\\u2019s shopping session by adding the following query string to the end of any URL:\"}]}, {\"type\": \"p\", \"children\": [{\"text\": \"http://www.yourdomain.com.au/?addcpn=YOURDISCOUNTCODE\", \"code\": true}]}, {\"type\": \"p\", \"children\": [{\"text\": \"Tip\", \"bold\": true}, {\"text\": \": You can also create a URL that applies the discount code and adds the product to the cart, e.g. \\\"www.yourdomain.com.au/_mycart?addcpn=CODE&sku=PRODUCTSKU\\\"\"}]}, {\"type\": \"p\", \"children\": [{\"text\": \"Change \"}, {\"text\": \"www.yourdomain.com.au\", \"bold\": true}, {\"text\": \" with the domain name of your webstore and \"}, {\"text\": \"YOURDISCOUNTCODE\", \"bold\": true}, {\"text\": \" with the coupon code you have setup in your Neto by Maropost control panel. Make sure you include the question mark in the address.\"}]}, {\"type\": \"p\", \"children\": [{\"text\": \"This feature is ideal for tagging URLs sent in email marketing campaigns or coming from Google Adwords campaigns. Using the lightbox popup feature you can even popup a message when customers arrive from these sources.\"}]}, {\"type\": \"p\", \"children\": [{\"text\": \"For example, customers visiting through this URL:\"}]}, {\"type\": \"p\", \"children\": [{\"type\": \"a\", \"url\": \"http://www.myshop.com/c/shoes?addcpn=10%offship\", \"children\": [{\"text\": \"http://www.myshop.com/c/shoes?addcpn=10%offship\"}]}]}, {\"type\": \"p\", \"children\": [{\"text\": \"Will get 10% off the price of their shipping if the discount has been set up with the code \"}, {\"text\": \"10%offship\", \"bold\": true}, {\"text\": \".\"}]}, {\"type\": \"p\", \"children\": [{\"text\": \"\"}]}]",
+  "fixes_applied": {
+    "rebrand": 0,
+    "urls": {
+      "leaving_cleaned": 2,
+      "unsafe_removed": 0,
+      "s_article_mapped": 0,
+      "s_article_removed": 0,
+      "fragments_mapped": 0,
+      "fragments_stripped": 0,
+      "internal_fragments_fixed": 0,
+      "double_id_fixed": 0,
+      "kb_fragments_stripped": 0
+    },
+    "toc": 0,
+    "related": 0,
+    "lists": 0,
+    "headings": 0,
+    "reconverted": false
+  },
+  "_sf_cleanup_date": "2026-02-02T06:17:42.410554+00:00",
+  "_sf_removals": 1
+}

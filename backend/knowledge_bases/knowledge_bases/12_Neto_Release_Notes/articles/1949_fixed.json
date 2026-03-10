@@ -1,0 +1,16 @@
+{
+  "articleID": 1949,
+  "knowledgeCategoryID": 453,
+  "sort": 3,
+  "name": "Neto by Maropost Release Notes – 21 Oct 2022",
+  "body": "[{\"type\":\"h2\",\"children\":[{\"text\":\"Overview\",\"bold\":true}]},{\"type\":\"p\",\"children\":[{\"text\":\"While the development team continues to work on some exciting new features, this release sees fixes to a couple of recent issues.\"}]},{\"type\":\"p\",\"children\":[{\"text\":\"\"}]},{\"type\":\"h2\",\"children\":[{\"text\":\"Fixes\",\"bold\":true}]},{\"type\":\"ul\",\"children\":[{\"type\":\"li\",\"children\":[{\"text\":\"Fixed an issue where the Maropost Analytics link in the Maropost Commerce Cloud Control Panel was pointing to the old \"},{\"type\":\"a\",\"url\":\"https://analytics.netohq.com\",\"target\":\"_blank\",\"children\":[{\"text\":\"analytics.netohq.com\"}]},{\"text\":\" URL. This would result in users receiving a Privacy Error as the SSL certificate for this domain had expired.\"}]},{\"type\":\"li\",\"children\":[{\"type\":\"lic\",\"children\":[{\"text\":\" The link in the control panel now directs to \"},{\"type\":\"a\",\"url\":\"https://analytics.maropost.com\",\"target\":\"_blank\",\"children\":[{\"text\":\"analytics.maropost.com\"}]},{\"text\":\".\"}]}]},{\"type\":\"li\",\"children\":[{\"text\":\"Fixed an issue with the Maropost Commerce Cloud MYOB integration add-on when exporting to AccountRight 2022.8 would result throw ‘Error 173 UidInPostBody: A request should not contain UID during POST operation’. Updated integration to use PUT request rather than using POST requests to meet the changes put in place by MYOB.\"}]}]},{\"type\":\"p\",\"children\":[{\"text\":\" \"}]}]",
+  "format": "rich2",
+  "featured": false,
+  "locale": "en",
+  "status": "published",
+  "foreignID": null,
+  "dateUpdated": "2025-07-15T12:24:54+00:00",
+  "_source_kb_id": 12,
+  "_source_kb_name": "Neto Release Notes",
+  "_sync_date": "2026-02-02T05:58:38.982891+00:00"
+}

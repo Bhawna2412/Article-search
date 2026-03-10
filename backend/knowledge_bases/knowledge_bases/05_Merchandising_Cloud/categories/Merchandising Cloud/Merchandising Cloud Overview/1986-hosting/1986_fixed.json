@@ -1,0 +1,31 @@
+{
+  "articleID": 1986,
+  "name": "Hosting",
+  "format": "rich2",
+  "locale": "en",
+  "body": "[{\"type\": \"p\", \"children\": [{\"text\": \"You can benefit from Merchandising Cloud's global hosting infrastructure with servers in North Virginia (AWS), Iowa (GCP), The Netherlands (GCP), and Sydney (GCP), which helps optimize performance and search response times for customers across different geographic regions. This distributed hosting approach tends to reduce latency and improve page load speeds, contributing to better user experiences and conversion rates.\"}]}, {\"type\": \"p\", \"children\": [{\"text\": \"Understanding the hosting locations helps you anticipate performance benefits for your specific customer base. The multi-region infrastructure ensures your search and merchandising solutions respond quickly regardless of where your shoppers are located, helping maintain fast product discovery experiences that reduce bounce rates and support your conversion optimization goals.\"}]}, {\"type\": \"p\", \"children\": [{\"text\": \"Where is Merchandising Cloud served from?\"}]}, {\"type\": \"ul\", \"children\": [{\"type\": \"li\", \"children\": [{\"type\": \"lic\", \"children\": [{\"text\": \"North Virginia, USA (AWS)\"}]}]}, {\"type\": \"li\", \"children\": [{\"type\": \"lic\", \"children\": [{\"text\": \"Iowa, USA (GCP)\"}]}]}, {\"type\": \"li\", \"children\": [{\"type\": \"lic\", \"children\": [{\"text\": \"The Netherlands (GCP)\"}]}]}, {\"type\": \"li\", \"children\": [{\"type\": \"lic\", \"children\": [{\"text\": \"Sydney, Australia (GCP)\"}]}]}]}, {\"type\": \"p\", \"children\": [{\"text\": \"\"}]}]",
+  "knowledgeCategoryID": 157,
+  "sort": 12,
+  "status": "published",
+  "_source_kb_id": 5,
+  "_source_kb_name": "Merchandising Cloud",
+  "_fix_date": "2026-02-02T06:05:45.533486+00:00",
+  "fixes_applied": {
+    "urls": {
+      "leaving_cleaned": 0,
+      "unsafe_removed": 0,
+      "s_article_mapped": 0,
+      "s_article_removed": 0,
+      "fragments_mapped": 0,
+      "fragments_stripped": 0,
+      "internal_fragments_fixed": 0,
+      "double_id_fixed": 0,
+      "kb_fragments_stripped": 0
+    },
+    "toc": 0,
+    "related": 1,
+    "lists": 0,
+    "headings": 0,
+    "reconverted": false
+  }
+}

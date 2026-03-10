@@ -1,0 +1,27 @@
+{
+  "articleID": 1595,
+  "name": "Email Address Changes when Sending",
+  "slug": "1595-email-address-changes-when-sending",
+  "format": "rich2",
+  "locale": "en",
+  "body": "[{\"type\": \"p\", \"children\": [{\"text\": \"Neto\\u00a0mitigates email delivery failure automatically when your email domain doesn\\u2019t match your website domain. Some mail servers look at this information to identify spoofed addresses and spam. To prevent your legitimate mail from being identified this way, Neto alters the sender email addresses.\"}]}, {\"type\": \"p\", \"children\": [{\"text\": \"Important\", \"bold\": true}, {\"text\": \": These rules only apply when your Neto control panel domain doesn\\u2019t match your system email address domain.\"}]}, {\"type\": \"p\", \"children\": [{\"text\": \"For example, if you use a bigpond.com, gmail.com, or yahoo.com email account this will apply. Also, if your Neto webstore isn\\u2019t live yet, and uses a \"}, {\"text\": \"my-company.neto.com.au\", \"code\": true}, {\"text\": \" website URL, this will also apply to you.\"}]}, {\"type\": \"p\", \"children\": [{\"text\": \"Find out how your emails may be affected in the table below:\"}]}, {\"type\": \"table\", \"children\": [{\"type\": \"tr\", \"children\": [{\"type\": \"th\", \"children\": [{\"type\": \"p\", \"children\": [{\"text\": \"Neto\\u00a0Webstore URL\"}]}]}, {\"type\": \"th\", \"children\": [{\"type\": \"p\", \"children\": [{\"text\": \"System Email Address\"}]}]}, {\"type\": \"th\", \"children\": [{\"type\": \"p\", \"children\": [{\"text\": \"Sender Email Address\"}]}]}, {\"type\": \"th\", \"children\": [{\"type\": \"p\", \"children\": [{\"text\": \"Reply-To Email Address\"}]}]}]}, {\"type\": \"tr\", \"children\": [{\"type\": \"td\", \"children\": [{\"type\": \"p\", \"children\": [{\"text\": \"company-name.neto.com.au\"}]}]}, {\"type\": \"td\", \"children\": [{\"type\": \"p\", \"children\": [{\"text\": \"admin@yourdomain.com.au\"}]}]}, {\"type\": \"td\", \"children\": [{\"type\": \"p\", \"children\": [{\"text\": \"noreply-company-name@netomail.com.au\"}]}]}, {\"type\": \"td\", \"children\": [{\"type\": \"p\", \"children\": [{\"text\": \"admin@yourdomain.com.au\"}]}]}]}, {\"type\": \"tr\", \"children\": [{\"type\": \"td\", \"children\": [{\"type\": \"p\", \"children\": [{\"text\": \"www.yourdomain.com.au\"}]}]}, {\"type\": \"td\", \"children\": [{\"type\": \"p\", \"children\": [{\"text\": \"company-name@gmail.com.au\"}]}]}, {\"type\": \"td\", \"children\": [{\"type\": \"p\", \"children\": [{\"text\": \"noreply-yourdomain@netomail.com.au\"}]}]}, {\"type\": \"td\", \"children\": [{\"type\": \"p\", \"children\": [{\"text\": \"company-name@gmail.com.au\"}]}]}]}, {\"type\": \"tr\", \"children\": [{\"type\": \"td\", \"children\": [{\"type\": \"p\", \"children\": [{\"text\": \"store.yourdomain.com.au\"}]}]}, {\"type\": \"td\", \"children\": [{\"type\": \"p\", \"children\": [{\"text\": \"admin@company-name.com.au\"}]}]}, {\"type\": \"td\", \"children\": [{\"type\": \"p\", \"children\": [{\"text\": \"no-reply.yourdomain@netomail.com.au\"}]}]}, {\"type\": \"td\", \"children\": [{\"type\": \"p\", \"children\": [{\"text\": \"admin@company-name.com.au\"}]}]}]}], \"id\": \"rich-table-65770cbf\"}, {\"type\": \"p\", \"children\": [{\"text\": \"In all cases, the reply-to email address will not be changed, so that customer replies will be received without issue.\"}]}]",
+  "fixes_applied": {
+    "rebrand": 0,
+    "urls": {
+      "leaving_cleaned": 0,
+      "unsafe_removed": 0,
+      "s_article_mapped": 0,
+      "s_article_removed": 0,
+      "fragments_mapped": 0,
+      "fragments_stripped": 0,
+      "internal_fragments_fixed": 0,
+      "double_id_fixed": 0,
+      "kb_fragments_stripped": 0
+    },
+    "toc": 0,
+    "related": 0,
+    "lists": 0,
+    "headings": 0,
+    "reconverted": false
+  }
+}

@@ -1,0 +1,16 @@
+---
+title: "Theme Terms & Conditions"
+articleID: 901
+category: "Set up Neto > Launch your Store > Launch Webstore > Webstore Design"
+knowledgeBase: "Neto By Maropost"
+---
+
+# Theme Terms & Conditions
+
+1. You may establish the appearance of your Neto Store with a design template from Neto Theme Store (“a Theme”). If you download a Theme, you are licensed to use it for a single Store only. You are free to transfer a Theme to a second one of your own Stores if you close your first Store. To initiate a transfer of a Theme to a second one of your Stores, please contact Neto Support. You are not permitted to transfer or sell a Theme to any other person’s Store on Neto or elsewhere. Multiple Stores require multiple downloads and each download is subject to the applicable fee. Neto gives no assurance that a particular Theme will remain available for additional downloads.
+2. You may modify the Theme to suit your Store. Neto may modify the Theme where it contains, in our sole discretion, an element that violates the Neto Terms of Service, even if you received the Theme in that condition. Neto may modify the Theme to reflect technical changes and updates as required. Updates made to this theme by the vendor will be free for the life of the item, but will require re-installation. This will result in the loss of any customisations made to the theme assets or templates after the initial installation.
+3. The intellectual property rights of the Theme remain the property of the designer. If you exceed the rights granted by your purchase of a Theme, the designer may take legal action against you, and, without prejudice to our other rights or remedies, Neto may take administrative action such as modifying your Store or closing your Store.
+4. Technical support for a Theme is the responsibility of the designer, and Neto accepts no responsibility to provide such support. Neto may be able to help you contact the designer. Technical support refers to bugs or defects within the theme code or issues with the custom features included in the theme, and does not include providing assistance with standard features of the Neto platform. If a theme is removed from the Theme Store, technical support will no longer be available for that theme.
+5. It is the responsibility of the user, and not Neto , to ensure that the installation of a new theme does not overwrite or damage the current or preexisting theme, or UI, of the user.
+6. A Theme may not support all Neto features out-of-the-box at time of purchase.
+7. Refunds due to change of mind are only available if the refund request is emailed to accounts@maropost.com within 48 hours of purchase.

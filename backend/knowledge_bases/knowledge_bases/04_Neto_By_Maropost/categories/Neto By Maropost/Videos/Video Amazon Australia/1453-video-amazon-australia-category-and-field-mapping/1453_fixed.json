@@ -1,0 +1,27 @@
+{
+  "articleID": 1453,
+  "name": "Video: Amazon Australia Category and Field Mapping",
+  "slug": "1453-video-amazon-australia-category-and-field-mapping",
+  "format": "rich2",
+  "locale": "en",
+  "body": "[{\"type\": \"rich_embed_card\", \"children\": [{\"text\": \"\"}], \"dataSourceType\": \"url\", \"url\": \"https://youtu.be/1iIU8VyjS_0\", \"embedData\": {\"height\": 360, \"width\": 640, \"photoUrl\": \"https://i.ytimg.com/vi/1iIU8VyjS_0/hqdefault.jpg\", \"videoID\": \"1iIU8VyjS_0\", \"showRelated\": false, \"start\": 0, \"url\": \"https://youtu.be/1iIU8VyjS_0\", \"embedType\": \"youtube\", \"name\": \"\", \"frameSrc\": \"https://www.youtube.com/embed/1iIU8VyjS_0?feature=oembed&autoplay=1\"}}, {\"type\": \"ul\", \"children\": [{\"type\": \"li\", \"children\": [{\"type\": \"lic\", \"children\": [{\"text\": \"Set up Amazon Australia\"}]}]}, {\"type\": \"li\", \"children\": [{\"type\": \"lic\", \"children\": [{\"text\": \"Map Custom Fields for Amazon and Catch\"}]}]}]}]",
+  "fixes_applied": {
+    "rebrand": 0,
+    "urls": {
+      "leaving_cleaned": 2,
+      "unsafe_removed": 0,
+      "s_article_mapped": 0,
+      "s_article_removed": 2,
+      "fragments_mapped": 0,
+      "fragments_stripped": 0,
+      "internal_fragments_fixed": 0,
+      "double_id_fixed": 0,
+      "kb_fragments_stripped": 0
+    },
+    "toc": 0,
+    "related": 0,
+    "lists": 0,
+    "headings": 0,
+    "reconverted": false
+  }
+}

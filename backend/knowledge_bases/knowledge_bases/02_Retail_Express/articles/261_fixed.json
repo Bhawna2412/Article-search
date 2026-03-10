@@ -1,0 +1,26 @@
+{
+  "articleID": 261,
+  "name": "EOM Inventory Valuation Report",
+  "slug": "261-eom-inventory-valuation-report",
+  "format": "rich2",
+  "locale": "en",
+  "body": "[{\"type\": \"p\", \"children\": [{\"text\": \"You can assess the financial value of inventory holdings at month-end by accessing the EOM Inventory Valuation Report, which calculates total stock value based on cost prices across all retail locations and products. This report provides essential data for financial statements, balance sheet preparation, and accounting reconciliation, helping ensure accurate inventory asset valuation for financial reporting purposes.\"}]}, {\"type\": \"p\", \"children\": [{\"text\": \"Using the End of Month Inventory Valuation Report consistently helps retail operators maintain accurate financial records, support month-end accounting processes, and provide reliable inventory asset values for financial statement preparation and tax reporting.\"}]}, {\"type\": \"p\", \"children\": [{\"text\": \"The Inventory Valuation Report allows you to view and export your product quantity information, including stock quantities for available, on-order and transfer in and out.\"}]}, {\"type\": \"p\", \"children\": [{\"text\": \"To access the EOM Inventory Valuation:\"}]}, {\"type\": \"ol\", \"children\": [{\"type\": \"li\", \"children\": [{\"type\": \"lic\", \"children\": [{\"text\": \"Navigate to \"}, {\"text\": \"Reports > EOM Reports > Inventory Valuation\", \"bold\": true}]}, {\"type\": \"rich_embed_card\", \"dataSourceType\": \"image\", \"url\": \"https://us.v-cdn.net/6038474/uploads/attachments/migrated/image.05T5g00000powu2EAA.jpg\", \"embedData\": {\"url\": \"https://us.v-cdn.net/6038474/uploads/attachments/migrated/image.05T5g00000powu2EAA.jpg\", \"embedType\": \"image\", \"displaySize\": \"large\", \"float\": \"none\", \"name\": \"blobid1 (6).png\"}, \"children\": [{\"text\": \"\"}]}]}, {\"type\": \"li\", \"children\": [{\"type\": \"lic\", \"children\": [{\"text\": \"Enter a \"}, {\"text\": \"Qty On Hand \", \"bold\": true}, {\"text\": \"value to display only products that match or exceed the minimum quantity\"}, {\"text\": \"\\n\"}, {\"text\": \"\\tQuantity on Hand\"}]}]}, {\"type\": \"li\", \"children\": [{\"type\": \"lic\", \"children\": [{\"text\": \"Click \"}, {\"text\": \"Search\", \"bold\": true}]}]}, {\"type\": \"li\", \"children\": [{\"type\": \"lic\", \"children\": [{\"text\": \"The results will be displayed and can be exported using the Excel/Csv Icons on the right side of the results grid.\"}]}]}]}, {\"type\": \"p\", \"children\": [{\"text\": \"\"}]}]",
+  "fixes_applied": {
+    "urls": {
+      "leaving_cleaned": 0,
+      "unsafe_removed": 0,
+      "s_article_mapped": 0,
+      "s_article_removed": 0,
+      "fragments_mapped": 0,
+      "fragments_stripped": 0,
+      "internal_fragments_fixed": 0,
+      "double_id_fixed": 0,
+      "kb_fragments_stripped": 0
+    },
+    "toc": 0,
+    "related": 1,
+    "lists": 0,
+    "headings": 0,
+    "reconverted": false
+  }
+}

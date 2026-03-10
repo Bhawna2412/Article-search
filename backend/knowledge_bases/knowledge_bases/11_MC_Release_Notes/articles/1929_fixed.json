@@ -1,0 +1,16 @@
+{
+  "articleID": 1929,
+  "knowledgeCategoryID": 440,
+  "sort": 13,
+  "name": "Marketing Cloud Release Notes – 9 Jun 2022",
+  "body": "[{\"type\":\"p\",\"children\":[{\"text\":\"OVERVIEW\",\"bold\":true}]},{\"type\":\"p\",\"children\":[{\"text\":\"This release contains minor but critical changes to the process of creating Keap connections.\"}]},{\"type\":\"p\",\"children\":[{\"text\":\"For details, read on!\"}]},{\"type\":\"p\",\"children\":[{\"text\":\" \"}]},{\"type\":\"p\",\"children\":[{\"text\":\"ENHANCEMENT\",\"bold\":true}]},{\"type\":\"p\",\"children\":[{\"text\":\"Changed Process for Connecting With Keap\",\"bold\":true}]},{\"type\":\"p\",\"children\":[{\"text\":\"The process of connecting your Marketing Cloud with Keap accounts has been changed. The new connections created through the changed process are more efficient in synchronizing data between Keap and Marketing Cloud.\"}]},{\"type\":\"p\",\"children\":[{\"text\":\" \"}]},{\"type\":\"p\",\"children\":[{\"text\":\"A new step has been introduced which requires you to provide API Key and Secret. You can continue to authenticate your Keap credentials and then allow the connection, same as before.\"}]},{\"type\":\"p\",\"children\":[{\"type\":\"rich_embed_card\",\"children\":[{\"text\":\"\"}],\"dataSourceType\":\"image\",\"url\":\"https://us.v-cdn.net/6038474/uploads/attachments/migrated/KeapConnectionSettings.0685g000008Kz8oAAC.png\",\"embedData\":{\"url\":\"https://us.v-cdn.net/6038474/uploads/attachments/migrated/KeapConnectionSettings.0685g000008Kz8oAAC.png\",\"name\":\"Keap Connection Settings\",\"embedType\":\"image\",\"float\":\"none\",\"height\":1386,\"width\":2560}},{\"type\":\"p\",\"children\":[{\"text\":\" \"}]}]},{\"type\":\"p\",\"children\":[{\"text\":\"So, remember! Before you begin creating a new connection, you must generate and retrieve the API Key and Secret from Keap.\"}]},{\"type\":\"p\",\"children\":[{\"text\":\"For detailed information on the process, see \"},{\"type\":\"a\",\"url\":\"https://galaxy.maropost.com/s/article/Adding-a-Keap-Integration-New-UI\",\"target\":\"_blank\",\"children\":[{\"text\":\"Adding a Keap Integration (NEW UI)\",\"bold\":true}]},{\"text\":\".\"}]}]",
+  "format": "rich2",
+  "featured": false,
+  "locale": "en",
+  "status": "published",
+  "foreignID": null,
+  "dateUpdated": "2025-08-07T11:14:05+00:00",
+  "_source_kb_id": 11,
+  "_source_kb_name": "MC Release Notes",
+  "_sync_date": "2026-02-02T05:57:32.624877+00:00"
+}

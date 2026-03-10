@@ -1,0 +1,340 @@
+---
+title: "Components Overview"
+articleID: 2173
+category: "Shopify Liquid FE > Shopify Liquid FE Overview"
+knowledgeBase: "Merchandising Cloud"
+---
+
+# Components Overview
+
+You can customize Merchandising Cloud's Shopify Liquid components by understanding the three-layer architecture: Sections define entry points and rendering, Snippets contain modular functionality, and Assets control visual styling and behavior. 
+
+This comprehensive component overview helps developers identify exactly which files to modify for specific customizations.
+
+Understanding each component's purpose and relationships enables efficient customization of your search, collections, and recommendations. From product cards and filters to autocomplete and pagination, each component is documented with its specific role, making it easier to implement visual changes, adjust layouts, or add custom functionality while maintaining the integrity of the Merchandising Cloud implementation.
+
+In this section, we will provide an overview of the components integrated into your store's theme when you install Maropost Merchandising Cloud's (formerly Findify's) native Shopify app. It's important to note that, for effective customization, there is a suggested order to follow: Sections, Snippets, and then Assets.
+
+1. 
+2. 
+3. 
+
+While merchants are welcome to modify these components to customize the appearance of Merchandising Cloud on their individual stores, it is important to note that this work should only be carried out by a developer – ideally a developer who has had previous experience working with Shopify and with Liquid. This guidance ensures that customization is carried out effectively and aligns with the structure and best practices of your Shopify theme.
+
+> **Note:** 👍 In the public ["findify-liquid-components" repository](https://github.com/findify/findify-liquid-source), you'll discover all the files generated for a theme. These files come with specific technical naming conventions, but they are exposed and can be customized by external parties.
+
+## SECTIONS
+
+> **Note:** 📘 **What are Sections?** Sections are the designated entry points for our components, essentially serving as the indexes for rendering them. They are rendered using the renderAPI and injected into the DOM through JavaScript for manipulation.
+
+### findify-autocomplete.liquid
+
+*This liquid file serves as the entry point for the autocomplete feature. It defines the layout and behavior of the autocomplete component, making it essential for creating a smooth and user-friendly search experience on your site. Customize it to control how autocomplete suggestions are displayed.*
+
+### findify-contents.liquid
+
+*This liquid file serves as the entry point for the Content feature. It defines the layout and behavior of the Сontent Сard component, making it necessary to integrate content on the page. Configure it to control the display of content cards.*
+
+### findify-grid-collection.liquid
+
+*This liquid file acts as the entry point for the collection layout component. It controls the layout and presentation of collections within your store. Modify it to ensure that your collection pages align with your store's design and branding.*
+
+### findify-grid-content.liquid
+
+*This liquid file represents the content card components index that is injected within findify-search.liquid. It plays a vital role in the display of content within your search pages, offering flexibility in how content is presented. Customize it to achieve your desired content layout.*
+
+### findify-filter-group.liquid
+
+*This liquid file is responsible for rendering filter groups of a particular type. It is inserted within filter sidebars found in both findify-collection and findify-search. Each filter type, such as category, price, or color, returned from the Search API uses this component to be rendered. Customize it to control the display and behavior of different filter types.*
+
+### findify-pagination.liquid
+
+*This liquid file serves as the entry point for the pagination layout component. It is injected within findify-search.liquid and findify-collection.liquid, allowing users to navigate through search results or collection pages with ease. Modify it to achieve your desired pagination style and functionality.*
+
+### findify-product-card.liquid
+
+*This liquid file is responsible for rendering the Product Card. You can use it to control the display and behavior of the Product Card in all layouts. The liquid file is connected using findify-product-card-connector.*
+
+### findify-promo-card.liquid
+
+*This liquid file contains a connector as well as a layout for Promo Cards. You can configure it to control the display of Promo Cards on your page.*
+
+### findify-recommendation.liquid
+
+This liquid file acts as the entry point for the recommendation layout component. It is essential for displaying product recommendations to users. Customize it to control the layout and behavior of product recommendations, enhancing product discoverability on your site.
+
+### findify-grid-search.liquid
+
+*This liquid file serves as the entry point for the search layout component. It defines the layout and structure of search pages on your site. Customize it to ensure that search pages align with your store's design and offer an intuitive search experience.*
+
+## SNIPPETS
+
+> **Note:** 📘 **What are Snippets?** These are code snippets employed within Sections to isolate and compartmentalize code. This approach serves to make files smaller, enhance readability, and promote code reusability.
+
+### findify-autocomplete-connector.liquid
+
+*This liquid file converts RenderAPI GET URL into liquid parameters for the autocomplete. It plays a vital role in adapting the autocomplete behavior to suit your specific needs.*
+
+### findify-autocomplete-content-block.liquid
+
+*This liquid file is responsible for rendering the Content Search in Autocomplete. You can use this file to customize the content. Also, keep in mind that the title is configured through the Panel.*
+
+### findify-autocomplete-content-grid.liquid
+
+*The snippet contains a wrapper to the actual AC content block that would appear inside it during initialization in js using Assets API by Shopify, accepts content_id as a parameter taken from the visual editor, which is initially configured manually upon adding content item to autocomplete, content_id can be found at Dashboard -> Search -> Content -> Source. See ref at sections/findify-content.liquid` file to be rendered within the content grid.*
+
+### findify-autocomplete-view-all.liquid
+
+*This liquid file provides a "View All" button for the autocomplete component. It enhances the user experience by allowing customers to see all autocomplete suggestions, facilitating a more comprehensive search experience.*
+
+### findify-button.liquid
+
+*This liquid file contains a button you can use in different parts of your store. The button uses such parameters as id, text, and hide.*
+
+### findify-content-card.liquid
+
+*This liquid file represents the content card component. It is responsible for rendering content cards in your store, making it a crucial element for showcasing content effectively.*
+
+### findify-content-grid.liquid
+
+*This liquid file is the content grid component. It plays a central role in displaying content within your search page. You can customize it to control how content is presented in a grid format.*
+
+### findify-content-image-fallback.liquid
+
+*The file defines SVG for the Image Placeholder. It is used in the case when an image is undefined, as an example in the findify-content.liquid file.*
+
+### findify-content-tabs.liquid
+
+*This liquid file represents the content tabs component. It enables the creation of tabbed content sections, enhancing the organization and presentation of content on your site.*
+
+### findify-filter-breadcrumb.liquid
+
+*The file contains the basic layout and logic related to Breadcrumbs. You can use it to control the structure and behavior of Filter Breadcrumbs. This file is necessary to be able to see which filters are selected and to be able to remove them. There is also a separate Clear all button that removes all selected filters. This functionality works both on the mobile version and on the desktop.*
+
+### findify-filter-checkbox.liquid
+
+*This liquid file renders checkboxes for filters. It is a crucial element for users to select filter options on your site.*
+
+### findify-filter-color-value.liquid
+
+*This liquid file is responsible for rendering color filter value components. It plays a significant role in displaying and selecting color filter options.*
+
+### findify-filter-color.liquid
+
+*This liquid file represents the structure of color filter items. It controls how color filter options are presented on your site.*
+
+### findify-filter-items.liquid
+
+*This liquid file defines the structure for filter items. It allows you to create the layout and presentation of filter options.*
+
+### findify-filter-nested.liquid
+
+*This liquid file represents the structure for nested filter items. It is used when you have hierarchical filter options that need a specific layout.*
+
+### findify-filter-price-range.liquid
+
+*This snippet provides the ability to change the logic and structure related to the input and submit button for the Price Filter.*
+
+![4d0280f-Screenshot_2024-08-06_222347.png](https://us.v-cdn.net/6038474/uploads/LS6ZDEFYF3B6/4d0280f-screenshot-2024-08-06-222347.png)
+
+### findify-filter-range-slider.liquid
+
+*This liquid file is responsible for rendering a range filter slider component. It allows users to set a range for filtering products or content.*
+
+### findify-filter-range.liquid
+
+*This liquid file defines the structure of range filter options. It controls how range filter options are presented on your site.*
+
+### findify-filter-rating-value.liquid
+
+*This liquid file is used for rendering rating filter components. It enables users to filter products or content based on ratings.*
+
+### findify-filter-search-input.liquid
+
+*This liquid file represents the filter layout component rendered within search and collection sections. It allows users to input specific search criteria.*
+
+### findify-filter-text-value.liquid
+
+*This liquid file defines the structure for text filter value components. It enables users to filter products or content based on specific text criteria.*
+
+### findify-filter-text.liquid
+
+*This liquid file represents the structure of text filter items. It controls how text filter options are presented on your site.*
+
+### findify-filters.liquid
+
+*This file defines a common wrapper for an aside panel of filters. Additionally, it contains logic to show or hide the filters section when clicking on Filter By btn.*
+
+### findify-grid-connector.liquid
+
+*This liquid file converts RenderAPI GET URL into liquid parameters for search and collection components. It's a crucial component for linking search and collection functionality with your store's liquid parameters.*
+
+### findify-head-injector.liquid
+
+*This liquid file includes assets injections to be placed within the section of your website. It's essential for adding essential assets that enhance your site's functionality.*
+
+### findify-icon-arrow.liquid
+
+*This liquid file is responsible for rendering an arrow icon in SVG format. It allows you to display an arrow icon for various purposes on your site.*
+
+### findify-icon-checkmark.liquid
+
+*The file contains the Checkmark Icon SVG.*
+
+### findify-icon-cross.liquid
+
+*This liquid file is used to render an "X" icon in SVG format. It's commonly used for actions such as closing or removing items on your site.*
+
+### findify-icon-filter.liquid
+
+*This liquid file is responsible for rendering a filter icon in SVG format. It is used to display a filter icon on your site, enhancing the visual representation of filtering options.*
+
+### findify-icon-sorting.liquid
+
+*This liquid file is used for rendering a sorting icon in SVG format. It allows you to display sorting icons to indicate options for sorting products or content.*
+
+### findify-icon-star.liquid
+
+*This liquid file is responsible for rendering a star icon in SVG format. It's commonly used for displaying star ratings or favorites on your site.*
+
+### findify-lazy-loading-pagination.liquid
+
+*The file defines loader structure and styles. This allows the client to see the loader when a new product page is loaded, which is part of how LazyLoading works*
+
+### findify-loader.liquid
+
+*This liquid file renders a loader feedback component in SVG format. It provides visual feedback to users, indicating that a process is in progress.*
+
+### findify-product-card-connector.liquid
+
+*This liquid file converts the RenderAPI GET URL into liquid parameters for the Product Card component. It's a crucial component for linking Product Card functionality with your store's liquid parameters.*
+
+### findify-product-image.liquid
+
+*This file contains the img tag. It is used on product cards. Here you can change attributes, breakpoints, width, height, etc.*
+
+### findify-product-price.liquid
+
+*This liquid file represents the component for displaying product prices. It ensures that prices are presented in a standardized and clear manner on your site.*
+
+### findify-product-swatches-color.liquid
+
+*Ths file contains Color Swatches layout. It is used on product cards. This file can be added manually to findify-product-card.liquid .*
+
+### findify-rating.liquid
+
+*The file contains Rating Layout, which is used on product Cards and Filters. It is rendered inside findify-filter-rating-value.liquid .*
+
+### findify-sorting.liquid
+
+*This liquid file represents the sorting component. It enables users to choose how products or content are sorted, offering a vital element for enhancing user experience and product discoverability.*
+
+### findify-toolbar-desktop.liquid
+
+*This liquid file represents the header of search/collection for desktop component. It provides the header layout for search and collection pages on the desktop version of your site.*
+
+### findify-toolbar-mobile.liquid
+
+*This liquid file represents the header of search/collection for mobile devices. It provides the header layout for search and collection pages on the mobile version of your site.*
+
+## ASSETS
+
+### findify-analytics.js
+
+*This file contains JavaScript scripts that are responsible for event bindings related to analytics. It allows you to track and gather data on user interactions and behavior on your online store, providing valuable insights into your customers' engagement with Findify's solutions.*
+
+### findify-autocomplete.css
+
+*In this stylesheet, you'll find the styling code that enhances the visual presentation of the autocomplete component. It controls the appearance and layout of autocomplete suggestions.*
+
+### findify-autocomplete.js
+
+*This JavaScript file governs the behavior of the autocomplete feature. It handles event bindings and interactions associated with the autocomplete, making it an essential part of ensuring smooth and efficient autocomplete functionality on your store.*
+
+### findify-button.css
+
+*The file defines styles for .findify-btn*
+
+### findify-content-card.css
+
+*The file contains all styles related to Content Card.*
+
+### findify-content-grid.css
+
+*This stylesheet focuses on the styling of the content grid within the search page. It plays a crucial role in determining how your content is presented on the search page, ensuring it aligns with your store's aesthetics.*
+
+### findify-content-tabs.css
+
+*This stylesheet is responsible for the styling of tabs used in the search page for content integration. It controls the appearance and behavior of these tabs, allowing you to create a user-friendly interface for your content.*
+
+### findify-content-tabs.js
+
+*In this JavaScript file, you'll find the event bindings and functionality for tabs used in content integration. It ensures that users can easily navigate through different content sections on your store.*
+
+### findify-content.js
+
+*This JavaScript file contains logic for loading and presenting content integrated into your store. It's crucial for ensuring that your content displays correctly and functions as expected.*
+
+### findify-filter-breadcrumb.css
+
+*The file defines styles for Filters Breadcrumbs.*
+
+### findify-filter.css
+
+*This stylesheet controls the styling of various filters on your store. It's responsible for defining how filters look and function, making them visually appealing and functional.*
+
+### findify-grid.css
+
+*This stylesheet governs the styling of the page structure for search/collection components. It defines the layout and appearance of these pages, ensuring they align with your store's design.*
+
+### findify-lazy-loading-pagination.js
+
+*The file contains the logic related to Lazy Loading Pagination. The main function initFindifyLazyLoadingPagination is called in Seacrh and Collection templates.*
+
+### findify-pagination.css
+
+*This stylesheet focuses on the styling of the pagination component, which is essential for navigating through search results or content. It defines the visual appearance of pagination elements.*
+
+### findify-product-card.css
+
+*This stylesheet is dedicated to styling the product cards, which are used consistently across autocomplete, recommendation, and search/collection components. It ensures a consistent look for product listings.*
+
+### findify-product-card.js
+
+*The file contains the logic related to productCardClick . The most important part of this file is the initialization of the analytics, and it's triggering every time the customer clicks on the product. This enables Findify to generate analytics that you can see in the Merchant Dashboard.*
+
+### findify-product-swatches.css
+
+*The file is used to add styles for the Color Swatches. The Color Swatches code file is findify-product-swatches-color.liquid.*
+
+### findify-promo-card.css
+
+*The file is used to add styles for the Promo Card.*
+
+### findify-recommendation.css
+
+*This stylesheet controls the styling of recommendation components, particularly the swiper elements that are a part of these recommendations. It helps create visually appealing product recommendations.*
+
+### findify-sidebar-mobile.css
+
+*This stylesheet is responsible for styling the mobile side panels used for filters and sorting. It makes sure that the mobile interface is visually appealing and easy to use.*
+
+### findify-sorting.css
+
+*This stylesheet is responsible for styling the sorting dropdown, allowing customers to choose how products or content are sorted. It controls the visual aspects of sorting options.*
+
+### findify-swiper.css
+
+*The file is used to add styles for the Swiper, you can customize Slider using it.*
+
+### findify-swiper.js
+
+*The file is used to integrate the Swiper library into the theme. Please don't touch it*
+
+### findify-theme-overwrite.css
+
+*You can use the file to add or overwrite some styles for the theme.*
+
+### findify-variables-defaults.css
+
+*The file contains default variables you can use in the store. You can also add any other variables to the file.*

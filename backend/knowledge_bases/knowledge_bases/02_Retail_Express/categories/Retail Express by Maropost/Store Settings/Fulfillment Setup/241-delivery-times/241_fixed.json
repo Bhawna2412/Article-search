@@ -1,0 +1,26 @@
+{
+  "articleID": 241,
+  "name": "Delivery Times",
+  "slug": "241-delivery-times",
+  "format": "rich2",
+  "locale": "en",
+  "body": "[{\"type\": \"p\", \"children\": [{\"text\": \"You can configure specific delivery time slots for customer orders by creating delivery time options that work with delivery zones and drivers to organize efficient fulfilment scheduling. When used together, these features help coordinate delivery operations through the Fulfilment Report, improving customer communication about delivery expectations and helping your team plan delivery routes more effectively.\"}]}, {\"type\": \"p\", \"children\": [{\"text\": \"Setting up delivery times aligned with your actual delivery capabilities helps retail operators provide accurate delivery commitments to customers while optimizing delivery resource allocation across your retail operations.\"}]}, {\"type\": \"p\", \"children\": [{\"text\": \"Delivery Times can be used to configure specific delivery times for your Orders. Used in conjunction with Delivery Drivers and Delivery Zones, the Delivery Time can assist in organising and scheduling your required deliveries - all managed within the Fulfilment Report.\"}]}, {\"type\": \"p\", \"children\": [{\"text\": \"To manage your Delivery Times:\"}]}, {\"type\": \"ol\", \"children\": [{\"type\": \"li\", \"children\": [{\"type\": \"lic\", \"children\": [{\"text\": \"Navigate to \"}, {\"text\": \"Settings > Fulfilment Setup > Delivery Times\", \"bold\": true}, {\"type\": \"rich_embed_card\", \"dataSourceType\": \"image\", \"url\": \"https://us.v-cdn.net/6038474/uploads/attachments/migrated/image.05T5g00000powX7EAI.jpg\", \"embedData\": {\"url\": \"https://us.v-cdn.net/6038474/uploads/attachments/migrated/image.05T5g00000powX7EAI.jpg\", \"embedType\": \"image\", \"displaySize\": \"inline\", \"float\": \"none\", \"name\": \"delivery times.png\"}, \"children\": [{\"text\": \"\"}]}]}]}, {\"type\": \"li\", \"children\": [{\"type\": \"lic\", \"children\": [{\"text\": \"Enter a \"}, {\"text\": \"Delivery Time\", \"bold\": true}]}]}, {\"type\": \"li\", \"children\": [{\"type\": \"lic\", \"children\": [{\"text\": \"Click \"}, {\"text\": \"Insert\", \"bold\": true}]}]}, {\"type\": \"li\", \"children\": [{\"type\": \"lic\", \"children\": [{\"text\": \"Click the \"}, {\"text\": \"pencil icon \", \"bold\": true}, {\"text\": \"to edit a Delivery Time\"}]}, {\"type\": \"rich_embed_card\", \"dataSourceType\": \"image\", \"url\": \"https://us.v-cdn.net/6038474/uploads/attachments/migrated/image.05T5g00000powXHEAY.jpg\", \"embedData\": {\"url\": \"https://us.v-cdn.net/6038474/uploads/attachments/migrated/image.05T5g00000powXHEAY.jpg\", \"embedType\": \"image\", \"displaySize\": \"large\", \"float\": \"none\", \"name\": \"mceclip0 (48).png\"}, \"children\": [{\"text\": \"\"}]}]}, {\"type\": \"li\", \"children\": [{\"type\": \"lic\", \"children\": [{\"text\": \"Click the \"}, {\"text\": \"trash can \", \"bold\": true}, {\"text\": \"icon to delete an existing Delivery Time\"}]}, {\"type\": \"rich_embed_card\", \"dataSourceType\": \"image\", \"url\": \"https://us.v-cdn.net/6038474/uploads/attachments/migrated/image.05T5g00000powXMEAY.jpg\", \"embedData\": {\"url\": \"https://us.v-cdn.net/6038474/uploads/attachments/migrated/image.05T5g00000powXMEAY.jpg\", \"embedType\": \"image\", \"displaySize\": \"large\", \"float\": \"none\", \"name\": \"mceclip1 (27).png\"}, \"children\": [{\"text\": \"\"}]}]}]}, {\"type\": \"p\", \"children\": [{\"text\": \"\"}]}, {\"type\": \"p\", \"children\": [{\"text\": \"The Delivery Time can be selected when creating a sale on the \"}, {\"text\": \"Fulfilment Tab\"}, {\"text\": \" of the sale in POS.\"}]}, {\"type\": \"p\", \"children\": [{\"text\": \"\"}]}]",
+  "fixes_applied": {
+    "urls": {
+      "leaving_cleaned": 0,
+      "unsafe_removed": 0,
+      "s_article_mapped": 0,
+      "s_article_removed": 1,
+      "fragments_mapped": 0,
+      "fragments_stripped": 0,
+      "internal_fragments_fixed": 0,
+      "double_id_fixed": 0,
+      "kb_fragments_stripped": 0
+    },
+    "toc": 0,
+    "related": 1,
+    "lists": 0,
+    "headings": 0,
+    "reconverted": false
+  }
+}

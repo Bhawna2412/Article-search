@@ -1,0 +1,16 @@
+{
+  "articleID": 1858,
+  "knowledgeCategoryID": 455,
+  "sort": 3,
+  "name": "Neto by Maropost Release Notes – 1 Oct 2019",
+  "body": "[{\"type\":\"p\",\"children\":[{\"text\":\"Release Version: \",\"bold\":true},{\"text\":\"v6.72\"}]},{\"type\":\"p\",\"children\":[{\"text\":\"\"}]},{\"type\":\"h3\",\"children\":[{\"bold\":true,\"text\":\"Minor Features\"}]},{\"type\":\"p\",\"children\":[{\"text\":\" \"},{\"text\":\"Amazon Australia\",\"bold\":true}]},{\"type\":\"p\",\"children\":[{\"text\":\"The Amazon Australia integration has been updated to allow listing products that are fulfilled by Amazon. \"}]},{\"type\":\"p\",\"children\":[{\"text\":\"You will need to map the fulfilment centre ID field in the field mapping, to a product field that contains the ID. Leave the ID field blank for products that are not fulfilled by Amazon.\"}]},{\"type\":\"p\",\"children\":[{\"text\":\" Stock levels will not be sent when the fulfilment centre ID is populated on a listing, these still need to be loaded through seller central.\"}]},{\"type\":\"p\",\"children\":[{\"text\":\" \"}]},{\"type\":\"h3\",\"children\":[{\"text\":\"Bug Fixes\",\"bold\":true},{\"text\":\" \"}]},{\"type\":\"ul\",\"children\":[{\"type\":\"li\",\"children\":[{\"text\":\"Fixed an issue where the main image was not uploaded to Catch listings.\"}]},{\"type\":\"li\",\"children\":[{\"text\":\"Fixed an issue where an error occurred when approving quotes.\"}]},{\"type\":\"li\",\"children\":[{\"type\":\"lic\",\"children\":[{\"text\":\"Fixed an issue where the calendar didn't appear in the Payment Date field on sales orders.\"}]}]}]},{\"type\":\"p\",\"children\":[{\"text\":\" \"}]}]",
+  "format": "rich2",
+  "featured": false,
+  "locale": "en",
+  "status": "published",
+  "foreignID": null,
+  "dateUpdated": "2025-05-29T15:49:23+00:00",
+  "_source_kb_id": 12,
+  "_source_kb_name": "Neto Release Notes",
+  "_sync_date": "2026-02-02T05:59:23.770456+00:00"
+}

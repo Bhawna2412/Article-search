@@ -1,0 +1,31 @@
+{
+  "articleID": 2060,
+  "name": "Required Data",
+  "format": "rich2",
+  "locale": "en",
+  "body": "[{\"type\": \"p\", \"children\": [{\"text\": \"When integrating with the JSON API or SDKs, you need to provide user objects containing uid and sid identifiers that enable personalization features. These identifiers help the platform track users across sessions and deliver personalized search results, recommendations, and product suggestions tailored to individual shopping behaviors.\"}]}, {\"type\": \"p\", \"children\": [{\"text\": \"For optimal personalization, providing additional user properties like email, IP address, user agent, and language preferences enables more accurate behavioral tracking across devices and better recommendation quality. This helps ensure customers see relevant products based on their complete browsing history and preferences, which tends to enhance engagement and conversion rates.\"}]}, {\"type\": \"p\", \"children\": [{\"text\": \"When using the JSON API directly, or high-level SDKs and JS libraries, there several entities that must be provided.\"}]}, {\"type\": \"h2\", \"children\": [{\"text\": \"\\nThe user object\"}]}, {\"type\": \"p\", \"children\": [{\"text\": \"It defines the current user, which gives just enough information to enable personalization.\"}]}, {\"type\": \"p\", \"children\": [{\"text\": \"User object has two properties that are required\\u00a0\"}, {\"text\": \"uid\", \"code\": true}, {\"text\": \"\\u00a0and\\u00a0\"}, {\"text\": \"sid\", \"code\": true}]}, {\"type\": \"h3\", \"children\": [{\"text\": \"user.uid\"}]}, {\"type\": \"p\", \"children\": [{\"text\": \"string\", \"bold\": true}, {\"text\": \"\\n\"}, {\"text\": \"max length: 32 characters\", \"bold\": true}, {\"text\": \"\\n\\nThis is a unique identified of the user across multiple sessions. You can store the uid in the cookie or get it from any other source (like a database). It must uniquly identify the user.\"}]}, {\"type\": \"h3\", \"children\": [{\"text\": \"user.sid\"}]}, {\"type\": \"p\", \"children\": [{\"text\": \"string\", \"bold\": true}, {\"text\": \"\\n\"}, {\"text\": \"max length: 32 characters\", \"bold\": true}, {\"text\": \"\\n\\nA unique session identifier, the best is to store the value in a cookie on the client side, with a TTL of 30 minutes or use a session ID that your platform provides.\"}]}, {\"type\": \"p\", \"children\": [{\"text\": \"Other user properties are not required and the API will answer if they are not provided.\"}]}, {\"type\": \"callout\", \"children\": [{\"type\": \"callout-item\", \"children\": [{\"text\": \"\\ud83d\\udea7 \"}, {\"text\": \"Personalization\", \"bold\": true}, {\"text\": \":\"}]}, {\"type\": \"callout-item\", \"children\": [{\"text\": \"For the best results, our personalization platform requires\\u00a0\"}, {\"text\": \"user.email\", \"code\": true}, {\"text\": \",\\u00a0\"}, {\"text\": \"user.ua\", \"code\": true}, {\"text\": \",\\u00a0\"}, {\"text\": \"user.ip\", \"code\": true}, {\"text\": \"\\u00a0and\\u00a0\"}, {\"text\": \"user.lang\", \"code\": true}, {\"text\": \"\\u00a0properties\"}]}], \"appearance\": \"info\"}, {\"type\": \"h3\", \"children\": [{\"text\": \"user.email\"}]}, {\"type\": \"p\", \"children\": [{\"text\": \"string\", \"bold\": true}, {\"text\": \"\\n\\nThe email from the user, if the user is logged in. Providing an email allows us to track the user across devices and give them relevant personalized results.\"}]}, {\"type\": \"h3\", \"children\": [{\"text\": \"user.ip\"}]}, {\"type\": \"p\", \"children\": [{\"text\": \"string\", \"bold\": true}, {\"text\": \"\\n\\nBy default we get the ip from the request that we receive, but if you are using a direct JSON API integration or for some reason the call is made not from the user's browser, please include the relevant user ip in the request.\"}]}, {\"type\": \"h3\", \"children\": [{\"text\": \"user.ua\"}]}, {\"type\": \"p\", \"children\": [{\"text\": \"string\", \"bold\": true}, {\"text\": \"\\n\\nBy default we get the user agent from the request that we receive, but if you are using a direct JSON API integration or for some reason the call is made not from the user's browser, please include the relevant user user agent in the request.\"}]}, {\"type\": \"h3\", \"children\": [{\"text\": \"user.lang\"}]}, {\"type\": \"p\", \"children\": [{\"text\": \"list of string\", \"bold\": true}, {\"text\": \"\\n\\nBy default we get the user languages from the request that we receive, but if you are using a direct JSON API integration or for some reason the call is made not from the user's browser, please include the relevant user user languages in the request. You can use either an ISO 639-1 language format code or include the locale code:\\u00a0\"}, {\"text\": \"en-GB\", \"code\": true}, {\"text\": \".\"}]}, {\"type\": \"h3\", \"children\": [{\"text\": \"t_client\"}]}, {\"type\": \"p\", \"children\": [{\"text\": \"A timestamp from the client side of the user, useful to keep the right ordering of the events that happened.\"}]}, {\"type\": \"p\", \"children\": [{\"text\": \"\"}]}]",
+  "knowledgeCategoryID": 460,
+  "sort": 2,
+  "status": "published",
+  "_source_kb_id": 5,
+  "_source_kb_name": "Merchandising Cloud",
+  "_fix_date": "2026-02-02T06:05:46.196861+00:00",
+  "fixes_applied": {
+    "urls": {
+      "leaving_cleaned": 0,
+      "unsafe_removed": 0,
+      "s_article_mapped": 0,
+      "s_article_removed": 0,
+      "fragments_mapped": 0,
+      "fragments_stripped": 0,
+      "internal_fragments_fixed": 0,
+      "double_id_fixed": 0,
+      "kb_fragments_stripped": 0
+    },
+    "toc": 0,
+    "related": 1,
+    "lists": 0,
+    "headings": 0,
+    "reconverted": false
+  }
+}

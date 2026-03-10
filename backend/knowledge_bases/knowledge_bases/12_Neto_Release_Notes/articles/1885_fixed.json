@@ -1,0 +1,16 @@
+{
+  "articleID": 1885,
+  "knowledgeCategoryID": 454,
+  "sort": 4,
+  "name": "Neto by Maropost Release Notes – 9 Feb 2021",
+  "body": "[{\"type\":\"p\",\"children\":[{\"text\":\"Release Version\",\"bold\":true},{\"text\":\": 6.138\"}]},{\"type\":\"p\",\"children\":[{\"text\":\" \"}]},{\"type\":\"h2\",\"children\":[{\"text\":\"Minor Changes\",\"bold\":true}]},{\"type\":\"ul\",\"children\":[{\"type\":\"li\",\"children\":[{\"type\":\"lic\",\"children\":[{\"text\":\"Klayvio for Neto (by Keetrax) add-on has launched, and is available to install from the \"},{\"text\":\"Addons\",\"bold\":true},{\"text\":\" menu in your control panel. \"}]}]}]},{\"type\":\"p\",\"children\":[{\"text\":\" \"}]},{\"type\":\"h2\",\"children\":[{\"text\":\"Bug Fixes\",\"bold\":true}]},{\"type\":\"ul\",\"children\":[{\"type\":\"li\",\"children\":[{\"type\":\"lic\",\"children\":[{\"text\":\"Fixed an issue with the eBay integration where orders were marked as \"},{\"text\":\"On Hold\",\"bold\":true},{\"text\":\" with payment mapping messages, despite being mapped correctly.\"}]}]}]},{\"type\":\"p\",\"children\":[{\"text\":\" \"}]}]",
+  "format": "rich2",
+  "featured": false,
+  "locale": "en",
+  "status": "published",
+  "foreignID": null,
+  "dateUpdated": "2025-07-10T15:09:09+00:00",
+  "_source_kb_id": 12,
+  "_source_kb_name": "Neto Release Notes",
+  "_sync_date": "2026-02-02T05:59:04.901468+00:00"
+}

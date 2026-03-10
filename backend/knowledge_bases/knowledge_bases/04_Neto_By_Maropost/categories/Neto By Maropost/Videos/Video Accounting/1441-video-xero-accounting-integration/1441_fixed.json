@@ -1,0 +1,27 @@
+{
+  "articleID": 1441,
+  "name": "Video: Xero Accounting Integration",
+  "slug": "1441-video-xero-accounting-integration",
+  "format": "rich2",
+  "locale": "en",
+  "body": "[{\"type\": \"rich_embed_card\", \"children\": [{\"text\": \"\"}], \"dataSourceType\": \"url\", \"url\": \"https://youtu.be/vyzYs2Lrjb8\", \"embedData\": {\"height\": 315, \"width\": 560, \"photoUrl\": \"https://i.ytimg.com/vi/vyzYs2Lrjb8/hqdefault.jpg\", \"videoID\": \"vyzYs2Lrjb8\", \"showRelated\": false, \"start\": 0, \"url\": \"https://youtu.be/vyzYs2Lrjb8\", \"embedType\": \"youtube\", \"name\": \"\", \"frameSrc\": \"https://www.youtube.com/embed/vyzYs2Lrjb8?feature=oembed&autoplay=1\"}}, {\"type\": \"p\", \"children\": [{\"text\": \"\"}]}]",
+  "fixes_applied": {
+    "rebrand": 1,
+    "urls": {
+      "leaving_cleaned": 0,
+      "unsafe_removed": 0,
+      "s_article_mapped": 0,
+      "s_article_removed": 3,
+      "fragments_mapped": 0,
+      "fragments_stripped": 0,
+      "internal_fragments_fixed": 0,
+      "double_id_fixed": 0,
+      "kb_fragments_stripped": 0
+    },
+    "toc": 0,
+    "related": 1,
+    "lists": 0,
+    "headings": 0,
+    "reconverted": false
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "articleID": 2073,
+  "knowledgeCategoryID": 464,
+  "sort": 0,
+  "name": "JS SDK Overview",
+  "body": "[{\"type\": \"h2\", \"children\": [{\"text\": \"Overview\"}]}, {\"type\": \"p\", \"children\": [{\"text\": \"The JavaScript SDK provides a high-level wrapper around the low-level JSON API, simplifying integration by handling request formatting, authentication, and response parsing. This enables developers to implement search, recommendations, and other features more efficiently using familiar JavaScript patterns rather than managing raw API calls.\"}]}, {\"type\": \"p\", \"children\": [{\"text\": \"Using the SDK helps streamline development by providing typed interfaces and helper methods that reduce implementation complexity while ensuring correct API usage. This tends to accelerate integration timelines and reduce errors compared to working directly with the JSON API.\"}]}, {\"type\": \"p\", \"children\": [{\"text\": \"Maropost Merchandising Cloud (formerly Findify) JS SDK is a JavaScript wrapper of the low-level JSON API.\"}]}]",
+  "format": "rich2",
+  "featured": false,
+  "locale": "en",
+  "status": "published",
+  "foreignID": null,
+  "dateUpdated": "2026-02-02T06:09:28+00:00",
+  "_source_kb_id": 5,
+  "_source_kb_name": "Merchandising Cloud",
+  "_sync_date": "2026-02-06T07:21:33.634051+00:00",
+  "_incremental_update": true
+}

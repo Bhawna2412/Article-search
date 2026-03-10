@@ -1,0 +1,16 @@
+{
+  "articleID": 1778,
+  "knowledgeCategoryID": 431,
+  "sort": null,
+  "name": "Retail Express",
+  "body": "[{\"type\":\"p\",\"children\":[{\"text\":\"Contact us using one of the phone numbers or submit a ticket through the portal or the request form.\"}]},{\"type\":\"h3\",\"children\":[{\"text\":\"Customer Support Hours\"}]},{\"type\":\"p\",\"children\":[{\"text\":\"Support is available Monday-Friday, 9 AM to 5 PM AEST.\"}]},{\"type\":\"h3\",\"children\":[{\"text\":\"Phone\"}]},{\"type\":\"p\",\"children\":[{\"text\":\"Australia +61 7 3077 9696\"}]},{\"type\":\"p\",\"children\":[{\"text\":\"Australia (Toll Free) +61 1300 730 300\"}]},{\"type\":\"p\",\"children\":[{\"text\":\"New Zealand +64 9 951 8356\"}]},{\"type\":\"p\",\"children\":[{\"text\":\"United States +1 720.835.0109\"}]},{\"type\":\"p\",\"children\":[{\"text\":\"United States (Toll Free) +1 855.754.3252\"}]},{\"type\":\"p\",\"children\":[{\"text\":\"\"}]}]",
+  "format": "rich2",
+  "featured": false,
+  "locale": "en",
+  "status": "published",
+  "foreignID": null,
+  "dateUpdated": "2025-05-14T20:48:27+00:00",
+  "_source_kb_id": 9,
+  "_source_kb_name": "Contact Us",
+  "_sync_date": "2026-02-02T05:55:45.781738+00:00"
+}

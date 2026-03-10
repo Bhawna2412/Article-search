@@ -1,0 +1,16 @@
+{
+  "articleID": 1251,
+  "knowledgeCategoryID": 1,
+  "sort": 54,
+  "name": "Epson Port Assignment Tool Error - When uninstalling",
+  "body": "<h1 data-id=\"epson-port-assignment-tool-error-when-uninstalling\">Epson Port Assignment Tool Error - When uninstalling </h1>\n<p><span>Epson Port Assignment Tool Error - When uninstalling</span><span> </span></p>\n<p><span>?A Port to TM Virtual Port Driver is Used?</span><span> </span></p>\n<p><span>There is a known issue where you will be unable to uninstall / use the Epson TM Port Assignment Tool, with an error message appearing saying </span><strong><em><span>?A Port ot TM Virtual Port Driver is Used?.</span></em></strong><span> </span><span> </span></p>\n<p><span>This is essentially saying that the Epson TM Virtual Port Assignment Tool is in use by another Service, in this case it is the ?</span><strong><em><span>Epson Port Configuration Tool?.</span></em></strong><span> </span><span> </span></p>\n<ol><li><span>Go to Services </span><em><span>(either by searching from the Start Menu or opening from Task Manager).</span></em><span> </span><span> </span></li><li><span>Find the Service related to </span><strong><em><span>Epson Port Configuration</span></em></strong><span>, then stop it. </span><span> </span></li><li><span>Open CMD as Administrator (Start Menu, search CMD, Right-Click, Run as Administrator). </span><span> </span></li><li><span>Enter the following, ensuring you match the SERVICENAME section to the name of the Service located in Step 2</span><span> </span></li><li><span>Uninstall the TM Port Assignment Tool and re-install to ensure no issues persist.</span><span> </span></li><li><span>Test and confirm that the tool is now usable and then map out the relevant port for the Label Printer. </span><span> </span></li></ol>",
+  "format": "html",
+  "featured": false,
+  "locale": "en",
+  "status": "published",
+  "foreignID": null,
+  "dateUpdated": "2023-06-01T04:05:22+00:00",
+  "_source_kb_id": 1,
+  "_source_kb_name": "Help Articles",
+  "_sync_date": "2026-02-02T05:48:30.689568+00:00"
+}

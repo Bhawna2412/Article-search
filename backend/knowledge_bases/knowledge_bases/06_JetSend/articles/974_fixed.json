@@ -1,0 +1,16 @@
+{
+  "articleID": 974,
+  "knowledgeCategoryID": 93,
+  "sort": 0,
+  "name": "JetSend - Overview",
+  "body": "<p>Transactional emails are automatically generated emails that are triggered by customers' actions in your platform. They are widely used by businesses to communicate with their customers. For example, a welcome email after a customer subscribes to a product or service, a confirmation email after a customer places an order, a notification email after a customer updates their password, payment reminders, payment confirmations, shipping updates, and so on.</p>\n<p>Transactional emails are very important for any business as they not only communicate important information, they also help form trust and improve credibility.</p>\n<p> </p>\n<h2 data-id=\"why-choose-us\">Why Choose Us?</h2>\n<p>When you are sending emails in large volumes, you want to ensure they are not marked as spam and hence require powerful deliverability. You also want to ensure that you are sending emails to the correct addresses. Hence, you require a good tracking mechanism. JetSend is built on these features and more.</p>\n<ul><li>Robust Platform</li><li>Strong deliverability</li><li>Simplified setup process</li><li>Ability to track and analyze the sent emails</li><li>Manage contacts and suppression lists</li></ul>",
+  "format": "html",
+  "featured": false,
+  "locale": "en",
+  "status": "published",
+  "foreignID": null,
+  "dateUpdated": "2024-04-11T15:25:49+00:00",
+  "_source_kb_id": 6,
+  "_source_kb_name": "JetSend",
+  "_sync_date": "2026-02-02T05:55:16.031120+00:00"
+}

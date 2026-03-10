@@ -1,0 +1,29 @@
+{
+  "articleID": 1464,
+  "name": "Add a Custom Sales Channel",
+  "slug": "1464-add-a-custom-sales-channel",
+  "format": "rich2",
+  "locale": "en",
+  "body": "[{\"type\": \"p\", \"children\": [{\"text\": \"Sales channels are used to track the system or marketplace where an order was placed, or customer acquired. You can add a custom sales channel to track orders that are added manually, imported, or created through the Neto API.\"}]}, {\"type\": \"p\", \"children\": [{\"text\": \"To add a custom sales channel:\"}]}, {\"type\": \"ol\", \"children\": [{\"type\": \"li\", \"children\": [{\"type\": \"lic\", \"children\": [{\"text\": \"In your Neto control panel navigate to \"}, {\"text\": \"Settings & tools\", \"bold\": true}, {\"text\": \" > \"}, {\"text\": \"All settings & tools\", \"bold\": true}, {\"text\": \".\"}]}]}, {\"type\": \"li\", \"children\": [{\"type\": \"lic\", \"children\": [{\"text\": \"In the Sales Orders & Invoices section click on \"}, {\"text\": \"Sales Channels\", \"bold\": true}, {\"text\": \".\"}]}, {\"type\": \"p\", \"children\": [{\"text\": \"Your sales channels will display with visible/hidden statuses for customers and sales orders. When these are visible you can select them when creating an order or customer.\"}]}]}, {\"type\": \"li\", \"children\": [{\"type\": \"lic\", \"children\": [{\"text\": \"Click the \"}, {\"text\": \"Add new\", \"bold\": true}, {\"text\": \" button.\"}]}, {\"type\": \"p\", \"children\": [{\"text\": \"\"}]}]}, {\"type\": \"li\", \"children\": [{\"type\": \"lic\", \"children\": [{\"text\": \"Enter the \"}, {\"text\": \"Name\", \"bold\": true}, {\"text\": \" of your sales channel, and select the \"}, {\"text\": \"Visible in Customers\", \"bold\": true}, {\"text\": \" and \"}, {\"text\": \"Visible in Orders\", \"bold\": true}, {\"text\": \" checkboxes.\"}]}, {\"type\": \"p\", \"children\": [{\"text\": \"\"}]}]}, {\"type\": \"li\", \"children\": [{\"type\": \"lic\", \"children\": [{\"text\": \"Select the \"}, {\"text\": \"Auto save changes to order total on status change\", \"bold\": true}, {\"text\": \" box if you do not want warnings when order totals change.\"}]}]}, {\"type\": \"li\", \"children\": [{\"type\": \"lic\", \"children\": [{\"text\": \"Click the \"}, {\"text\": \"Save & Close\", \"bold\": true}, {\"text\": \" button.\"}]}]}]}, {\"type\": \"p\", \"children\": [{\"text\": \"Your sales channel is now created, and can be assigned to sales orders and customers.\"}]}]",
+  "fixes_applied": {
+    "rebrand": 0,
+    "urls": {
+      "leaving_cleaned": 2,
+      "unsafe_removed": 0,
+      "s_article_mapped": 0,
+      "s_article_removed": 0,
+      "fragments_mapped": 0,
+      "fragments_stripped": 0,
+      "internal_fragments_fixed": 0,
+      "double_id_fixed": 0,
+      "kb_fragments_stripped": 0
+    },
+    "toc": 0,
+    "related": 0,
+    "lists": 6,
+    "headings": 0,
+    "reconverted": false
+  },
+  "_sf_cleanup_date": "2026-02-02T06:17:42.013434+00:00",
+  "_sf_removals": 2
+}

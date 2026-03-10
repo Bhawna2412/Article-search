@@ -1,0 +1,27 @@
+{
+  "articleID": 1424,
+  "name": "Reverse or Cancel a Pick In Maropost Commerce Cloud Pick'n Pack",
+  "slug": "1424-reverse-or-cancel-a-pick-in-maropost-commerce-cloud-pickn-pack",
+  "format": "rich2",
+  "locale": "en",
+  "body": "[{\"type\": \"p\", \"children\": [{\"text\": \"If you make a mistake whilst picking, such as incorrectly picking or back-ordering an order line, you can adjust the order whilst it is still in Pick status. If you have already moved it to pack, it will need to be sent back to pick first.\"}]}, {\"type\": \"ol\", \"children\": [{\"type\": \"li\", \"children\": [{\"type\": \"lic\", \"children\": [{\"text\": \"Touch or Click on\"}, {\"text\": \" Show Processed Lines\", \"bold\": true}, {\"text\": \", this will display a list of order lines that have already been processed.\"}]}, {\"type\": \"rich_embed_card\", \"dataSourceType\": \"image\", \"url\": \"https://us.v-cdn.net/6038474/uploads/attachments/migrated/ReverseorCancelaPickInMaropostCommerceCloudPicknPack1.05T5g00000SSvosEAD.png\", \"embedData\": {\"url\": \"https://us.v-cdn.net/6038474/uploads/attachments/migrated/ReverseorCancelaPickInMaropostCommerceCloudPicknPack1.05T5g00000SSvosEAD.png\", \"embedType\": \"image\", \"displaySize\": \"large\", \"float\": \"none\"}, \"children\": [{\"text\": \"\"}]}]}, {\"type\": \"li\", \"children\": [{\"type\": \"lic\", \"children\": [{\"text\": \"Touch or click the black \"}, {\"text\": \"Qty Ordered\", \"bold\": true}, {\"text\": \" \"}, {\"text\": \"button \", \"bold\": true}, {\"text\": \"you want to edit.\"}]}, {\"type\": \"rich_embed_card\", \"dataSourceType\": \"image\", \"url\": \"https://us.v-cdn.net/6038474/uploads/attachments/migrated/ReverseorCancelaPickInMaropostCommerceCloudPicknPack2.05T5g00000SSvpREAT.png\", \"embedData\": {\"url\": \"https://us.v-cdn.net/6038474/uploads/attachments/migrated/ReverseorCancelaPickInMaropostCommerceCloudPicknPack2.05T5g00000SSvpREAT.png\", \"embedType\": \"image\", \"displaySize\": \"large\", \"float\": \"none\"}, \"children\": [{\"text\": \"\"}]}]}, {\"type\": \"li\", \"children\": [{\"type\": \"lic\", \"children\": [{\"text\": \"This will reset your previous action and ask you to re-enter the Qty. Use the \"}, {\"text\": \"+\", \"bold\": true}, {\"text\": \" and \"}, {\"text\": \"-\", \"bold\": true}, {\"text\": \" symbols to increase and decrease the Qty, then press \"}, {\"text\": \"Apply\", \"bold\": true}, {\"text\": \".\"}]}, {\"type\": \"rich_embed_card\", \"dataSourceType\": \"image\", \"url\": \"https://us.v-cdn.net/6038474/uploads/attachments/migrated/ReverseorCancelaPickInMaropostCommerceCloudPicknPack3.05T5g00000SSvpbEAD.png\", \"embedData\": {\"url\": \"https://us.v-cdn.net/6038474/uploads/attachments/migrated/ReverseorCancelaPickInMaropostCommerceCloudPicknPack3.05T5g00000SSvpbEAD.png\", \"embedType\": \"image\", \"displaySize\": \"large\", \"float\": \"none\"}, \"children\": [{\"text\": \"\"}]}]}, {\"type\": \"li\", \"children\": [{\"type\": \"lic\", \"children\": [{\"text\": \"Here's how the process looks from start to finish.\"}]}, {\"type\": \"rich_embed_card\", \"dataSourceType\": \"image\", \"url\": \"https://us.v-cdn.net/6038474/uploads/attachments/migrated/ReverseorCancelaPickInMaropostCommerceCloudPicknPack4.05T5g00000SSvplEAD.gif\", \"embedData\": {\"url\": \"https://us.v-cdn.net/6038474/uploads/attachments/migrated/ReverseorCancelaPickInMaropostCommerceCloudPicknPack4.05T5g00000SSvplEAD.gif\", \"embedType\": \"image\", \"displaySize\": \"large\", \"float\": \"none\"}, \"children\": [{\"text\": \"\"}]}]}]}]",
+  "fixes_applied": {
+    "rebrand": 0,
+    "urls": {
+      "leaving_cleaned": 0,
+      "unsafe_removed": 0,
+      "s_article_mapped": 0,
+      "s_article_removed": 0,
+      "fragments_mapped": 0,
+      "fragments_stripped": 0,
+      "internal_fragments_fixed": 0,
+      "double_id_fixed": 0,
+      "kb_fragments_stripped": 0
+    },
+    "toc": 0,
+    "related": 0,
+    "lists": 4,
+    "headings": 0,
+    "reconverted": true
+  }
+}

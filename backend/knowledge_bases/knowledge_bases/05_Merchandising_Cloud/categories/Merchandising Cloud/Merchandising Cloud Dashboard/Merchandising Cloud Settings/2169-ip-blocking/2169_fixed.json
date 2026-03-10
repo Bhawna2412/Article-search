@@ -1,0 +1,31 @@
+{
+  "articleID": 2169,
+  "name": "IP Blocking",
+  "format": "rich2",
+  "locale": "en",
+  "body": "[{\"type\": \"p\", \"children\": [{\"text\": \"You can exclude specific IP addresses from your Merchandising Cloud analytics and personalization data to ensure your metrics accurately reflect real customer behavior rather than internal team activity. \"}]}, {\"type\": \"p\", \"children\": [{\"text\": \"This capability helps you maintain cleaner analytics data and more accurate personalization algorithms by filtering out employee browsing patterns that could skew your merchandising insights.\"}]}, {\"type\": \"p\", \"children\": [{\"text\": \"Excluding internal IP addresses from analytics tracking enables more reliable data-driven merchandising decisions. When employees regularly visit your store to check products or test features, their behavior can affect personalization recommendations and analytics reporting. IP blocking ensures your performance metrics and AI-powered personalization reflect genuine customer patterns, leading to better optimization decisions.\"}]}, {\"type\": \"p\", \"children\": [{\"text\": \"\"}]}, {\"type\": \"p\", \"children\": [{\"text\": \"When to Exclude IP Addresses\"}]}, {\"type\": \"rich_embed_card\", \"children\": [{\"text\": \"\"}], \"dataSourceType\": \"image\", \"url\": \"https://us.v-cdn.net/6038474/uploads/IYRBCTVEBNZ0/574a7ae-blog-graphic-ip-exclusion-v6.png\", \"embedData\": {\"url\": \"https://us.v-cdn.net/6038474/uploads/IYRBCTVEBNZ0/574a7ae-blog-graphic-ip-exclusion-v6.png\", \"name\": \"574a7ae-Blog_Graphic_IP_Exclusion_V6.png\", \"type\": \"image/png\", \"size\": 328180, \"width\": 1280, \"height\": 720, \"displaySize\": \"large\", \"float\": \"none\", \"downloadUrl\": \"https://galaxy.maropost.com/api/v2/media/download-by-url?url=https%3A%2F%2Fus.v-cdn.net%2F6038474%2Fuploads%2FIYRBCTVEBNZ0%2F574a7ae-blog-graphic-ip-exclusion-v6.png\", \"mediaID\": 1023, \"dateInserted\": \"2025-10-06T18:00:02+00:00\", \"insertUserID\": 1178, \"foreignType\": \"embed\", \"foreignID\": \"1178\", \"embedType\": \"image\"}}, {\"type\": \"p\", \"children\": [{\"text\": \"\"}]}, {\"type\": \"p\", \"children\": [{\"text\": \"As part of our ongoing quest to make merchant lives easier, an IP Exclusion capability has been released.\"}]}, {\"type\": \"p\", \"children\": [{\"text\": \"Clients have the ability to dictate which IP addresses to exclude from their Maropost Merchandising Cloud (formerly Findify) analytics and personalization data.\"}]}, {\"type\": \"p\", \"children\": [{\"text\": \"There are many reasons why a client would want to exclude certain IP addresses, including the common scenario where employees are regularly visiting the web store to check the products.\"}]}, {\"type\": \"p\", \"children\": [{\"text\": \"If unchecked, this behaviour can end up affecting the personalization algorithm as well as slightly skewing the analytics merchants rely on to make data-driven merchandising decisions.\"}]}, {\"type\": \"rich_embed_card\", \"children\": [{\"text\": \"\"}], \"dataSourceType\": \"image\", \"url\": \"https://us.v-cdn.net/6038474/uploads/EZYA2CVAB0Y5/308f0fc-ip-blocking-image.png\", \"embedData\": {\"url\": \"https://us.v-cdn.net/6038474/uploads/EZYA2CVAB0Y5/308f0fc-ip-blocking-image.png\", \"name\": \"308f0fc-IP_Blocking_image.png\", \"type\": \"image/png\", \"size\": 54567, \"width\": 1100, \"height\": 554, \"displaySize\": \"large\", \"float\": \"none\", \"downloadUrl\": \"https://galaxy.maropost.com/api/v2/media/download-by-url?url=https%3A%2F%2Fus.v-cdn.net%2F6038474%2Fuploads%2FEZYA2CVAB0Y5%2F308f0fc-ip-blocking-image.png\", \"mediaID\": 1024, \"dateInserted\": \"2025-10-06T18:00:15+00:00\", \"insertUserID\": 1178, \"foreignType\": \"embed\", \"foreignID\": \"1178\", \"embedType\": \"image\"}}, {\"type\": \"p\", \"children\": [{\"text\": \"\\nHow to Exclude IP Addresses\"}]}, {\"type\": \"p\", \"children\": [{\"text\": \"Clients have only to log in to their merchant dashboard, then navigate first to \\u2018Settings\\u2019 then to \\u2018Advanced Setup\\u2019. Here you will find \\u2018IP Blocking\\u2019. In seconds, clients can easily add as many IP addresses as they wish.\"}]}, {\"type\": \"p\", \"children\": [{\"text\": \"\"}]}]",
+  "knowledgeCategoryID": 391,
+  "sort": 2,
+  "status": "published",
+  "_source_kb_id": 5,
+  "_source_kb_name": "Merchandising Cloud",
+  "_fix_date": "2026-02-02T06:05:46.621719+00:00",
+  "fixes_applied": {
+    "urls": {
+      "leaving_cleaned": 0,
+      "unsafe_removed": 0,
+      "s_article_mapped": 0,
+      "s_article_removed": 0,
+      "fragments_mapped": 0,
+      "fragments_stripped": 0,
+      "internal_fragments_fixed": 0,
+      "double_id_fixed": 0,
+      "kb_fragments_stripped": 0
+    },
+    "toc": 0,
+    "related": 1,
+    "lists": 0,
+    "headings": 0,
+    "reconverted": false
+  }
+}

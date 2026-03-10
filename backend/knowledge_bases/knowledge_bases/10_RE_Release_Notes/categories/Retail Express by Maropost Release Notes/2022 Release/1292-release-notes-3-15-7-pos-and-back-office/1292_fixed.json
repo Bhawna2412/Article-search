@@ -1,0 +1,16 @@
+{
+  "articleID": 1292,
+  "knowledgeCategoryID": 447,
+  "sort": 9,
+  "name": "Release Notes 3.15.7 - POS and Back Office",
+  "body": "<h1 data-id=\"release-notes-3-15-7-pos-and-back-office\">Release Notes 3.15.7 - POS and Back Office</h1>\n<div>\n<p>This update will become available to all users by 12th July 2022.</p>\n</div>\n<h2 data-id=\"new-features\">New Features</h2>\n<h3 data-id=\"new-payment-types\">New Payment Types</h3>\n<p>We've added some new <a rel=\"nofollow\" href=\"https://galaxy.maropost.com/s/article/Configuring-Payment-Types\">Payment Types</a> to Retail Express, providing users with more detailed financial reporting and reconciliation.</p>\n<p>These Payment Types can be manually selected in POS or mapped to online Payment Methods for eCommerce Integrations.</p>\n<ul><li>Myer</li><li>Westfield Direct</li><li>BPAY</li><li>Klarna</li><li>DoorDash</li><li>Latitude</li><li>Internal Voucher</li><li>Buy Aussie Now</li><li>Trade In</li></ul><p>The new <a rel=\"nofollow\" href=\"https://galaxy.maropost.com/s/article/Configuring-Payment-Types\">Payment Types</a> are available via <strong>Settings &gt; Payment Types</strong> and will be disabled by default.</p>\n<h2 data-id=\"improvements-and-resolutions\">Improvements and Resolutions</h2>\n<h3 data-id=\"improvements\">Improvements</h3>\n<ul><li>The POS Email Template placeholder [Customer Name] will now display the customer's First and Last Name (the [Customer First Name] field is still available to display the first name only).</li></ul><h3 data-id=\"resolutions\">Resolutions</h3>\n<ul><li>Customer details will now be saved if there is a full stop (.) in their name. Additionally, any invalid characters in their name that cannot be saved will prompt an error when the user tries to save the customer in Back Office.</li><li>The Back Office Dashboard \"Staff\" tab now displays data as per the selected Date Range filter</li></ul>",
+  "format": "html",
+  "featured": false,
+  "locale": "en",
+  "status": "published",
+  "foreignID": null,
+  "dateUpdated": "2023-05-11T04:47:52+00:00",
+  "_source_kb_id": 10,
+  "_source_kb_name": "RE Release Notes",
+  "_sync_date": "2026-02-02T05:56:53.650203+00:00"
+}

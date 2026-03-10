@@ -1,0 +1,31 @@
+{
+  "articleID": 2069,
+  "name": "NPM: Analytics JS",
+  "format": "rich2",
+  "locale": "en",
+  "body": "[{\"type\": \"h2\", \"children\": [{\"text\": \"Overview\"}]}, {\"type\": \"p\", \"children\": [{\"text\": \"The Analytics JS package is available through npm, enabling easy installation and version management for JavaScript projects using standard package management workflows. This streamlines integration by allowing you to add analytics capabilities to your build process and keep the library updated through familiar dependency management tools.\"}]}, {\"type\": \"p\", \"children\": [{\"text\": \"Using npm for Analytics JS installation helps ensure you can quickly implement behavioral tracking, manage library versions consistently across environments, and integrate analytics functionality into modern JavaScript development workflows.\"}]}, {\"type\": \"h2\", \"children\": [{\"text\": \"Installation\"}]}, {\"type\": \"p\", \"children\": [{\"text\": \"Install the Analytics JS package using npm:\"}]}, {\"type\": \"code_block\", \"lang\": \"bash\", \"children\": [{\"type\": \"code_line\", \"children\": [{\"text\": \"npm install @findify/analytics\"}]}]}, {\"type\": \"h2\", \"children\": [{\"text\": \"Package Information\"}]}, {\"type\": \"p\", \"children\": [{\"text\": \"View the package on NPM: \"}, {\"type\": \"a\", \"url\": \"https://www.npmjs.com/package/@findify/analytics\", \"target\": \"_blank\", \"children\": [{\"text\": \"https://www.npmjs.com/package/@findify/analytics\"}]}]}, {\"type\": \"h2\", \"children\": [{\"text\": \"Usage\"}]}, {\"type\": \"p\", \"children\": [{\"text\": \"Import and initialize the Analytics library in your project:\"}]}, {\"type\": \"code_block\", \"lang\": \"javascript\", \"children\": [{\"type\": \"code_line\", \"children\": [{\"text\": \"import analytics from '@findify/analytics';\"}]}, {\"type\": \"code_line\", \"children\": [{\"text\": \"// Initialize analytics\"}]}, {\"type\": \"code_line\", \"children\": [{\"text\": \"const client = analytics.init({\"}]}, {\"type\": \"code_line\", \"children\": [{\"text\": \"  key: 'your-api-key',\"}]}, {\"type\": \"code_line\", \"children\": [{\"text\": \"  user: {\"}]}, {\"type\": \"code_line\", \"children\": [{\"text\": \"    uid: 'user-id',\"}]}, {\"type\": \"code_line\", \"children\": [{\"text\": \"    sid: 'session-id'\"}]}, {\"type\": \"code_line\", \"children\": [{\"text\": \"  }\"}]}, {\"type\": \"code_line\", \"children\": [{\"text\": \"});\"}]}]}]",
+  "knowledgeCategoryID": 463,
+  "sort": 2,
+  "status": "published",
+  "_source_kb_id": 5,
+  "_source_kb_name": "Merchandising Cloud",
+  "_fix_date": "2026-02-02T06:05:46.285053+00:00",
+  "fixes_applied": {
+    "urls": {
+      "leaving_cleaned": 0,
+      "unsafe_removed": 0,
+      "s_article_mapped": 0,
+      "s_article_removed": 0,
+      "fragments_mapped": 0,
+      "fragments_stripped": 0,
+      "internal_fragments_fixed": 0,
+      "double_id_fixed": 0,
+      "kb_fragments_stripped": 0
+    },
+    "toc": 0,
+    "related": 1,
+    "lists": 0,
+    "headings": 0,
+    "reconverted": false
+  }
+}

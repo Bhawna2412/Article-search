@@ -1,0 +1,16 @@
+{
+  "articleID": 1954,
+  "knowledgeCategoryID": 452,
+  "sort": 21,
+  "name": "Neto by Maropost Release Notes – 13 Feb 2023",
+  "body": "[{\"type\":\"p\",\"children\":[{\"text\":\"Fixes\",\"bold\":true}]},{\"type\":\"ul\",\"children\":[{\"type\":\"li\",\"children\":[{\"type\":\"lic\",\"children\":[{\"text\":\"Fixed an issue with eBay Business Processes where an error stating “The requested scope is invalid, unknown, malformed, or exceeds the scope granted to the client” occurred when attempting to (re)generate a new eBay authorisation token.\"}]}]},{\"type\":\"li\",\"children\":[{\"type\":\"lic\",\"children\":[{\"text\":\"Fixed an issue with checkout where some hosted icons, including navigational icons, were not loading. For example, in the date chooser, the arrows allow scrolling of the month.\"}]}]}]},{\"type\":\"p\",\"children\":[{\"text\":\" \"}]}]",
+  "format": "rich2",
+  "featured": false,
+  "locale": "en",
+  "status": "published",
+  "foreignID": null,
+  "dateUpdated": "2025-07-16T01:29:33+00:00",
+  "_source_kb_id": 12,
+  "_source_kb_name": "Neto Release Notes",
+  "_sync_date": "2026-02-02T05:58:35.764067+00:00"
+}

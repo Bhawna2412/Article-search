@@ -1,0 +1,16 @@
+{
+  "articleID": 1857,
+  "knowledgeCategoryID": 455,
+  "sort": 4,
+  "name": "Neto by Maropost Release Notes – 12 Sep 2019",
+  "body": "[{\"type\":\"p\",\"children\":[{\"text\":\"Release Version\",\"bold\":true},{\"text\":\": v6.69\"}]},{\"type\":\"p\",\"children\":[{\"text\":\" \"}]},{\"type\":\"h3\",\"children\":[{\"text\":\"Minor Features\",\"bold\":true}]},{\"type\":\"ul\",\"children\":[{\"type\":\"li\",\"children\":[{\"text\":\"The control panel toolbar (at the top of the page) has been redesigned to include your website business name.\"}]}]},{\"type\":\"p\",\"children\":[{\"text\":\" \"}]},{\"type\":\"h3\",\"children\":[{\"text\":\"Bug Fixes\",\"bold\":true}]},{\"type\":\"ul\",\"children\":[{\"type\":\"li\",\"children\":[{\"type\":\"lic\",\"children\":[{\"text\":\"Fixed an issue where the extra options text wasn't wrapping over multiple lines on the checkout page.\"}]}]},{\"type\":\"li\",\"children\":[{\"type\":\"lic\",\"children\":[{\"text\":\"Fixed an issue in the webstore checkout page so that clicking on the submit payment button multiple times doesn't create multiple charges or orders.\"}]}]},{\"type\":\"li\",\"children\":[{\"text\":\"Fixed an issue in the Australia Post public rates that calculated item dimensions incorrectly.\"}]}]},{\"type\":\"p\",\"children\":[{\"text\":\" \"}]}]",
+  "format": "rich2",
+  "featured": false,
+  "locale": "en",
+  "status": "published",
+  "foreignID": null,
+  "dateUpdated": "2025-05-29T15:51:58+00:00",
+  "_source_kb_id": 12,
+  "_source_kb_name": "Neto Release Notes",
+  "_sync_date": "2026-02-02T05:59:23.282592+00:00"
+}

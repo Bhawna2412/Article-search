@@ -1,0 +1,17 @@
+{
+  "articleID": 1604,
+  "knowledgeCategoryID": 306,
+  "sort": 0,
+  "name": "Crossbeam",
+  "body": "[{\"type\": \"p\", \"children\": [{\"text\": \"[Image: User-added image]\"}]}, {\"type\": \"h3\", \"children\": [{\"text\": \"This add-on was built by Crossbeam.\"}], \"data-id\": \"this-add-on-was-built-by-crossbeam.\"}, {\"type\": \"p\", \"children\": [{\"type\": \"a\", \"url\": \"https://crossbeam.app/\", \"children\": [{\"text\": \"Visit add-on website!\"}]}]}, {\"type\": \"p\", \"children\": [{\"text\": \"For support with this add-on \"}, {\"type\": \"a\", \"url\": \"mailto:matt@crossbeam.app\", \"children\": [{\"text\": \"contact Crossbeam\"}]}, {\"text\": \".\"}]}, {\"type\": \"h2\", \"children\": [{\"text\": \"Overview\"}], \"data-id\": \"overview\"}, {\"type\": \"p\", \"children\": [{\"text\": \"Crossbeam automatically imports your payments daily. Payments are batched by day and payment method, and posted to Xero as an invoice to be reconciled as part of your Xero accounting workflow.\"}]}, {\"type\": \"p\", \"children\": [{\"text\": \"Batching payments reduces the numbers of payments sent to invoice each month - making account reconciliation simpler and faster.\"}]}, {\"type\": \"h2\", \"children\": [{\"text\": \"Set up Crossbeam\"}], \"data-id\": \"set-up-crossbeam\"}, {\"type\": \"ol\", \"children\": [{\"type\": \"li\", \"children\": [{\"type\": \"lic\", \"children\": [{\"text\": \"In your Neto by Maropost control panel click on the \"}, {\"text\": \"Addons\", \"bold\": true}, {\"text\": \" menu.\"}]}]}, {\"type\": \"li\", \"children\": [{\"type\": \"lic\", \"children\": [{\"text\": \"Find the Crossbeam add-on in the and click the \"}, {\"text\": \"Install\", \"bold\": true}, {\"text\": \" button.\"}]}]}, {\"type\": \"li\", \"children\": [{\"type\": \"lic\", \"children\": [{\"text\": \"The add-on will install. When complete, click the \"}, {\"text\": \"Configure\", \"bold\": true}, {\"text\": \" button.\"}]}]}, {\"type\": \"li\", \"children\": [{\"type\": \"lic\", \"children\": [{\"text\": \"Follow the steps in the \"}, {\"type\": \"a\", \"url\": \"https://www.notion.so/Crossbeam-Documentation-39b73dc4aba24a6482744c8a7a281ed8\", \"children\": [{\"text\": \"Crossbeam set up started guide\"}]}, {\"text\": \".\"}]}]}]}]",
+  "format": "rich2",
+  "featured": false,
+  "locale": "en",
+  "status": "published",
+  "foreignID": null,
+  "dateUpdated": "2025-12-11T04:37:11+00:00",
+  "_source_kb_id": 4,
+  "_source_kb_name": "Neto By Maropost",
+  "_sync_date": "2026-02-06T07:17:53.061030+00:00",
+  "_incremental_update": true
+}

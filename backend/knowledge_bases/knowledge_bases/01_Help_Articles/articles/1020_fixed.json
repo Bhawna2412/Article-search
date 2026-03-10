@@ -1,0 +1,18 @@
+{
+  "articleID": 1020,
+  "knowledgeCategoryID": 1,
+  "sort": 125,
+  "name": "Request an Extension for Maropost Commerce Trial Webstores",
+  "body": "[{\"type\": \"h3\", \"children\": [{\"text\": \"Steps\"}], \"data-id\": \"steps\"}, {\"type\": \"ol\", \"children\": [{\"type\": \"li\", \"children\": [{\"type\": \"lic\", \"children\": [{\"text\": \"\"}]}, {\"type\": \"p\", \"children\": [{\"text\": \"Log in to the Maropost Commerce \"}, {\"type\": \"a\", \"url\": \"http://galaxy.maropost.com/home/leaving?allowTrusted=1&target=https%3A%2F%2Fwww.netohq.com%2Fpartners%2Fs%2F\", \"children\": [{\"text\": \"partner portal\"}]}, {\"text\": \".\"}]}]}, {\"type\": \"li\", \"children\": [{\"type\": \"lic\", \"children\": [{\"text\": \"\"}]}, {\"type\": \"p\", \"children\": [{\"text\": \"The \"}, {\"text\": \"Stores\", \"bold\": true}, {\"text\": \" page within the Partner Tools portal lists all the trials created through the Partner Portal and their trial period. Click on the \"}, {\"text\": \"Store Name\", \"bold\": true}, {\"text\": \" of the store due to expire.\"}]}]}, {\"type\": \"li\", \"children\": [{\"type\": \"lic\", \"children\": [{\"text\": \"\"}]}, {\"type\": \"p\", \"children\": [{\"text\": \"Enter your \"}, {\"text\": \"Username\", \"bold\": true}, {\"text\": \" and \"}, {\"text\": \"Password\", \"bold\": true}, {\"text\": \".\"}]}]}, {\"type\": \"li\", \"children\": [{\"type\": \"lic\", \"children\": [{\"text\": \"\"}]}, {\"type\": \"p\", \"children\": [{\"text\": \"Within the Tool bar, the number of days left in the customer's trial is displayed.\"}]}, {\"type\": \"p\", \"children\": [{\"text\": \"To request a trial extension, \"}, {\"type\": \"a\", \"url\": \"https://galaxy.maropost.com/s/partner-portal/contact-support\", \"children\": [{\"text\": \"send an email request to the Maropost Commerce Partner Support team\"}]}, {\"text\": \".\"}]}]}]}, {\"type\": \"p\", \"children\": [{\"text\": \"\"}]}, {\"type\": \"h3\", \"children\": [{\"text\": \"Result\"}], \"data-id\": \"result\"}, {\"type\": \"p\", \"children\": [{\"text\": \"You have successfully requested a further extension of a Maropost Commerce Trial webstore.\"}]}, {\"type\": \"p\", \"children\": [{\"text\": \"\"}]}, {\"type\": \"h3\", \"children\": [{\"text\": \"Related Articles\"}], \"data-id\": \"related-articles\"}, {\"type\": \"ul\", \"children\": [{\"type\": \"li\", \"children\": [{\"type\": \"lic\", \"children\": [{\"type\": \"a\", \"url\": \"https://galaxy.maropost.com/s/article/control-panel-management#control-panel\", \"children\": [{\"text\": \"Understand the Maropost Commerce Control Panel\"}]}]}]}]}]",
+  "format": "rich2",
+  "featured": false,
+  "locale": "en",
+  "status": "published",
+  "foreignID": null,
+  "dateUpdated": "2025-12-01T04:25:40+00:00",
+  "_source_kb_id": 1,
+  "_source_kb_name": "Help Articles",
+  "_sync_date": "2026-02-02T05:47:42.967861+00:00",
+  "_sf_cleanup_date": "2026-02-02T06:17:40.984589+00:00",
+  "_sf_removals": 1
+}

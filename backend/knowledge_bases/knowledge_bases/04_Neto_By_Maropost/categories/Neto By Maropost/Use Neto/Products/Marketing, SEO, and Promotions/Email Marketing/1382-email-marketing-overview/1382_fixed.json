@@ -1,0 +1,27 @@
+{
+  "articleID": 1382,
+  "name": "Email Marketing Overview",
+  "slug": "1382-email-marketing-overview",
+  "format": "rich2",
+  "locale": "en",
+  "body": "[{\"type\": \"p\", \"children\": [{\"text\": \"Email marketing is cost effective way of promoting your products and business to customers and potential customers. Shoppers who subscribe to your marketing emails are already engaged, and eager to be informed. The return on investment by targeting these shoppers can be huge, but getting it right without help can be time consuming.\"}]}, {\"type\": \"p\", \"children\": [{\"text\": \"This is where email marking programs come in. A good system will make it easy to:\"}]}, {\"type\": \"ul\", \"children\": [{\"type\": \"li\", \"children\": [{\"type\": \"lic\", \"children\": [{\"text\": \"Send emails to specific customer groups.\"}]}]}, {\"type\": \"li\", \"children\": [{\"type\": \"lic\", \"children\": [{\"text\": \"Recommend products based on order history.\"}]}]}, {\"type\": \"li\", \"children\": [{\"type\": \"lic\", \"children\": [{\"text\": \"Follow up on purchases for product and store reviews.\"}]}]}, {\"type\": \"li\", \"children\": [{\"type\": \"lic\", \"children\": [{\"text\": \"Target one off or lapsed customers.\"}]}]}, {\"type\": \"li\", \"children\": [{\"type\": \"lic\", \"children\": [{\"text\": \"Report on delivery and open rates.\"}]}]}, {\"type\": \"li\", \"children\": [{\"type\": \"lic\", \"children\": [{\"text\": \"Build attractive and engaging email newsletters.\"}]}]}]}, {\"type\": \"p\", \"children\": [{\"text\": \"\"}]}, {\"type\": \"p\", \"children\": [{\"text\": \"Leverage these powerful tools to get the edge on your competitors and build a strong customer base full of repeat purchasers.\"}]}, {\"type\": \"p\", \"children\": [{\"text\": \"\"}]}, {\"type\": \"h2\", \"children\": [{\"text\": \"Email Marketing in Neto\"}], \"data-id\": \"email-marketing-in-neto\"}, {\"type\": \"p\", \"children\": [{\"text\": \"Email marketing is driven by the data it has access to, so it needs a way to extract customer details and purchase history.\"}]}, {\"type\": \"p\", \"children\": [{\"text\": \"Neto has a number of ways to facilitate the data transfer. The easiest way is to use an integrated add-on such as:\"}]}, {\"type\": \"ul\", \"children\": [{\"type\": \"li\", \"children\": [{\"type\": \"lic\", \"children\": [{\"text\": \"SmartrMail\"}]}]}, {\"type\": \"li\", \"children\": [{\"type\": \"lic\", \"children\": [{\"type\": \"a\", \"url\": \"https://galaxy.maropost.com/kb/articles/1500-mailchimp-for-neto\", \"children\": [{\"text\": \"Mailchimp4Neto\"}]}]}]}, {\"type\": \"li\", \"children\": [{\"type\": \"lic\", \"children\": [{\"type\": \"a\", \"url\": \"https://galaxy.maropost.com/kb/articles/1496-rejoiner\", \"children\": [{\"text\": \"Rejoiner\"}]}]}]}, {\"type\": \"li\", \"children\": [{\"type\": \"lic\", \"children\": [{\"type\": \"a\", \"url\": \"https://galaxy.maropost.com/kb/articles/1502-klaviyo-for-neto\", \"children\": [{\"text\": \"Klaviyo for Neto\"}]}]}]}, {\"type\": \"li\", \"children\": [{\"type\": \"lic\", \"children\": [{\"text\": \"Klaviyo by ChannelUp\"}]}]}]}, {\"type\": \"p\", \"children\": [{\"text\": \"\"}]}, {\"type\": \"p\", \"children\": [{\"text\": \"If your preferred email marketing program isn't listed, you can still send information to it by:\"}]}, {\"type\": \"ul\", \"children\": [{\"type\": \"li\", \"children\": [{\"type\": \"lic\", \"children\": [{\"type\": \"a\", \"url\": \"https://www.netohq.com/support/s/knowledge#category=Support__c:Data_Import_Export__c\", \"children\": [{\"text\": \"Data Export\"}]}]}]}, {\"type\": \"li\", \"children\": [{\"type\": \"lic\", \"children\": [{\"type\": \"a\", \"url\": \"https://developers.neto.com.au/documentation/engineers/api-documentation\", \"children\": [{\"text\": \"API\"}]}]}]}]}, {\"type\": \"p\", \"children\": [{\"text\": \"\"}]}, {\"type\": \"p\", \"children\": [{\"text\": \"This route does take more time and effort to set up, but can still meet the requirements of your email marketing program.\"}]}]",
+  "fixes_applied": {
+    "rebrand": 4,
+    "urls": {
+      "leaving_cleaned": 0,
+      "unsafe_removed": 0,
+      "s_article_mapped": 3,
+      "s_article_removed": 2,
+      "fragments_mapped": 0,
+      "fragments_stripped": 0,
+      "internal_fragments_fixed": 0,
+      "double_id_fixed": 0,
+      "kb_fragments_stripped": 0
+    },
+    "toc": 0,
+    "related": 0,
+    "lists": 0,
+    "headings": 1,
+    "reconverted": false
+  }
+}

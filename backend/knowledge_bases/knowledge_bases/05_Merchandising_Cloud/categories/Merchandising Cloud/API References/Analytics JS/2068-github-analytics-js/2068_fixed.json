@@ -1,0 +1,31 @@
+{
+  "articleID": 2068,
+  "name": "Github: Analytics JS",
+  "format": "rich2",
+  "locale": "en",
+  "body": "[{\"type\": \"h2\", \"children\": [{\"text\": \"Overview\"}]}, {\"type\": \"p\", \"children\": [{\"text\": \"The Analytics JS library is available on GitHub, providing open-source access to the implementation and documentation for integrating user behavior tracking. This enables developers to review the codebase, understand implementation details, and contribute to the library while integrating analytics functionality into their ecommerce platform.\"}]}, {\"type\": \"p\", \"children\": [{\"text\": \"Accessing the GitHub repository helps ensure you can stay current with library updates, review technical documentation, and understand best practices for implementing behavioral analytics that powers personalization and recommendation features.\"}]}, {\"type\": \"h2\", \"children\": [{\"text\": \"Repository\"}]}, {\"type\": \"p\", \"children\": [{\"text\": \"GitHub Repository: \"}, {\"type\": \"a\", \"url\": \"https://github.com/findify/findify-js/tree/master/packages/analytics\", \"target\": \"_blank\", \"children\": [{\"text\": \"findify-js/packages/analytics\"}]}]}]",
+  "knowledgeCategoryID": 463,
+  "sort": 1,
+  "status": "published",
+  "_source_kb_id": 5,
+  "_source_kb_name": "Merchandising Cloud",
+  "_fix_date": "2026-02-02T06:05:46.274094+00:00",
+  "fixes_applied": {
+    "urls": {
+      "leaving_cleaned": 0,
+      "unsafe_removed": 0,
+      "s_article_mapped": 0,
+      "s_article_removed": 0,
+      "fragments_mapped": 0,
+      "fragments_stripped": 0,
+      "internal_fragments_fixed": 0,
+      "double_id_fixed": 0,
+      "kb_fragments_stripped": 0
+    },
+    "toc": 0,
+    "related": 1,
+    "lists": 0,
+    "headings": 0,
+    "reconverted": false
+  }
+}

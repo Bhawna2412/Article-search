@@ -1,0 +1,26 @@
+{
+  "articleID": 621,
+  "name": "How do you cancel a partially redeemed voucher?",
+  "slug": "621-how-do-you-cancel-a-partially-redeemed-voucher",
+  "format": "rich2",
+  "locale": "en",
+  "body": "[{\"type\": \"p\", \"children\": [{\"text\": \"You can manage voucher cancellations properly in Retail Express even when vouchers have been partially used, helping your retail operations handle complex customer service scenarios accurately. This capability ensures proper financial tracking when vouchers need to be cancelled mid-lifecycle, which helps maintain accounting accuracy while providing flexible customer service options.\"}]}, {\"type\": \"p\", \"children\": [{\"text\": \"Setting up proper voucher management procedures enables your retail operations to handle various voucher scenarios professionally, helping optimize customer satisfaction while maintaining financial controls. This helps retail businesses manage store credit effectively by ensuring all voucher transactions are properly tracked and reversed when necessary.\"}]}, {\"type\": \"p\", \"children\": [{\"text\": \"To cancel a voucher that has been partially redeemed, follow these steps to either consume the remaining balance or refund it to the customer:\"}]}, {\"type\": \"p\", \"children\": [{\"text\": \"\"}]}, {\"type\": \"h2\", \"children\": [{\"text\": \"Step 1: Create a New Product\"}], \"data-id\": \"step-1-create-a-new-product\"}, {\"type\": \"ol\", \"children\": [{\"type\": \"li\", \"children\": [{\"type\": \"lic\", \"children\": [{\"text\": \"Set up a product specifically for voucher returns. You can name it \\\"Voucher Return,\\\" \\\"Miscellaneous,\\\" or any other label that makes sense for tracking purposes.\"}]}]}, {\"type\": \"li\", \"children\": [{\"type\": \"lic\", \"children\": [{\"text\": \"Follow the instructions for setting up non-inventory products in Retail Express (\"}, {\"text\": \"Click here\"}, {\"text\": \").\"}]}]}]}, {\"type\": \"p\", \"children\": [{\"text\": \"\"}]}, {\"type\": \"h2\", \"children\": [{\"text\": \"Step 2: Open a New Sale in POS\"}], \"data-id\": \"step-2-open-a-new-sale-in-pos\"}, {\"type\": \"ol\", \"children\": [{\"type\": \"li\", \"children\": [{\"type\": \"lic\", \"children\": [{\"text\": \"Start a new sale in your POS system.\"}]}]}, {\"type\": \"li\", \"children\": [{\"type\": \"lic\", \"children\": [{\"text\": \"Add the product you created in Step 1 to this sale.\"}]}]}, {\"type\": \"li\", \"children\": [{\"type\": \"lic\", \"children\": [{\"text\": \"Change the product price to match the remaining balance on the voucher.\"}]}]}]}, {\"type\": \"p\", \"children\": [{\"text\": \"\"}]}, {\"type\": \"h2\", \"children\": [{\"text\": \"Step 3: Redeem the Voucher\"}], \"data-id\": \"step-3-redeem-the-voucher\"}, {\"type\": \"ol\", \"children\": [{\"type\": \"li\", \"children\": [{\"type\": \"lic\", \"children\": [{\"text\": \"Use the voucher to pay for the product as you would with any regular voucher redemption.\"}]}]}, {\"type\": \"li\", \"children\": [{\"type\": \"lic\", \"children\": [{\"text\": \"If your goal is simply to cancel the remaining balance:\", \"bold\": true}, {\"text\": \" Finalize the sale to effectively consume the remaining balance and close out the voucher.\"}]}]}]}, {\"type\": \"p\", \"children\": [{\"text\": \"\"}]}, {\"type\": \"h2\", \"children\": [{\"text\": \"Step 4: Refund the Remaining Balance (Optional)\"}], \"data-id\": \"step-4-refund-the-remaining-balance-optional\"}, {\"type\": \"p\", \"children\": [{\"text\": \"If you need to refund the remaining balance to the customer:\"}]}, {\"type\": \"ol\", \"children\": [{\"type\": \"li\", \"children\": [{\"type\": \"lic\", \"children\": [{\"text\": \"Finalize the sale from Step 3.\"}]}]}, {\"type\": \"li\", \"children\": [{\"type\": \"lic\", \"children\": [{\"text\": \"Start a refund process for this sale using the regular refund steps in Retail Express.\"}]}]}]}, {\"type\": \"p\", \"children\": [{\"text\": \"\"}]}, {\"type\": \"h2\", \"children\": [{\"text\": \"Step 5: Complete the Refund\"}], \"data-id\": \"step-5-complete-the-refund\"}, {\"type\": \"ol\", \"children\": [{\"type\": \"li\", \"children\": [{\"type\": \"lic\", \"children\": [{\"text\": \"Go to the Payment screen in the refund sale.\"}]}]}, {\"type\": \"li\", \"children\": [{\"type\": \"lic\", \"children\": [{\"text\": \"Select the appropriate refund payment method (e.g., cash, card).\"}]}]}, {\"type\": \"li\", \"children\": [{\"type\": \"lic\", \"children\": [{\"text\": \"Finalize the refund to complete the process.\"}]}]}]}, {\"type\": \"p\", \"children\": [{\"text\": \"\"}]}]",
+  "fixes_applied": {
+    "urls": {
+      "leaving_cleaned": 0,
+      "unsafe_removed": 0,
+      "s_article_mapped": 0,
+      "s_article_removed": 1,
+      "fragments_mapped": 0,
+      "fragments_stripped": 0,
+      "internal_fragments_fixed": 0,
+      "double_id_fixed": 0,
+      "kb_fragments_stripped": 0
+    },
+    "toc": 0,
+    "related": 1,
+    "lists": 0,
+    "headings": 1,
+    "reconverted": false
+  }
+}

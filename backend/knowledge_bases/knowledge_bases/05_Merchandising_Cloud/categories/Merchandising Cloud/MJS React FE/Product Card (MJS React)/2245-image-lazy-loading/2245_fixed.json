@@ -1,0 +1,31 @@
+{
+  "articleID": 2245,
+  "name": "Image Lazy Loading",
+  "format": "rich2",
+  "locale": "en",
+  "body": "[{\"type\": \"p\", \"children\": [{\"text\": \"Implementing image lazy loading helps improve page load speeds and overall site performance, which tends to enhance both customer experience and conversion rates. When product images load only as customers scroll to them, you reduce initial page load times and bandwidth usage, helping ensure that customers on slower connections can engage with your search results more effectively.\"}]}, {\"type\": \"p\", \"children\": [{\"text\": \"Lazy loading optimization supports better technical performance across all customer devices and connection speeds. This helps improve engagement and reduces bounce rates by ensuring that pages remain responsive, supporting better product discovery especially for mobile shoppers and customers in regions with varying internet speeds.\"}]}, {\"type\": \"blockquote\", \"children\": [{\"type\": \"blockquote-line\", \"children\": [{\"text\": \"Requires at least version 6.9.15You can check which version your shop is using within the console of your dev tools.Note: Only Findify's admins can change the version's number. If you need further assistance, please reach out to support@maropost.com\"}]}]}, {\"type\": \"rich_embed_card\", \"dataSourceType\": \"image\", \"url\": \"https://files.readme.io/248a2a6-Bildschirmfoto_2020-03-04_um_18.56.23.png\", \"embedData\": {\"url\": \"https://files.readme.io/248a2a6-Bildschirmfoto_2020-03-04_um_18.56.23.png\", \"embedType\": \"image\", \"displaySize\": \"large\", \"float\": \"none\", \"name\": \"688\", \"width\": 1280, \"height\": 720}, \"children\": [{\"text\": \"\"}]}, {\"type\": \"blockquote\", \"children\": [{\"type\": \"blockquote-line\", \"children\": [{\"text\": \"Componentscomponents/Cards/Product/view.tsx\"}]}]}, {\"type\": \"p\", \"children\": [{\"text\": \"To add lazy loading to your image component, simply add \"}, {\"text\": \"lazy\", \"code\": true}, {\"text\": \" to it as shown below.\"}]}, {\"type\": \"p\", \"children\": [{\"text\": \"components/Cards/Product/view.tsx\"}]}, {\"type\": \"code_block\", \"children\": [{\"type\": \"code_line\", \"children\": [{\"text\": \"<Image  className={classNames(theme.image)}  aspectRatio={config.getIn(['product', 'image', 'aspectRatio'], 1)}  thumbnail={item.get('thumbnail_url')}  src={item.get('image_url') || item.get('thumbnail_url')}  alt={item.get('title')}  // add lazy, default is true  lazy  />\"}]}], \"lang\": \"plaintext\"}, {\"type\": \"p\", \"children\": [{\"text\": \"\"}]}]",
+  "knowledgeCategoryID": 411,
+  "sort": 4,
+  "status": "published",
+  "_source_kb_id": 5,
+  "_source_kb_name": "Merchandising Cloud",
+  "_fix_date": "2026-02-02T06:05:47.491066+00:00",
+  "fixes_applied": {
+    "urls": {
+      "leaving_cleaned": 0,
+      "unsafe_removed": 0,
+      "s_article_mapped": 0,
+      "s_article_removed": 0,
+      "fragments_mapped": 0,
+      "fragments_stripped": 0,
+      "internal_fragments_fixed": 0,
+      "double_id_fixed": 0,
+      "kb_fragments_stripped": 0
+    },
+    "toc": 0,
+    "related": 1,
+    "lists": 0,
+    "headings": 0,
+    "reconverted": false
+  }
+}

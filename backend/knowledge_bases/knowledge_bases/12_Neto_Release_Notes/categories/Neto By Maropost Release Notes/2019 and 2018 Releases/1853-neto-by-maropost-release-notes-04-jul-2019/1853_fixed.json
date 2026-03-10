@@ -1,0 +1,16 @@
+{
+  "articleID": 1853,
+  "knowledgeCategoryID": 455,
+  "sort": 8,
+  "name": "Neto by Maropost Release Notes – 04 Jul 2019",
+  "body": "[{\"type\":\"p\",\"children\":[{\"text\":\"Release Version\",\"bold\":true},{\"text\":\": 6.59\"}]},{\"type\":\"p\",\"children\":[{\"text\":\" \"}]},{\"type\":\"h2\",\"children\":[{\"text\":\"Minor Features\",\"bold\":true}]},{\"type\":\"ul\",\"children\":[{\"type\":\"li\",\"children\":[{\"text\":\"Sales order sticky notes referring to invalid addresses will no longer appear when address validation is off.\"}]},{\"type\":\"li\",\"children\":[{\"type\":\"lic\",\"children\":[{\"text\":\"Added a panel to the purchase order receive page with information on how to scan products to receive orderlines.\"}]}]}]},{\"type\":\"p\",\"children\":[{\"text\":\"\"}]},{\"type\":\"h2\",\"children\":[{\"text\":\"Bug Fixes\",\"bold\":true}]},{\"type\":\"ul\",\"children\":[{\"type\":\"li\",\"children\":[{\"type\":\"lic\",\"children\":[{\"text\":\"Fixed an issue where unregistered users would see errors on the login page due to excessive login attempts when the username and password fields were blank.\"}]}]},{\"type\":\"li\",\"children\":[{\"text\":\"Fixed a bug where stock adjustments exported to Xero had different amounts due to rounding issues.\"}]},{\"type\":\"li\",\"children\":[{\"text\":\"Corrected a problem where the age receivables report intermittently failed to load.\"}]},{\"type\":\"li\",\"children\":[{\"type\":\"lic\",\"children\":[{\"text\":\"Fixed a bug when calculating surcharges on orders to take into account tax free orderlines correctly.\"}]}]}]},{\"type\":\"p\",\"children\":[{\"text\":\" \"}]}]",
+  "format": "rich2",
+  "featured": false,
+  "locale": "en",
+  "status": "published",
+  "foreignID": null,
+  "dateUpdated": "2025-06-10T15:26:13+00:00",
+  "_source_kb_id": 12,
+  "_source_kb_name": "Neto Release Notes",
+  "_sync_date": "2026-02-02T05:59:14.981057+00:00"
+}

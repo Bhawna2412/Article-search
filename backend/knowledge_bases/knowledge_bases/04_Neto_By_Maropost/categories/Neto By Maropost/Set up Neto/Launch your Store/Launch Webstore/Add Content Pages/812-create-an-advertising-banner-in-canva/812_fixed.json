@@ -1,0 +1,27 @@
+{
+  "articleID": 812,
+  "name": "Create an Advertising Banner in Canva",
+  "slug": "812-create-an-advertising-banner-in-canva",
+  "format": "rich2",
+  "locale": "en",
+  "body": "[{\"type\": \"p\", \"children\": [{\"text\": \"Canva is a free tool to design and create media assets for your website. We recommend Canva for creating advertising banners. To create a banner in Canva:\"}]}, {\"type\": \"ol\", \"children\": [{\"type\": \"li\", \"children\": [{\"type\": \"lic\", \"children\": [{\"type\": \"a\", \"url\": \"https://www.canva.com/signup\", \"children\": [{\"text\": \"Sign up to Canva\"}]}, {\"text\": \". Canva is free for basic accounts, and you can upgrade to Pro for additional features.\"}]}]}, {\"type\": \"li\", \"children\": [{\"type\": \"lic\", \"children\": [{\"type\": \"a\", \"url\": \"https://www.canva.com/login\", \"children\": [{\"text\": \"Log in to your Canva account\"}]}, {\"text\": \".\"}]}]}, {\"type\": \"li\", \"children\": [{\"type\": \"lic\", \"children\": [{\"text\": \"In the menu, click on \"}, {\"text\": \"Templates\", \"bold\": true}, {\"text\": \".\"}]}]}, {\"type\": \"li\", \"children\": [{\"type\": \"lic\", \"children\": [{\"text\": \"In the search bar, search for \"}, {\"text\": \"Web Banners\", \"bold\": true}, {\"text\": \".\"}]}, {\"type\": \"rich_embed_card\", \"dataSourceType\": \"image\", \"url\": \"https://us.v-cdn.net/6038474/uploads/attachments/migrated/CreateanAdvertisingBannerinCanva01.05T5g00000sz8QKEAY.png\", \"embedData\": {\"url\": \"https://us.v-cdn.net/6038474/uploads/attachments/migrated/CreateanAdvertisingBannerinCanva01.05T5g00000sz8QKEAY.png\", \"embedType\": \"image\", \"displaySize\": \"large\", \"float\": \"none\", \"name\": \"image1\", \"width\": 700, \"height\": 245}, \"children\": [{\"text\": \"\"}]}]}, {\"type\": \"li\", \"children\": [{\"type\": \"lic\", \"children\": [{\"text\": \"Pick a template to use as a starting point for your own banner. It will be loaded into the editor for you to customise.\"}]}, {\"type\": \"callout\", \"children\": [{\"type\": \"callout-item\", \"children\": [{\"text\": \"If you want to try other templates it's easy to switch on the \"}, {\"text\": \"Templates\", \"bold\": true}, {\"text\": \" tab.\"}]}], \"appearance\": \"info\"}, {\"type\": \"p\", \"children\": [{\"text\": \"\"}]}]}, {\"type\": \"li\", \"children\": [{\"type\": \"lic\", \"children\": [{\"text\": \"\"}]}, {\"type\": \"ul\", \"children\": [{\"type\": \"li\", \"children\": [{\"type\": \"lic\", \"children\": [{\"text\": \"Background image.\"}]}]}, {\"type\": \"li\", \"children\": [{\"type\": \"lic\", \"children\": [{\"text\": \"Main text.\"}]}]}, {\"type\": \"li\", \"children\": [{\"type\": \"lic\", \"children\": [{\"text\": \"Sub text.\"}]}]}]}, {\"type\": \"p\", \"children\": [{\"text\": \"There are three elements you'll be able to change in most templates:\"}]}]}, {\"type\": \"li\", \"children\": [{\"type\": \"lic\", \"children\": [{\"text\": \"Change the background image by pasting (ctrl/cmd + v) a new one on top. Then expand it to fit the size of your banner. \"}, {\"type\": \"a\", \"url\": \"https://unsplash.com/\", \"children\": [{\"text\": \"Unsplash\"}]}, {\"text\": \" and \"}, {\"type\": \"a\", \"url\": \"https://www.pexels.com/\", \"children\": [{\"text\": \"Pexels\"}]}, {\"text\": \" are great resources for free stock images.\"}]}, {\"type\": \"rich_embed_card\", \"dataSourceType\": \"image\", \"url\": \"https://www.neto.com.au/assets/images/canva2.gif\", \"embedData\": {\"url\": \"https://www.neto.com.au/assets/images/canva2.gif\", \"embedType\": \"image\", \"displaySize\": \"large\", \"float\": \"none\"}, \"children\": [{\"text\": \"\"}]}]}, {\"type\": \"li\", \"children\": [{\"type\": \"lic\", \"children\": [{\"text\": \"Edit the text fields to display your own message. The toolbar at the top lets you adjust font, size, colour, and other elements.\"}]}, {\"type\": \"rich_embed_card\", \"dataSourceType\": \"image\", \"url\": \"https://us.v-cdn.net/6038474/uploads/attachments/migrated/CreateanAdvertisingBannerinCanva03.05T5g00000sz82xEAA.png\", \"embedData\": {\"url\": \"https://us.v-cdn.net/6038474/uploads/attachments/migrated/CreateanAdvertisingBannerinCanva03.05T5g00000sz82xEAA.png\", \"embedType\": \"image\", \"displaySize\": \"large\", \"float\": \"none\", \"name\": \"image3\", \"width\": 700, \"height\": 244}, \"children\": [{\"text\": \"\"}]}]}, {\"type\": \"li\", \"children\": [{\"type\": \"lic\", \"children\": [{\"text\": \"Once you're happy with your banner, click the \"}, {\"text\": \"Download\", \"bold\": true}, {\"text\": \" button to save it to your computer.\"}]}]}]}, {\"type\": \"p\", \"children\": [{\"text\": \"\"}]}, {\"type\": \"p\", \"children\": [{\"text\": \"You can now add the image to your website ad banner space.\"}]}]",
+  "fixes_applied": {
+    "rebrand": 0,
+    "urls": {
+      "leaving_cleaned": 0,
+      "unsafe_removed": 0,
+      "s_article_mapped": 0,
+      "s_article_removed": 0,
+      "fragments_mapped": 0,
+      "fragments_stripped": 0,
+      "internal_fragments_fixed": 0,
+      "double_id_fixed": 0,
+      "kb_fragments_stripped": 0
+    },
+    "toc": 0,
+    "related": 0,
+    "lists": 8,
+    "headings": 0,
+    "reconverted": true
+  }
+}

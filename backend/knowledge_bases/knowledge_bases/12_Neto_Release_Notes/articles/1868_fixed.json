@@ -1,0 +1,16 @@
+{
+  "articleID": 1868,
+  "knowledgeCategoryID": 454,
+  "sort": 21,
+  "name": "Neto by Maropost Release Notes – 2 Jun 2020",
+  "body": "[{\"type\":\"p\",\"children\":[{\"text\":\"Release Version\",\"bold\":true},{\"text\":\": v6.105\"}]},{\"type\":\"p\",\"children\":[{\"text\":\" \"}]},{\"type\":\"h3\",\"children\":[{\"text\":\"Minor Improvements\",\"bold\":true}]},{\"type\":\"ul\",\"children\":[{\"type\":\"li\",\"children\":[{\"text\":\"Zip integrations (ZipPay and ZipMoney) have been updated to work correctly with the latest versions of the Safari internet browser.\"}]}]},{\"type\":\"p\",\"children\":[{\"text\":\" \"}]},{\"type\":\"h3\",\"children\":[{\"text\":\"Bug Fixes\",\"bold\":true}]},{\"type\":\"ul\",\"children\":[{\"type\":\"li\",\"children\":[{\"type\":\"lic\",\"children\":[{\"text\":\"Fixed an issue with the returns and credits when export as a CSV file. The amount credited/refunded will now indicate if they include tax or not.\"}]}]}]},{\"type\":\"p\",\"children\":[{\"text\":\" \"}]}]",
+  "format": "rich2",
+  "featured": false,
+  "locale": "en",
+  "status": "published",
+  "foreignID": null,
+  "dateUpdated": "2025-05-29T15:54:40+00:00",
+  "_source_kb_id": 12,
+  "_source_kb_name": "Neto Release Notes",
+  "_sync_date": "2026-02-02T05:59:22.302989+00:00"
+}

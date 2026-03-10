@@ -1,0 +1,27 @@
+{
+  "articleID": 1381,
+  "name": "Algolia Search for Neto",
+  "slug": "1381-algolia-search-for-neto",
+  "format": "rich2",
+  "locale": "en",
+  "body": "[{\"type\": \"p\", \"children\": [{\"text\": \"[Image: User-added image]\"}]}, {\"type\": \"h3\", \"children\": [{\"text\": \"This add-on was built by \"}, {\"text\": \"Perceptiv Digital\", \"bold\": true}, {\"text\": \".\"}]}, {\"type\": \"p\", \"children\": [{\"type\": \"a\", \"url\": \"https://www.perceptiv.digital/algolia-search-neto-maropost\", \"children\": [{\"text\": \"Visit Add-on Website!\"}]}]}, {\"type\": \"p\", \"children\": [{\"text\": \"For support with this add-on \"}, {\"type\": \"a\", \"url\": \"https://www.perceptiv.digital/contact\", \"children\": [{\"text\": \"contact Algolia\"}]}, {\"text\": \".\"}]}, {\"type\": \"h2\", \"children\": [{\"text\": \"Overview\"}], \"data-id\": \"overview\"}, {\"type\": \"p\", \"children\": [{\"text\": \"Built by Perceptive Digital. With Algolia's as-you-type search, customers think less about how to search and more about what they find. Perceptiv Digital also ensures there is automatic catalogue sync between Neto and Algolia search so your search is always up to date. Algolia setup for Neto includes a one off set up cost as well as ongoing monthly costs. Get started to see how Algolia for Neto can work for you.\"}]}, {\"type\": \"h2\", \"children\": [{\"text\": \"Benefits & Features\"}], \"data-id\": \"benefits-features\"}, {\"type\": \"p\", \"children\": [{\"text\": \"With \"}, {\"text\": \"Algolia Search for Neto\", \"bold\": true}, {\"text\": \"\\u00a0you can:\"}]}, {\"type\": \"ul\", \"children\": [{\"type\": \"li\", \"children\": [{\"type\": \"lic\", \"children\": [{\"text\": \"Bring search autocomplete, typo tolerance, synonyms management, filters and facets and many more to your customers with minimal work.\"}]}]}, {\"type\": \"li\", \"children\": [{\"type\": \"lic\", \"children\": [{\"text\": \"Create merchandising rules and fine-tune the products ranking based on their popularity, profit margins or any data that matters to you.\"}]}]}, {\"type\": \"li\", \"children\": [{\"type\": \"lic\", \"children\": [{\"text\": \"Discover what your shoppers are searching for, use those insights to improve your product catalogue, adapt your SEO, and fuel merchandising.\"}]}]}, {\"type\": \"li\", \"children\": [{\"type\": \"lic\", \"children\": [{\"text\": \"Users find the products they\\u2019re looking for faster, increasing sales.\"}]}]}, {\"type\": \"li\", \"children\": [{\"type\": \"lic\", \"children\": [{\"text\": \"Prioritise your most popular items right from the dashboard.\"}]}]}, {\"type\": \"li\", \"children\": [{\"type\": \"lic\", \"children\": [{\"text\": \"Optimise listings in your store with insights into what your users are searching for.\"}]}]}]}, {\"type\": \"h2\", \"children\": [{\"text\": \"Set up Algolia Search\"}], \"data-id\": \"setup-instructions\"}, {\"type\": \"p\", \"children\": [{\"text\": \"To set up Algolia Search for Neto:\"}]}, {\"type\": \"ol\", \"children\": [{\"type\": \"li\", \"children\": [{\"type\": \"lic\", \"children\": [{\"text\": \"In your\\u00a0Neto control panel navigate to the \"}, {\"text\": \"Addons\", \"bold\": true}, {\"text\": \" menu.\"}]}]}, {\"type\": \"li\", \"children\": [{\"type\": \"lic\", \"children\": [{\"text\": \"Find the \"}, {\"text\": \"Algolia Search for Neto\", \"bold\": true}, {\"text\": \"\\u00a0add-on (in the marketing section) and click the \"}, {\"text\": \"Get App\", \"bold\": true}, {\"text\": \" button.\"}]}]}, {\"type\": \"li\", \"children\": [{\"type\": \"lic\", \"children\": [{\"text\": \"Click the \"}, {\"text\": \"Get App\", \"bold\": true}, {\"text\": \" button.\"}]}]}, {\"type\": \"li\", \"children\": [{\"type\": \"lic\", \"children\": [{\"text\": \"You'll be redirected to the Algolia Search for Neto form. Fill in the fields and click the \"}, {\"text\": \"Submit\", \"bold\": true}, {\"text\": \" button.\"}]}]}]}, {\"type\": \"p\", \"children\": [{\"text\": \"A member of the Algolia Search for Neto team will contact you for consultation about your needs.\"}]}]",
+  "fixes_applied": {
+    "rebrand": 0,
+    "urls": {
+      "leaving_cleaned": 2,
+      "unsafe_removed": 0,
+      "s_article_mapped": 0,
+      "s_article_removed": 0,
+      "fragments_mapped": 0,
+      "fragments_stripped": 0,
+      "internal_fragments_fixed": 0,
+      "double_id_fixed": 0,
+      "kb_fragments_stripped": 0
+    },
+    "toc": 0,
+    "related": 0,
+    "lists": 4,
+    "headings": 1,
+    "reconverted": false
+  }
+}

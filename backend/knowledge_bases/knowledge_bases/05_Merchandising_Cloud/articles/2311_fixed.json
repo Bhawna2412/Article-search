@@ -1,0 +1,16 @@
+{
+  "articleID": 2311,
+  "knowledgeCategoryID": 484,
+  "sort": 10,
+  "name": "SKU Capacity",
+  "body": "[{\"type\":\"h1\",\"children\":[{\"text\":\"How many SKUs can Merchandising Cloud handle?\"}]},{\"type\":\"p\",\"children\":[{\"text\":\"To data, Merchandising Cloud has load tested with more than 3 million individual SKUs. These tests were successful and did not result in any issues.\"}]},{\"type\":\"p\",\"children\":[{\"text\":\"Currently, Merchandising Cloud works without issue with clients running up to almost 1 million SKUs.\"}]},{\"type\":\"blockquote\",\"children\":[{\"type\":\"blockquote-line\",\"children\":[{\"text\":\"👍 In the future, Merchandising Cloud may decide to load test with larger SKU numbers, should the need arise. If and when that happens, this page will be updated accordingly.\"}]}]},{\"type\":\"p\",\"children\":[{\"text\":\"\"}]}]",
+  "format": "rich2",
+  "featured": false,
+  "locale": "en",
+  "status": "published",
+  "foreignID": null,
+  "dateUpdated": "2025-09-18T19:54:23+00:00",
+  "_source_kb_id": 5,
+  "_source_kb_name": "Merchandising Cloud",
+  "_sync_date": "2026-02-02T05:54:55.869364+00:00"
+}

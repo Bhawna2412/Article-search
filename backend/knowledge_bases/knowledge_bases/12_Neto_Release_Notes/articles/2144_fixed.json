@@ -1,0 +1,16 @@
+{
+  "articleID": 2144,
+  "knowledgeCategoryID": 450,
+  "sort": 9,
+  "name": "Neto by Maropost Release Notes – 21 Jul 2025",
+  "body": "[{\"type\":\"h2\",\"children\":[{\"text\":\"Overview\"}]},{\"type\":\"p\",\"children\":[{\"text\":\"This release contains updates for the eCommerce versions 6.337.0, 6.338.0, and 6.339.0.\"}]},{\"type\":\"p\",\"children\":[{\"text\":\" \"}]},{\"type\":\"h2\",\"children\":[{\"text\":\"Enhancements and Changes\"}]},{\"type\":\"h3\",\"children\":[{\"text\":\"New Services Added for My Post Business\"}]},{\"type\":\"p\",\"children\":[{\"text\":\"Neto has updated its My Post Business integration to include their newly introduced lightweight parcels - Extra Small/250g options.\"}]},{\"type\":\"p\",\"children\":[{\"text\":\"Available for Australia Post packaging and customers' packaging, in both Parcel Post and Express Post services, the new options are:\"}]},{\"type\":\"ul\",\"children\":[{\"type\":\"li\",\"children\":[{\"type\":\"lic\",\"children\":[{\"text\":\"Parcel Post Flat Rate Satchel 5 kg (Extra small)\"}]}]},{\"type\":\"li\",\"children\":[{\"type\":\"lic\",\"children\":[{\"text\":\"Express Post Flat Rate Satchel 5 kg (Extra small)\"}]}]},{\"type\":\"li\",\"children\":[{\"type\":\"lic\",\"children\":[{\"text\":\"Parcel Post Flat Rate Own Packaging Up to 250 g (Extra small)\"}]}]},{\"type\":\"li\",\"children\":[{\"type\":\"lic\",\"children\":[{\"text\":\"Express Post Flat Rate Own Packaging Up to 250 g (Extra small)\"}]}]}]},{\"type\":\"p\",\"children\":[{\"text\":\"\"}]},{\"type\":\"h3\",\"children\":[{\"text\":\"Updated AfterPay Checkout Message Per Compliance\"}]},{\"type\":\"p\",\"children\":[{\"text\":\"As per Afterpay’s new compliance guidelines, the Afterpay message on the Checkout page has been updated to include the total product price alongside the repayment breakdown.\"}]},{\"type\":\"p\",\"children\":[{\"text\":\" \"}]},{\"type\":\"h2\",\"children\":[{\"text\":\"Fixes\"}]},{\"type\":\"ul\",\"children\":[{\"type\":\"li\",\"children\":[{\"type\":\"lic\",\"children\":[{\"text\":\"Fixed an issue where Apple/Google Pay Express Checkout was overriding the customer-selected shipping method. This has been fixed, and the shipping method selected for the cart or checkout form is retained.\"}]}]},{\"type\":\"li\",\"children\":[{\"type\":\"lic\",\"children\":[{\"text\":\"Fixed an issue where some users' exported Stock Evaluation reports displayed an internal server error at the bottom of the report.\"}]}]},{\"type\":\"li\",\"children\":[{\"type\":\"lic\",\"children\":[{\"text\":\"Fixed an issue where the Auspost International Print Labels were missing the itemized weight information.\"}]}]},{\"type\":\"li\",\"children\":[{\"type\":\"lic\",\"children\":[{\"text\":\"Fixed an issue where the guest users are unable to print a receipt from the Order Success page at Checkout.\"}]}]}]},{\"type\":\"p\",\"children\":[{\"text\":\"\"}]}]",
+  "format": "rich2",
+  "featured": false,
+  "locale": "en",
+  "status": "published",
+  "foreignID": null,
+  "dateUpdated": "2025-07-22T15:51:58+00:00",
+  "_source_kb_id": 12,
+  "_source_kb_name": "Neto Release Notes",
+  "_sync_date": "2026-02-02T05:58:32.279158+00:00"
+}

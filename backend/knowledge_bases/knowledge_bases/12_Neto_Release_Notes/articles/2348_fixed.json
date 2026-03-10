@@ -1,0 +1,16 @@
+{
+  "articleID": 2348,
+  "knowledgeCategoryID": 450,
+  "sort": 2,
+  "name": "Neto by Maropost Release Notes – 17 Nov 2025",
+  "body": "[{\"type\":\"h2\",\"children\":[{\"text\":\"OVERVIEW\"}]},{\"type\":\"p\",\"children\":[{\"text\":\"In this release, we are excited to announce an update to our purchase-related rewards system.\"}]},{\"type\":\"p\",\"children\":[{\"text\":\" \"}]},{\"type\":\"h2\",\"children\":[{\"text\":\"EARN REWARDS FEATURE\"}]},{\"type\":\"p\",\"children\":[{\"text\":\"Shoppers can now earn lucrative reward points on their recent in-store and online purchases. Merchants can enable this feature on their Neto POS account and incentivize shoppers to spend more on products to earn greater reward deals.\"}]},{\"type\":\"p\",\"children\":[{\"text\":\"This, in turn, enables merchants to drive sales promotions across multiple channels and attract more traffic to their physical and online stores.\"}]},{\"type\":\"rich_embed_card\",\"children\":[{\"text\":\"\"}],\"dataSourceType\":\"image\",\"url\":\"https://us.v-cdn.net/6038474/uploads/6JZF7E6RMPVF/reward19-281-29.png\",\"embedData\":{\"url\":\"https://us.v-cdn.net/6038474/uploads/6JZF7E6RMPVF/reward19-281-29.png\",\"name\":\"reward19(1).png\",\"type\":\"image/png\",\"size\":224367,\"width\":2880,\"height\":1556,\"displaySize\":\"large\",\"float\":\"none\",\"downloadUrl\":\"https://galaxy.maropost.com/api/v2/media/download-by-url?url=https%3A%2F%2Fus.v-cdn.net%2F6038474%2Fuploads%2F6JZF7E6RMPVF%2Freward19-281-29.png\",\"active\":true,\"mediaID\":1435,\"dateInserted\":\"2025-11-17T14:48:29+00:00\",\"insertUserID\":2012,\"foreignType\":\"embed\",\"foreignID\":\"2012\",\"embedType\":\"image\"}},{\"type\":\"p\",\"children\":[{\"text\":\"To learn more about earning and redeeming reward points during Neto POS order checkout, read our \"},{\"type\":\"a\",\"url\":\"https://galaxy.maropost.com/kb/articles/2340-neto-pos-earn-redeem-rewards-program\",\"target\":\"_blank\",\"children\":[{\"text\":\"Neto POS Earn & Redeem Rewards Program\",\"bold\":true}]},{\"text\":\" article.\"}]}]",
+  "format": "rich2",
+  "featured": false,
+  "locale": "en",
+  "status": "published",
+  "foreignID": null,
+  "dateUpdated": "2025-11-17T14:49:02+00:00",
+  "_source_kb_id": 12,
+  "_source_kb_name": "Neto Release Notes",
+  "_sync_date": "2026-02-02T05:58:27.072577+00:00"
+}

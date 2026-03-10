@@ -1,0 +1,31 @@
+{
+  "articleID": 2058,
+  "name": "Search API Overview",
+  "format": "rich2",
+  "locale": "en",
+  "body": "[{\"type\": \"h2\", \"children\": [{\"text\": \"Overview\"}]}, {\"type\": \"p\", \"children\": [{\"text\": \"The Search API provides flexible integration options for implementing search functionality on any platform, offering both low-level HTTP JSON routes and high-level SDKs and JavaScript libraries. This enables you to integrate search features using your preferred development tools while accessing the full range of search capabilities.\"}]}, {\"type\": \"p\", \"children\": [{\"text\": \"You can choose between direct API integration for complete control or SDK-based approaches for easier implementation. The API supports both GET and POST requests with JSON payloads, enabling JSONP for cross-domain requests, which helps ensure you can implement search functionality that fits your specific technical architecture and development workflow.\"}]}, {\"type\": \"h2\", \"children\": [{\"text\": \"Integration Options\"}]}, {\"type\": \"p\", \"children\": [{\"text\": \"Maropost Merchandising Cloud (formerly Findify) provides a set of low- and high-level tools that can help you integrate on any platform using your favorite tools.\"}]}, {\"type\": \"p\", \"children\": [{\"text\": \"For the low-level integration we provide a set of HTTP JSON routes that give you access to all features and tools that we offer.\"}]}, {\"type\": \"p\", \"children\": [{\"text\": \"On a high-level we provide a set of SDK and JS libraries that can ease the integration.\"}]}, {\"type\": \"callout\", \"children\": [{\"type\": \"callout-item\", \"children\": [{\"text\": \"\\ud83d\\udc4dWe recommend using high-level tools\\n\"}]}, {\"type\": \"callout-item\", \"children\": [{\"text\": \"We recommend using SDKs and especially JS Feedback library and use low-level API only for building new SDKs\"}]}], \"appearance\": \"info\"}, {\"type\": \"h2\", \"children\": [{\"text\": \"HTTP Methods\"}]}, {\"type\": \"p\", \"children\": [{\"text\": \"All routes support both HTTP GET and HTTP POST verbs.\"}]}, {\"type\": \"p\", \"children\": [{\"text\": \"For POST requests, the request body must be JSON, with the Content-Type header set to application/json.\"}]}, {\"type\": \"p\", \"children\": [{\"text\": \"The GET requests can be used for JSONP. You can adjust the callback name thanks to the \\\"callback\\\" parameter.\"}]}, {\"type\": \"h3\", \"children\": [{\"text\": \"POST Request\"}]}, {\"type\": \"code_block\", \"lang\": \"bash\", \"children\": [{\"type\": \"code_line\", \"children\": [{\"text\": \"curl -X POST https://api-v3.findify.io/v3/search \\\\\"}]}, {\"type\": \"code_line\", \"children\": [{\"text\": \"  -H \\\"Content-Type: application/json\\\" \\\\\"}]}, {\"type\": \"code_line\", \"children\": [{\"text\": \"  -d '{\\\"key\\\": \\\"your-api-key\\\", \\\"query\\\": \\\"search-term\\\"}'\"}]}]}, {\"type\": \"h3\", \"children\": [{\"text\": \"GET Request (JSONP)\"}]}, {\"type\": \"code_block\", \"lang\": \"bash\", \"children\": [{\"type\": \"code_line\", \"children\": [{\"text\": \"curl \\\"https://api-v3.findify.io/v3/search?key=your-api-key&query=search-term&callback=myCallback\\\"\"}]}]}, {\"type\": \"p\", \"children\": [{\"text\": \"\"}]}]",
+  "knowledgeCategoryID": 460,
+  "sort": 0,
+  "status": "published",
+  "_source_kb_id": 5,
+  "_source_kb_name": "Merchandising Cloud",
+  "_fix_date": "2026-02-02T06:05:46.177197+00:00",
+  "fixes_applied": {
+    "urls": {
+      "leaving_cleaned": 0,
+      "unsafe_removed": 0,
+      "s_article_mapped": 0,
+      "s_article_removed": 0,
+      "fragments_mapped": 0,
+      "fragments_stripped": 0,
+      "internal_fragments_fixed": 0,
+      "double_id_fixed": 0,
+      "kb_fragments_stripped": 0
+    },
+    "toc": 0,
+    "related": 1,
+    "lists": 0,
+    "headings": 0,
+    "reconverted": false
+  }
+}

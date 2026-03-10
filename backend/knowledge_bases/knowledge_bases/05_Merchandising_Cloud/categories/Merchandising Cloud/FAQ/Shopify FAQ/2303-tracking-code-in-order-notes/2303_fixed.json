@@ -1,0 +1,16 @@
+{
+  "articleID": 2303,
+  "knowledgeCategoryID": 484,
+  "sort": 3,
+  "name": "Tracking code in order notes",
+  "body": "[{\"type\": \"p\", \"children\": [{\"text\": \"Merchandising Cloud adds tracking code to Shopify orders notes, that may look something like this:\", \"bold\": true}, {\"text\": \"\\n_{\\\"uniq_id\\\":\\\"gKpWKl6VQhULXIZF\\\",\\\"visit_id\\\":\\\"L7HzjOyO2BHStW2g\\\"}_\"}]}, {\"type\": \"p\", \"children\": [{\"text\": \"We do this for a number of reasons:\", \"bold\": true}]}, {\"type\": \"ul\", \"children\": [{\"type\": \"li\", \"children\": [{\"type\": \"lic\", \"children\": [{\"text\": \"It helps our search engine to correctly calculate and dynamically update products' popularity and as a result, produce more relevant search results for customers.\"}]}]}, {\"type\": \"li\", \"children\": [{\"type\": \"lic\", \"children\": [{\"text\": \"We use this data for our analytics platform that allows you to check different metrics in \"}, {\"type\": \"a\", \"url\": \"https://dashboard.findify.io/analytics/snapshot\", \"target\": \"_blank\", \"children\": [{\"text\": \"Merchandising Cloud dashboard\"}]}, {\"text\": \".\"}]}]}, {\"type\": \"li\", \"children\": [{\"type\": \"lic\", \"children\": [{\"text\": \"We use this data for our personalization platform that allows us to produce relevant search results and suggestions based on current customer actions.\\n\"}]}]}]}, {\"type\": \"blockquote\", \"children\": [{\"type\": \"blockquote-line\", \"children\": [{\"text\": \"📘 Remove Merchandising Cloud tracking code from Shopify order notes\"}]}, {\"type\": \"blockquote-line\", \"children\": [{\"text\": \"This tracking code can be removed but will affect the granularity of your Analytics and is hence advised to be kept. \"}]}, {\"type\": \"blockquote-line\", \"children\": [{\"text\": \"If you don't want Merchandising Cloud to insert tracking code into your Shopify orders you can contact us at \"}, {\"type\": \"a\", \"url\": \"mailto:support@maropost.com\", \"target\": \"_blank\", \"children\": [{\"text\": \"support@maropost .com\"}]}, {\"text\": \" and our team will disable this feature.\"}]}]}, {\"type\": \"p\", \"children\": [{\"text\": \"\\n\"}]}]",
+  "format": "rich2",
+  "featured": false,
+  "locale": "en",
+  "status": "published",
+  "foreignID": null,
+  "dateUpdated": "2025-11-19T04:11:01+00:00",
+  "_source_kb_id": 5,
+  "_source_kb_name": "Merchandising Cloud",
+  "_sync_date": "2026-02-02T05:53:50.286088+00:00"
+}

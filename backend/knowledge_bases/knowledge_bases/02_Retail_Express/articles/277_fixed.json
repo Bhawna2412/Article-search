@@ -1,0 +1,26 @@
+{
+  "articleID": 277,
+  "name": "Customer Deposits Summary",
+  "slug": "277-customer-deposits-summary",
+  "format": "rich2",
+  "locale": "en",
+  "body": "[{\"type\": \"p\", \"children\": [{\"text\": \"You can quickly assess total customer deposit liabilities by accessing the Customer Deposits Summary, which provides aggregated deposit balances without detailed transaction-level information. This summary report helps retail operators understand total prepayment obligations and provides finance teams with essential deposit liability figures for balance sheet and financial reporting purposes.\"}]}, {\"type\": \"p\", \"children\": [{\"text\": \"Using the Customer Deposits Summary helps retail operators monitor overall deposit liability levels and communicate accurate deposit balance information to accounting teams for financial statement preparation.\"}]}, {\"type\": \"p\", \"children\": [{\"text\": \"Find \"}, {\"type\": \"a\", \"url\": \"https://galaxy.maropost.com/kb/articles/277-customer-deposits-summary#Faqs\", \"children\": [{\"text\": \"related articles\", \"bold\": true}]}, {\"text\": \" \", \"bold\": true}, {\"text\": \"at the bottom of this page\"}]}, {\"type\": \"p\", \"children\": [{\"text\": \"Use the Customer Deposits Summary to view totals for each Store of outstanding balances on invoices, along with fulfilled and unfulfilled quantities and values. This report accesses the same filters as \"}, {\"text\": \"Customer Deposits\"}, {\"text\": \", which is the recommended report when more detail at an invoice level is required.\"}]}, {\"type\": \"p\", \"children\": [{\"text\": \"Considerations when using this report:\", \"bold\": true}]}, {\"type\": \"ul\", \"children\": [{\"type\": \"li\", \"children\": [{\"type\": \"lic\", \"children\": [{\"text\": \"the Outstanding Balance is calculated using both payments received AND the fulfilled (or not fulfilled) status of products\"}]}]}, {\"type\": \"li\", \"children\": [{\"type\": \"lic\", \"children\": [{\"text\": \"invoices fully paid, but with unfulfilled products, will display a negative outstanding balance\"}]}]}]}, {\"type\": \"p\", \"children\": [{\"text\": \"\"}]}, {\"type\": \"p\", \"children\": [{\"text\": \"To access the Customer Deposit Summary navigate to:\"}, {\"text\": \" Reports > EOM Reports > Customer Deposits Summary\", \"bold\": true}]}, {\"type\": \"rich_embed_card\", \"dataSourceType\": \"image\", \"url\": \"https://us.v-cdn.net/6038474/uploads/attachments/migrated/image.05T5g00000powKrEAI.jpg\", \"embedData\": {\"url\": \"https://us.v-cdn.net/6038474/uploads/attachments/migrated/image.05T5g00000powKrEAI.jpg\", \"embedType\": \"image\", \"displaySize\": \"large\", \"float\": \"none\", \"name\": \"blobid0 (6).png\"}, \"children\": [{\"text\": \"\"}]}, {\"type\": \"p\", \"children\": [{\"text\": \"Apply filters as required > click \"}, {\"text\": \"Search.\", \"bold\": true}]}, {\"type\": \"rich_embed_card\", \"dataSourceType\": \"image\", \"url\": \"https://us.v-cdn.net/6038474/uploads/attachments/migrated/image.05T5g00000powKwEAI.jpg\", \"embedData\": {\"url\": \"https://us.v-cdn.net/6038474/uploads/attachments/migrated/image.05T5g00000powKwEAI.jpg\", \"embedType\": \"image\", \"displaySize\": \"large\", \"float\": \"none\", \"name\": \"blobid1 (3).png\"}, \"children\": [{\"text\": \"\"}]}, {\"type\": \"p\", \"children\": [{\"text\": \"View this report in-page, or export to Excel.\"}]}, {\"type\": \"callout\", \"children\": [{\"type\": \"callout-item\", \"children\": [{\"text\": \"Click column headings to sort into ascending or descending order.\"}]}], \"appearance\": \"info\"}, {\"type\": \"p\", \"children\": [{\"type\": \"a\", \"url\": \"\", \"children\": [{\"text\": \"\"}]}, {\"text\": \"Want more information? Find related articles here:\"}]}, {\"type\": \"ul\", \"children\": [{\"type\": \"li\", \"children\": [{\"type\": \"lic\", \"children\": [{\"text\": \"Reporting for EOFY and Manual Journal Entries to an Accounting Package\"}]}]}, {\"type\": \"li\", \"children\": [{\"type\": \"lic\", \"children\": [{\"text\": \"Fulfil Products from the Fulfilment Report\"}]}]}, {\"type\": \"li\", \"children\": [{\"type\": \"lic\", \"children\": [{\"text\": \"Customer Deposits\"}]}]}]}, {\"type\": \"p\", \"children\": [{\"text\": \"\"}]}]",
+  "fixes_applied": {
+    "urls": {
+      "leaving_cleaned": 0,
+      "unsafe_removed": 0,
+      "s_article_mapped": 0,
+      "s_article_removed": 4,
+      "fragments_mapped": 0,
+      "fragments_stripped": 0,
+      "internal_fragments_fixed": 2,
+      "double_id_fixed": 0,
+      "kb_fragments_stripped": 0
+    },
+    "toc": 0,
+    "related": 1,
+    "lists": 0,
+    "headings": 0,
+    "reconverted": false
+  }
+}

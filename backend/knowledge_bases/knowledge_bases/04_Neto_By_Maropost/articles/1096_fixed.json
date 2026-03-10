@@ -1,0 +1,17 @@
+{
+  "articleID": 1096,
+  "knowledgeCategoryID": 305,
+  "sort": 2,
+  "name": "Manually Approve Website Customer Accounts",
+  "body": "[{\"type\": \"p\", \"children\": [{\"text\": \"Neto\\u00a0automatically approves new customer account registrations. You can change this setting for \"}, {\"text\": \"Retail\", \"bold\": true}, {\"text\": \" and \"}, {\"text\": \"Wholesale\", \"bold\": true}, {\"text\": \" customers, allowing staff to manually to verify every registration before they can order from the webstore.\"}]}, {\"type\": \"ol\", \"children\": [{\"type\": \"li\", \"children\": [{\"type\": \"lic\", \"children\": [{\"text\": \"In your\\u00a0Neto control panel navigate to \"}, {\"text\": \"Settings & Tools\", \"bold\": true}, {\"text\": \" > \"}, {\"text\": \"All Settings & tools\", \"bold\": true}, {\"text\": \".\"}]}]}, {\"type\": \"li\", \"children\": [{\"type\": \"lic\", \"children\": [{\"text\": \"Click on the \"}, {\"text\": \"Customers\", \"bold\": true}, {\"text\": \" tab from the left hand side navigation menu, and click \"}, {\"text\": \"Customer Settings\", \"bold\": true}, {\"text\": \".\"}]}]}, {\"type\": \"li\", \"children\": [{\"type\": \"lic\", \"children\": [{\"text\": \"Here you can toggle whether or not you wish customers to be automatically approved when they sign up.\"}, {\"text\": \"\\n\"}, {\"text\": \"\\n\"}, {\"text\": \"[Image: image1]\"}]}]}, {\"type\": \"li\", \"children\": [{\"type\": \"lic\", \"children\": [{\"text\": \"Save Changes\", \"bold\": true}, {\"text\": \".\"}]}]}, {\"type\": \"li\", \"children\": [{\"type\": \"lic\", \"children\": [{\"text\": \"To enable the user, simply navigate to \"}, {\"text\": \"Customers\", \"bold\": true}, {\"text\": \" > \"}, {\"text\": \"View customers & prospects\", \"bold\": true}, {\"text\": \". Find and edit the customer you wish to make changes to.\"}]}]}, {\"type\": \"li\", \"children\": [{\"type\": \"lic\", \"children\": [{\"text\": \"On the top right hand side, click the \"}, {\"text\": \"Active\", \"bold\": true}, {\"text\": \" button on the top right hand side and save changes.\"}, {\"text\": \"\\n\"}, {\"text\": \"\\n\"}, {\"text\": \"[Image: image2]\"}]}]}]}]",
+  "format": "rich2",
+  "featured": false,
+  "locale": "en",
+  "status": "published",
+  "foreignID": null,
+  "dateUpdated": "2025-12-11T04:34:54+00:00",
+  "_source_kb_id": 4,
+  "_source_kb_name": "Neto By Maropost",
+  "_sync_date": "2026-02-06T07:19:22.125686+00:00",
+  "_incremental_update": true
+}

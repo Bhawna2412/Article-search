@@ -1,0 +1,26 @@
+{
+  "articleID": 1332,
+  "name": "Our contact details have changed",
+  "slug": "1332-our-contact-details-have-changed",
+  "format": "rich2",
+  "locale": "en",
+  "body": "[{\"type\": \"p\", \"children\": [{\"text\": \"You can access updated contact information for \"}, {\"text\": \"Retail Express\", \"bold\": true}, {\"text\": \" support and services to ensure timely assistance when needed. This information helps maintain effective communication channels by providing current contact details, supporting efficient problem resolution and ensuring you can access help resources when required for your retail operations.\"}]}, {\"type\": \"p\", \"children\": [{\"text\": \"Understanding updated contact details involves reviewing new phone numbers, email addresses, support hours, and preferred communication channels. When you have current contact information, you can expect faster support response times, more efficient problem resolution, and better overall assistance experience with Retail Express support services.\"}]}, {\"type\": \"p\", \"children\": [{\"text\": \"\"}]}, {\"type\": \"h1\", \"children\": [{\"text\": \"Our contact details have changed\"}], \"data-id\": \"our-contact-details-have-changed\"}, {\"type\": \"p\", \"children\": [{\"text\": \"As part of our transition to Maropost, we have updated our contact details.\"}]}, {\"type\": \"p\", \"children\": [{\"text\": \"\"}]}, {\"type\": \"h2\", \"children\": [{\"text\": \"New Details\"}], \"data-id\": \"new-details\"}, {\"type\": \"p\", \"children\": [{\"text\": \"Our new details are as follows:\"}]}, {\"type\": \"p\", \"children\": [{\"type\": \"rich_embed_card\", \"dataSourceType\": \"image\", \"url\": \"https://ress.zendesk.com/hc/article_attachments/6202792723727\", \"embedData\": {\"url\": \"https://ress.zendesk.com/hc/article_attachments/6202792723727\", \"embedType\": \"image\", \"displaySize\": \"inline\", \"float\": \"none\", \"name\": \"phone-light.png\"}, \"children\": [{\"text\": \"\"}]}, {\"text\": \"\"}, {\"text\": \"AU 1300 730 300 | NZ + 64 9 9518356\"}, {\"text\": \"\"}, {\"type\": \"rich_embed_card\", \"dataSourceType\": \"image\", \"url\": \"https://ress.zendesk.com/hc/article_attachments/6202779850383\", \"embedData\": {\"url\": \"https://ress.zendesk.com/hc/article_attachments/6202779850383\", \"embedType\": \"image\", \"displaySize\": \"inline\", \"float\": \"none\", \"name\": \"envelope-light.png\"}, \"children\": [{\"text\": \"\"}]}, {\"text\": \"\"}, {\"type\": \"a\", \"url\": \"mailto:support@maropost.com\", \"children\": [{\"text\": \"support@maropost.com\"}]}]}, {\"type\": \"p\", \"children\": [{\"text\": \"\"}]}, {\"type\": \"h2\", \"children\": [{\"text\": \"What you need to do\"}], \"data-id\": \"what-you-need-to-do\"}, {\"type\": \"ol\", \"children\": [{\"type\": \"li\", \"children\": [{\"type\": \"lic\", \"children\": [{\"text\": \"Update our contact details wherever you may have saved them - address books, shortcuts etc.\"}]}]}, {\"type\": \"li\", \"children\": [{\"type\": \"lic\", \"children\": [{\"text\": \"Let your staff know. Either forward this email or send a separate one, to ensure they know how to reach us.\"}]}]}, {\"type\": \"li\", \"children\": [{\"type\": \"lic\", \"children\": [{\"text\": \"Add our new email addresses to your safe sender list to ensure you continue to receive our emails, including important feature updates and system updates. \"}, {\"text\": \"\\n\"}, {\"text\": \"\\n\"}, {\"text\": \"We recommend adding the domain \"}, {\"type\": \"a\", \"url\": \"https://galaxy.maropost.com/profile/maropost\", \"children\": [{\"text\": \"@maropost\"}]}, {\"text\": \".com to your safe sender list, so no matter what email address we use, it should reach your inbox (especially important for when communicating with our Support and Onboarding teams).\"}]}]}]}, {\"type\": \"p\", \"children\": [{\"text\": \"\"}]}, {\"type\": \"p\", \"children\": [{\"text\": \"Questions? Contact our team at \"}, {\"type\": \"a\", \"url\": \"mailto:support@maropost.com\", \"children\": [{\"text\": \"support@maropost.com \"}]}, {\"text\": \"now!\"}]}, {\"type\": \"p\", \"children\": [{\"text\": \"\"}]}]",
+  "fixes_applied": {
+    "urls": {
+      "leaving_cleaned": 0,
+      "unsafe_removed": 0,
+      "s_article_mapped": 0,
+      "s_article_removed": 0,
+      "fragments_mapped": 0,
+      "fragments_stripped": 0,
+      "internal_fragments_fixed": 0,
+      "double_id_fixed": 0,
+      "kb_fragments_stripped": 0
+    },
+    "toc": 0,
+    "related": 1,
+    "lists": 0,
+    "headings": 0,
+    "reconverted": false
+  }
+}

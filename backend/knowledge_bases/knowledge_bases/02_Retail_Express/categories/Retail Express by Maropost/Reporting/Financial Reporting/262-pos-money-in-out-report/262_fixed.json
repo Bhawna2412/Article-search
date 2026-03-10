@@ -1,0 +1,26 @@
+{
+  "articleID": 262,
+  "name": "POS Money In / Out Report",
+  "slug": "262-pos-money-in-out-report",
+  "format": "rich2",
+  "locale": "en",
+  "body": "[{\"type\": \"p\", \"children\": [{\"text\": \"You can track non-sales cash transactions like petty cash withdrawals, supplier payments, or expense reimbursements through the POS Money In/Out Report, maintaining accurate records of all cash drawer activity beyond customer sales. This report helps ensure complete cash accountability and supports accurate cash reconciliation by documenting why cash levels differ from sales revenue alone.\"}]}, {\"type\": \"p\", \"children\": [{\"text\": \"Using the Money In/Out Report helps retail operators maintain comprehensive cash management records, explaining cash drawer variances and providing audit trails for non-sales cash transactions across retail locations.\"}]}, {\"type\": \"p\", \"children\": [{\"text\": \"The POS Money In/Out Report provides detailed information on all transactions involving money added or removed from the register. Using the POS Money In/Out feature, this report helps you monitor and track cash movements within your system.\"}]}, {\"type\": \"p\", \"children\": [{\"text\": \"This report will show you details of money added or removed from your registers using the POS money In/Out feature.\"}]}, {\"type\": \"p\", \"children\": [{\"text\": \"To access the Report, Go to\", \"italic\": true}, {\"text\": \" Reports \", \"italic\": true, \"bold\": true}, {\"text\": \">\", \"italic\": true}, {\"text\": \" Finance Reports \", \"italic\": true, \"bold\": true}, {\"text\": \">\", \"italic\": true}, {\"text\": \" POS Money in/out\", \"italic\": true, \"bold\": true}]}, {\"type\": \"rich_embed_card\", \"dataSourceType\": \"image\", \"url\": \"https://us.v-cdn.net/6038474/uploads/attachments/migrated/image.05T5g00000ppVwIEAU.jpg\", \"embedData\": {\"url\": \"https://us.v-cdn.net/6038474/uploads/attachments/migrated/image.05T5g00000ppVwIEAU.jpg\", \"embedType\": \"image\", \"displaySize\": \"large\", \"float\": \"none\", \"name\": \"blobid0 (27).png\"}, \"children\": [{\"text\": \"\"}]}, {\"type\": \"p\", \"children\": [{\"text\": \"This basic information will give you a good idea of why/when/who took the money in/out. The total of money taken in/out will be displayed at the bottom of the \\\"Money Out\\\" and \\\"Money In\\\" columns.\"}]}, {\"type\": \"p\", \"children\": [{\"text\": \"You can export this report to Excel or CSV by clicking on the buttons.\"}]}, {\"type\": \"p\", \"children\": [{\"text\": \"\"}]}]",
+  "fixes_applied": {
+    "urls": {
+      "leaving_cleaned": 0,
+      "unsafe_removed": 0,
+      "s_article_mapped": 0,
+      "s_article_removed": 0,
+      "fragments_mapped": 0,
+      "fragments_stripped": 0,
+      "internal_fragments_fixed": 0,
+      "double_id_fixed": 0,
+      "kb_fragments_stripped": 0
+    },
+    "toc": 0,
+    "related": 1,
+    "lists": 0,
+    "headings": 0,
+    "reconverted": false
+  }
+}

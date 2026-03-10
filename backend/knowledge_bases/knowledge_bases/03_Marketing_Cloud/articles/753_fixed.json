@@ -1,0 +1,16 @@
+{
+  "articleID": 753,
+  "knowledgeCategoryID": 111,
+  "sort": 0,
+  "name": "Integration with Salesforce",
+  "body": "[{\"type\": \"p\", \"children\": [{\"text\": \"You can integrate Marketing Cloud with Salesforce to leverage your existing CRM data for more targeted email marketing campaigns. This integration enables you to utilize your Salesforce leads and contacts for sophisticated email automation workflows, helping improve engagement rates by delivering relevant content to segmented audiences based on their CRM data and behavior.\"}]}, {\"type\": \"p\", \"children\": [{\"text\": \"When properly configured, this integration streamlines your workflow by eliminating manual data transfers between systems, while ensuring your email marketing efforts are aligned with your sales pipeline and customer lifecycle stages.\"}]}, {\"type\": \"p\", \"children\": [{\"text\": \"Marketing Cloud's integration package enables Salesforce users to utilize Maropost's powerful marketing automation capabilities.\"}]}, {\"type\": \"p\", \"children\": [{\"text\": \"You can create and send bulk emails to members of Salesforce campaigns or generate reports through Maropost's high-performance, high-throughput email engine.\"}]}, {\"type\": \"p\", \"children\": [{\"text\": \"That's not all; you can also pass selected Salesforce Leads and Contacts to Maropost Lists and Journeys for advanced triggered message flows.\"}]}, {\"type\": \"p\", \"children\": [{\"text\": \"The integration package is for Salesforce organizations whose license is Enterprise or above, using the Classic User Interface. Your Salesforce Administrator is required to complete the setup.\"}]}, {\"type\": \"callout\", \"children\": [{\"type\": \"callout-item\", \"children\": [{\"text\": \"The integration between Salesforce and Marketing Cloud uses Salesforce's APIs. Check with your Salesforce Administrator to understand what impact (if any) can occur based on the number of daily API calls allowed on your Salesforce license.\"}]}], \"appearance\": \"info\"}, {\"type\": \"p\", \"children\": [{\"text\": \"\"}]}]",
+  "format": "rich2",
+  "featured": false,
+  "locale": "en",
+  "status": "published",
+  "foreignID": null,
+  "dateUpdated": "2026-02-06T07:27:10+00:00",
+  "_source_kb_id": 3,
+  "_source_kb_name": "Marketing Cloud",
+  "_sync_date": "2026-02-06T07:34:02.630390+00:00"
+}

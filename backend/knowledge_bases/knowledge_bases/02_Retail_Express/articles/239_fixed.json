@@ -1,0 +1,26 @@
+{
+  "articleID": 239,
+  "name": "Delivery Zones",
+  "slug": "239-delivery-zones",
+  "format": "rich2",
+  "locale": "en",
+  "body": "[{\"type\": \"p\", \"children\": [{\"text\": \"You can organize and streamline your customer delivery operations by creating delivery zones that represent suburbs, regions, courier routes, or custom delivery areas for efficient fulfilment scheduling. Properly configured delivery zones help improve order fulfilment efficiency when used with delivery drivers and delivery times, making it easier to batch deliveries and optimize routing through the Fulfilment Report.\"}]}, {\"type\": \"p\", \"children\": [{\"text\": \"Setting up delivery zones aligned with your actual delivery patterns helps retail operators coordinate multi-stop delivery runs more effectively, reducing delivery time and fuel costs while improving customer service through better delivery schedule management.\"}]}, {\"type\": \"p\", \"children\": [{\"text\": \"Delivery Zones typically refer to areas your products will be delivered to (Suburbs etc), however, the flexibility of this feature means you can customise it to suit your business needs as required. Used in conjunction with Delivery Drivers and Delivery Times, the Delivery Zone can assist in organising and scheduling your required deliveries (managed using the \"}, {\"text\": \"Fulfilment Report\"}, {\"text\": \").\"}]}, {\"type\": \"p\", \"children\": [{\"text\": \"Examples of Delivery Zones:\"}]}, {\"type\": \"ul\", \"children\": [{\"type\": \"li\", \"children\": [{\"type\": \"lic\", \"children\": [{\"text\": \"Suburbs\"}]}]}, {\"type\": \"li\", \"children\": [{\"type\": \"lic\", \"children\": [{\"text\": \"Regions\"}]}]}, {\"type\": \"li\", \"children\": [{\"type\": \"lic\", \"children\": [{\"text\": \"Specific Couriers\"}]}]}, {\"type\": \"li\", \"children\": [{\"type\": \"lic\", \"children\": [{\"text\": \"Known Delivery Routes\"}]}]}]}, {\"type\": \"rich_embed_card\", \"dataSourceType\": \"image\", \"url\": \"https://us.v-cdn.net/6038474/uploads/attachments/migrated/image.05T5g00000powXlEAI.jpg\", \"embedData\": {\"url\": \"https://us.v-cdn.net/6038474/uploads/attachments/migrated/image.05T5g00000powXlEAI.jpg\", \"embedType\": \"image\", \"displaySize\": \"large\", \"float\": \"none\", \"name\": \"mceclip0 (49).png\"}, \"children\": [{\"text\": \"\"}]}, {\"type\": \"p\", \"children\": [{\"text\": \"To manage your Delivery Zones:\", \"bold\": true}]}, {\"type\": \"ol\", \"children\": [{\"type\": \"li\", \"children\": [{\"type\": \"lic\", \"children\": [{\"text\": \"Navigate to \"}, {\"text\": \"Settings > Fulfilment Setup > Delivery Zones\", \"bold\": true}]}]}, {\"type\": \"li\", \"children\": [{\"type\": \"lic\", \"children\": [{\"text\": \"Enter a Name in the \"}, {\"text\": \"Delivery Zone \", \"bold\": true}, {\"text\": \"field\"}]}]}, {\"type\": \"li\", \"children\": [{\"type\": \"lic\", \"children\": [{\"text\": \"Click \"}, {\"text\": \"Create\", \"bold\": true}]}]}, {\"type\": \"li\", \"children\": [{\"type\": \"lic\", \"children\": [{\"text\": \"The Delivery Zone will be created in the table below\"}]}]}, {\"type\": \"li\", \"children\": [{\"type\": \"lic\", \"children\": [{\"text\": \"Click the \"}, {\"text\": \"Pencil \", \"bold\": true}, {\"text\": \"icon to edit the name\"}]}]}, {\"type\": \"li\", \"children\": [{\"type\": \"lic\", \"children\": [{\"text\": \"Click the \"}, {\"text\": \"Trash Can \", \"bold\": true}, {\"text\": \"icon to delete a Delivery Zone\"}]}]}]}, {\"type\": \"p\", \"children\": [{\"text\": \"\"}]}]",
+  "fixes_applied": {
+    "urls": {
+      "leaving_cleaned": 0,
+      "unsafe_removed": 0,
+      "s_article_mapped": 0,
+      "s_article_removed": 1,
+      "fragments_mapped": 0,
+      "fragments_stripped": 0,
+      "internal_fragments_fixed": 0,
+      "double_id_fixed": 0,
+      "kb_fragments_stripped": 0
+    },
+    "toc": 0,
+    "related": 1,
+    "lists": 0,
+    "headings": 0,
+    "reconverted": false
+  }
+}

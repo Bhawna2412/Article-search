@@ -1,0 +1,31 @@
+{
+  "articleID": 62,
+  "name": "Integrating Recommendations in Norce",
+  "format": "rich2",
+  "locale": "en",
+  "body": "[{\"type\": \"p\", \"children\": [{\"text\": \"Integrating recommendations in Norce enables personalized product suggestions within your Norce-powered ecommerce platform. When recommendations work natively with Norce, you help improve cross-sell opportunities and average order value, which tends to enhance revenue performance through strategically placed product suggestions that leverage Norce's platform capabilities.\"}]}, {\"type\": \"p\", \"children\": [{\"text\": \"Norce recommendation integration enables sophisticated merchandising within your platform architecture. This helps you provide personalized shopping experiences that drive better conversion and revenue outcomes, supporting improved business performance through AI-powered product suggestions optimized for Norce's ecommerce framework.\"}]}, {\"type\": \"p\", \"children\": [{\"text\": \"\"}]}, {\"type\": \"h2\", \"children\": [{\"text\": \"To integrate Recommendations follow these steps:\"}, {\"type\": \"a\", \"url\": \"https://developers.findify.io/docs/norse-integrating-recommendations#to-integrate-findify-recommendations-follow-these-steps\", \"children\": [{\"text\": \"\"}]}], \"data-id\": \"to-integrate-recommendations-follow-these-steps\"}, {\"type\": \"ol\", \"children\": [{\"type\": \"li\", \"children\": [{\"type\": \"lic\", \"children\": [{\"text\": \"General Information\"}]}]}, {\"type\": \"li\", \"children\": [{\"type\": \"lic\", \"children\": [{\"text\": \"Integrating Recommendations on Product or Cart Pages\"}]}]}]}, {\"type\": \"p\", \"children\": [{\"text\": \"\"}]}, {\"type\": \"h3\", \"children\": [{\"text\": \"1. General Information\"}, {\"type\": \"a\", \"url\": \"https://developers.findify.io/docs/norse-integrating-recommendations#1-general-information\", \"children\": [{\"text\": \"\"}]}], \"data-id\": \"1-general-information\"}, {\"type\": \"p\", \"children\": [{\"text\": \"In order to integrate Recommendation widgets, please follow these \"}, {\"type\": \"a\", \"url\": \"https://github.com/findify/react-bundle#recommendation\", \"children\": [{\"text\": \"guidelines\"}]}, {\"text\": \".\"}, {\"text\": \"\\n\"}, {\"text\": \"\\n\"}, {\"text\": \"Before you integrate a specific recommendation widget, please make sure to setup the corresponding widget in our \"}, {\"text\": \"<span class=\\\"cm-s-neo\\\" style=\\\"box-sizing: border-box;\\\">Merchant Dashboard</span>\", \"code\": true}, {\"text\": \" -> \"}, {\"text\": \"<span class=\\\"cm-s-neo\\\" style=\\\"box-sizing: border-box;\\\">Recommendations section</span>\", \"code\": true}, {\"text\": \": \"}, {\"type\": \"a\", \"url\": \"https://developers.findify.io/docs/recommendations#how-do-i-use-findify-recommendations\", \"children\": [{\"text\": \"https://developers.findify.io/docs/recommendations#how-do-i-use-findify-recommendations\"}]}, {\"text\": \".\"}]}, {\"type\": \"p\", \"children\": [{\"text\": \"\"}]}, {\"type\": \"h3\", \"children\": [{\"text\": \"2. Integrating Recommendations on Product or Cart Pages\"}, {\"type\": \"a\", \"url\": \"https://developers.findify.io/docs/norse-integrating-recommendations#2-integrating-recommendations-on-product-or-cart-pages\", \"children\": [{\"text\": \"\"}]}], \"data-id\": \"2-integrating-recommendations-on-product-or-cart-pages\"}, {\"type\": \"p\", \"children\": [{\"text\": \"For Product or Cart Page type of Recommendations, it is required to provide the product ids of the currently viewed/added to the cart items.\"}]}, {\"type\": \"p\", \"children\": [{\"text\": \"Those ids will then need to be passed to our \"}, {\"text\": \"<span class=\\\"cm-s-neo\\\" style=\\\"box-sizing: border-box;\\\">useFindify</span>\", \"code\": true}, {\"text\": \" hook like this:\"}]}, {\"type\": \"code_block\", \"children\": [{\"type\": \"code_line\", \"children\": [{\"text\": \"const [container, isReady, hasError] = useFindify({    type: &#39;recommendation&#39;,    options: {       rules: [{        &#39;action&#39;: &#39;exclude&#39;,        &#39;type&#39;: &#39;text&#39;,        &#39;name&#39;: &#39;id&#39;,        &#39;values&#39;: [{          value: [\\\"item_id_1\\\", \\\"item_id_2\\\", ...] //provide the list of ids to the value array        }]}],      item_ids: [\\\"item_id_1\\\", \\\"item_id_2\\\", ...] //provide the list of ids to the value array    },    config: {      slot: &#39;RECOMMENDATION_SLOT&#39;,    }  });\"}]}], \"lang\": \"plaintext\"}, {\"type\": \"p\", \"children\": [{\"text\": \"\"}]}]",
+  "knowledgeCategoryID": 170,
+  "sort": 1,
+  "status": "published",
+  "_source_kb_id": 5,
+  "_source_kb_name": "Merchandising Cloud",
+  "_fix_date": "2026-02-02T06:05:48.003364+00:00",
+  "fixes_applied": {
+    "urls": {
+      "leaving_cleaned": 5,
+      "unsafe_removed": 0,
+      "s_article_mapped": 0,
+      "s_article_removed": 0,
+      "fragments_mapped": 0,
+      "fragments_stripped": 0,
+      "internal_fragments_fixed": 0,
+      "double_id_fixed": 0,
+      "kb_fragments_stripped": 0
+    },
+    "toc": 0,
+    "related": 1,
+    "lists": 0,
+    "headings": 0,
+    "reconverted": false
+  }
+}

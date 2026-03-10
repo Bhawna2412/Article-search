@@ -1,0 +1,16 @@
+{
+  "articleID": 1875,
+  "knowledgeCategoryID": 454,
+  "sort": 14,
+  "name": "Neto by Maropost Release Notes – 26 Aug 2020",
+  "body": "[{\"type\":\"p\",\"children\":[{\"text\":\"Release Version\",\"bold\":true},{\"text\":\": 6.117\"}]},{\"type\":\"p\",\"children\":[{\"text\":\" \"}]},{\"type\":\"h2\",\"children\":[{\"text\":\"Minor Improvements\",\"bold\":true}]},{\"type\":\"ul\",\"children\":[{\"type\":\"li\",\"children\":[{\"type\":\"lic\",\"children\":[{\"text\":\"Amazon and Catch category mapping will now display notifications if categories have been updated and need to be remapped in Neto.\"}]}]},{\"type\":\"li\",\"children\":[{\"text\":\"Get Response and Zoho CRM add-ons have been removed from the add-on store.\"}]},{\"type\":\"li\",\"children\":[{\"type\":\"lic\",\"children\":[{\"text\":\"Updated the text on shipping rate tables to explain that transit cover doesn't change the rate charged to customers. The transit cover will still appear during consignment creation if set up.\"}]}]},{\"type\":\"li\",\"children\":[{\"text\":\"Added a setting to shipping rate tables, \"},{\"text\":\"Packaging allowance is added when generating shipping consignments\",\"bold\":true},{\"text\":\", giving you greater control of packaging during consignment creation.\"}]}]},{\"type\":\"p\",\"children\":[{\"text\":\" \"}]},{\"type\":\"h2\",\"children\":[{\"text\":\"Bug Fixes\",\"bold\":true}]},{\"type\":\"ul\",\"children\":[{\"type\":\"li\",\"children\":[{\"type\":\"lic\",\"children\":[{\"text\":\"Fixed an issue where cubic wasn't calculated correctly for multiple items when creating consignments.\"}]}]}]},{\"type\":\"p\",\"children\":[{\"text\":\" \"}]}]",
+  "format": "rich2",
+  "featured": false,
+  "locale": "en",
+  "status": "published",
+  "foreignID": null,
+  "dateUpdated": "2025-06-10T15:22:30+00:00",
+  "_source_kb_id": 12,
+  "_source_kb_name": "Neto Release Notes",
+  "_sync_date": "2026-02-02T05:59:16.697755+00:00"
+}

@@ -1,0 +1,16 @@
+{
+  "articleID": 1932,
+  "knowledgeCategoryID": 440,
+  "sort": 10,
+  "name": "Marketing Cloud Release Notes – 9 Aug 2022",
+  "body": "[{\"type\":\"h2\",\"children\":[{\"text\":\"OVERVIEW\",\"bold\":true}]},{\"type\":\"p\",\"children\":[{\"text\":\"In this release, we are introducing a new widget to help you track your SMS volume data.\"}]},{\"type\":\"p\",\"children\":[{\"text\":\"For more information, read on!\"}]},{\"type\":\"p\",\"children\":[{\"text\":\" \"}]},{\"type\":\"h2\",\"children\":[{\"text\":\"NEW FEATURE\",\"bold\":true}]},{\"type\":\"h3\",\"children\":[{\"text\":\"New Widget – SMS Volume\",\"bold\":true}]},{\"type\":\"p\",\"children\":[{\"text\":\"A new widget – titled “SMS Volume” ­– is now available on our dashboard!\"}]},{\"type\":\"p\",\"children\":[{\"text\":\"The SMS Volume widget shows the volume of your SMS during a specific period. The data includes both sent and received SMS and is categorized into:\"}]},{\"type\":\"ul\",\"children\":[{\"type\":\"li\",\"children\":[{\"text\":\"Outbound\",\"bold\":true},{\"text\":\": Shows all the sent messages (including both delivered and failed ones).\"}]},{\"type\":\"li\",\"children\":[{\"text\":\"Inbound\",\"bold\":true},{\"text\":\": Shows all the received messages (including messages with both valid and invalid mobile keywords).\"}]}]},{\"type\":\"p\",\"children\":[{\"text\":\"On the widget, you can see the total volume count as well as the daily count for the selected time period.\"}]},{\"type\":\"p\",\"children\":[{\"text\":\"To learn about all our Dashboard widgets, see \"},{\"type\":\"a\",\"url\":\"https://galaxy.maropost.com/s/article/Dashboard-Walkthrough\",\"target\":\"_blank\",\"children\":[{\"text\":\"Dashboard Walkthrough\",\"bold\":true}]},{\"text\":\".\"}]},{\"type\":\"p\",\"children\":[{\"type\":\"rich_embed_card\",\"children\":[{\"text\":\"\"}],\"dataSourceType\":\"image\",\"url\":\"https://us.v-cdn.net/6038474/uploads/attachments/migrated/SMSVolumeWidget.0685g000008yGRLAA2.png\",\"embedData\":{\"url\":\"https://us.v-cdn.net/6038474/uploads/attachments/migrated/SMSVolumeWidget.0685g000008yGRLAA2.png\",\"name\":\"SMS Volume Widget\",\"embedType\":\"image\",\"float\":\"none\",\"height\":752,\"width\":1530}}]}]",
+  "format": "rich2",
+  "featured": false,
+  "locale": "en",
+  "status": "published",
+  "foreignID": null,
+  "dateUpdated": "2025-05-26T20:44:42+00:00",
+  "_source_kb_id": 11,
+  "_source_kb_name": "MC Release Notes",
+  "_sync_date": "2026-02-02T05:58:13.637865+00:00"
+}

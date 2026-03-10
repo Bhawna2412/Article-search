@@ -1,0 +1,31 @@
+{
+  "articleID": 2059,
+  "name": "Authentication",
+  "format": "rich2",
+  "locale": "en",
+  "body": "[{\"type\": \"p\", \"children\": [{\"text\": \"API authentication uses a simple key-based mechanism where you provide your API key via an X-Key header in requests, enabling secure access to search, autocomplete, and recommendation features. This authentication approach helps ensure your API calls are authorized while keeping integration straightforward for developers.\"}]}, {\"type\": \"p\", \"children\": [{\"text\": \"You can obtain your API key through the onboarding process after providing a valid product feed, or use the test API key to explore capabilities with the demo store. This helps ensure you can quickly test and validate API functionality before implementing it in your production environment.\"}]}, {\"type\": \"p\", \"children\": [{\"text\": \"We use API Key authentication mechanism for all routes.\"}]}, {\"type\": \"p\", \"children\": [{\"text\": \"You simply provide a header\\u00a0\"}, {\"text\": \"X-Key\", \"code\": true}, {\"text\": \"\\u00a0with the value of the API key that you have.\"}]}, {\"type\": \"h2\", \"children\": [{\"text\": \"Shell\"}]}, {\"type\": \"code_block\", \"children\": [{\"type\": \"code_line\", \"children\": [{\"text\": \"--request POST \\\\ \\\\\"}]}, {\"type\": \"code_line\", \"children\": [{\"text\": \"--url https://api-v3.findify.io/v3/autocomplete \\\\ \\\\\"}]}, {\"type\": \"code_line\", \"children\": [{\"text\": \"--header \\\"X-Key: 2e963f3e-38bd-4c00-9636-c00e48945eb7\\\" \\\\ \\\\\"}]}, {\"type\": \"code_line\", \"children\": [{\"text\": \"--header \\\"Content-Type: application/json\\\" \\\\ \\\\\"}]}, {\"type\": \"code_line\", \"children\": [{\"text\": \"--data '{\\\"user\\\":{\\\"lang\\\":[\\\"en-US\\\",\\\"en-GB\\\",\\\"no\\\"],\\\"uid\\\":\\\"test1\\\",\\\"sid\\\":\\\"ssid\\\",\\\"email\\\":\\\"test@test .com\\\",\\\"ip\\\":\\\"192.168.0.1\\\",\\\"ua\\\":\\\"Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/41.0.2228.0 Safari/537.36\\\"},\\\"q\\\":\\\"t\\\",\\\"t_client\\\":1484741395471,\\\"suggestion_limit\\\":5,\\\"item_limit\\\":3,\\\"log\\\":false}'\"}]}], \"lang\": \"bash\"}, {\"type\": \"callout\", \"children\": [{\"type\": \"callout-item\", \"children\": [{\"text\": \"How to get an API key?\\n\", \"bold\": true}]}, {\"type\": \"callout-item\", \"children\": [{\"text\": \"To get an API key you need to register with our service and finish the onboarding process (this includes providing a valid feed). If you just want to check out our capabilities, you can use a test API key\\u00a0\"}, {\"text\": \"2e963f3e-38bd-4c00-9636-c00e48945eb7\", \"code\": true}, {\"text\": \"\\u00a0that is connected to our demo store:\\u00a0\"}, {\"type\": \"a\", \"url\": \"http://findify-demo-store.myshopify.com/\", \"target\": \"_blank\", \"children\": [{\"text\": \"http://findify-demo-store.myshopify.com\"}]}, {\"text\": \"\"}]}], \"appearance\": \"info\"}, {\"type\": \"p\", \"children\": [{\"text\": \"\"}]}]",
+  "knowledgeCategoryID": 460,
+  "sort": 1,
+  "status": "published",
+  "_source_kb_id": 5,
+  "_source_kb_name": "Merchandising Cloud",
+  "_fix_date": "2026-02-02T06:05:46.186392+00:00",
+  "fixes_applied": {
+    "urls": {
+      "leaving_cleaned": 0,
+      "unsafe_removed": 0,
+      "s_article_mapped": 0,
+      "s_article_removed": 0,
+      "fragments_mapped": 0,
+      "fragments_stripped": 0,
+      "internal_fragments_fixed": 0,
+      "double_id_fixed": 0,
+      "kb_fragments_stripped": 0
+    },
+    "toc": 0,
+    "related": 1,
+    "lists": 0,
+    "headings": 1,
+    "reconverted": false
+  }
+}

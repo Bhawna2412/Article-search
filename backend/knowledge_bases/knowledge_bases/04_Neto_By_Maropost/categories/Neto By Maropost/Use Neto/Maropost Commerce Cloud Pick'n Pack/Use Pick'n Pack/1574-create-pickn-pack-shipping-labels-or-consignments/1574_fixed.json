@@ -1,0 +1,27 @@
+{
+  "articleID": 1574,
+  "name": "Create Pick'n Pack Shipping Labels or Consignments",
+  "slug": "1574-create-pickn-pack-shipping-labels-or-consignments",
+  "format": "rich2",
+  "locale": "en",
+  "body": "[{\"type\": \"p\", \"children\": [{\"text\": \"The pack order page displays a list of items that need to be packed for an order. The qty ordered is shown in the black \"}, {\"text\": \"Qty\", \"bold\": true}, {\"text\": \" column, the qty left to pack / ship shown in the green \"}, {\"text\": \"Ship\", \"bold\": true}, {\"text\": \" column.\"}]}, {\"type\": \"p\", \"children\": [{\"text\": \"Creating shipping labels / consignments for items automatically marks them as shipped / dispatched.\"}]}, {\"type\": \"p\", \"children\": [{\"text\": \"\"}]}, {\"type\": \"h2\", \"children\": [{\"text\": \"Creating Shipping Labels / Consignments\"}], \"data-id\": \"creating-shipping-labels-consignments\"}, {\"type\": \"p\", \"children\": [{\"text\": \"Automatic consignments\", \"bold\": true}]}, {\"type\": \"p\", \"children\": [{\"text\": \"To have the system automatically generate a shipping label based on the shipping matrix setup touch \\\"automated consignment\\\". If you are coming directly from picking an order, the system will automatically do this step for you.\"}]}, {\"type\": \"p\", \"children\": [{\"text\": \"Once created, you can edit the automatic label or add additional articles. To create a label for a different method or carrier close the popup and touch \"}, {\"text\": \"Custom Consignment\", \"bold\": true}, {\"text\": \".\"}]}, {\"type\": \"p\", \"children\": [{\"text\": \"Manual consignments\", \"bold\": true}]}, {\"type\": \"p\", \"children\": [{\"text\": \"To create a shipping label / consignment manually, touch \"}, {\"text\": \"Custom Consignment\", \"bold\": true}, {\"text\": \".  You can then select the carrier you want to create a label for and define the consignment details.\"}]}, {\"type\": \"p\", \"children\": [{\"text\": \"\"}]}, {\"type\": \"h3\", \"children\": [{\"text\": \"Printing Shipping Labels & Other Documents\", \"bold\": true}], \"data-id\": \"printing-shipping-labels-other-documents\"}, {\"type\": \"p\", \"children\": [{\"text\": \"To print a shipping label click on the \"}, {\"text\": \"Print Shipping Labels\", \"bold\": true}, {\"text\": \" button after you have saved and generated the label.  You can then select the print to print to.  You can also touch the \"}, {\"text\": \"Print Documents\", \"bold\": true}, {\"text\": \" button at the bottom of the page at any time to print shipping consignments and invoices.\"}]}]",
+  "fixes_applied": {
+    "rebrand": 0,
+    "urls": {
+      "leaving_cleaned": 0,
+      "unsafe_removed": 0,
+      "s_article_mapped": 0,
+      "s_article_removed": 0,
+      "fragments_mapped": 0,
+      "fragments_stripped": 0,
+      "internal_fragments_fixed": 0,
+      "double_id_fixed": 0,
+      "kb_fragments_stripped": 0
+    },
+    "toc": 0,
+    "related": 0,
+    "lists": 0,
+    "headings": 0,
+    "reconverted": true
+  }
+}

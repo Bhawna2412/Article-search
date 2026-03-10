@@ -1,0 +1,17 @@
+{
+  "articleID": 1511,
+  "knowledgeCategoryID": 149,
+  "sort": 3,
+  "name": "Barilliance",
+  "body": "[{\"type\": \"rich_embed_card\", \"dataSourceType\": \"image\", \"url\": \"https://www.neto.com.au/assets/thumb/APP-55.jpg\", \"embedData\": {\"url\": \"https://www.neto.com.au/assets/thumb/APP-55.jpg\", \"embedType\": \"image\", \"displaySize\": \"large\", \"float\": \"none\"}, \"children\": [{\"text\": \"\"}]}, {\"type\": \"h3\", \"children\": [{\"text\": \"This add-on was built by Barilliance.\"}]}, {\"type\": \"p\", \"children\": [{\"type\": \"a\", \"url\": \"http://www.barilliance.com/\", \"children\": [{\"text\": \"Visit Add-On Website\"}]}]}, {\"type\": \"p\", \"children\": [{\"text\": \"For support with this add-on \"}, {\"type\": \"a\", \"url\": \"https://www.barilliance.com/best-ecommerce-personalization-solution/\", \"children\": [{\"text\": \"contact Barilliance\"}]}, {\"text\": \".\"}]}, {\"type\": \"h2\", \"children\": [{\"text\": \"Set up Barilliance\"}]}, {\"type\": \"ol\", \"children\": [{\"type\": \"li\", \"children\": [{\"type\": \"lic\", \"children\": [{\"text\": \"Create an account on \"}, {\"type\": \"a\", \"url\": \"http://www.barilliance.com/\", \"children\": [{\"text\": \"Barilliance\"}]}, {\"text\": \" and copy the code provided to you.\"}]}]}, {\"type\": \"li\", \"children\": [{\"type\": \"lic\", \"children\": [{\"text\": \"In your Neto by Maropost control panel click on the \"}, {\"text\": \"Addons\", \"bold\": true}, {\"text\": \" menu.\"}]}]}, {\"type\": \"li\", \"children\": [{\"type\": \"lic\", \"children\": [{\"text\": \"Find the Barilliance add-on and click the \"}, {\"text\": \"Install\", \"bold\": true}, {\"text\": \" button.\"}]}]}, {\"type\": \"li\", \"children\": [{\"type\": \"lic\", \"children\": [{\"text\": \"Paste the code you copied from Barilliance into the pop-up window, and click the \"}, {\"text\": \"Install\", \"bold\": true}, {\"text\": \" button.\"}]}]}]}]",
+  "format": "rich2",
+  "featured": false,
+  "locale": "en",
+  "status": "published",
+  "foreignID": null,
+  "dateUpdated": "2025-12-11T04:36:24+00:00",
+  "_source_kb_id": 4,
+  "_source_kb_name": "Neto By Maropost",
+  "_sync_date": "2026-02-06T07:18:13.671124+00:00",
+  "_incremental_update": true
+}

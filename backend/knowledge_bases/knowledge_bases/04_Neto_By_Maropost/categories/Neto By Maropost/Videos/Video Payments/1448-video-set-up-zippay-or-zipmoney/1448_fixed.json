@@ -1,0 +1,27 @@
+{
+  "articleID": 1448,
+  "name": "Video: Set up ZipPay or ZipMoney",
+  "slug": "1448-video-set-up-zippay-or-zipmoney",
+  "format": "rich2",
+  "locale": "en",
+  "body": "[{\"type\": \"rich_embed_card\", \"children\": [{\"text\": \"\"}], \"dataSourceType\": \"url\", \"url\": \"https://youtu.be/D74cfIIh7Sw\", \"embedData\": {\"height\": 360, \"width\": 640, \"photoUrl\": \"https://i.ytimg.com/vi/D74cfIIh7Sw/hqdefault.jpg\", \"videoID\": \"D74cfIIh7Sw\", \"showRelated\": false, \"start\": 0, \"url\": \"https://youtu.be/D74cfIIh7Sw\", \"embedType\": \"youtube\", \"name\": \"\", \"frameSrc\": \"https://www.youtube.com/embed/D74cfIIh7Sw?feature=oembed&autoplay=1\"}}, {\"type\": \"ul\", \"children\": [{\"type\": \"li\", \"children\": [{\"type\": \"lic\", \"children\": [{\"type\": \"a\", \"url\": \"https://zip-neto.api-docs.io/v1/integration-steps\", \"children\": [{\"text\": \"Set up ZipPay or ZipMoney Widgets\"}]}]}]}]}]",
+  "fixes_applied": {
+    "rebrand": 0,
+    "urls": {
+      "leaving_cleaned": 1,
+      "unsafe_removed": 0,
+      "s_article_mapped": 0,
+      "s_article_removed": 0,
+      "fragments_mapped": 0,
+      "fragments_stripped": 0,
+      "internal_fragments_fixed": 0,
+      "double_id_fixed": 0,
+      "kb_fragments_stripped": 0
+    },
+    "toc": 0,
+    "related": 0,
+    "lists": 0,
+    "headings": 0,
+    "reconverted": false
+  }
+}

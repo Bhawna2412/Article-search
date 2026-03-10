@@ -1,0 +1,17 @@
+{
+  "articleID": 1656,
+  "knowledgeCategoryID": 277,
+  "sort": 0,
+  "name": "Course: Advertising, Promotions and Discounts",
+  "body": "[{\"type\": \"p\", \"children\": [{\"text\": \"You can create targeted advertising campaigns, promotions, discounts, and customer rewards programs to drive revenue growth and strengthen customer relationships in your B2B ecommerce operations. This enables you to implement strategic pricing initiatives that improve customer order experiences while maintaining profitability, helping you attract new business customers and encourage repeat purchases through loyalty incentives.\"}]}, {\"type\": \"p\", \"children\": [{\"text\": \"Configuring promotional strategies helps B2B merchants optimize conversion rates and average order values by offering tiered discounts, seasonal promotions, and customer-specific incentives. When you implement advertising and rewards programs effectively, you can increase order volume, improve customer retention, and create differentiated value propositions that support business scalability and competitive positioning in wholesale markets.\"}]}, {\"type\": \"table\", \"children\": [{\"type\": \"tr\", \"children\": [{\"type\": \"th\", \"children\": [{\"type\": \"p\", \"children\": [{\"text\": \"Lessons\"}]}]}, {\"type\": \"th\", \"children\": [{\"type\": \"p\", \"children\": [{\"text\": \"Length\"}]}]}]}, {\"type\": \"tr\", \"children\": [{\"type\": \"td\", \"children\": [{\"type\": \"p\", \"children\": [{\"type\": \"a\", \"url\": \"https://training.maropost.com/run-your-store/advertising/content/index.html\", \"children\": [{\"text\": \"Advertising\"}]}]}]}, {\"type\": \"td\", \"children\": [{\"type\": \"p\", \"children\": [{\"text\": \"8 mins\"}]}]}]}, {\"type\": \"tr\", \"children\": [{\"type\": \"td\", \"children\": [{\"type\": \"p\", \"children\": [{\"type\": \"a\", \"url\": \"https://training.maropost.com/run-your-store/promotions/content/index.html\", \"children\": [{\"text\": \"Promotions\"}]}]}]}, {\"type\": \"td\", \"children\": [{\"type\": \"p\", \"children\": [{\"text\": \"8 mins\"}]}]}]}, {\"type\": \"tr\", \"children\": [{\"type\": \"td\", \"children\": [{\"type\": \"p\", \"children\": [{\"type\": \"a\", \"url\": \"https://training.maropost.com/run-your-store/discounts and coupons/content/index.html\", \"children\": [{\"text\": \"Discounts and Coupons\"}]}]}]}, {\"type\": \"td\", \"children\": [{\"type\": \"p\", \"children\": [{\"text\": \"10 mins\"}]}]}]}, {\"type\": \"tr\", \"children\": [{\"type\": \"td\", \"children\": [{\"type\": \"p\", \"children\": [{\"type\": \"a\", \"url\": \"https://training.maropost.com/run-your-store/customer rewards program/content/index.html\", \"children\": [{\"text\": \"Customer Rewards Program\"}]}]}]}, {\"type\": \"td\", \"children\": [{\"type\": \"p\", \"children\": [{\"text\": \"15 mins\"}]}]}]}], \"id\": \"rich-table-92546e86\"}, {\"type\": \"p\", \"children\": [{\"text\": \"\"}]}]",
+  "format": "rich2",
+  "featured": false,
+  "locale": "en",
+  "status": "published",
+  "foreignID": null,
+  "dateUpdated": "2025-12-11T04:37:29+00:00",
+  "_source_kb_id": 4,
+  "_source_kb_name": "Neto By Maropost",
+  "_sync_date": "2026-02-06T07:17:39.564825+00:00",
+  "_incremental_update": true
+}

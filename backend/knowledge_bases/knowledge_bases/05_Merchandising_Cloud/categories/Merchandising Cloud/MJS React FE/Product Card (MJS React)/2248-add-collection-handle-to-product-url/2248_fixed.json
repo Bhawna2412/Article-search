@@ -1,0 +1,31 @@
+{
+  "articleID": 2248,
+  "name": "Add collection handle to product URL",
+  "format": "rich2",
+  "locale": "en",
+  "body": "[{\"type\": \"p\", \"children\": [{\"text\": \"Adding collection handles to product URLs helps improve navigation context and SEO performance by maintaining collection relationships throughout the customer journey. When product URLs include collection information, you help customers understand product context better and enable more intuitive back-navigation, which tends to enhance user experience and supports better engagement through clearer site structure.\"}]}, {\"type\": \"p\", \"children\": [{\"text\": \"Collection-aware URLs enable better tracking and analytics while improving the technical foundation of your ecommerce site. This helps you understand customer paths through different collections and products, supporting better merchandising decisions and improved SEO through more descriptive URL structures that search engines can better understand and index.\"}]}, {\"type\": \"p\", \"children\": [{\"text\": \"\"}]}, {\"type\": \"h2\", \"children\": [{\"text\": \"# 1. Background\"}], \"data-id\": \"1-background\"}, {\"type\": \"p\", \"children\": [{\"text\": \"On websites that have a lot of pages, breadcrumb navigation can greatly enhance the way users find their way around. In terms of usability, breadcrumbs reduce the number of actions a website visitor needs to take in order to get to a higher-level page, and they improve the findability of website sections and pages.\"}]}, {\"type\": \"p\", \"children\": [{\"text\": \"In this particular case we'll show how to set it up from the URL's perspective, which can then be further customised into actual breadcrumbs on the page.\"}]}, {\"type\": \"p\", \"children\": [{\"text\": \"\"}]}, {\"type\": \"h2\", \"children\": [{\"text\": \"# 2. Requirements\"}], \"data-id\": \"2-requirements\"}, {\"type\": \"ul\", \"children\": [{\"type\": \"li\", \"children\": [{\"type\": \"lic\", \"children\": [{\"text\": \"The only thing here is that this is only available for Shopify users.\"}]}]}]}, {\"type\": \"p\", \"children\": [{\"text\": \"\"}]}, {\"type\": \"h2\", \"children\": [{\"text\": \"# 3. Time Estimates\"}], \"data-id\": \"3-time-estimates\"}, {\"type\": \"p\", \"children\": [{\"text\": \"Set up in Platform: n/a\"}, {\"text\": \"\\n\"}, {\"text\": \"\\n\"}, {\"text\": \"Integration: 30 minutes\"}, {\"text\": \"\\n\"}, {\"text\": \"\\n\"}, {\"text\": \"Styling: n/a\"}]}, {\"type\": \"p\", \"children\": [{\"text\": \"\"}]}, {\"type\": \"h2\", \"children\": [{\"text\": \"# 4. Functional Overview\"}], \"data-id\": \"4-functional-overview\"}, {\"type\": \"p\", \"children\": [{\"text\": \"The list of components to be adjusted is as follows:\"}]}, {\"type\": \"blockquote\", \"children\": [{\"type\": \"blockquote-line\", \"children\": [{\"text\": \"Componentscomponents/Cards/Product/index.tsxlayouts/Search/index.tsx\"}]}]}, {\"type\": \"p\", \"children\": [{\"text\": \"\"}]}, {\"type\": \"h2\", \"children\": [{\"text\": \"# 5. Integration Steps\"}], \"data-id\": \"5-integration-steps\"}, {\"type\": \"p\", \"children\": [{\"text\": \"If you want to add a collection handle to your product URL, e.g. if you have a collection: \"}, {\"text\": \"/collection/shorts\", \"bold\": true}, {\"text\": \" and a product URL: \"}, {\"text\": \"/product/nice-shorts\", \"bold\": true}, {\"text\": \" and you want to have collection breadcrumbs in the product page like this: \"}, {\"text\": \"/collection/shorts/products/nice-shorts\", \"bold\": true}, {\"text\": \".\"}]}, {\"type\": \"p\", \"children\": [{\"text\": \"To do that, you would need to update few lines of code.\"}]}, {\"type\": \"p\", \"children\": [{\"text\": \"components/Cards/Product/index.tsxlayouts/Search/index.tsx\"}]}, {\"type\": \"code_block\", \"children\": [{\"type\": \"code_line\", \"children\": [{\"text\": \"{/* ... some code ... */}export default ({  item,  theme = styles,  className,  config,  Container = 'div',  highlighted,  isAutocomplete,  isCollection}: IProductCardProps) => {  const collectionHandleUrl = `/${findify.utils.collectionPath() + item.get('product_url')}`;    {/* ... some code ... */}     const handleCollectionUrl = async (e) => {    const openInNewWindow = e && (e.ctrlKey || e.metaKey);    {/* Get collection path */}    {/* Send events */}    await item.analytics.sendEvent(      'click-item',      { rid: item.meta.get('rid'), item_id: item.get('id'), variant_item_id:  item.get('selected_variant_id')},      !openInNewWindow    );    {/* Change location */}    return location.href = collectionHandleUrl;  };    return (    <a      ref={container}      data-element=\\\"card\\\"      className={cx(        theme.root,        theme[config.get('template')],        highlighted && theme.highlighted,        isAutocomplete && theme.autocomplete,        className      )}      href={collectionHandleUrl}{/* Add collection handle */}      onClick={e => isCollection ?  handleCollectionUrl(e) : item.onClick(e, isSearch)}    >{/* ... some code ... */} </a>  );};\"}]}], \"lang\": \"plaintext\"}, {\"type\": \"p\", \"children\": [{\"text\": \"\"}]}]",
+  "knowledgeCategoryID": 411,
+  "sort": 7,
+  "status": "published",
+  "_source_kb_id": 5,
+  "_source_kb_name": "Merchandising Cloud",
+  "_fix_date": "2026-02-02T06:05:47.523387+00:00",
+  "fixes_applied": {
+    "urls": {
+      "leaving_cleaned": 0,
+      "unsafe_removed": 0,
+      "s_article_mapped": 0,
+      "s_article_removed": 0,
+      "fragments_mapped": 0,
+      "fragments_stripped": 0,
+      "internal_fragments_fixed": 0,
+      "double_id_fixed": 0,
+      "kb_fragments_stripped": 0
+    },
+    "toc": 0,
+    "related": 1,
+    "lists": 0,
+    "headings": 0,
+    "reconverted": false
+  }
+}

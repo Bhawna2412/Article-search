@@ -1,0 +1,26 @@
+{
+  "articleID": 338,
+  "name": "POS - Low Stock Dashboard",
+  "slug": "338-pos-low-stock-dashboard",
+  "format": "rich2",
+  "locale": "en",
+  "body": "[{\"type\": \"p\", \"children\": [{\"text\": \"You can configure the Low Stock Dashboard to identify the 25 products with the lowest days on hand based on run rate periods, helping prioritize reordering decisions to maintain inventory availability. This improves your retail operations efficiency by providing quick visibility into products needing replenishment, with properly configured low stock monitoring typically enabling better inventory management and reduced stockout situations that impact customer satisfaction.\"}]}, {\"type\": \"p\", \"children\": [{\"text\": \"Setting up low stock dashboards involves understanding days on hand calculations, run rate period selection, and multi-outlet comparison capabilities to help retail operators focus on the right inventory replenishment priorities, ensuring your retail strategy consistently drives better stock availability and customer service outcomes.\"}]}, {\"type\": \"p\", \"children\": [{\"text\": \"The Low Stock Dashboard Report shows you the 25 products with the lowest number of ?days on hand? based of the Run Rate period selected. \"}, {\"text\": \"\\n\"}, {\"text\": \"\\n\"}, {\"text\": \"This report is often used to quickly see which products need to be ordered based of what has sold within a given period (if you needed to order some more to keep up with the demand in store).\"}]}, {\"type\": \"rich_embed_card\", \"dataSourceType\": \"image\", \"url\": \"https://us.v-cdn.net/6038474/uploads/attachments/migrated/image.05T5g00000ppW6HEAU.jpg\", \"embedData\": {\"url\": \"https://us.v-cdn.net/6038474/uploads/attachments/migrated/image.05T5g00000ppW6HEAU.jpg\", \"embedType\": \"image\", \"displaySize\": \"large\", \"float\": \"none\", \"name\": \"rtaImage (60).jpeg\"}, \"children\": [{\"text\": \"\"}]}, {\"type\": \"p\", \"children\": [{\"text\": \"The Low Stock dashboard displays the 25 products with the fewest days' stock on hand at the selected outlet(s).\"}, {\"text\": \"\\n\"}, {\"text\": \"\\n\"}, {\"text\": \"The Days On Hand value is calculated using the quantity of each product sold during the selected Run Rate Period (Days On Hand = Available / Average daily sales quantity during Run Rate Period selected)\"}]}, {\"type\": \"rich_embed_card\", \"dataSourceType\": \"image\", \"url\": \"https://us.v-cdn.net/6038474/uploads/attachments/migrated/image.05T5g00000ppW6REAU.jpg\", \"embedData\": {\"url\": \"https://us.v-cdn.net/6038474/uploads/attachments/migrated/image.05T5g00000ppW6REAU.jpg\", \"embedType\": \"image\", \"displaySize\": \"large\", \"float\": \"none\", \"name\": \"rtaImage (61).jpeg\"}, \"children\": [{\"text\": \"\"}]}, {\"type\": \"p\", \"children\": [{\"text\": \"\"}]}, {\"type\": \"h3\", \"children\": [{\"text\": \"\"}], \"data-id\": \"n-a\"}, {\"type\": \"p\", \"children\": [{\"text\": \"\"}]}, {\"type\": \"h2\", \"children\": [{\"text\": \"Selecting Multiple Outlets\"}], \"data-id\": \"selecting-multiple-outlets\"}, {\"type\": \"p\", \"children\": [{\"text\": \"By default this report will only show you the sales for the outlet that your currently logged into the POS with. You can select more outlets to view by clicking on the drop down menu in the top right hand corner:\"}]}, {\"type\": \"rich_embed_card\", \"dataSourceType\": \"image\", \"url\": \"https://us.v-cdn.net/6038474/uploads/attachments/migrated/image.05T5g00000ppW6gEAE.jpg\", \"embedData\": {\"url\": \"https://us.v-cdn.net/6038474/uploads/attachments/migrated/image.05T5g00000ppW6gEAE.jpg\", \"embedType\": \"image\", \"displaySize\": \"large\", \"float\": \"none\", \"name\": \"mceclip0 - 2023-07-08T232433.044.png\"}, \"children\": [{\"text\": \"\"}]}, {\"type\": \"p\", \"children\": [{\"text\": \"You also have the ability to choose whether to show the Sales by Sales $ Amount or by Sales Qty Sold amount by selecting the \\\"Show by Volume\\\" check box next to the Date Range:\"}]}, {\"type\": \"rich_embed_card\", \"dataSourceType\": \"image\", \"url\": \"https://us.v-cdn.net/6038474/uploads/attachments/migrated/image.05T5g00000ppW6qEAE.jpg\", \"embedData\": {\"url\": \"https://us.v-cdn.net/6038474/uploads/attachments/migrated/image.05T5g00000ppW6qEAE.jpg\", \"embedType\": \"image\", \"displaySize\": \"large\", \"float\": \"none\", \"name\": \"mceclip1 (79).png\"}, \"children\": [{\"text\": \"\"}]}, {\"type\": \"p\", \"children\": [{\"text\": \"\"}]}]",
+  "fixes_applied": {
+    "urls": {
+      "leaving_cleaned": 0,
+      "unsafe_removed": 0,
+      "s_article_mapped": 0,
+      "s_article_removed": 0,
+      "fragments_mapped": 0,
+      "fragments_stripped": 0,
+      "internal_fragments_fixed": 0,
+      "double_id_fixed": 0,
+      "kb_fragments_stripped": 0
+    },
+    "toc": 0,
+    "related": 1,
+    "lists": 0,
+    "headings": 0,
+    "reconverted": false
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "articleID": 1674,
+  "knowledgeCategoryID": 5,
+  "sort": null,
+  "name": "Account Profile",
+  "body": "<p>In your InboxAware control panel navigate to the <b>Account Settings </b>page.</p>\n<p>As an Account Admin you’ll use this screen to update the name and postal address for your account. You can also set Deliverability Metric Threshold settings, making it easy to spot warning signs with your inbox placement of campaigns and mailbox providers.</p>\n<ul><li>\n<p><strong>When Inbox % is Below</strong>: The inbox percentage for a campaign or mailbox provider will appear in red shading when the value is below the threshold you set.</p>\n\t</li><li>\n<p><strong>When Spam % is Above</strong>: The spam percentage for a campaign or mailbox provider will appear in red shading when the value is above the threshold you set.</p>\n\t</li><li>\n<p><strong>When Missing % is Above</strong>: The missing percentage for a campaign or mailbox provider will appear in red shading when the value is above the threshold you set.</p>\n\t</li></ul>",
+  "format": "html",
+  "featured": false,
+  "locale": "en",
+  "status": "published",
+  "foreignID": null,
+  "dateUpdated": "2022-03-22T00:54:05+00:00",
+  "_source_kb_id": 7,
+  "_source_kb_name": "InboxAware",
+  "_sync_date": "2026-02-02T05:55:26.727362+00:00"
+}

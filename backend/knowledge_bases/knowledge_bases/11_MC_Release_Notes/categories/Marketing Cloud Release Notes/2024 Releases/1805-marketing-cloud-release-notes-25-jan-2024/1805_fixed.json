@@ -1,0 +1,16 @@
+{
+  "articleID": 1805,
+  "knowledgeCategoryID": 438,
+  "sort": 16,
+  "name": "Marketing Cloud Release Notes - 25 Jan 2024",
+  "body": "[{\"type\":\"h3\",\"children\":[{\"text\":\"OVERVIEW:\",\"bold\":true}]},{\"type\":\"p\",\"children\":[{\"text\":\"Hello, Maropostians!! We have introduced a new feature in our SMS campaign module, which will help users download and view additional metrics of their sent campaigns. \"}]},{\"type\":\"p\",\"children\":[{\"text\":\"To learn more, please read ahead!!\"}]},{\"type\":\"p\",\"children\":[{\"text\":\" \"}]},{\"type\":\"h3\",\"children\":[{\"text\":\"ENHANCEMENT:\",\"bold\":true}]},{\"type\":\"p\",\"children\":[{\"text\":\"We are now giving an \"},{\"text\":\"Export\",\"bold\":true},{\"text\":\" option to Marketing Cloud users to download SMS campaign reports for \"},{\"text\":\"Total Send Campaigns\",\"bold\":true},{\"text\":\". You can set the criteria you need to check in the report, such as its send status, keyword responses, etc. \"}]},{\"type\":\"p\",\"children\":[{\"type\":\"rich_embed_card\",\"children\":[{\"text\":\"\"}],\"dataSourceType\":\"image\",\"url\":\"https://us.v-cdn.net/6038474/uploads/attachments/migrated/smssend2.0685g00000JgyEtAAJ.png\",\"embedData\":{\"url\":\"https://us.v-cdn.net/6038474/uploads/attachments/migrated/smssend2.0685g00000JgyEtAAJ.png\",\"name\":\"smssend2\",\"embedType\":\"image\",\"float\":\"none\",\"height\":938,\"width\":2880}},{\"type\":\"p\",\"children\":[{\"text\":\"By accessing such reports, you can identify the overall outcomes of your sent SMS messages that can help you make informed decisions to increase your SMS campaigns' deliverability and click rate.\"}]}]},{\"type\":\"p\",\"children\":[{\"type\":\"rich_embed_card\",\"children\":[{\"text\":\"\"}],\"dataSourceType\":\"image\",\"url\":\"https://us.v-cdn.net/6038474/uploads/attachments/migrated/smssend3.0685g00000JgyEyAAJ.png\",\"embedData\":{\"url\":\"https://us.v-cdn.net/6038474/uploads/attachments/migrated/smssend3.0685g00000JgyEyAAJ.png\",\"name\":\"smssend3\",\"embedType\":\"image\",\"float\":\"none\",\"height\":1602,\"width\":2880}},{\"type\":\"p\",\"children\":[{\"text\":\"To know more about the various parameters present in an SMS campaign, check out our \"},{\"type\":\"a\",\"url\":\"https://galaxy.maropost.com/s/article/SMS-Campaign-Dashboard\",\"target\":\"_blank\",\"children\":[{\"text\":\"SMS Campaign Dashboard\",\"bold\":true}]},{\"text\":\" topic.\"}]}]}]",
+  "format": "rich2",
+  "featured": false,
+  "locale": "en",
+  "status": "published",
+  "foreignID": null,
+  "dateUpdated": "2025-08-07T10:50:11+00:00",
+  "_source_kb_id": 11,
+  "_source_kb_name": "MC Release Notes",
+  "_sync_date": "2026-02-02T05:57:34.162914+00:00"
+}

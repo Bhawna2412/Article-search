@@ -1,0 +1,16 @@
+{
+  "articleID": 1874,
+  "knowledgeCategoryID": 454,
+  "sort": 15,
+  "name": "Neto by Maropost Release Notes – 29 Jul 2020",
+  "body": "[{\"type\":\"p\",\"children\":[{\"text\":\"Release Version:\",\"bold\":true},{\"text\":\" 6.113\"}]},{\"type\":\"p\",\"children\":[{\"text\":\" \"}]},{\"type\":\"h2\",\"children\":[{\"text\":\"Minor Improvements\",\"bold\":true}]},{\"type\":\"ul\",\"children\":[{\"type\":\"li\",\"children\":[{\"type\":\"lic\",\"children\":[{\"text\":\"Neto's Xero integration has been updated to allow more control over Cost of Goods Sold. COGS journals can now be batched by date invoiced or date completed.\"}]}]}]},{\"type\":\"p\",\"children\":[{\"text\":\" \"}]},{\"type\":\"h2\",\"children\":[{\"text\":\"Bug Fixes\",\"bold\":true}]},{\"type\":\"ul\",\"children\":[{\"type\":\"li\",\"children\":[{\"type\":\"lic\",\"children\":[{\"text\":\"Fixed an issue in Neto POS where image thumbnails weren't updated after being changed in the control panel.\"}]}]},{\"type\":\"li\",\"children\":[{\"type\":\"lic\",\"children\":[{\"text\":\"Fixed an issue with the eBay integration where automated revisions caused a retail price invalid error when the RRP field is blank.\"}]}]}]},{\"type\":\"p\",\"children\":[{\"text\":\" \"}]}]",
+  "format": "rich2",
+  "featured": false,
+  "locale": "en",
+  "status": "published",
+  "foreignID": null,
+  "dateUpdated": "2025-06-10T15:20:38+00:00",
+  "_source_kb_id": 12,
+  "_source_kb_name": "Neto Release Notes",
+  "_sync_date": "2026-02-02T05:59:17.151655+00:00"
+}

@@ -1,0 +1,16 @@
+{
+  "articleID": 2310,
+  "knowledgeCategoryID": 484,
+  "sort": 9,
+  "name": "Show OOS products with the exclude OOS products setup",
+  "body": "[{\"type\":\"p\",\"children\":[{\"text\":\"If you have a setup in our dashboard to exclude OOS products from Merchandising Cloud widgets:\"}]},{\"type\":\"rich_embed_card\",\"children\":[{\"text\":\"\"}],\"dataSourceType\":\"image\",\"url\":\"https://us.v-cdn.net/6038474/uploads/ZD5C5U1Z72DE/fa8efc6-shopify-findify-include-oos-products-if-oos-setup.png\",\"embedData\":{\"url\":\"https://us.v-cdn.net/6038474/uploads/ZD5C5U1Z72DE/fa8efc6-shopify-findify-include-oos-products-if-oos-setup.png\",\"name\":\"fa8efc6-Shopify-findify-include-oos-products-if-oos-setup.png\",\"type\":\"image/png\",\"size\":44418,\"width\":1394,\"height\":672,\"displaySize\":\"large\",\"float\":\"none\",\"mediaID\":544,\"dateInserted\":\"2025-09-18T19:53:12+00:00\",\"insertUserID\":1178,\"foreignType\":\"embed\",\"foreignID\":\"1178\",\"embedType\":\"image\"}},{\"type\":\"p\",\"children\":[{\"text\":\"And you still want to show OOS products as if they are in-stock, you have 2 options:\"}]},{\"type\":\"h2\",\"children\":[{\"text\":\"1. Use \"},{\"text\":\"Continue Selling when OOS\",\"bold\":true},{\"text\":\" option on the variant level in Shopify.\"}]},{\"type\":\"p\",\"children\":[{\"text\":\"If the variant has this setup, Merchandising Cloud will read the variant as available and will still show it in our results.\"}]},{\"type\":\"rich_embed_card\",\"children\":[{\"text\":\"\"}],\"dataSourceType\":\"image\",\"url\":\"https://files.readme.io/fd16ae2-Shopify-findify-include-oos-products-if-oos-setup-continue-selling.png\",\"embedData\":{\"url\":\"https://files.readme.io/fd16ae2-Shopify-findify-include-oos-products-if-oos-setup-continue-selling.png\",\"name\":\"\",\"embedType\":\"image\",\"float\":\"none\",\"resizemode\":\"stretchy-fit\",\"source\":\"external\"}},{\"type\":\"h2\",\"children\":[{\"text\":\"2. Use findify-live:true tag.\"}]},{\"type\":\"p\",\"children\":[{\"text\":\"If the setup above is non-applicaple, you can setup a product tag: \"},{\"text\":\"findify-live:true\",\"bold\":true},{\"text\":\" on the products that you still want to show even if OOS. Once the tag is in place, please contact our support \"},{\"type\":\"a\",\"url\":\"mailto:support@maropost.com\",\"target\":\"_blank\",\"children\":[{\"text\":\"support@maropost .com\"}]},{\"text\":\" to adjust the setup internally.\"}]},{\"type\":\"rich_embed_card\",\"children\":[{\"text\":\"\"}],\"dataSourceType\":\"image\",\"url\":\"https://files.readme.io/23456d6-Shopify-findify-include-oos-products-if-oos-setup-tag.png\",\"embedData\":{\"url\":\"https://files.readme.io/23456d6-Shopify-findify-include-oos-products-if-oos-setup-tag.png\",\"name\":\"\",\"embedType\":\"image\",\"float\":\"none\",\"resizemode\":\"stretchy-fit\",\"source\":\"external\"}},{\"type\":\"p\",\"children\":[{\"text\":\"\"}]}]",
+  "format": "rich2",
+  "featured": false,
+  "locale": "en",
+  "status": "published",
+  "foreignID": null,
+  "dateUpdated": "2025-09-18T19:53:27+00:00",
+  "_source_kb_id": 5,
+  "_source_kb_name": "Merchandising Cloud",
+  "_sync_date": "2026-02-02T05:54:56.836289+00:00"
+}

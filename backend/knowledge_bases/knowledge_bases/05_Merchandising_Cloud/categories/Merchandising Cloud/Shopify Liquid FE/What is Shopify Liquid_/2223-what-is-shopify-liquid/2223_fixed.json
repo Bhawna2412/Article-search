@@ -1,0 +1,31 @@
+{
+  "articleID": 2223,
+  "name": "What is Shopify Liquid?",
+  "format": "rich2",
+  "locale": "en",
+  "body": "[{\"type\": \"p\", \"children\": [{\"text\": \"Understanding Shopify Liquid enables you to customize your ecommerce search and merchandising experience to match your brand's specific requirements. This templating language helps you control how product information, search results, and recommendations appear to customers, which can improve shopping experiences and enhance conversion rates through better product presentation.\"}]}, {\"type\": \"p\", \"children\": [{\"text\": \"Liquid provides the flexibility to create personalized shopping experiences by controlling product data display, search result formatting, and dynamic content throughout your storefront. This enables you to optimize how customers discover products and interact with your merchandising features while maintaining brand consistency across all touchpoints.\"}]}, {\"type\": \"p\", \"children\": [{\"text\": \"Shopify Liquid is a versatile and user-friendly templating language that plays a crucial role in customizing the appearance and functionality of online stores built on the Shopify platform. As a powerful tool, Liquid empowers developers and designers to create dynamic, personalized, and visually stunning ecommerce experiences for customers.\"}]}, {\"type\": \"p\", \"children\": [{\"text\": \"\"}]}, {\"type\": \"h2\", \"children\": [{\"text\": \"Key Features of Shopify Liquid\"}], \"data-id\": \"key-features-of-shopify-liquid\"}, {\"type\": \"p\", \"children\": [{\"text\": \"\"}]}, {\"type\": \"h3\", \"children\": [{\"text\": \"1. Variables\"}], \"data-id\": \"1-variables\"}, {\"type\": \"p\", \"children\": [{\"text\": \"Variables in Shopify Liquid are used to store and retrieve data, such as product details, customer information, and cart items. They enable developers to access and manipulate data within Liquid templates easily. Variables are denoted by double curly braces: {{ variable_name }}.\"}]}, {\"type\": \"p\", \"children\": [{\"text\": \"Liquid\"}]}, {\"type\": \"code_block\", \"children\": [{\"type\": \"code_line\", \"children\": [{\"text\": \"{{ product.title }}          # Output: Product Name{{ customer.first_name }}    # Output: John\"}]}], \"lang\": \"plaintext\"}, {\"type\": \"p\", \"children\": [{\"text\": \"\"}]}, {\"type\": \"h3\", \"children\": [{\"text\": \"2. Tags\"}], \"data-id\": \"2-tags\"}, {\"type\": \"p\", \"children\": [{\"text\": \"Tags are the control structures in Liquid that allow you to implement logic, create conditions, and perform actions based on specific conditions. The commonly used tags include if, unless, for, and case, among others.\"}]}, {\"type\": \"p\", \"children\": [{\"text\": \"Liquid\"}]}, {\"type\": \"code_block\", \"children\": [{\"type\": \"code_line\", \"children\": [{\"text\": \"{% if product.available %}  <p>This product is available.</p>{% else %}  <p>This product is out of stock.</p>{% endif %}\"}]}], \"lang\": \"plaintext\"}, {\"type\": \"p\", \"children\": [{\"text\": \"\"}]}, {\"type\": \"h3\", \"children\": [{\"text\": \"3. Filters\"}], \"data-id\": \"3-filters\"}, {\"type\": \"p\", \"children\": [{\"text\": \"Filters enable developers to modify the output of variables in various ways, such as formatting dates, converting text case, or applying currency symbols. Filters are used with variables, and they are separated by a pipe symbol |.\"}]}, {\"type\": \"p\", \"children\": [{\"text\": \"Liquid\"}]}, {\"type\": \"code_block\", \"children\": [{\"type\": \"code_line\", \"children\": [{\"text\": \"{{ product.price | money }}    # Output: $29.99{{ \\\"hello\\\" | capitalize }}     # Output: Hello\"}]}], \"lang\": \"plaintext\"}, {\"type\": \"p\", \"children\": [{\"text\": \"\"}]}, {\"type\": \"h3\", \"children\": [{\"text\": \"4. Objects and Dot Notation\"}], \"data-id\": \"4-objects-and-dot-notation\"}, {\"type\": \"p\", \"children\": [{\"text\": \"In Shopify Liquid, objects are used to represent data entities, such as products and customers. Dot notation allows you to access properties or attributes of objects conveniently.\"}]}, {\"type\": \"p\", \"children\": [{\"text\": \"Liquid\"}]}, {\"type\": \"code_block\", \"children\": [{\"type\": \"code_line\", \"children\": [{\"text\": \"{{ product.title }}            # Output: Product Name{{ customer.first_name }}      # Output: John\"}]}], \"lang\": \"plaintext\"}, {\"type\": \"p\", \"children\": [{\"text\": \"\"}]}, {\"type\": \"h3\", \"children\": [{\"text\": \"5. Comments\"}], \"data-id\": \"5-comments\"}, {\"type\": \"p\", \"children\": [{\"text\": \"Comments in Liquid are essential for making the code more readable and understandable. They have no impact on the output and are ignored during rendering.\"}]}, {\"type\": \"p\", \"children\": [{\"text\": \"Liquid\"}]}, {\"type\": \"code_block\", \"children\": [{\"type\": \"code_line\", \"children\": [{\"text\": \"{% comment %}  This is a comment. It won't be displayed in the output.{% endcomment %}\"}]}], \"lang\": \"plaintext\"}, {\"type\": \"p\", \"children\": [{\"text\": \"\"}]}]",
+  "knowledgeCategoryID": 405,
+  "sort": 0,
+  "status": "published",
+  "_source_kb_id": 5,
+  "_source_kb_name": "Merchandising Cloud",
+  "_fix_date": "2026-02-02T06:05:47.222022+00:00",
+  "fixes_applied": {
+    "urls": {
+      "leaving_cleaned": 0,
+      "unsafe_removed": 0,
+      "s_article_mapped": 0,
+      "s_article_removed": 0,
+      "fragments_mapped": 0,
+      "fragments_stripped": 0,
+      "internal_fragments_fixed": 0,
+      "double_id_fixed": 0,
+      "kb_fragments_stripped": 0
+    },
+    "toc": 0,
+    "related": 1,
+    "lists": 0,
+    "headings": 0,
+    "reconverted": true
+  }
+}

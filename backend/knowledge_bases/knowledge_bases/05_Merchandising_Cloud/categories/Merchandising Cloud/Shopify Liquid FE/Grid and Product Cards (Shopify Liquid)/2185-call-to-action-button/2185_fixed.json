@@ -1,0 +1,31 @@
+{
+  "articleID": 2185,
+  "name": "Call to Action Button",
+  "format": "rich2",
+  "locale": "en",
+  "body": "[{\"type\": \"p\", \"children\": [{\"text\": \"You can implement custom call-to-action buttons on product cards to drive specific customer behaviors beyond standard purchases, such as \\\"Learn More,\\\" \\\"Pre-Order,\\\" or \\\"Request Quote.\\\" These flexible CTAs enable you to tailor the shopping experience to different product types or customer journeys.\"}]}, {\"type\": \"p\", \"children\": [{\"text\": \"Custom CTAs provide flexibility to match buttons to your specific business model, whether you're handling pre-orders, custom quotes, or products requiring additional information before purchase. This customization capability helps you guide customers through appropriate purchase paths based on product type, potentially improving conversion by aligning the call-to-action with the customer's decision-making needs.\"}]}, {\"type\": \"p\", \"children\": [{\"text\": \"A Call to Action (CTA) button is a powerful tool to drive user engagement and encourage specific actions, such as redirecting users to the product detail page (PDP). Follow these simple steps to integrate a CTA button, \\\"View Product,\\\" within product cards in your Shopify store using our Shopify app built with Liquid.\"}]}, {\"type\": \"rich_embed_card\", \"children\": [{\"text\": \"\"}], \"dataSourceType\": \"image\", \"url\": \"https://us.v-cdn.net/6038474/uploads/3RNZ8BAMQBZV/0ac012f-image-14.png\", \"embedData\": {\"url\": \"https://us.v-cdn.net/6038474/uploads/3RNZ8BAMQBZV/0ac012f-image-14.png\", \"name\": \"0ac012f-image_14.png\", \"type\": \"image/png\", \"size\": 359999, \"width\": 1600, \"height\": 1429, \"displaySize\": \"large\", \"float\": \"none\", \"downloadUrl\": \"https://galaxy.maropost.com/api/v2/media/download-by-url?url=https%3A%2F%2Fus.v-cdn.net%2F6038474%2Fuploads%2F3RNZ8BAMQBZV%2F0ac012f-image-14.png\", \"mediaID\": 1072, \"dateInserted\": \"2025-10-21T18:01:24+00:00\", \"insertUserID\": 1178, \"foreignType\": \"embed\", \"foreignID\": \"1178\", \"embedType\": \"image\"}}, {\"type\": \"p\", \"children\": [{\"text\": \"\"}]}, {\"type\": \"h2\", \"children\": [{\"text\": \"Integration Steps\"}]}, {\"type\": \"p\", \"children\": [{\"text\": \"Step 1: Create a New Asset\", \"bold\": true}]}, {\"type\": \"ol\", \"children\": [{\"type\": \"li\", \"children\": [{\"text\": \"Navigate to Theme \\u2192 Edit Code \\u2192 Assets in your Shopify admin panel.\"}]}, {\"type\": \"li\", \"children\": [{\"text\": \"Add a new asset and name it accordingly (e.g.,\\u00a0\"}, {\"text\": \"customCTA.js\", \"code\": true}, {\"text\": \").\"}]}, {\"type\": \"li\", \"children\": [{\"text\": \"Paste the provided JavaScript function into the newly created asset.\"}]}]}, {\"type\": \"p\", \"children\": [{\"text\": \"JavaScript\"}]}, {\"type\": \"code_block\", \"children\": [{\"type\": \"code_line\", \"children\": [{\"text\": \"function customCTAFunction() {console.log('CTA Action Fired')}\"}]}]}, {\"type\": \"p\", \"children\": [{\"text\": \"Step 2: Include Script in Theme Layout\", \"bold\": true}]}, {\"type\": \"ol\", \"children\": [{\"type\": \"li\", \"children\": [{\"text\": \"Open the\\u00a0\"}, {\"text\": \"theme.liquid\", \"code\": true}, {\"text\": \"\\u00a0file in your Shopify theme editor.\"}]}, {\"type\": \"li\", \"children\": [{\"text\": \"Paste the following script immediately after the\\u00a0\"}, {\"text\": \"<head>\", \"code\": true}, {\"text\": \"\\u00a0tag to include the custom JavaScript file.\"}]}]}, {\"type\": \"p\", \"children\": [{\"text\": \"JavaScript\"}]}, {\"type\": \"code_block\", \"children\": [{\"type\": \"code_line\", \"children\": [{\"text\": \"<head>...<script src=\\\"{{ 'yourAssetName.js' | asset_url }}\\\" defer=\\\"defer\\\"></script></head>\", \"code\": true}], \"lang\": \"twig\"}], \"lang\": \"twig\"}, {\"type\": \"p\", \"children\": [{\"text\": \"Step 3: Add Button to Product Card\", \"bold\": true}]}, {\"type\": \"ol\", \"children\": [{\"type\": \"li\", \"children\": [{\"text\": \"Locate the\\u00a0\"}, {\"text\": \"findify-product.liquid\", \"code\": true}, {\"text\": \"\\u00a0file in your Shopify theme editor.\"}]}, {\"type\": \"li\", \"children\": [{\"text\": \"Insert the following HTML code snippet within the product card section to add the CTA button.\"}]}]}, {\"type\": \"p\", \"children\": [{\"text\": \"HTML\"}]}, {\"type\": \"code_block\", \"children\": [{\"type\": \"code_line\", \"children\": [{\"text\": \"<div><a href={{ product_url }}>// ... other code </a><button onclick=\\\"addToCart({{ id }}, {{  selected_variant_id }})\\\" >Add to cart</button></div>\", \"code\": true}]}], \"lang\": \"twig\"}, {\"type\": \"p\", \"children\": [{\"text\": \"By following these straightforward steps, you can effortlessly integrate a Call to Action button within product cards in your Shopify store. Enhance user engagement and encourage users to explore product details with this simple yet effective feature.\"}]}, {\"type\": \"p\", \"children\": [{\"text\": \"For further assistance or inquiries, feel free to contact us on\\u00a0\"}, {\"type\": \"a\", \"url\": \"mailto:support@maropost.com\", \"target\": \"_blank\", \"children\": [{\"text\": \"support@maropost.com\"}]}]}, {\"type\": \"p\", \"children\": [{\"text\": \"\"}]}]",
+  "knowledgeCategoryID": 395,
+  "sort": 9,
+  "status": "published",
+  "_source_kb_id": 5,
+  "_source_kb_name": "Merchandising Cloud",
+  "_fix_date": "2026-02-02T06:05:46.802777+00:00",
+  "fixes_applied": {
+    "urls": {
+      "leaving_cleaned": 0,
+      "unsafe_removed": 0,
+      "s_article_mapped": 0,
+      "s_article_removed": 0,
+      "fragments_mapped": 0,
+      "fragments_stripped": 0,
+      "internal_fragments_fixed": 0,
+      "double_id_fixed": 0,
+      "kb_fragments_stripped": 0
+    },
+    "toc": 0,
+    "related": 1,
+    "lists": 0,
+    "headings": 1,
+    "reconverted": false
+  }
+}

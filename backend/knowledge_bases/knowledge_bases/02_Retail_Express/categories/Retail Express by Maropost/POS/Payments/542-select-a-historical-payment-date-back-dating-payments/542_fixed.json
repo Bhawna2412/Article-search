@@ -1,0 +1,26 @@
+{
+  "articleID": 542,
+  "name": "Select a Historical Payment Date (Back-dating Payments)",
+  "slug": "542-select-a-historical-payment-date-back-dating-payments",
+  "format": "rich2",
+  "locale": "en",
+  "body": "[{\"type\": \"p\", \"children\": [{\"text\": \"When adding Payments to a sale you can select a historical date for the payment, generally required when entering direct deposits. This is done using the Edit Payment screen.\"}]}, {\"type\": \"p\", \"children\": [{\"text\": \"\"}]}, {\"type\": \"h2\", \"children\": [{\"text\": \"Before you Begin\"}], \"data-id\": \"before-you-begin\"}, {\"type\": \"ul\", \"children\": [{\"type\": \"li\", \"children\": [{\"type\": \"lic\", \"children\": [{\"text\": \"A User must have sufficient \"}, {\"text\": \"POS Security Features\"}, {\"text\": \" enabled to be able to select a historical date for a sale\"}]}]}, {\"type\": \"li\", \"children\": [{\"type\": \"lic\", \"children\": [{\"text\": \"Back-dating must be done \"}, {\"text\": \"prior\", \"italic\": true}, {\"text\": \" to the payment being processed/finalised. You cannot back-date a finalised payment (you will need to \"}, {\"text\": \"reverse the payment\"}, {\"text\": \")\"}]}]}, {\"type\": \"li\", \"children\": [{\"type\": \"lic\", \"children\": [{\"text\": \"You can also back-date a payment reversal that has not yet been processed/finalised (see FAQs)\"}]}]}]}, {\"type\": \"p\", \"children\": [{\"text\": \"\"}]}, {\"type\": \"h2\", \"children\": [{\"text\": \"Back-dating payments\"}], \"data-id\": \"back-dating-payments\"}, {\"type\": \"p\", \"children\": [{\"text\": \"To back-date a payment:\"}]}, {\"type\": \"ol\", \"children\": [{\"type\": \"li\", \"children\": [{\"type\": \"lic\", \"children\": [{\"text\": \"Log into\"}, {\"text\": \" POS\", \"bold\": true}]}]}, {\"type\": \"li\", \"children\": [{\"type\": \"lic\", \"children\": [{\"text\": \"Create a sale\"}, {\"text\": \" (or open an existing sale)\"}]}]}, {\"type\": \"li\", \"children\": [{\"type\": \"lic\", \"children\": [{\"text\": \"On the \"}, {\"text\": \"Payments Tab\", \"bold\": true}, {\"text\": \" click to select the Payment method\"}]}]}, {\"type\": \"li\", \"children\": [{\"type\": \"lic\", \"children\": [{\"text\": \"Enter the \"}, {\"text\": \"Payment Value\", \"bold\": true}, {\"text\": \" (as per the normal process)\"}]}, {\"type\": \"rich_embed_card\", \"dataSourceType\": \"image\", \"url\": \"https://us.v-cdn.net/6038474/uploads/attachments/migrated/Screenshot20241203at32554AM.05TJ100000OOLJhMAP.png\", \"embedData\": {\"url\": \"https://us.v-cdn.net/6038474/uploads/attachments/migrated/Screenshot20241203at32554AM.05TJ100000OOLJhMAP.png\", \"embedType\": \"image\", \"displaySize\": \"large\", \"float\": \"none\", \"name\": \"User-added image\", \"width\": 900, \"height\": 492}, \"children\": [{\"text\": \"\"}]}]}, {\"type\": \"li\", \"children\": [{\"type\": \"lic\", \"children\": [{\"text\": \"Double click the payment\", \"bold\": true}, {\"text\": \" to open the edit payment screen (or press and hold for touch screens/mobile devices)\"}]}, {\"type\": \"p\", \"children\": [{\"text\": \"You can only do this if the payment has not yet been finalised (and you can still see the trash can icon next to the payment)\"}]}, {\"type\": \"rich_embed_card\", \"dataSourceType\": \"image\", \"url\": \"https://us.v-cdn.net/6038474/uploads/attachments/migrated/Screenshot20241203at32720AM.05TJ100000OOLL4MAP.png\", \"embedData\": {\"url\": \"https://us.v-cdn.net/6038474/uploads/attachments/migrated/Screenshot20241203at32720AM.05TJ100000OOLL4MAP.png\", \"embedType\": \"image\", \"displaySize\": \"large\", \"float\": \"none\", \"name\": \"User-added image\", \"width\": 900, \"height\": 492}, \"children\": [{\"text\": \"\"}]}]}, {\"type\": \"li\", \"children\": [{\"type\": \"lic\", \"children\": [{\"text\": \"Select the \"}, {\"text\": \"Payment Date\", \"bold\": true}]}, {\"type\": \"rich_embed_card\", \"dataSourceType\": \"image\", \"url\": \"https://us.v-cdn.net/6038474/uploads/attachments/migrated/Screenshot20241203at32759AM.05TJ100000OOLLJMA5.png\", \"embedData\": {\"url\": \"https://us.v-cdn.net/6038474/uploads/attachments/migrated/Screenshot20241203at32759AM.05TJ100000OOLLJMA5.png\", \"embedType\": \"image\", \"displaySize\": \"large\", \"float\": \"none\", \"name\": \"User-added image\", \"width\": 900, \"height\": 490}, \"children\": [{\"text\": \"\"}]}]}, {\"type\": \"li\", \"children\": [{\"type\": \"lic\", \"children\": [{\"text\": \"Click \"}, {\"text\": \"Update Payment\", \"bold\": true}]}]}, {\"type\": \"li\", \"children\": [{\"type\": \"lic\", \"children\": [{\"text\": \"Click \"}, {\"text\": \"Update\", \"bold\": true}, {\"text\": \" to finalise the sale and Payment\"}]}]}]}]",
+  "fixes_applied": {
+    "urls": {
+      "leaving_cleaned": 0,
+      "unsafe_removed": 0,
+      "s_article_mapped": 0,
+      "s_article_removed": 3,
+      "fragments_mapped": 0,
+      "fragments_stripped": 0,
+      "internal_fragments_fixed": 0,
+      "double_id_fixed": 0,
+      "kb_fragments_stripped": 0
+    },
+    "toc": 0,
+    "related": 0,
+    "lists": 0,
+    "headings": 0,
+    "reconverted": false
+  }
+}

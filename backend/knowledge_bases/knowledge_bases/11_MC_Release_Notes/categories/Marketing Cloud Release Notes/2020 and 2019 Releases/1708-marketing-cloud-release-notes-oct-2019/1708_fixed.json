@@ -1,0 +1,16 @@
+{
+  "articleID": 1708,
+  "knowledgeCategoryID": 442,
+  "sort": 22,
+  "name": "Marketing Cloud Release Notes - Oct 2019",
+  "body": "[{\"type\":\"h2\",\"children\":[{\"text\":\"What’s New\"}]},{\"type\":\"p\",\"children\":[{\"text\":\"Access the \"},{\"type\":\"a\",\"url\":\"https://status.maropost.com/\",\"target\":\"_blank\",\"children\":[{\"text\":\"Maropost Status Page\"}]},{\"text\":\" for up-to-date notifications of service interruptions and scheduled downtime. You can also proactively subscribe to get notifications in your inbox. \"}]},{\"type\":\"p\",\"children\":[{\"text\":\"\"}]},{\"type\":\"h2\",\"children\":[{\"text\":\"Improvements and Bug Fixes\"}]},{\"type\":\"ul\",\"children\":[{\"type\":\"li\",\"children\":[{\"type\":\"lic\",\"children\":[{\"text\":\"Users will now see a 120-character count while writing a pre-header for their campaign. If you want to see more, check out this \"},{\"type\":\"a\",\"url\":\"https://galaxy.maropost.com/kb/articles/998-creating-sms-campaigns\",\"target\":\"_blank\",\"children\":[{\"text\":\"Help Center article\"}]},{\"text\":\".\"}]}]},{\"type\":\"li\",\"children\":[{\"text\":\"Users can now organize different items in folders such as SQL Queries and Campaign Tags.\"}]},{\"type\":\"li\",\"children\":[{\"text\":\"The content overlay will now show the correct footer in campaign details/reports to ensure that users see the correct information.\"}]}]},{\"type\":\"p\",\"children\":[{\"text\":\"\"}]},{\"type\":\"h2\",\"children\":[{\"text\":\"Segmentation Improvements\"}]},{\"type\":\"ul\",\"children\":[{\"type\":\"li\",\"children\":[{\"type\":\"lic\",\"children\":[{\"text\":\"Previously, the Random filter combined the number of active and inactive users. Now, users will be able to use the Random filter to create a list displaying the final count of active contacts only. If you want to see more, check out this \"},{\"type\":\"a\",\"url\":\"https://galaxy.maropost.com/kb/articles/918-segment-rules-in-legacy-segment-builder\",\"target\":\"_blank\",\"children\":[{\"text\":\"Help Center article\"}]},{\"text\":\". \"}]}]},{\"type\":\"li\",\"children\":[{\"text\":\"Using the new Timeframe filter under “Not Purchased” segment criteria, users can segment contacts who have or haven’t purchased specific products within a specific time frame. \"}]}]},{\"type\":\"p\",\"children\":[{\"text\":\"\"}]}]",
+  "format": "rich2",
+  "featured": false,
+  "locale": "en",
+  "status": "published",
+  "foreignID": null,
+  "dateUpdated": "2025-07-11T13:39:07+00:00",
+  "_source_kb_id": 11,
+  "_source_kb_name": "MC Release Notes",
+  "_sync_date": "2026-02-02T05:57:52.788928+00:00"
+}

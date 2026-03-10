@@ -1,0 +1,16 @@
+{
+  "articleID": 1956,
+  "knowledgeCategoryID": 452,
+  "sort": 19,
+  "name": "Neto by Maropost Release Notes – 24 Feb 2023",
+  "body": "[{\"type\":\"h2\",\"children\":[{\"text\":\"Fixes\",\"bold\":true}]},{\"type\":\"ul\",\"children\":[{\"type\":\"li\",\"children\":[{\"text\":\"Fixed an issue with Maropost/PayPal Checkout integration where pending payments were not being released correctly.\"}]},{\"type\":\"li\",\"children\":[{\"text\":\"Fixed an issue with shipping cost calculations on the checkout where the system could time out without indication during calculations involving large quantities of a product. The system will now return a message at checkout informing the customer they need to reduce the item quantity and try again.\"}]}]},{\"type\":\"p\",\"children\":[{\"text\":\"\"}]}]",
+  "format": "rich2",
+  "featured": false,
+  "locale": "en",
+  "status": "published",
+  "foreignID": null,
+  "dateUpdated": "2025-07-16T01:31:49+00:00",
+  "_source_kb_id": 12,
+  "_source_kb_name": "Neto Release Notes",
+  "_sync_date": "2026-02-02T05:58:34.434072+00:00"
+}

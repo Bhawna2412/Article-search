@@ -1,0 +1,29 @@
+{
+  "articleID": 1560,
+  "name": "Set up Automatic Payment Reminders",
+  "slug": "1560-set-up-automatic-payment-reminders",
+  "format": "rich2",
+  "locale": "en",
+  "body": "[{\"type\": \"ol\", \"children\": [{\"type\": \"li\", \"children\": [{\"type\": \"lic\", \"children\": [{\"text\": \"In your\\u00a0Neto control panel navigate to \"}, {\"text\": \"Settings & Tools\", \"bold\": true}, {\"text\": \" > \"}, {\"text\": \"All settings & tools\", \"bold\": true}, {\"text\": \".\"}]}]}, {\"type\": \"li\", \"children\": [{\"type\": \"lic\", \"children\": [{\"text\": \"Click on the \"}, {\"text\": \"Payments & Tax\", \"bold\": true}, {\"text\": \" tab and click on \"}, {\"text\": \"Payment Reminders\", \"bold\": true}, {\"text\": \".\"}]}]}, {\"type\": \"li\", \"children\": [{\"type\": \"lic\", \"children\": [{\"text\": \"Set the number of days for the 3 automatic reminders and click \"}, {\"text\": \"Save\", \"bold\": true}, {\"text\": \".\"}]}, {\"type\": \"p\", \"children\": [{\"text\": \"\"}]}]}]}, {\"type\": \"p\", \"children\": [{\"text\": \"If you do not want to use the payment reminder system then leave the payment reminder fields on the above setup page blank. The system will only send payment reminders if these fields are populated.\"}]}, {\"type\": \"p\", \"children\": [{\"text\": \"You can edit the wording of your payment reminder emails for each of the 3 payment reminders from within the email templates.\"}]}, {\"type\": \"ol\", \"children\": [{\"type\": \"li\", \"children\": [{\"type\": \"lic\", \"children\": [{\"text\": \"To access this, simply navigate to \"}, {\"text\": \"Settings & Tools\", \"bold\": true}, {\"text\": \" > \"}, {\"text\": \"All settings & tools\", \"bold\": true}]}]}, {\"type\": \"li\", \"children\": [{\"type\": \"lic\", \"children\": [{\"text\": \"Click on the \"}, {\"text\": \"System Templates\", \"bold\": true}, {\"text\": \" tab and click \"}, {\"text\": \"Email Templates\", \"bold\": true}, {\"text\": \".\"}]}]}, {\"type\": \"li\", \"children\": [{\"type\": \"lic\", \"children\": [{\"text\": \"Click on \"}, {\"text\": \"ID 11 - Payment Reminder Emails\", \"bold\": true}, {\"text\": \".\"}]}, {\"type\": \"p\", \"children\": [{\"text\": \"\"}]}]}, {\"type\": \"li\", \"children\": [{\"type\": \"lic\", \"children\": [{\"text\": \"Select which reminder email you wish to edit.\"}]}, {\"type\": \"p\", \"children\": [{\"text\": \"\"}]}]}, {\"type\": \"li\", \"children\": [{\"type\": \"lic\", \"children\": [{\"text\": \"Make your changes and click \"}, {\"text\": \"Save\", \"bold\": true}, {\"text\": \". If you are not familiar with HTML or Neto\\u2019s B@SE language, you can \"}, {\"type\": \"a\", \"url\": \"https://forms.neto.com.au/services/designtweak.html\", \"children\": [{\"text\": \"contact a design partner\"}]}, {\"text\": \" to create a new template for you.\"}]}, {\"type\": \"p\", \"children\": [{\"text\": \"\"}]}]}]}, {\"type\": \"p\", \"children\": [{\"text\": \"Payment reminder emails also include a list all outstanding invoices on a customers account (much like an account statement).\"}]}, {\"type\": \"p\", \"children\": [{\"text\": \"A link for customers to pay outstanding invoices online is also included.\"}]}]",
+  "fixes_applied": {
+    "rebrand": 0,
+    "urls": {
+      "leaving_cleaned": 5,
+      "unsafe_removed": 0,
+      "s_article_mapped": 0,
+      "s_article_removed": 0,
+      "fragments_mapped": 0,
+      "fragments_stripped": 0,
+      "internal_fragments_fixed": 0,
+      "double_id_fixed": 0,
+      "kb_fragments_stripped": 0
+    },
+    "toc": 0,
+    "related": 0,
+    "lists": 8,
+    "headings": 0,
+    "reconverted": false
+  },
+  "_sf_cleanup_date": "2026-02-02T06:17:42.638529+00:00",
+  "_sf_removals": 4
+}

@@ -1,0 +1,26 @@
+{
+  "articleID": 551,
+  "name": "Why aren't Sales Appearing on Account Customers Statements or Payments area?",
+  "slug": "551-why-arent-sales-appearing-on-account-customers-statements-or-payments-area",
+  "format": "rich2",
+  "locale": "en",
+  "body": "[{\"type\": \"p\", \"children\": [{\"text\": \"You can troubleshoot account customer record discrepancies through understanding why sales may not appear on customer statements in \"}, {\"text\": \"Retail Express\", \"bold\": true}, {\"text\": \", which helps resolve common issues with account customer transaction visibility and payment tracking. This troubleshooting knowledge helps retail operators maintain accurate account customer records and resolve customer inquiries, with effective issue resolution typically improving account customer satisfaction and supporting accurate financial management across Australian retail operations.\"}]}, {\"type\": \"p\", \"children\": [{\"text\": \"Understanding account customer transaction visibility in \"}, {\"text\": \"Retail Express\", \"bold\": true}, {\"text\": \" enables retail operators to identify and resolve issues preventing sales from appearing on customer statements or payment records, helping ensure accurate account management and customer service. This troubleshooting capability helps ensure your retail operations can maintain accurate account customer records while efficiently resolving visibility issues and supporting reliable account management.\"}]}, {\"type\": \"p\", \"children\": [{\"text\": \"There are a number of reasons that may explain this behaviour listed below:\"}]}, {\"type\": \"ul\", \"children\": [{\"type\": \"li\", \"children\": [{\"type\": \"lic\", \"children\": [{\"text\": \"The Customer is \"}, {\"text\": \"not a valid Account Customer\", \"bold\": true}, {\"text\": \" - an Account customer is required to have both Credit Terms AND a Credit Limit. For more information, please see: \"}, {\"text\": \"Setting up an Account Customer\"}]}]}, {\"type\": \"li\", \"children\": [{\"type\": \"lic\", \"children\": [{\"text\": \"The Sale does not contain any Fulfilled products\", \"bold\": true}, {\"text\": \" - only products that have been Fulfilled (i.e. supplied or delivered or given to the customer) will show on Statements and within the Customer Account Payments area.\"}]}]}, {\"type\": \"li\", \"children\": [{\"type\": \"lic\", \"children\": [{\"text\": \"The Sale is not in an Awaiting Payment or Processed state\", \"bold\": true}, {\"text\": \" - the sale status may be Incomplete, Quote or Cancelled\"}]}]}]}, {\"type\": \"p\", \"children\": [{\"text\": \"\"}]}]",
+  "fixes_applied": {
+    "urls": {
+      "leaving_cleaned": 0,
+      "unsafe_removed": 0,
+      "s_article_mapped": 0,
+      "s_article_removed": 1,
+      "fragments_mapped": 0,
+      "fragments_stripped": 0,
+      "internal_fragments_fixed": 0,
+      "double_id_fixed": 0,
+      "kb_fragments_stripped": 0
+    },
+    "toc": 0,
+    "related": 1,
+    "lists": 1,
+    "headings": 0,
+    "reconverted": false
+  }
+}

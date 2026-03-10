@@ -1,0 +1,26 @@
+{
+  "articleID": 664,
+  "name": "Home Page CEO Message",
+  "slug": "664-home-page-ceo-message",
+  "format": "rich2",
+  "locale": "en",
+  "body": "[{\"type\": \"p\", \"children\": [{\"text\": \"You can communicate with your retail team through customizable home page messaging in Retail Express, helping your retail management share important updates and motivational communications. This capability allows leadership to post messages that users see when accessing the system, which helps maintain team alignment and ensure important business communications reach all staff members.\"}]}, {\"type\": \"p\", \"children\": [{\"text\": \"Setting up effective home page communications enables your retail operations to maintain consistent internal messaging, helping optimize team coordination and awareness. This helps retail businesses ensure important announcements and leadership messages reach all system users reliably without requiring separate communication channels.\"}]}, {\"type\": \"p\", \"children\": [{\"text\": \"The CEO Message section allows you to include an image and a text area for delivering important communications to your staff. This space can be used for motivational messages, reminders about events, updates on sales targets, and other key company announcements.\"}]}, {\"type\": \"rich_embed_card\", \"dataSourceType\": \"image\", \"url\": \"https://us.v-cdn.net/6038474/uploads/attachments/migrated/image.05T5g00000ppO6xEAE.jpg\", \"embedData\": {\"url\": \"https://us.v-cdn.net/6038474/uploads/attachments/migrated/image.05T5g00000ppO6xEAE.jpg\", \"embedType\": \"image\", \"displaySize\": \"large\", \"float\": \"none\", \"name\": \"mceclip1 (46).png\"}, \"children\": [{\"text\": \"\"}]}, {\"type\": \"p\", \"children\": [{\"text\": \"\"}]}, {\"type\": \"h2\", \"children\": [{\"text\": \"To Edit the CEO message:\"}], \"data-id\": \"to-edit-the-ceo-message\"}, {\"type\": \"ol\", \"children\": [{\"type\": \"li\", \"children\": [{\"type\": \"lic\", \"children\": [{\"text\": \"Navigate to \"}, {\"text\": \"Settings > Home Page Config\", \"bold\": true}]}]}, {\"type\": \"li\", \"children\": [{\"type\": \"lic\", \"children\": [{\"text\": \"Enter the content into the CEO Message field\"}]}, {\"type\": \"p\", \"children\": [{\"text\": \"This field supports HTML, so you can format text, embed content and more\"}]}]}, {\"type\": \"li\", \"children\": [{\"type\": \"lic\", \"children\": [{\"text\": \"To replace the image click \"}, {\"text\": \"Upload Image\", \"bold\": true}]}, {\"type\": \"p\", \"children\": [{\"text\": \"Recommended size: 290px x 260px\"}]}]}, {\"type\": \"li\", \"children\": [{\"type\": \"lic\", \"children\": [{\"text\": \"Click \"}, {\"text\": \"Upload File\", \"bold\": true}]}]}, {\"type\": \"li\", \"children\": [{\"type\": \"lic\", \"children\": [{\"text\": \"Click \"}, {\"text\": \"Choose File\", \"bold\": true}]}, {\"type\": \"rich_embed_card\", \"dataSourceType\": \"image\", \"url\": \"https://us.v-cdn.net/6038474/uploads/attachments/migrated/image.05T5g00000ppO7HEAU.jpg\", \"embedData\": {\"url\": \"https://us.v-cdn.net/6038474/uploads/attachments/migrated/image.05T5g00000ppO7HEAU.jpg\", \"embedType\": \"image\", \"displaySize\": \"large\", \"float\": \"none\", \"name\": \"mceclip2 (30).png\"}, \"children\": [{\"text\": \"\"}]}]}, {\"type\": \"li\", \"children\": [{\"type\": \"lic\", \"children\": [{\"text\": \"Select your image\"}]}]}, {\"type\": \"li\", \"children\": [{\"type\": \"lic\", \"children\": [{\"text\": \"Click \"}, {\"text\": \"Upload\", \"bold\": true}]}]}, {\"type\": \"li\", \"children\": [{\"type\": \"lic\", \"children\": [{\"text\": \"Use the arrows to adjust the positioning of the image\"}]}]}, {\"type\": \"li\", \"children\": [{\"type\": \"lic\", \"children\": [{\"text\": \"Click \"}, {\"text\": \"Save and Close\", \"bold\": true}]}]}, {\"type\": \"li\", \"children\": [{\"type\": \"lic\", \"children\": [{\"text\": \"Clear your cache \", \"bold\": true}, {\"text\": \"to see the new image (click your device below)\"}]}]}]}, {\"type\": \"ul\", \"children\": [{\"type\": \"li\", \"children\": [{\"type\": \"lic\", \"children\": [{\"type\": \"a\", \"url\": \"https://galaxy.maropost.com/kb/articles/664-home-page-ceo-message#windows\", \"children\": [{\"text\": \"Windows\"}]}, {\"text\": \" (Press Ctrl + F5)\"}]}]}, {\"type\": \"li\", \"children\": [{\"type\": \"lic\", \"children\": [{\"type\": \"a\", \"url\": \"https://galaxy.maropost.com/kb/articles/664-home-page-ceo-message#mac\", \"children\": [{\"text\": \"Mac OS X\"}]}, {\"text\": \" (Press Cmd + Shift + R)\"}]}]}]}, {\"type\": \"p\", \"children\": [{\"text\": \"\"}]}]",
+  "fixes_applied": {
+    "urls": {
+      "leaving_cleaned": 0,
+      "unsafe_removed": 0,
+      "s_article_mapped": 0,
+      "s_article_removed": 0,
+      "fragments_mapped": 0,
+      "fragments_stripped": 0,
+      "internal_fragments_fixed": 2,
+      "double_id_fixed": 0,
+      "kb_fragments_stripped": 0
+    },
+    "toc": 0,
+    "related": 1,
+    "lists": 1,
+    "headings": 0,
+    "reconverted": false
+  }
+}

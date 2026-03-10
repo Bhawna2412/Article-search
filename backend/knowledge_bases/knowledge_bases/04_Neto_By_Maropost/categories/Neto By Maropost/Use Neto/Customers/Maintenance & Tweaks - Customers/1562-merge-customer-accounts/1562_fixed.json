@@ -1,0 +1,27 @@
+{
+  "articleID": 1562,
+  "name": "Merge Customer Accounts",
+  "slug": "1562-merge-customer-accounts",
+  "format": "rich2",
+  "locale": "en",
+  "body": "[{\"type\": \"callout\", \"children\": [{\"type\": \"callout-item\", \"children\": [{\"text\": \"Once the accounts are merged, you will not be able to undo the merge. The first account will be deleted after they are merged and orders will also be merged into the one account.\"}]}], \"appearance\": \"info\"}, {\"type\": \"p\", \"children\": [{\"text\": \"To merge the accounts, go to \"}, {\"text\": \"Customers > View All Customers\", \"bold\": true}, {\"text\": \" and search for the customer account that you want to merge into another account. Click on the username to edit the account. On the customer card, click on the \"}, {\"text\": \"Merge\", \"bold\": true}, {\"text\": \" button:\"}]}, {\"type\": \"p\", \"children\": [{\"text\": \"Then search for the customer account you want to merge the first account into. Click in the field under \"}, {\"text\": \"Merge user account\", \"bold\": true}, {\"text\": \" and enter the username or name of the account you want to merge with. Then select the account from the search results.\"}]}, {\"type\": \"p\", \"children\": [{\"text\": \"The company and name of this customer account will appear. If this is correct, click on the \"}, {\"text\": \"Confirm Merge\", \"bold\": true}, {\"text\": \" button.\"}]}, {\"type\": \"p\", \"children\": [{\"text\": \"The customer details and sales orders will be merged, and accessible from the second account.\"}]}]",
+  "fixes_applied": {
+    "rebrand": 0,
+    "urls": {
+      "leaving_cleaned": 0,
+      "unsafe_removed": 0,
+      "s_article_mapped": 0,
+      "s_article_removed": 0,
+      "fragments_mapped": 0,
+      "fragments_stripped": 0,
+      "internal_fragments_fixed": 0,
+      "double_id_fixed": 0,
+      "kb_fragments_stripped": 0
+    },
+    "toc": 0,
+    "related": 0,
+    "lists": 0,
+    "headings": 0,
+    "reconverted": true
+  }
+}

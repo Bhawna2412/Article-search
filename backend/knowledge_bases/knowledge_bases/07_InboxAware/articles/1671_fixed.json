@@ -1,0 +1,16 @@
+{
+  "articleID": 1671,
+  "knowledgeCategoryID": 62,
+  "sort": null,
+  "name": "Dashboard Reports and Charts",
+  "body": "<h3 data-id=\"inbox-rate-trend\">Inbox rate trend</h3>\n<p>The Inbox Rate Trend graph shows if any changes you’ve recently made to your sending practices have had any impact on your email deliverability. It’s also helpful to pinpoint a specific moment in time in which your email deliverability started to suffer due to unforeseen reasons.</p>\n<p>The chart shows you daily trends over a time period that you select. The default period is the most recent 7 days. You can choose a longer date range going back 14 days, 30 days, or 90 days.</p>\n<h4 data-id=\"inbox-rate-trend-by-mailbox-provider\">Inbox rate trend by mailbox provider</h4>\n<p>Use this option to view deliverability with a particular mailbox provider. You can select up to 4 mailbox providers to compare their trends simultaneously.</p>\n<p>You can view the trends for percentages of emails delivered to the inbox, routed to the spam folder, or missing because they were rejected by the mailbox provider.</p>\n<h4 data-id=\"inbox-rate-trend-by-ip-address\">Inbox rate trend by IP address</h4>\n<p>Use this option to view deliverability with the IP addresses that your email service provider is using to send your emails. It’s also helpful to help pinpoint if a specific sending IP address has a poor reputation with a mailbox provider. You can select up to four IP addresses and see the daily trends of your mailbox providers.</p>\n<p>The sending IP address is taken from the emails received in the seed list. Therefore it is impossible emails to know the IP address of missing emails.</p>\n<h4 data-id=\"inbox-rate-trend-by-sending-domain\">Inbox rate trend by sending domain</h4>\n<p>This option is helpful if you use multiple sending domains for all your email campaigns. InboxAware defines your sending domain as the one used to sign the <a rel=\"nofollow\" href=\"http://galaxy.maropost.com/home/leaving?allowTrusted=1&amp;target=https%3A%2F%2Fen.wikipedia.org%2Fwiki%2FDomainKeys_Identified_Mail\">DKIM</a> signature of your emails. Different domains in your email from addresses have no bearing upon the sending domain that InboxAware reports. You can select up to four sending domains to compare their trends simultaneously.</p>\n<p>You can view the trends for percentages of emails delivered to the inbox, routed to the spam folder, or missing from the seed list addresses, because they were rejected by the mailbox provider upon receipt.</p>\n<hr></hr><h3 data-id=\"recent-campaigns\">Recent campaigns</h3>\n<p>The Recent Campaigns table report alerts you if any recently sent campaigns did poorly with their delivery to the inbox so that you can take immediate action.</p>\n<p>It is based on the time stamp when a campaign was first seen in any of the email accounts of the InboxAware seed list. The default option is to view the five most recent campaigns. You can increase the list to view the most recent 10, 20, or 30 campaigns.</p>",
+  "format": "html",
+  "featured": false,
+  "locale": "en",
+  "status": "published",
+  "foreignID": null,
+  "dateUpdated": "2022-03-22T00:55:09+00:00",
+  "_source_kb_id": 7,
+  "_source_kb_name": "InboxAware",
+  "_sync_date": "2026-02-02T05:55:24.895701+00:00"
+}

@@ -1,0 +1,16 @@
+{
+  "articleID": 1238,
+  "knowledgeCategoryID": 1,
+  "sort": 3,
+  "name": "Admin Forms - Mobile Dashboard De-activation",
+  "body": "<h1 data-id=\"admin-forms-mobile-dashboard-de-activation\">Admin Forms - Mobile Dashboard De-activation</h1>\n<p><span><span>This article explains how to disable the Mobile Dashboard feature in an existing clients Retail Express database.</span></span></p>\n<p><span>Disabling the Feature</span></p>\n<p> </p>\n<p>1. Login to clients Retail Express</p>\n<p>2. Navigate to <strong>Settings &gt; Global Settings</strong></p>\n<p>3. Untick the <em>Mobile Dashboard Enabled </em>checkbox</p>\n<p>4. Click <strong>Save Changes</strong></p>\n<p> </p>\n<p><span>Zoho Subscription - Updating Monthly Hosting</span></p>\n<p>1. Login to <em>Zoho Subscriptions</em></p>\n<p>2. Search for clients monthly subscription</p>\n<p>3. Edit subscription to remove the line item for Mobile Dashboard</p>\n<p>4. Click <strong>Update</strong></p>\n<p>5. Add comment stating \"Mobile Dashboard Disabled #[<em>Zendesk ticket number</em>]\"</p>\n<p>6. If an Ezypay customer login to Ezypay to update their ongoing monthly fees from the next monthly invoice cycle and note the Ezypay variation id as an internal note in the Zendesk ticket and a comment against Zoho Subscriptions</p>\n<p> </p>\n<p><span>Zendesk - Sending the email </span></p>\n<p><img alt=\"User-added image\" height=\"94\" src=\"https://us.v-cdn.net/6038474/uploads/attachments/migrated/100.05T5g00000nHH13EAG.png\" width=\"500\" loading=\"lazy\" style=\"height: 94px; width: 500px\" srcset=\"https://us.v-cdn.net/cdn-cgi/image/quality=80,format=auto,fit=scale-down,height=300,width=300/6038474/uploads/attachments/migrated/100.05T5g00000nHH13EAG.png 300w, https://us.v-cdn.net/cdn-cgi/image/quality=80,format=auto,fit=scale-down,height=600,width=600/6038474/uploads/attachments/migrated/100.05T5g00000nHH13EAG.png 600w, https://us.v-cdn.net/cdn-cgi/image/quality=80,format=auto,fit=scale-down,height=800,width=800/6038474/uploads/attachments/migrated/100.05T5g00000nHH13EAG.png 800w, https://us.v-cdn.net/cdn-cgi/image/quality=80,format=auto,fit=scale-down,height=1200,width=1200/6038474/uploads/attachments/migrated/100.05T5g00000nHH13EAG.png 1200w, https://us.v-cdn.net/cdn-cgi/image/quality=80,format=auto,fit=scale-down,height=1600,width=1600/6038474/uploads/attachments/migrated/100.05T5g00000nHH13EAG.png 1600w, https://us.v-cdn.net/cdn-cgi/image/quality=80,format=auto,fit=scale-down,height=2000,width=2000/6038474/uploads/attachments/migrated/100.05T5g00000nHH13EAG.png 2000w, https://us.v-cdn.net/6038474/uploads/attachments/migrated/100.05T5g00000nHH13EAG.png\" sizes=\"100vw\" class=\"embedImage-img importedEmbed-img\"></img></p>\n<p>1. Update the email address to be the one on the completed online form in original ticket</p>\n<p>3. Select the macro <strong>Finance &gt; Mobile Dashboard De-activated</strong></p>\n<p>5. Submit the ticket as <strong>Solved</strong></p>\n<p> </p>",
+  "format": "html",
+  "featured": false,
+  "locale": "en",
+  "status": "published",
+  "foreignID": null,
+  "dateUpdated": "2023-06-01T04:08:41+00:00",
+  "_source_kb_id": 1,
+  "_source_kb_name": "Help Articles",
+  "_sync_date": "2026-02-02T05:48:22.307052+00:00"
+}

@@ -1,0 +1,26 @@
+{
+  "articleID": 1185,
+  "name": "Integrated Gift Vouchers available for all Shopify plans",
+  "slug": "1185-integrated-gift-vouchers-available-for-all-shopify-plans",
+  "format": "rich2",
+  "locale": "en",
+  "body": "[{\"type\": \"p\", \"children\": [{\"text\": \"You can access integrated gift voucher functionality across all Shopify plan levels with \"}, {\"text\": \"Retail Express\", \"bold\": true}, {\"text\": \", expanding revenue opportunities through seamless gift card sales and redemption. This feature availability helps businesses of all sizes leverage gift voucher programs, supporting omnichannel voucher management regardless of Shopify subscription tier and enabling consistent gift card experiences across retail channels.\"}]}, {\"type\": \"p\", \"children\": [{\"text\": \"Understanding gift voucher availability across plans involves reviewing feature access, implementation requirements, and operational workflows for different Shopify tiers. When you leverage this expanded availability, you can expect increased gift voucher revenue opportunities, improved omnichannel voucher management, and better customer experience through flexible redemption options.\"}]}, {\"type\": \"p\", \"children\": [{\"text\": \"\"}]}, {\"type\": \"h1\", \"children\": [{\"text\": \"Integrated Gift Vouchers available for all Shopify plans\"}], \"data-id\": \"integrated-gift-vouchers-available-for-all-shopify-plans\"}, {\"type\": \"p\", \"children\": [{\"text\": \"We're happy to announce that Integrated Gift Vouchers are now available for \"}, {\"text\": \"all Shopify Plans that support Gift Cards\", \"bold\": true}, {\"text\": \", not just Shopify Plus!\"}]}, {\"type\": \"p\", \"children\": [{\"text\": \"This integration automates the process of selling and redeeming gift vouchers instore and online, improving the customer experience while simultaneously removing the need for manual intervention by staff.\"}]}, {\"type\": \"p\", \"children\": [{\"text\": \"The Shopify Gift Voucher integration is available by purchasing the \"}, {\"type\": \"a\", \"url\": \"https://zfrmz.com/kUnQOQtFgSW2awRM0J4e\", \"children\": [{\"text\": \"Gift Voucher Integration Licence\"}]}, {\"text\": \".\"}]}, {\"type\": \"p\", \"children\": [{\"text\": \"Existing users of the Shopify Gift Voucher Integration will need to re-authorise the connection as part of the update - \"}, {\"text\": \"click here to read more\"}, {\"text\": \".\"}]}, {\"type\": \"p\", \"children\": [{\"text\": \"Vouchers are first created as products in Retail Express and synchronised to the online store (referred to as a \\\"Gift Card\\\" in Shopify). Once a Gift Card has been purchased online the order synchronises to Retail Express and automatically creates a Gift Voucher. This voucher code is synchronised back to Shopify.\"}]}, {\"type\": \"rich_embed_card\", \"dataSourceType\": \"image\", \"url\": \"https://us.v-cdn.net/6038474/uploads/attachments/migrated/image.05T5g00000ppQ8MEAU.jpg\", \"embedData\": {\"url\": \"https://us.v-cdn.net/6038474/uploads/attachments/migrated/image.05T5g00000ppQ8MEAU.jpg\", \"embedType\": \"image\", \"displaySize\": \"large\", \"float\": \"none\", \"name\": \"shopify_giftcard_cart.png\"}, \"children\": [{\"text\": \"\"}]}, {\"type\": \"p\", \"children\": [{\"text\": \"Vouchers can be redeemed either in-store or online using the same code. Both Retail Express and Shopify will be updated with the remaining balance, or if used in full, close the voucher so that no further redemption is available.\"}]}, {\"type\": \"rich_embed_card\", \"dataSourceType\": \"image\", \"url\": \"https://us.v-cdn.net/6038474/uploads/attachments/migrated/image.05T5g00000ppQ8REAU.jpg\", \"embedData\": {\"url\": \"https://us.v-cdn.net/6038474/uploads/attachments/migrated/image.05T5g00000ppQ8REAU.jpg\", \"embedType\": \"image\", \"displaySize\": \"large\", \"float\": \"none\", \"name\": \"shopify_giftcard_redeemshopify.gif\"}, \"children\": [{\"text\": \"\"}]}, {\"type\": \"p\", \"children\": [{\"text\": \"\"}]}]",
+  "fixes_applied": {
+    "urls": {
+      "leaving_cleaned": 1,
+      "unsafe_removed": 0,
+      "s_article_mapped": 0,
+      "s_article_removed": 1,
+      "fragments_mapped": 0,
+      "fragments_stripped": 0,
+      "internal_fragments_fixed": 0,
+      "double_id_fixed": 0,
+      "kb_fragments_stripped": 0
+    },
+    "toc": 0,
+    "related": 1,
+    "lists": 0,
+    "headings": 0,
+    "reconverted": false
+  }
+}

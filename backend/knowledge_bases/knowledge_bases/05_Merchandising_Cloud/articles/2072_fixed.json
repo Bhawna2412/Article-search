@@ -1,0 +1,17 @@
+{
+  "articleID": 2072,
+  "knowledgeCategoryID": 463,
+  "sort": 5,
+  "name": "client.user",
+  "body": "[{\"type\": \"h2\", \"children\": [{\"text\": \"Overview\"}]}, {\"type\": \"p\", \"children\": [{\"text\": \"The client user object provides consistent user identification across SDK libraries and REST API calls, enabling seamless integration between analytics tracking and other platform features. This helps ensure user behavior data connects properly with search, recommendations, and personalization features that rely on understanding individual customer patterns.\"}]}, {\"type\": \"p\", \"children\": [{\"text\": \"Accessing the user object from the Analytics client enables you to maintain consistent user identification when making requests across different parts of the platform, which helps optimize personalization accuracy by ensuring all customer interactions are properly attributed to the correct user profile.\"}]}, {\"type\": \"h2\", \"children\": [{\"text\": \"Returns:\"}], \"data-id\": \"returns\"}, {\"type\": \"p\", \"children\": [{\"text\": \"Returns \"}, {\"text\": \"user\", \"code\": true}, {\"text\": \" object, which can be used further in \"}, {\"text\": \"FindifySDK\", \"code\": true}, {\"text\": \", \"}, {\"text\": \"FindifyHelpers\", \"code\": true}, {\"text\": \" libraries or in plain Findify REST API.\"}]}, {\"type\": \"h2\", \"children\": [{\"text\": \"Code Examples\"}], \"data-id\": \"examples-of-usage\"}, {\"type\": \"h3\", \"children\": [{\"text\": \"JavaScript (SDK)\"}]}, {\"type\": \"code_block\", \"lang\": \"javascript\", \"children\": [{\"type\": \"code_line\", \"children\": [{\"text\": \"var user = client.user;\"}]}, {\"type\": \"code_line\", \"children\": [{\"text\": \"var findifySdkClient = FindifySDK.init({\"}]}, {\"type\": \"code_line\", \"children\": [{\"text\": \"  key: 'f8923hg20hg248g8g9h',\"}]}, {\"type\": \"code_line\", \"children\": [{\"text\": \"  user: user\"}]}, {\"type\": \"code_line\", \"children\": [{\"text\": \"});\"}]}]}]",
+  "format": "rich2",
+  "featured": false,
+  "locale": "en",
+  "status": "published",
+  "foreignID": null,
+  "dateUpdated": "2026-02-02T06:09:27+00:00",
+  "_source_kb_id": 5,
+  "_source_kb_name": "Merchandising Cloud",
+  "_sync_date": "2026-02-06T07:21:34.528115+00:00",
+  "_incremental_update": true
+}

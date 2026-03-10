@@ -1,0 +1,31 @@
+{
+  "articleID": 1992,
+  "name": "What is Merchandising Cloud?",
+  "format": "rich2",
+  "locale": "en",
+  "body": "[{\"type\": \"p\", \"children\": [{\"text\": \"You can leverage Merchandising Cloud's AI-powered personalization to transform product discovery on your site, helping improve conversion rates and increase revenue by showing each shopper products they're most likely to buy. The platform uses behavioral learning to individually rank products based on personal shopping patterns, providing personalized search, recommendations, and smart collections that adapt in real-time to customer preferences.\"}]}, {\"type\": \"p\", \"children\": [{\"text\": \"Implementing Merchandising Cloud's solutions helps optimize both user experience and site performance. The advanced algorithm computes personalized search results in under 10 milliseconds, ensuring fast page loads while delivering relevant product recommendations, supported by actionable analytics and merchandising tools that enable data-driven optimization of your ecommerce strategy over time.\"}]}, {\"type\": \"p\", \"children\": [{\"text\": \"Merchandising Cloud (formerly Findify) is a leading site search and product personalization company which utilizes the latest in AI technology to help merchants improve UX, optimize site speed, boost conversion, and increase revenue.\"}]}, {\"type\": \"p\", \"children\": [{\"text\": \"Trusted by more than 1,800 retailers worldwide, Merchandising Cloud puts the products your shoppers are most likely to buy, right in front of them.\"}]}, {\"type\": \"p\", \"children\": [{\"text\": \"This is done by using personalization to individually rank the order each shopper sees the products, based on their personal behavior.\"}]}, {\"type\": \"p\", \"children\": [{\"type\": \"a\", \"url\": \"https://youtu.be/NnGOGKw1HWM\", \"children\": [{\"text\": \"https://youtu.be/NnGOGKw1HWM\"}]}]}, {\"type\": \"p\", \"children\": [{\"text\": \"The company provides a number of cost-effective solutions, including Personalized Search, Recommendations, and Smart Collections, as well as actionable analytics and merchandising tools.\"}]}, {\"type\": \"p\", \"children\": [{\"text\": \"Merchandising Cloud provides all these services while also optimizing site speed. Its advanced algorithm takes less than 10 milliseconds to compute personalized search results.\"}]}, {\"type\": \"p\", \"children\": [{\"text\": \"\"}]}, {\"type\": \"h3\", \"children\": [{\"text\": \"Want to know more? Click below for an obligation-free demo!\"}], \"data-id\": \"want-to-know-more-click-below-for-an-obligation-free-demo\"}, {\"type\": \"p\", \"children\": [{\"text\": \"\"}]}, {\"type\": \"h2\", \"children\": [{\"type\": \"a\", \"url\": \"https://findify.io/book-a-demo\", \"children\": [{\"text\": \"Findify.io/book-a-demo\"}]}], \"data-id\": \"findify-io-book-a-demo\"}, {\"type\": \"p\", \"children\": [{\"text\": \"\"}]}]",
+  "knowledgeCategoryID": 157,
+  "sort": 0,
+  "status": "published",
+  "_source_kb_id": 5,
+  "_source_kb_name": "Merchandising Cloud",
+  "_fix_date": "2026-02-02T06:05:45.582775+00:00",
+  "fixes_applied": {
+    "urls": {
+      "leaving_cleaned": 2,
+      "unsafe_removed": 0,
+      "s_article_mapped": 0,
+      "s_article_removed": 0,
+      "fragments_mapped": 0,
+      "fragments_stripped": 0,
+      "internal_fragments_fixed": 0,
+      "double_id_fixed": 0,
+      "kb_fragments_stripped": 0
+    },
+    "toc": 0,
+    "related": 1,
+    "lists": 0,
+    "headings": 0,
+    "reconverted": false
+  }
+}

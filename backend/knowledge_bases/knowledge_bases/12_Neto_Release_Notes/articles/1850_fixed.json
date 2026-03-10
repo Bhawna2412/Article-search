@@ -1,0 +1,16 @@
+{
+  "articleID": 1850,
+  "knowledgeCategoryID": 455,
+  "sort": 11,
+  "name": "Neto by Maropost Release Notes – 12 Jun 2019",
+  "body": "[{\"type\":\"p\",\"children\":[{\"text\":\"Release Version\",\"bold\":true},{\"text\":\": 6.56\"}]},{\"type\":\"p\",\"children\":[{\"text\":\" \"}]},{\"type\":\"h2\",\"children\":[{\"text\":\"Minor Features\",\"bold\":true}]},{\"type\":\"ul\",\"children\":[{\"type\":\"li\",\"children\":[{\"type\":\"lic\",\"children\":[{\"text\":\"The sales order view page has been updated with a new animation when order totals are being calculated.\"}]}]},{\"type\":\"li\",\"children\":[{\"type\":\"lic\",\"children\":[{\"text\":\"Added a trigger to download Catch sales orders every hour, to ensure same-day shipping orders can be acted upon promptly.\"}]}]},{\"type\":\"li\",\"children\":[{\"type\":\"lic\",\"children\":[{\"text\":\"Shipping spend promotions can now be configured to apply before or after discounts.\"}]}]},{\"type\":\"li\",\"children\":[{\"type\":\"lic\",\"children\":[{\"text\":\"Staff access can be blocked to the following inventory pages: \"}]},{\"type\":\"ul\",\"children\":[{\"type\":\"li\",\"children\":[{\"text\":\"Suppliers\"}]},{\"type\":\"li\",\"children\":[{\"text\":\"Basic stock adjustment\"}]},{\"type\":\"li\",\"children\":[{\"text\":\"Basic stock take\"}]},{\"type\":\"li\",\"children\":[{\"text\":\"Neto Inventory stocktake\"}]},{\"type\":\"li\",\"children\":[{\"text\":\"Neto Inventory adjustment\"}]}]}]}]},{\"type\":\"p\",\"children\":[{\"text\":\" \"}]}]",
+  "format": "rich2",
+  "featured": false,
+  "locale": "en",
+  "status": "published",
+  "foreignID": null,
+  "dateUpdated": "2025-07-10T15:17:08+00:00",
+  "_source_kb_id": 12,
+  "_source_kb_name": "Neto Release Notes",
+  "_sync_date": "2026-02-02T05:59:03.618977+00:00"
+}

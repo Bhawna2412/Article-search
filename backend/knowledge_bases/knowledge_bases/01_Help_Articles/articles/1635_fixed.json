@@ -1,0 +1,16 @@
+{
+  "articleID": 1635,
+  "knowledgeCategoryID": 1,
+  "sort": 17,
+  "name": "Connect to a Client Site with SFTP",
+  "body": "<h3 id=\"overview\" data-id=\"overview\">Overview</h3>\n<p>Secure file transfer protocol (SFTP) is the only way to access a clients file server and is necessary for any design or theme work. SFTP can be used to make a backup of your website assets, such as product images, banners, or theme files.</p>\n<p>SFTP credentials are automatically provisioned for you when you create a store for a client, with the same password you use for the partner portal. Not only does it make remembering the login details easier, it also means that when you change your partner portal password, your SFTP password changes with it.</p>\n<div><strong>Please Note</strong>: If you didn't create the site your client will need to request access for you. You can find out more about this process <a rel=\"nofollow\" href=\"http://galaxy.maropost.com/home/leaving?allowTrusted=1&amp;target=https%3A%2F%2Fwww.netohq.com%2Fpartners%2Fs%2Farticle%2Fpartner-access-for-merchant-site\">here</a>.</div><br/><br/><hr></hr><h3 id=\"connect-to-a-client-site-with-sftp\" data-id=\"connect-to-a-client-site-with-sftp\">Connect to a Client Site with SFTP</h3>\n<p>To connect to a client site you will need:</p>\n<ul><li>Your credentials.</li><li>Your client's website address.</li><li>Software that allows you to connect via FTP, such as <a rel=\"nofollow\" href=\"http://galaxy.maropost.com/home/leaving?allowTrusted=1&amp;target=https%3A%2F%2Ffilezilla-project.org%2F\">Filezilla</a>.</li></ul><p>Most software will require four pieces of information to allow a connection. To connect to a client site, run your ftp software, and enter your credentials as per the below:</p>\n<p><strong>Hostname</strong>: sftp.neto.net.au</p>\n<p><strong>Username</strong>: Your username is a combination of your username (usually your email address), and your clients Maropost Commerce website address, in the format <code class=\"code codeInline\" spellcheck=\"false\" tabindex=\"0\">username@sitedomain</code>. e.g.</p>\n<p><code class=\"code codeInline\" spellcheck=\"false\" tabindex=\"0\">jane.sample@company.com.au@www.client-site.com.au</code></p>\n<p><code class=\"code codeInline\" spellcheck=\"false\" tabindex=\"0\">jane.sample@company.com.au@client-site.neto.com.au</code></p>\n<p><strong>Password</strong>: (Your partner portal password)</p>\n<p><strong>Port</strong>: 1022</p>\n<div><strong>Please Note</strong>: Any changes to your email address or the client's website domain will affect your SFTP login credentials.</div>\n<p>Once you’ve connected you will be able to browse the site files to upload and download themes, templates, or assets.</p>",
+  "format": "html",
+  "featured": false,
+  "locale": "en",
+  "status": "published",
+  "foreignID": null,
+  "dateUpdated": "2022-02-02T06:57:24+00:00",
+  "_source_kb_id": 1,
+  "_source_kb_name": "Help Articles",
+  "_sync_date": "2026-02-02T05:48:58.883566+00:00"
+}

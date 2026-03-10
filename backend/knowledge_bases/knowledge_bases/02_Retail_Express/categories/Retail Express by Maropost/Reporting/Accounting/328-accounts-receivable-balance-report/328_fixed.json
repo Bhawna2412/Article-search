@@ -1,0 +1,26 @@
+{
+  "articleID": 328,
+  "name": "Accounts Receivable Balance Report",
+  "slug": "328-accounts-receivable-balance-report",
+  "format": "rich2",
+  "locale": "en",
+  "body": "[{\"type\": \"p\", \"children\": [{\"text\": \"You can configure the Accounts Receivable Balance Report to view all transactions contributing to your current debtors account balance as at a specific date, helping ensure accurate point-in-time reconciliation with your accounting package. This improves your retail operations by providing clear visibility into outstanding account customer balances and promotional voucher handling, with properly configured receivables tracking typically achieving better accounts receivable management and faster period-end reconciliation.\"}]}, {\"type\": \"p\", \"children\": [{\"text\": \"Setting up accounts receivable balance reporting involves understanding account customer sales classification, promotional voucher inclusion options, and general ledger asset account movement to help retail operators focus on the right balance verification tasks, ensuring your retail strategy consistently drives better financial accuracy outcomes.\"}]}, {\"type\": \"p\", \"children\": [{\"text\": \"The Accounts Receivable Balance Report details all transactions that contribute to the current balance in your Accounts Receivable account as at a specific date.\"}]}, {\"type\": \"ul\", \"children\": [{\"type\": \"li\", \"children\": [{\"type\": \"lic\", \"children\": [{\"text\": \"Account sales includes all sales made to an Account Customer, even if they are sold as \\\"Cash and Carry\\\". These will all move through your debtors account in your accounting package.\"}]}]}, {\"type\": \"li\", \"children\": [{\"type\": \"lic\", \"children\": [{\"text\": \"Your Accounts Receivable sales will move through a General Ledger Asset account, not your linked control account for Trade Debtors.\"}]}]}, {\"type\": \"li\", \"children\": [{\"type\": \"lic\", \"children\": [{\"text\": \"Sales are flagged at the time they are committed.  If a customer has their account terms removed, any sales created prior will continue to be considered account customer sales.\"}]}]}]}, {\"type\": \"p\", \"children\": [{\"text\": \"\"}]}, {\"type\": \"p\", \"children\": [{\"text\": \"To use the Accounts Receivable Balances Report:\"}]}, {\"type\": \"ol\", \"children\": [{\"type\": \"li\", \"children\": [{\"type\": \"lic\", \"children\": [{\"text\": \"Navigate to:\"}, {\"text\": \" Reports > Accounting Reports > Accounts Receivable Balances Report\", \"bold\": true}]}]}, {\"type\": \"li\", \"children\": [{\"type\": \"lic\", \"children\": [{\"text\": \"Select the \"}, {\"text\": \"As At \", \"bold\": true}, {\"text\": \"Date \", \"bold\": true}, {\"text\": \"i.e. the date you would like to see the balance for\"}]}]}, {\"type\": \"li\", \"children\": [{\"type\": \"lic\", \"children\": [{\"text\": \"Select whether to \"}, {\"text\": \"Include Promotional Vouchers \", \"bold\": true}, {\"text\": \"in the balance\"}, {\"text\": \"\\n\"}, {\"text\": \"\\tPromotional Vouchers issued via the Customer Activity Report are \\\"Unpaid\\\", and will be uploaded to the Accounts Receivable account for manual handling.\"}]}]}, {\"type\": \"li\", \"children\": [{\"type\": \"lic\", \"children\": [{\"text\": \"Update the remaining \"}, {\"text\": \"Filters \", \"bold\": true}, {\"text\": \"as required\"}]}]}, {\"type\": \"li\", \"children\": [{\"type\": \"lic\", \"children\": [{\"text\": \"Click \"}, {\"text\": \"Search\", \"bold\": true}]}]}, {\"type\": \"li\", \"children\": [{\"type\": \"lic\", \"children\": [{\"text\": \"The \"}, {\"text\": \"results\", \"bold\": true}, {\"text\": \" will be displayed grouped by \"}, {\"text\": \"Order Number\", \"bold\": true}]}]}]}, {\"type\": \"p\", \"children\": [{\"text\": \"\"}]}, {\"type\": \"p\", \"children\": [{\"text\": \"For more information on these figures please refer to the \"}, {\"type\": \"a\", \"url\": \"https://galaxy.maropost.com/s/retail-article\", \"children\": [{\"text\": \"Accounting Integration articles\"}]}, {\"text\": \".\"}]}, {\"type\": \"p\", \"children\": [{\"text\": \"\"}]}]",
+  "fixes_applied": {
+    "urls": {
+      "leaving_cleaned": 0,
+      "unsafe_removed": 0,
+      "s_article_mapped": 0,
+      "s_article_removed": 0,
+      "fragments_mapped": 0,
+      "fragments_stripped": 0,
+      "internal_fragments_fixed": 1,
+      "double_id_fixed": 0,
+      "kb_fragments_stripped": 0
+    },
+    "toc": 0,
+    "related": 1,
+    "lists": 1,
+    "headings": 0,
+    "reconverted": false
+  }
+}

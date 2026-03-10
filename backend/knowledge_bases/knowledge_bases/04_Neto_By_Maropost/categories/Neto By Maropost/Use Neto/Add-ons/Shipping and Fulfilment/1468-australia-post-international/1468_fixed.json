@@ -1,0 +1,27 @@
+{
+  "articleID": 1468,
+  "name": "Australia Post International",
+  "slug": "1468-australia-post-international",
+  "format": "rich2",
+  "locale": "en",
+  "body": "[{\"type\": \"rich_embed_card\", \"dataSourceType\": \"image\", \"url\": \"https://www.neto.com.au/assets/thumb/APP-37.jpg\", \"embedData\": {\"url\": \"https://www.neto.com.au/assets/thumb/APP-37.jpg\", \"embedType\": \"image\", \"displaySize\": \"large\", \"float\": \"none\"}, \"children\": [{\"text\": \"\"}]}, {\"type\": \"h2\", \"children\": [{\"text\": \"This add-on was built by Maropost\"}]}, {\"type\": \"p\", \"children\": [{\"text\": \"Add-ons and Integrations built in-house by Maropost are documented and supported by our customer service team. If you're having issues with this integration, \"}, {\"type\": \"a\", \"url\": \"https://www.netohq.com/support/s/ask-us\", \"children\": [{\"text\": \"let us know\"}]}, {\"text\": \"!\"}]}, {\"type\": \"p\", \"children\": [{\"text\": \"Tip\", \"bold\": true}, {\"text\": \": Shipping label and manifest features require the \"}, {\"text\": \"Neto Commerce Ship\", \"bold\": true}, {\"text\": \" add-on.\"}]}, {\"type\": \"p\", \"children\": [{\"text\": \"To install the Australia Post International add-on:\"}]}, {\"type\": \"ol\", \"children\": [{\"type\": \"li\", \"children\": [{\"type\": \"lic\", \"children\": [{\"text\": \"In your Neto control panel navigate to the \"}, {\"text\": \"Addons\", \"bold\": true}, {\"text\": \" menu.\"}]}]}, {\"type\": \"li\", \"children\": [{\"type\": \"lic\", \"children\": [{\"text\": \"In the Shipping section locate Australia Post International and click the \"}, {\"text\": \"Install\", \"bold\": true}, {\"text\": \" button.\"}]}]}, {\"type\": \"li\", \"children\": [{\"type\": \"lic\", \"children\": [{\"text\": \"Fill in the \"}, {\"type\": \"a\", \"url\": \"https://forms.neto.com.au/services/shippingcarrierlabelsetup.html\", \"children\": [{\"text\": \"Shipping Carrier Label Setup Form\"}]}, {\"text\": \" and Neto staff will set up the shipping labels for you for free.\"}]}]}]}]",
+  "fixes_applied": {
+    "rebrand": 3,
+    "urls": {
+      "leaving_cleaned": 2,
+      "unsafe_removed": 0,
+      "s_article_mapped": 0,
+      "s_article_removed": 0,
+      "fragments_mapped": 0,
+      "fragments_stripped": 0,
+      "internal_fragments_fixed": 0,
+      "double_id_fixed": 0,
+      "kb_fragments_stripped": 0
+    },
+    "toc": 0,
+    "related": 0,
+    "lists": 3,
+    "headings": 2,
+    "reconverted": false
+  }
+}

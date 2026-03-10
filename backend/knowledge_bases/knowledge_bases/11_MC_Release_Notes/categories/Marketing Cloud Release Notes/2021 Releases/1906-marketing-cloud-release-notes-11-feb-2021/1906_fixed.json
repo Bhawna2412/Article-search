@@ -1,0 +1,16 @@
+{
+  "articleID": 1906,
+  "knowledgeCategoryID": 441,
+  "sort": 14,
+  "name": "Marketing Cloud Release Notes – 11 Feb 2021",
+  "body": "[{\"type\":\"h2\",\"children\":[{\"text\":\"Overview\",\"bold\":true}]},{\"type\":\"p\",\"children\":[{\"text\":\"This release rolls out one of the prime features we have been working on - Mobile Keywords. This feature is aimed at helping you build contact lists by encouraging easy interaction with contacts over SMS Campaigns.\"}]},{\"type\":\"p\",\"children\":[{\"text\":\" \"}]},{\"type\":\"h2\",\"children\":[{\"text\":\"New Feature\",\"bold\":true}]},{\"type\":\"h3\",\"children\":[{\"text\":\"Mobile Keywords\"}]},{\"type\":\"p\",\"children\":[{\"text\":\"Mobile Keywords are texts or phrases that you can define to be associated with certain actions. You can use these Keywords in your SMS Campaigns to facilitate two-way interaction with your contacts.\"}]},{\"type\":\"p\",\"children\":[{\"text\":\"You can create and manage the Mobile Keywords on the Mobile Keywords index page. On this page, you can also set up an Invalid Response Message that will be sent in response to texts that are received with the wrong or missing keyword.\"}]},{\"type\":\"p\",\"children\":[{\"text\":\" To learn about Mobile Keywords and how to create and use them, see \"},{\"type\":\"a\",\"url\":\"https://galaxy.maropost.com/s/article/Mobile-Keywords\",\"target\":\"_blank\",\"children\":[{\"text\":\"Mobile Keywords\"}]},{\"text\":\".\"}]},{\"type\":\"p\",\"children\":[{\"type\":\"rich_embed_card\",\"children\":[{\"text\":\"\"}],\"dataSourceType\":\"image\",\"url\":\"https://us.v-cdn.net/6038474/uploads/attachments/migrated/MobileKeywords.0685g000006w7zqAAA.png\",\"embedData\":{\"url\":\"https://us.v-cdn.net/6038474/uploads/attachments/migrated/MobileKeywords.0685g000006w7zqAAA.png\",\"name\":\"Mobile_Keywords\",\"embedType\":\"image\",\"float\":\"none\",\"height\":1254,\"width\":2560}}]}]",
+  "format": "rich2",
+  "featured": false,
+  "locale": "en",
+  "status": "published",
+  "foreignID": null,
+  "dateUpdated": "2025-07-10T15:29:51+00:00",
+  "_source_kb_id": 11,
+  "_source_kb_name": "MC Release Notes",
+  "_sync_date": "2026-02-02T05:58:05.701881+00:00"
+}

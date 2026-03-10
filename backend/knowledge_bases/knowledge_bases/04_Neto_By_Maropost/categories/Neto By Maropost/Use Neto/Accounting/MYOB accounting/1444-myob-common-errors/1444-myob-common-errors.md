@@ -1,0 +1,25 @@
+---
+title: "MYOB Common Errors"
+articleID: 1444
+category: "Use Neto > Accounting > MYOB accounting"
+knowledgeBase: "Neto By Maropost"
+---
+
+# MYOB Common Errors
+
+| Error | Cause | Solution |
+| --- | --- | --- |
+| Error 100 Required: Account is required Account | The payment cannot find which account it should be applied to. | Payment method should be mapped to correct Account from MYOB Live |
+| Error 100 Required: Customer is required Customer | The order cannot find which customer it should be applied to. | Look at any customer errors in the Integration Export Log, where there should be an error for the related Customer. Once the Customer error is resolved and has been successfully exported, the invoice should also export successfully. |
+| Error 111 IncorrectRowVersionSupplied: An Update operation requires the latest RowVersion for each of the existing entities being modified. | The order has not been exported correctly. | Mark the invoice for re-export. Open the invoice in Neto and tick the box **Re-export order to 3rd party app** at the bottom of the page, then save. The invoice can then be re-exported manually from the Export log or wait for the next schedule export to run. |
+| Error 4237 ValidationError: BusinessLine_AccountRequired AccountId:(SaleEventItemLine) | This is related to incorrect/incompatible tax code with regards to Cost Of Sales Account / Income Account. | Update the tax code for the cost of sales or income account and re-export the order. |
+| Error 4340 ValidationError: SaleEventLine_ItemSoldRequired ItemId:(SaleEventItemLine) | This is related to Buying Details / Selling Details. | Items on these orders need to be marked as “Sold” and assigned to the relevant Cost Of Sales Account / Income Account. |
+| Error 12101 UnitPriceNotValid: UnitPrice must be a positive number Lines[2].UnitPrice | These invoices have a negative amount on them for Rounding. | Adjust the orders with the negative rounding to bring the line to positive. |
+| Warning 4327 ValidationWarning: SaleEvent_DuplicateSale EventId:(SaleEvent) | This usually occurs if the order has been manually added in MYOB. | If the invoice exist in MYOB, mark this error as successfully export or delete the MYOB record and re-export. |
+| Error 25002 InsufficientItemQuantity: Insufficient item quantity to complete transaction Lines[0].Item | Stock for the product is 0 or less. | You can remove the “I Inventory This Item” mark on these items in MYOB or adjust the QTY on hand to be greater than 0. |
+| Error 4226 ValidationError: BusinessEvent_CategoryRequired CategoryId:(SaleEvent) | Category tracking required setting needs to be updated. | The company file preference “Turn on Category Tracking: Categories are [Required/Not Required]” on all transactions MUST be set to **Not required**. In MYOB, go to Setup > Preferences > System to change. |
+| Product “XXX” does not exist in MYOB | A matching product cannot be found in MYOB. | Ensure that the product is in MYOB. |
+| Error 4237 ValidationError: BusinessLine_AccountRequired AccountId:(SaleEventItemLine) Error 4340 ValidationError: SaleEventLine_ItemSoldRequired ItemId:(SaleEventItemLine) | Income/Asset/Cost of Sales Accounts on product is not linked in MYOB. | In MYOB go to Accounts > Accounts List find the Asset, Income and Cost of Sales accounts being used on Neto’s product and ensure the accounts are linked in MYOB. To check account linking, click on the account in the accounts list, go to Details tab. This page tells you if the account is linked or not. If it’s not, it needs to be linked to a MYOB account. 			If the error is not cleared after linking your accounts in MYOB, please request for your product import temp data to be cleared by our integrations support team and try re-exporting the failed orders. |
+| Error 4238 ValidationError: BusinessLine_AccountRequired Error 4342 ValidationError: SaleEventLine_ItemSoldRequired | Item on the invoice is missing its account mapping (usually sales account) and it is also not marked as sold. | Map the account on the product and mark it as **Is Sold** to rectify the error. |
+| Error 100 Required: Lines[0].Location.UID Lines[0].location must be specified for inventoried item | Neto does not support MYOB’s multiple warehouses. | Disable this setting in MYOB and the orders will export correctly during the next sync. |
+| Error 11004 CustomerCannotBeChanged: The Customer cannot be changed for an existing Invoice. Customer.UID | The customer that the invoice relates to no longer matches the customer that has exported to MYOB. | The most likely cause is the customer related to the invoice has been changed in MYOB or Maropost since the customer card was exported, so the API thinks they are different customer cards even if they are for the same name. To resolve this, check the customer in MYOB to ensure the First Name, Last Name, Company and Email matches the customer that is on the invoice in Maropost. If a change has been made to the customer card in one platform, the same change will need to be manually applied in the other platform. |

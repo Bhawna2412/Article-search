@@ -1,0 +1,27 @@
+{
+  "articleID": 1069,
+  "name": "Kogan Troubleshooting",
+  "slug": "1069-kogan-troubleshooting",
+  "format": "rich2",
+  "locale": "en",
+  "body": "[{\"type\": \"p\", \"children\": [{\"text\": \"Important\", \"bold\": true}, {\"text\": \": The Kogan integration is developed and supported by CrescoData. \"}, {\"type\": \"a\", \"url\": \"https://crescodata.atlassian.net/servicedesk/customer/portal/1\", \"children\": [{\"text\": \"Contact Cresco\"}]}, {\"text\": \" for set up support and issues in the Cresco dashboard.\"}]}, {\"type\": \"table\", \"children\": [{\"type\": \"tr\", \"children\": [{\"type\": \"th\", \"children\": [{\"type\": \"p\", \"children\": [{\"text\": \"Issue\"}]}]}, {\"type\": \"th\", \"children\": [{\"type\": \"p\", \"children\": [{\"text\": \"Cause\"}]}]}, {\"type\": \"th\", \"children\": [{\"type\": \"p\", \"children\": [{\"text\": \"Solution\"}]}]}]}, {\"type\": \"tr\", \"children\": [{\"type\": \"td\", \"children\": [{\"type\": \"p\", \"children\": [{\"text\": \"Settings have changed in Cresco but listings aren\\u2019t updated.\"}]}]}, {\"type\": \"td\", \"children\": [{\"type\": \"p\", \"children\": [{\"text\": \"Setting changes require a manual sync.\"}]}]}, {\"type\": \"td\", \"children\": [{\"type\": \"p\", \"children\": [{\"text\": \"Refer to the \\u201cpublishing products\\u201d section in Cresco\\u2019s documentation \"}, {\"type\": \"a\", \"url\": \"https://crescodata.com/help-center-faq/integrations/kogan/\", \"children\": [{\"text\": \"here\"}]}, {\"text\": \".\"}]}]}]}, {\"type\": \"tr\", \"children\": [{\"type\": \"td\", \"children\": [{\"type\": \"p\", \"children\": [{\"text\": \"## Error: Message: Invalid carrier code, please refer to the list on the page \"}, {\"type\": \"a\", \"url\": \"https://koganmarketplace.zendesk.com/hc/en-us/articles/900005468863-Supported-Carrier-Codes\", \"children\": [{\"text\": \"Supported Carrier Codes\"}]}, {\"text\": \" or contact your account manager.\"}]}]}, {\"type\": \"td\", \"children\": [{\"type\": \"p\", \"children\": [{\"text\": \"Shipping is not mapped correctly or the rate table is missing in Neto.\"}]}]}, {\"type\": \"td\", \"children\": [{\"type\": \"p\", \"children\": [{\"text\": \"1. Check the shipping service on the consignment in Neto is mapped to a Kogan carrier in your Cresco settings page.\"}, {\"text\": \"\\n\"}, {\"text\": \"\\t\\t\\t2. If you can\\u2019t find that service in the Cresco settings page, the \"}, {\"type\": \"a\", \"url\": \"https://galaxy.maropost.com/kb/articles/1385-add-a-shipping-option\", \"children\": [{\"text\": \"shipping option\"}]}, {\"text\": \" or \"}, {\"type\": \"a\", \"url\": \"https://galaxy.maropost.com/kb/articles/1223-add-or-edit-shipping-rates\", \"children\": [{\"text\": \"rate table\"}]}, {\"text\": \" needs to exist in Neto. Note that the prices don\\u2019t need to be in the rate table, it just needs to be active and have a name.\"}]}]}]}, {\"type\": \"tr\", \"children\": [{\"type\": \"td\", \"children\": [{\"type\": \"p\", \"children\": [{\"text\": \"Child products not listing individually on Kogan.\"}]}]}, {\"type\": \"td\", \"children\": [{\"type\": \"p\", \"children\": [{\"text\": \"Cresco\\u2019s Kogan integration doesn\\u2019t support product variations being listed individually.\"}]}]}, {\"type\": \"td\", \"children\": [{\"type\": \"p\", \"children\": [{\"text\": \"Set the parent product as \"}, {\"text\": \"Approved for Kogan\", \"bold\": true}, {\"text\": \" to list the child products as a variation listing.\"}]}]}]}, {\"type\": \"tr\", \"children\": [{\"type\": \"td\", \"children\": [{\"type\": \"p\", \"children\": [{\"text\": \"Shippit tracking doesn\\u2019t work.\"}]}]}, {\"type\": \"td\", \"children\": [{\"type\": \"p\", \"children\": [{\"text\": \"Shipping is not mapped correctly or is missing in Neto.\"}]}]}, {\"type\": \"td\", \"children\": [{\"type\": \"p\", \"children\": [{\"text\": \"1. Check that Shippit is mapped to a Kogan carrier in your Cresco settings page.\"}, {\"text\": \"\\n\"}, {\"text\": \"\\t\\t\\t2. If you can\\u2019t find that service in the Cresco settings page, the \"}, {\"type\": \"a\", \"url\": \"https://galaxy.maropost.com/kb/articles/1385-add-a-shipping-option\", \"children\": [{\"text\": \"shipping option\"}]}, {\"text\": \" or \"}, {\"type\": \"a\", \"url\": \"https://galaxy.maropost.com/kb/articles/1223-add-or-edit-shipping-rates\", \"children\": [{\"text\": \"rate table\"}]}, {\"text\": \" needs to exist in Neto. Note that the prices don\\u2019t need to be in the rate table, it just needs to be active and have a name.\"}]}]}]}], \"id\": \"rich-table-a122638a\"}]",
+  "fixes_applied": {
+    "rebrand": 0,
+    "urls": {
+      "leaving_cleaned": 3,
+      "unsafe_removed": 0,
+      "s_article_mapped": 4,
+      "s_article_removed": 0,
+      "fragments_mapped": 0,
+      "fragments_stripped": 0,
+      "internal_fragments_fixed": 0,
+      "double_id_fixed": 0,
+      "kb_fragments_stripped": 0
+    },
+    "toc": 0,
+    "related": 0,
+    "lists": 0,
+    "headings": 0,
+    "reconverted": false
+  }
+}

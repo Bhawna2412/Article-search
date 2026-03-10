@@ -1,0 +1,29 @@
+{
+  "articleID": 1007,
+  "name": "Custom Print Docs",
+  "slug": "1007-custom-print-docs",
+  "format": "rich2",
+  "locale": "en",
+  "body": "[{\"type\": \"h3\", \"children\": [{\"text\": \"[Image: User-added image]\"}, {\"text\": \"\\n\"}, {\"text\": \"\\n\"}, {\"text\": \"This add-on was built by Maropost\"}]}, {\"type\": \"p\", \"children\": [{\"text\": \"Add-ons and Integrations built in-house by Maropost are documented and supported by our customer service team. If you're having issues with this integration, \"}, {\"type\": \"a\", \"url\": \"https://www.netohq.com/support/s/ask-us\", \"children\": [{\"text\": \"let us know\"}]}, {\"text\": \"!\"}]}, {\"type\": \"h2\", \"children\": [{\"text\": \"Set up the Custom Print Docs Add-on\"}]}, {\"type\": \"p\", \"children\": [{\"text\": \"To create new template sets you need to install the Custom Print Docs add-on:\"}]}, {\"type\": \"ol\", \"children\": [{\"type\": \"li\", \"children\": [{\"type\": \"lic\", \"children\": [{\"text\": \"In your Neto control panel click the \"}, {\"text\": \"Addons\", \"bold\": true}, {\"text\": \" menu.\"}]}]}, {\"type\": \"li\", \"children\": [{\"type\": \"lic\", \"children\": [{\"text\": \"In the content management section, find the Custom Print Docs add-on and click the \"}, {\"text\": \"Install\", \"bold\": true}, {\"text\": \" button.\"}]}]}, {\"type\": \"li\", \"children\": [{\"type\": \"lic\", \"children\": [{\"text\": \"Click the \"}, {\"text\": \"Install\", \"bold\": true}, {\"text\": \" button in the pop-up window that appears.\"}]}]}]}, {\"type\": \"p\", \"children\": [{\"text\": \"Once activated, the \"}, {\"text\": \"Custom Documents\", \"bold\": true}, {\"text\": \" menu option will appear in the \"}, {\"text\": \"Admin\", \"bold\": true}, {\"text\": \" menu.\"}]}, {\"type\": \"h2\", \"children\": [{\"text\": \"Create a Custom Print Doc\"}]}, {\"type\": \"p\", \"children\": [{\"text\": \"To create a custom document template:\"}]}, {\"type\": \"ol\", \"children\": [{\"type\": \"li\", \"children\": [{\"type\": \"lic\", \"children\": [{\"text\": \"Get your web designer or a\\u00a0\"}, {\"type\": \"a\", \"url\": \"https://forms.neto.com.au/services/designtweak.html?\", \"children\": [{\"text\": \"Neto partner\"}]}, {\"text\": \"\\u00a0to create the template for you.\"}]}]}, {\"type\": \"li\", \"children\": [{\"type\": \"lic\", \"children\": [{\"text\": \"Upload it to your site using SFTP to the /private/www/netosuite/SysDoc/printdocs/custom/order/\\u00a0 folder.\"}]}]}, {\"type\": \"li\", \"children\": [{\"type\": \"lic\", \"children\": [{\"text\": \"In your Neto control panel navigate to \"}, {\"text\": \"Setup & Tools\", \"bold\": true}, {\"text\": \" > \"}, {\"text\": \"All Setting & Tools\", \"bold\": true}, {\"text\": \".\"}]}]}, {\"type\": \"li\", \"children\": [{\"type\": \"lic\", \"children\": [{\"text\": \"Select \"}, {\"text\": \"System Templates\", \"bold\": true}, {\"text\": \" from the left side menu, and then choose \"}, {\"text\": \"Custom Order Templates\", \"bold\": true}, {\"text\": \" and click on \"}, {\"text\": \"Add New\", \"bold\": true}, {\"text\": \".\"}]}, {\"type\": \"p\", \"children\": [{\"text\": \"\"}]}]}, {\"type\": \"li\", \"children\": [{\"type\": \"lic\", \"children\": [{\"text\": \"Enter the \"}, {\"text\": \"Template Name\", \"bold\": true}, {\"text\": \" - this will appear in the \"}, {\"text\": \"Print\", \"bold\": true}, {\"text\": \" menu.\"}]}]}, {\"type\": \"li\", \"children\": [{\"type\": \"lic\", \"children\": [{\"text\": \"Enter the Template Reference. Thie is normally the same at the Template File.\"}]}]}, {\"type\": \"li\", \"children\": [{\"type\": \"lic\", \"children\": [{\"text\": \"Select the \"}, {\"text\": \"Template File\", \"bold\": true}, {\"text\": \" from the dropdown menu.\"}]}]}, {\"type\": \"li\", \"children\": [{\"type\": \"lic\", \"children\": [{\"text\": \"Your web designer or our design team will tell you with the options in the \"}, {\"text\": \"Settings\", \"bold\": true}, {\"text\": \" section. Just contact whoever designed the template.\"}]}]}, {\"type\": \"li\", \"children\": [{\"type\": \"lic\", \"children\": [{\"text\": \"Click on \"}, {\"text\": \"Save\", \"bold\": true}, {\"text\": \".\"}]}]}, {\"type\": \"li\", \"children\": [{\"type\": \"lic\", \"children\": [{\"text\": \"Go to \"}, {\"text\": \"Sales Orders\", \"bold\": true}, {\"text\": \" > \"}, {\"text\": \"View Orders\", \"bold\": true}, {\"text\": \" and scroll down to the \"}, {\"text\": \"Bulk Actions\", \"bold\": true}, {\"text\": \" section at the bottom of the page. You will see the new print template at the bottom of the \"}, {\"text\": \"Print\", \"bold\": true}, {\"text\": \" menu.\"}]}, {\"type\": \"p\", \"children\": [{\"text\": \"\"}]}]}]}]",
+  "fixes_applied": {
+    "rebrand": 0,
+    "urls": {
+      "leaving_cleaned": 4,
+      "unsafe_removed": 0,
+      "s_article_mapped": 0,
+      "s_article_removed": 0,
+      "fragments_mapped": 0,
+      "fragments_stripped": 0,
+      "internal_fragments_fixed": 0,
+      "double_id_fixed": 0,
+      "kb_fragments_stripped": 0
+    },
+    "toc": 0,
+    "related": 0,
+    "lists": 13,
+    "headings": 1,
+    "reconverted": false
+  },
+  "_sf_cleanup_date": "2026-02-02T06:17:41.326538+00:00",
+  "_sf_removals": 2
+}

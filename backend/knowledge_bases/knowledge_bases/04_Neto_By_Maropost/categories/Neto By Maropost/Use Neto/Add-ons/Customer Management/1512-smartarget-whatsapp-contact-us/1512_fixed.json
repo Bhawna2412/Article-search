@@ -1,0 +1,27 @@
+{
+  "articleID": 1512,
+  "name": "Smartarget Whatsapp - Contact Us",
+  "slug": "1512-smartarget-whatsapp-contact-us",
+  "format": "rich2",
+  "locale": "en",
+  "body": "[{\"type\": \"p\", \"children\": [{\"text\": \"[Image: User-added image]\"}]}, {\"type\": \"p\", \"children\": [{\"text\": \"This add-on was built by \", \"bold\": true}, {\"text\": \"Smartarget.online\", \"bold\": true}, {\"text\": \".\"}, {\"text\": \"\\n\"}, {\"type\": \"a\", \"url\": \"https://smartarget.online/\", \"children\": [{\"text\": \"Visit add-on website!\"}]}, {\"text\": \"\\n\"}, {\"text\": \"For support with this add-on \"}, {\"type\": \"a\", \"url\": \"https://smartarget.online/page_contact.html\", \"children\": [{\"text\": \"contact Smartarget.online\"}]}, {\"text\": \".\"}]}, {\"type\": \"h2\", \"children\": [{\"text\": \"Overview\"}], \"data-id\": \"overview\"}, {\"type\": \"p\", \"children\": [{\"text\": \"With the Smartarget WhatsApp - Contact Us add-on you can add a small icon on the bottom-right corner of your website with your phone number and short message, such as Contact us or Message us. When the user clicks on the icon a WhatsApp tab will open for web and chat with you.\"}]}, {\"type\": \"h2\", \"children\": [{\"text\": \"Benefits & Features\"}], \"data-id\": \"benefits-features\"}, {\"type\": \"ul\", \"children\": [{\"type\": \"li\", \"children\": [{\"type\": \"lic\", \"children\": [{\"text\": \"Help customers to approach the seller in the most convenient way\"}]}]}, {\"type\": \"li\", \"children\": [{\"type\": \"lic\", \"children\": [{\"text\": \"Allow sellers to communicate special deals, shipping information and more\"}]}]}, {\"type\": \"li\", \"children\": [{\"type\": \"lic\", \"children\": [{\"text\": \"Exit popup - prevent users from leaving the website\"}]}]}, {\"type\": \"li\", \"children\": [{\"type\": \"lic\", \"children\": [{\"text\": \"FAQ - show FAQ on every page so users gain more trust in the website\"}]}]}]}, {\"type\": \"h2\", \"children\": [{\"text\": \"Install and Set up the Smartarget WhatsApp - Contact Us Add-on\"}], \"data-id\": \"install-and-set-up-the-sitejabber-add-on\"}, {\"type\": \"ol\", \"children\": [{\"type\": \"li\", \"children\": [{\"type\": \"lic\", \"children\": [{\"text\": \"In your Neto by Maropost control panel navigate to the \"}, {\"text\": \"Addons\", \"bold\": true}, {\"text\": \" menu.\"}]}]}, {\"type\": \"li\", \"children\": [{\"type\": \"lic\", \"children\": [{\"text\": \"In the Support & Live Chat section find the \"}, {\"text\": \"Smartarget WhatsApp - Contact Us\", \"bold\": true}, {\"text\": \" add-on and click the \"}, {\"text\": \"Install\", \"bold\": true}, {\"text\": \" button.\"}]}, {\"type\": \"p\", \"children\": [{\"text\": \"You\\u2019ll be redirected to the Smartarget dashboard to authenticate or create your account.\"}]}]}, {\"type\": \"li\", \"children\": [{\"type\": \"lic\", \"children\": [{\"text\": \"Follow the steps in the \"}, {\"type\": \"a\", \"url\": \"https://smartarget.online/neto.php\", \"children\": [{\"text\": \"Smartarget guide\"}]}, {\"text\": \" to configure the add-on settings..\"}]}]}, {\"type\": \"li\", \"children\": [{\"type\": \"lic\", \"children\": [{\"text\": \"Click on \"}, {\"text\": \"Save settings\", \"bold\": true}, {\"text\": \" to apply your changes.\"}]}]}]}]",
+  "fixes_applied": {
+    "rebrand": 0,
+    "urls": {
+      "leaving_cleaned": 3,
+      "unsafe_removed": 0,
+      "s_article_mapped": 0,
+      "s_article_removed": 0,
+      "fragments_mapped": 0,
+      "fragments_stripped": 0,
+      "internal_fragments_fixed": 0,
+      "double_id_fixed": 0,
+      "kb_fragments_stripped": 0
+    },
+    "toc": 0,
+    "related": 0,
+    "lists": 4,
+    "headings": 1,
+    "reconverted": false
+  }
+}

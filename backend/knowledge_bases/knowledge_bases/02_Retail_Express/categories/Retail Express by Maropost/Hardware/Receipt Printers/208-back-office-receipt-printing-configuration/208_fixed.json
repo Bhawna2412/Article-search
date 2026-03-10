@@ -1,0 +1,26 @@
+{
+  "articleID": 208,
+  "name": "Back Office Receipt Printing Configuration",
+  "slug": "208-back-office-receipt-printing-configuration",
+  "format": "rich2",
+  "locale": "en",
+  "body": "[{\"type\": \"p\", \"children\": [{\"text\": \"You can configure receipt printing settings in \"}, {\"text\": \"Retail Express\", \"bold\": true}, {\"text\": \" Back Office, controlling receipt content, formatting, and printer selection supporting professional customer receipts and audit requirements. This helps optimize your retail operations by ensuring receipts include required information, maintaining brand consistency, and supporting customer service with clear transaction documentation.\"}]}, {\"type\": \"p\", \"children\": [{\"text\": \"The Receipt Printing Configuration window allows you to customise your receipts, including default comments.\"}]}, {\"type\": \"p\", \"children\": [{\"text\": \"To update your Receipt Configuration:\"}]}, {\"type\": \"ol\", \"children\": [{\"type\": \"li\", \"children\": [{\"type\": \"lic\", \"children\": [{\"text\": \"Navigate to \"}, {\"text\": \"Settings > Label Printing > Receipt Printing\", \"bold\": true}]}]}, {\"type\": \"li\", \"children\": [{\"type\": \"lic\", \"children\": [{\"text\": \"Update the details as required\"}]}]}, {\"type\": \"li\", \"children\": [{\"type\": \"lic\", \"children\": [{\"text\": \"Click \"}, {\"text\": \"Save Changes\", \"bold\": true}]}]}]}, {\"type\": \"table\", \"children\": [{\"type\": \"tr\", \"children\": [{\"type\": \"td\", \"children\": [{\"type\": \"p\", \"children\": [{\"text\": \"Field\"}]}]}, {\"type\": \"td\", \"children\": [{\"type\": \"p\", \"children\": [{\"text\": \"Details\"}]}]}]}, {\"type\": \"tr\", \"children\": [{\"type\": \"td\", \"children\": [{\"type\": \"p\", \"children\": [{\"text\": \"Comments\"}]}]}, {\"type\": \"td\", \"children\": [{\"type\": \"p\", \"children\": [{\"text\": \"Default Comments to be printed on receipts. For unique comments per store refer to the \"}, {\"text\": \"Outlet Configuration\"}, {\"text\": \" settings instead.\"}]}, {\"type\": \"callout\", \"children\": [{\"type\": \"callout-item\", \"children\": [{\"text\": \"Outlet-specific comments\"}, {\"text\": \" take priority over Receipt Comments\"}]}], \"appearance\": \"info\"}, {\"type\": \"p\", \"children\": [{\"text\": \"\"}]}]}]}, {\"type\": \"tr\", \"children\": [{\"type\": \"td\", \"children\": [{\"type\": \"p\", \"children\": [{\"text\": \"Page Width\"}]}]}, {\"type\": \"td\", \"children\": [{\"type\": \"p\", \"children\": [{\"text\": \"Changes the width of text on the receipt\"}]}]}]}, {\"type\": \"tr\", \"children\": [{\"type\": \"td\", \"children\": [{\"type\": \"p\", \"children\": [{\"text\": \"Display Address\"}]}]}, {\"type\": \"td\", \"children\": [{\"type\": \"p\", \"children\": [{\"text\": \"Enables store address details to be displayed on receipts\"}]}]}]}], \"id\": \"rich-table-ee95dbc6\"}, {\"type\": \"p\", \"children\": [{\"text\": \"\"}]}]",
+  "fixes_applied": {
+    "urls": {
+      "leaving_cleaned": 0,
+      "unsafe_removed": 0,
+      "s_article_mapped": 0,
+      "s_article_removed": 2,
+      "fragments_mapped": 0,
+      "fragments_stripped": 0,
+      "internal_fragments_fixed": 0,
+      "double_id_fixed": 0,
+      "kb_fragments_stripped": 0
+    },
+    "toc": 0,
+    "related": 1,
+    "lists": 0,
+    "headings": 0,
+    "reconverted": false
+  }
+}

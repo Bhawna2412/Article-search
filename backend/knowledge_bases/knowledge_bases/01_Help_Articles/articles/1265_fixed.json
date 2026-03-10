@@ -1,0 +1,16 @@
+{
+  "articleID": 1265,
+  "knowledgeCategoryID": 1,
+  "sort": 152,
+  "name": "Video - Creating Purchase Orders Manually",
+  "body": "[{\"type\": \"h1\", \"children\": [{\"text\": \"Video - Creating Purchase Orders Manually\"}], \"data-id\": \"video-creating-purchase-orders-manually\"}, {\"type\": \"p\", \"children\": [{\"text\": \"Important !\"}]}, {\"type\": \"p\", \"children\": [{\"text\": \"If you are a \"}, {\"text\": \"Purchasing Manager,\", \"bold\": true}, {\"text\": \" we strongly recommend that you attend our completely \"}, {\"text\": \"FREE Training Webinar\", \"bold\": true}, {\"text\": \" that covers all aspects of \"}, {\"text\": \"Purchasing & Receiving\", \"bold\": true}, {\"text\": \" products, using the \"}, {\"text\": \"POE Manager\", \"bold\": true}, {\"text\": \" and also all the \"}, {\"text\": \"Reports\", \"bold\": true}, {\"text\": \" associated with your role. Its an interactive webinar where you can ask questions along the way.\"}]}, {\"type\": \"p\", \"children\": [{\"text\": \"Click here to view the full Purchasing and Receiving Master Class webinar\", \"italic\": true}]}, {\"type\": \"rich_embed_card\", \"children\": [{\"text\": \"\"}], \"dataSourceType\": \"iframe\", \"url\": \"https://player.vimeo.com/video/209326210\", \"frameAttributes\": {\"width\": \"640\", \"height\": \"360\"}, \"embedData\": {\"url\": \"https://player.vimeo.com/video/209326210\", \"embedType\": \"iframe\", \"name\": \"\", \"width\": \"640\", \"height\": \"360\"}}]",
+  "format": "rich2",
+  "featured": false,
+  "locale": "en",
+  "status": "published",
+  "foreignID": null,
+  "dateUpdated": "2025-11-28T22:19:16+00:00",
+  "_source_kb_id": 1,
+  "_source_kb_name": "Help Articles",
+  "_sync_date": "2026-02-02T05:47:46.368759+00:00"
+}

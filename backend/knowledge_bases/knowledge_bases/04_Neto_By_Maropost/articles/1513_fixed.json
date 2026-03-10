@@ -1,0 +1,17 @@
+{
+  "articleID": 1513,
+  "knowledgeCategoryID": 57,
+  "sort": 3,
+  "name": "Oktium",
+  "body": "[{\"type\": \"p\", \"children\": [{\"text\": \"[Image: User-added image]\"}]}, {\"type\": \"h3\", \"children\": [{\"text\": \"This add-on was built by Oktium.\"}], \"data-id\": \"this-add-on-was-built-by-oktium.\"}, {\"type\": \"p\", \"children\": [{\"type\": \"a\", \"url\": \"https://oktium.com/\", \"children\": [{\"text\": \"Visit add-on website!\"}]}]}, {\"type\": \"p\", \"children\": [{\"text\": \"For support with this add-on \"}, {\"type\": \"a\", \"url\": \"mailto:support@oktium.com\", \"children\": [{\"text\": \"contact Oktium\"}]}, {\"text\": \".\"}]}, {\"type\": \"h2\", \"children\": [{\"text\": \"Overview\"}], \"data-id\": \"overview\"}, {\"type\": \"p\", \"children\": [{\"text\": \"Oktium is an instant live video connection for online customers to real salespeople and service providers at brick-and-mortar locations. It adds a video call button to your website for customers to connect directly to you.\"}]}, {\"type\": \"h2\", \"children\": [{\"text\": \"Benefits & Features\"}], \"data-id\": \"benefits--features\"}, {\"type\": \"p\", \"children\": [{\"text\": \"In-store like experience\", \"bold\": true}]}, {\"type\": \"p\", \"children\": [{\"text\": \"Connect with your customers, showcase your products, answer customers` questions and sell your products right during the Oktium video call.\"}]}, {\"type\": \"p\", \"children\": [{\"text\": \"Oktium call also enables contact information sharing, appointment scheduling and most importantly creating orders.\"}]}, {\"type\": \"h2\", \"children\": [{\"text\": \"Set up Oktium\"}], \"data-id\": \"set-up-oktium\"}, {\"type\": \"ol\", \"children\": [{\"type\": \"li\", \"children\": [{\"type\": \"lic\", \"children\": [{\"text\": \"Download Oktium 4B app from \"}, {\"type\": \"a\", \"url\": \"https://apps.apple.com/us/app/oktium-for-business/id974934460\", \"children\": [{\"text\": \"AppStore\"}]}, {\"text\": \".\"}]}]}, {\"type\": \"li\", \"children\": [{\"type\": \"lic\", \"children\": [{\"type\": \"a\", \"url\": \"https://oktium.zendesk.com/hc/en-us/articles/360009406114-Business-profile-setup\", \"children\": [{\"text\": \"Register\"}]}, {\"text\": \" for an Oktium account.\"}]}]}, {\"type\": \"li\", \"children\": [{\"type\": \"lic\", \"children\": [{\"text\": \"Oktium will contact you and implement the Face2 button to your Neto by Maropost store.\"}]}]}]}, {\"type\": \"p\", \"children\": [{\"text\": \"You can learn more about the Oktium platform \"}, {\"type\": \"a\", \"url\": \"https://oktium.zendesk.com/hc/en-us/categories/201790985-Business\", \"children\": [{\"text\": \"here\"}]}, {\"text\": \".\"}]}, {\"type\": \"p\", \"children\": [{\"text\": \"For enquiries or questions e-mail \"}, {\"type\": \"a\", \"url\": \"mailto:marketing@oktium.com\", \"children\": [{\"text\": \"Oktium\"}]}, {\"text\": \".\"}]}]",
+  "format": "rich2",
+  "featured": false,
+  "locale": "en",
+  "status": "published",
+  "foreignID": null,
+  "dateUpdated": "2025-12-11T04:36:25+00:00",
+  "_source_kb_id": 4,
+  "_source_kb_name": "Neto By Maropost",
+  "_sync_date": "2026-02-06T07:18:12.860162+00:00",
+  "_incremental_update": true
+}

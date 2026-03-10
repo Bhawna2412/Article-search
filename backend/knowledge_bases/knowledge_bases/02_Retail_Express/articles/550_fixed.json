@@ -1,0 +1,26 @@
+{
+  "articleID": 550,
+  "name": "Customer Surveys",
+  "slug": "550-customer-surveys",
+  "format": "rich2",
+  "locale": "en",
+  "body": "[{\"type\": \"p\", \"children\": [{\"text\": \"You can gather valuable customer feedback through customer surveys in \"}, {\"text\": \"Retail Express\", \"bold\": true}, {\"text\": \", which enable collecting customer opinions and satisfaction data for service improvement and business intelligence. This feedback capability helps retail operators understand customer experiences and identify improvement opportunities, with effective survey use typically improving service quality and supporting customer-focused improvements across Australian retail operations.\"}]}, {\"type\": \"p\", \"children\": [{\"text\": \"Customer survey functionality in \"}, {\"text\": \"Retail Express\", \"bold\": true}, {\"text\": \" enables retail operators to systematically collect customer feedback, helping support continuous improvement and customer satisfaction monitoring. This survey capability helps ensure your retail operations can gather actionable customer insights while demonstrating commitment to customer experience and supporting data-driven service enhancements.\"}]}, {\"type\": \"p\", \"children\": [{\"text\": \"The Retail Express Marketing and Survey questions feature can be used for capturing information from your customers e.g. mailing list subscriptions, or \\\"how did you hear about us?\\\".\"}, {\"text\": \"\\n\"}, {\"text\": \"\\n\"}, {\"text\": \"At the time of processing a sale, your staff can ask the survey questions and update the customer responses directly within the sale window.\"}]}, {\"type\": \"p\", \"children\": [{\"text\": \"To update the survey questions for a customer:\"}]}, {\"type\": \"ol\", \"children\": [{\"type\": \"li\", \"children\": [{\"type\": \"lic\", \"children\": [{\"text\": \"Open POS\"}]}]}, {\"type\": \"li\", \"children\": [{\"type\": \"lic\", \"children\": [{\"text\": \"Create a sale\"}]}]}, {\"type\": \"li\", \"children\": [{\"type\": \"lic\", \"children\": [{\"text\": \"Click on the \"}, {\"text\": \"Customer \", \"bold\": true}, {\"text\": \"tab\"}]}]}, {\"type\": \"li\", \"children\": [{\"type\": \"lic\", \"children\": [{\"text\": \"Use the fields to search for an existing customer\"}]}, {\"type\": \"p\", \"children\": [{\"text\": \"Can create a new customer by entering information to the fields and clicking \\\"Save Above as a New Customer\"}]}]}, {\"type\": \"li\", \"children\": [{\"type\": \"lic\", \"children\": [{\"text\": \"Click \"}, {\"text\": \"Edit Customer\", \"bold\": true}]}]}, {\"type\": \"li\", \"children\": [{\"type\": \"lic\", \"children\": [{\"text\": \"Click the red \"}, {\"text\": \"Survey \", \"bold\": true}, {\"text\": \"button (if the customers have previously answered the survey the responses will be displayed under the Survey heading)\"}]}, {\"type\": \"rich_embed_card\", \"dataSourceType\": \"image\", \"url\": \"https://us.v-cdn.net/6038474/uploads/attachments/migrated/image.05T5g00000powOFEAY.jpg\", \"embedData\": {\"url\": \"https://us.v-cdn.net/6038474/uploads/attachments/migrated/image.05T5g00000powOFEAY.jpg\", \"embedType\": \"image\", \"displaySize\": \"large\", \"float\": \"none\", \"name\": \"pos_surveyquestionsbutton.png\"}, \"children\": [{\"text\": \"\"}]}, {\"type\": \"p\", \"children\": [{\"text\": \"If you click the Survey button and nothing happens, check you have clicked \"}, {\"text\": \"Edit Customer \", \"bold\": true}, {\"text\": \"- otherwise you will be unable to edit the customer survey responses.\"}]}]}, {\"type\": \"li\", \"children\": [{\"type\": \"lic\", \"children\": [{\"text\": \"Select the appropriate answer from each of the the \"}, {\"text\": \"drop-down\", \"bold\": true}, {\"text\": \" boxes\"}]}]}, {\"type\": \"li\", \"children\": [{\"type\": \"lic\", \"children\": [{\"text\": \"Click \"}, {\"text\": \"Done \", \"bold\": true}, {\"text\": \"to return to the sale\"}]}]}]}, {\"type\": \"callout\", \"children\": [{\"type\": \"callout-item\", \"children\": [{\"text\": \"You can create custom questions for surveying from the Retail Express Back Office. Refer to the \"}, {\"text\": \"Settings - Create and Edit Customer Surveys\"}, {\"text\": \" article for more information.\"}]}], \"appearance\": \"info\"}, {\"type\": \"p\", \"children\": [{\"text\": \"\"}]}]",
+  "fixes_applied": {
+    "urls": {
+      "leaving_cleaned": 0,
+      "unsafe_removed": 0,
+      "s_article_mapped": 0,
+      "s_article_removed": 1,
+      "fragments_mapped": 0,
+      "fragments_stripped": 0,
+      "internal_fragments_fixed": 0,
+      "double_id_fixed": 0,
+      "kb_fragments_stripped": 0
+    },
+    "toc": 0,
+    "related": 1,
+    "lists": 0,
+    "headings": 0,
+    "reconverted": false
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "articleID": 641,
+  "knowledgeCategoryID": 115,
+  "sort": 5,
+  "name": "General FAQs",
+  "body": "[{\"type\": \"p\", \"children\": [{\"text\": \"General FAQs\", \"bold\": true}, {\"text\": \" help you get the most value from Marketing Cloud platform features by providing quick answers to common questions about product improvement submissions and support communications. This streamlines your workflow by reducing the time you spend searching for information, enabling you to focus on creating more effective email marketing campaigns.\"}]}, {\"type\": \"p\", \"children\": [{\"text\": \"When you understand how to access features like the Innovations Portal and response timelines, you can optimize your overall marketing effectiveness by quickly resolving questions and accessing new capabilities that improve campaign performance.\"}]}, {\"type\": \"p\", \"children\": [{\"text\": \"\"}]}, {\"type\": \"p\", \"children\": [{\"bold\": true, \"text\": \"1. Can I submit a product improvement idea to Maropost?\"}]}, {\"type\": \"p\", \"children\": [{\"text\": \"Yes.\\u00a0The Maropost Innovations Portal is your home for submitting product improvement ideas to our Product Team, receiving feedback, and voting for enhancements or ideas submitted by others.\\u00a0\"}]}, {\"type\": \"toggle\", \"children\": [{\"type\": \"toggle-heading\", \"children\": [{\"type\": \"p\", \"children\": [{\"text\": \"How to access the \\\"Innovations\\\" portal?\"}]}]}, {\"type\": \"toggle-content\", \"children\": [{\"type\": \"p\", \"children\": [{\"text\": \"You can access Maropost's Innovations Portal via the drop-down menu under your name.\"}]}]}], \"isExpanded\": true}, {\"type\": \"p\", \"children\": [{\"text\": \"\", \"bold\": true}]}, {\"type\": \"p\", \"children\": [{\"bold\": true, \"text\": \"2. When should I expect to get a response?\"}]}, {\"type\": \"p\", \"children\": [{\"text\": \"Our Product Team will respond within 72 hours of idea submission.\"}]}, {\"type\": \"p\", \"children\": [{\"text\": \"\"}]}, {\"type\": \"p\", \"children\": [{\"text\": \"3. How do I know if someone from Maropost has responded to my post?\", \"bold\": true}, {\"text\": \"\\u00a0\"}]}, {\"type\": \"p\", \"children\": [{\"text\": \"You will be notified by email every time there is a status change to your idea or a comment. The notification email will always include a link to your idea.\"}]}, {\"type\": \"p\", \"children\": [{\"text\": \"\"}]}]",
+  "format": "rich2",
+  "featured": false,
+  "locale": "en",
+  "status": "published",
+  "foreignID": null,
+  "dateUpdated": "2026-02-06T07:26:21+00:00",
+  "_source_kb_id": 3,
+  "_source_kb_name": "Marketing Cloud",
+  "_sync_date": "2026-02-06T07:34:29.124841+00:00"
+}

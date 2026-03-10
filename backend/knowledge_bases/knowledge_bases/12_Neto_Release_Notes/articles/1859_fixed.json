@@ -1,0 +1,16 @@
+{
+  "articleID": 1859,
+  "knowledgeCategoryID": 455,
+  "sort": 2,
+  "name": "Neto by Maropost Release Notes – 17 Oct 2019",
+  "body": "[{\"type\":\"p\",\"children\":[{\"text\":\"Release Version\",\"bold\":true},{\"text\":\": v6.73\"}]},{\"type\":\"p\",\"children\":[{\"text\":\" \"}]},{\"type\":\"h3\",\"children\":[{\"text\":\"Minor Features\",\"bold\":true}]},{\"type\":\"ul\",\"children\":[{\"type\":\"li\",\"children\":[{\"text\":\"Australia Post public rates have been updated to the new pricing.\"}]}]},{\"type\":\"p\",\"children\":[{\"text\":\" \"}]},{\"type\":\"h3\",\"children\":[{\"text\":\"Bug Fixes\",\"bold\":true}]},{\"type\":\"ul\",\"children\":[{\"type\":\"li\",\"children\":[{\"text\":\"Fixed an issue with the Neto Inventory add-on so that the install button works correctly.\"}]},{\"type\":\"li\",\"children\":[{\"text\":\"Fixed an issue in purchase order PDFs so that carriage returns are no longer stripped out.\"}]},{\"type\":\"li\",\"children\":[{\"text\":\"Fixed an issue with disputes so that they link to the sales order correctly.\"}]},{\"type\":\"li\",\"children\":[{\"text\":\"Fixed an issue on the sales orders page so that the \"},{\"text\":\"Delivery on\",\"bold\":true},{\"text\":\" field displays correctly.\"}]},{\"type\":\"li\",\"children\":[{\"text\":\"Fixed an issue in Direct Freight manifests so that the receiver email is populated correctly.\"}]}]},{\"type\":\"p\",\"children\":[{\"text\":\" \"}]}]",
+  "format": "rich2",
+  "featured": false,
+  "locale": "en",
+  "status": "published",
+  "foreignID": null,
+  "dateUpdated": "2025-05-29T15:45:46+00:00",
+  "_source_kb_id": 12,
+  "_source_kb_name": "Neto Release Notes",
+  "_sync_date": "2026-02-02T05:59:24.706060+00:00"
+}

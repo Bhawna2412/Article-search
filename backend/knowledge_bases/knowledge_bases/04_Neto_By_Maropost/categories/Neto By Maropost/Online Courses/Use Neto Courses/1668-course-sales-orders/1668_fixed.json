@@ -1,0 +1,27 @@
+{
+  "articleID": 1668,
+  "name": "Course: Sales Orders",
+  "slug": "1668-course-sales-orders",
+  "format": "rich2",
+  "locale": "en",
+  "body": "[{\"type\": \"table\", \"children\": [{\"type\": \"tr\", \"children\": [{\"type\": \"th\", \"children\": [{\"type\": \"p\", \"children\": [{\"text\": \"Lessons\"}]}]}, {\"type\": \"th\", \"children\": [{\"type\": \"p\", \"children\": [{\"text\": \"Length\"}]}]}]}, {\"type\": \"tr\", \"children\": [{\"type\": \"td\", \"children\": [{\"type\": \"p\", \"children\": [{\"type\": \"a\", \"url\": \"https://training.maropost.com/run-your-store/process sales orders/add sales orders/content/index.html\", \"children\": [{\"text\": \"Add Sales Orders\"}]}]}]}, {\"type\": \"td\", \"children\": [{\"type\": \"p\", \"children\": [{\"text\": \"8 mins\"}]}]}]}, {\"type\": \"tr\", \"children\": [{\"type\": \"td\", \"children\": [{\"type\": \"p\", \"children\": [{\"type\": \"a\", \"url\": \"https://training.maropost.com/run-your-store/process sales orders/edit sales orders/content/index.html\", \"children\": [{\"text\": \"Edit Sales Orders\"}]}]}]}, {\"type\": \"td\", \"children\": [{\"type\": \"p\", \"children\": [{\"text\": \"8 mins\"}]}]}]}, {\"type\": \"tr\", \"children\": [{\"type\": \"td\", \"children\": [{\"type\": \"p\", \"children\": [{\"type\": \"a\", \"url\": \"https://training.maropost.com/run-your-store/process sales orders/process sales orders/content/index.html\", \"children\": [{\"text\": \"Process Sales Orders\"}]}]}]}, {\"type\": \"td\", \"children\": [{\"type\": \"p\", \"children\": [{\"text\": \"10 mins\"}]}]}]}], \"id\": \"rich-table-04b96499\"}]",
+  "fixes_applied": {
+    "rebrand": 0,
+    "urls": {
+      "leaving_cleaned": 0,
+      "unsafe_removed": 0,
+      "s_article_mapped": 0,
+      "s_article_removed": 0,
+      "fragments_mapped": 0,
+      "fragments_stripped": 0,
+      "internal_fragments_fixed": 0,
+      "double_id_fixed": 0,
+      "kb_fragments_stripped": 0
+    },
+    "toc": 0,
+    "related": 0,
+    "lists": 0,
+    "headings": 0,
+    "reconverted": true
+  }
+}

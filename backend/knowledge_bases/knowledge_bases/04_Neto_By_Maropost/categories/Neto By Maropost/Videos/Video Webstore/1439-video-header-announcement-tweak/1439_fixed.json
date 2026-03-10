@@ -1,0 +1,27 @@
+{
+  "articleID": 1439,
+  "name": "Video: Header Announcement Tweak",
+  "slug": "1439-video-header-announcement-tweak",
+  "format": "rich2",
+  "locale": "en",
+  "body": "[{\"type\": \"p\", \"children\": [{\"text\": \"Please Note\", \"bold\": true}, {\"text\": \": This tweak modifies your theme template files. We recommend only users with experience using HTML and CSS attempt this tweak. Neto by Maropost partners can set this up for you. \"}, {\"type\": \"a\", \"url\": \"https://www.netohq.com/job-request-portal\", \"children\": [{\"text\": \"Request a\"}]}, {\"text\": \"\\u00a0quote if you're not familiar with HTML or CSS.\"}]}, {\"type\": \"p\", \"children\": [{\"type\": \"a\", \"url\": \"https://www.youtube.com/embed/eF2OKtF8XUg?wmode=opaque\", \"children\": [{\"text\": \"https://www.youtube.com/embed/eF2OKtF8XUg?wmode=opaque\"}]}]}]",
+  "fixes_applied": {
+    "rebrand": 0,
+    "urls": {
+      "leaving_cleaned": 2,
+      "unsafe_removed": 0,
+      "s_article_mapped": 0,
+      "s_article_removed": 0,
+      "fragments_mapped": 0,
+      "fragments_stripped": 0,
+      "internal_fragments_fixed": 0,
+      "double_id_fixed": 0,
+      "kb_fragments_stripped": 0
+    },
+    "toc": 0,
+    "related": 0,
+    "lists": 0,
+    "headings": 0,
+    "reconverted": false
+  }
+}

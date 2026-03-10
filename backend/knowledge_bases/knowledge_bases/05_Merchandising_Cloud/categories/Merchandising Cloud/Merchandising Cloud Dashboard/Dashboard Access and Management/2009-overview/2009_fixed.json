@@ -1,0 +1,31 @@
+{
+  "articleID": 2009,
+  "name": "Overview",
+  "format": "rich2",
+  "locale": "en",
+  "body": "[{\"type\": \"p\", \"children\": [{\"text\": \"You can access the Merchant Dashboard to manage all aspects of your search, personalization, and merchandising configuration, enabling you to optimize product discovery and conversion performance. The dashboard provides centralized control over merchandising parameters, recommendation widgets, category pages, analytics, and administrative tasks like product syncs-helping you implement data-driven merchandising strategies without requiring technical expertise.\"}]}, {\"type\": \"p\", \"children\": [{\"text\": \"Understanding the Merchant Dashboard helps you leverage the platform's capabilities effectively. From configuring search relevance to creating recommendation widgets and analyzing performance metrics, the dashboard provides the tools needed to optimize your ecommerce experience, while administrative features like IP exclusion and sync management ensure accurate data collection for AI-powered personalization that drives revenue growth.\"}]}, {\"type\": \"p\", \"children\": [{\"text\": \"The Merchant Dashboard of Maropost Merchandising Cloud (formerly Findify) is where you will manage your new site search, personalization, and merchandisation software.\"}]}, {\"type\": \"p\", \"children\": [{\"text\": \"Here, you can set all your merchandising parameters, create and manage your recommendations widgets, create and manage your category pages, view valuable analytics, and complete administrational tasks such as initializing product syncs and excluding IP addresses.\"}]}, {\"type\": \"p\", \"children\": [{\"text\": \"The following sections will describe in more depth how you can work with the different tools that we offer.\"}]}, {\"type\": \"p\", \"children\": [{\"text\": \"If you have any questions, feel free to send them in an email to\"}, {\"type\": \"a\", \"url\": \"mailto:support@maropost.com\", \"children\": [{\"text\": \"support@maropost.com\"}]}]}, {\"type\": \"rich_embed_card\", \"dataSourceType\": \"image\", \"url\": \"https://us.v-cdn.net/6038474/uploads/NPTOW6P8NC3W/0900fce-merchant-dashboard.png\", \"embedData\": {\"url\": \"https://us.v-cdn.net/6038474/uploads/NPTOW6P8NC3W/0900fce-merchant-dashboard.png\", \"embedType\": \"image\", \"displaySize\": \"large\", \"float\": \"none\", \"name\": \"0900fce-Merchant_Dashboard.png\", \"width\": 1920, \"height\": 964}, \"children\": [{\"text\": \"\"}]}, {\"type\": \"p\", \"children\": [{\"text\": \"The Merchant Dashboard\", \"italic\": true}]}, {\"type\": \"p\", \"children\": [{\"text\": \"\"}]}]",
+  "knowledgeCategoryID": 383,
+  "sort": 0,
+  "status": "published",
+  "_source_kb_id": 5,
+  "_source_kb_name": "Merchandising Cloud",
+  "_fix_date": "2026-02-02T06:05:45.682695+00:00",
+  "fixes_applied": {
+    "urls": {
+      "leaving_cleaned": 0,
+      "unsafe_removed": 0,
+      "s_article_mapped": 0,
+      "s_article_removed": 0,
+      "fragments_mapped": 0,
+      "fragments_stripped": 0,
+      "internal_fragments_fixed": 0,
+      "double_id_fixed": 0,
+      "kb_fragments_stripped": 0
+    },
+    "toc": 0,
+    "related": 1,
+    "lists": 0,
+    "headings": 0,
+    "reconverted": false
+  }
+}

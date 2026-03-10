@@ -1,0 +1,26 @@
+{
+  "articleID": 207,
+  "name": "Installing the Retail Express Hardware Certificate on your Apple Mac or PC",
+  "slug": "207-installing-the-retail-express-hardware-certificate-on-your-apple-mac-or-pc",
+  "format": "rich2",
+  "locale": "en",
+  "body": "[{\"type\": \"p\", \"children\": [{\"text\": \"You can install the \"}, {\"text\": \"Retail Express\", \"bold\": true}, {\"text\": \" hardware certificate enabling browser-based POS to communicate securely with local hardware like receipt printers and EFTPOS terminals. This helps optimize your retail operations by enabling cloud-based POS to control local hardware, supporting modern web-based architecture while maintaining traditional retail hardware functionality.\"}]}, {\"type\": \"p\", \"children\": [{\"text\": \"The latest versions of (Safari versions 9.0+) now require a security certificate to be installed in order for your device to be able to communicate with another PC's hardware.\"}]}, {\"type\": \"p\", \"children\": [{\"text\": \"Below will guide through the steps to installing the certificate:\"}]}, {\"type\": \"p\", \"children\": [{\"text\": \"1. Open this article on your Device\"}, {\"text\": \"\\n\"}, {\"text\": \"2. Click on the download link below which will download the certificate file required.\"}]}, {\"type\": \"p\", \"children\": [{\"type\": \"a\", \"url\": \"https://www.retailexpressmedia.com/support/drivers/rexca.crt\", \"children\": [{\"text\": \"Download the Certificate file\", \"bold\": true}]}]}, {\"type\": \"p\", \"children\": [{\"text\": \"3. You'll then need to click on the downloads button in the top right:\"}]}, {\"type\": \"rich_embed_card\", \"dataSourceType\": \"image\", \"url\": \"https://us.v-cdn.net/6038474/uploads/attachments/migrated/image.05T5g00000zgO0rEAE.jpg\", \"embedData\": {\"url\": \"https://us.v-cdn.net/6038474/uploads/attachments/migrated/image.05T5g00000zgO0rEAE.jpg\", \"embedType\": \"image\", \"displaySize\": \"large\", \"float\": \"none\", \"name\": \"image\"}, \"children\": [{\"text\": \"\"}]}, {\"type\": \"p\", \"children\": [{\"text\": \"4. You'll see the pop up window as per below appear and all you need to do is click add on this screen:\"}]}, {\"type\": \"rich_embed_card\", \"dataSourceType\": \"image\", \"url\": \"https://us.v-cdn.net/6038474/uploads/attachments/migrated/image.05T5g00000zgO04EAE.jpg\", \"embedData\": {\"url\": \"https://us.v-cdn.net/6038474/uploads/attachments/migrated/image.05T5g00000zgO04EAE.jpg\", \"embedType\": \"image\", \"displaySize\": \"large\", \"float\": \"none\", \"name\": \"image\"}, \"children\": [{\"text\": \"\"}]}, {\"type\": \"p\", \"children\": [{\"text\": \"5. Next We need to open Documents then click on \\\"Applications\\\" on the right and then Utilities and finally open \\\"Keychain Access\\\":\"}]}, {\"type\": \"rich_embed_card\", \"dataSourceType\": \"image\", \"url\": \"https://us.v-cdn.net/6038474/uploads/attachments/migrated/image.05T5g00000zgO3vEAE.jpg\", \"embedData\": {\"url\": \"https://us.v-cdn.net/6038474/uploads/attachments/migrated/image.05T5g00000zgO3vEAE.jpg\", \"embedType\": \"image\", \"displaySize\": \"large\", \"float\": \"none\", \"name\": \"image\"}, \"children\": [{\"text\": \"\"}]}, {\"type\": \"p\", \"children\": [{\"text\": \"6. Now click on the \\\"Retail Express Root Authority\\\" option\"}]}, {\"type\": \"rich_embed_card\", \"dataSourceType\": \"image\", \"url\": \"https://us.v-cdn.net/6038474/uploads/attachments/migrated/image.05T5g00000zgO4ZEAU.jpg\", \"embedData\": {\"url\": \"https://us.v-cdn.net/6038474/uploads/attachments/migrated/image.05T5g00000zgO4ZEAU.jpg\", \"embedType\": \"image\", \"displaySize\": \"large\", \"float\": \"none\", \"name\": \"image\"}, \"children\": [{\"text\": \"\"}]}, {\"type\": \"p\", \"children\": [{\"text\": \"7. Select from the drop down called \\\"When using the certificate\\\" choose \\\"Always Trust\\\":\"}]}, {\"type\": \"rich_embed_card\", \"dataSourceType\": \"image\", \"url\": \"https://us.v-cdn.net/6038474/uploads/attachments/migrated/image.05T5g00000zgO4jEAE.jpg\", \"embedData\": {\"url\": \"https://us.v-cdn.net/6038474/uploads/attachments/migrated/image.05T5g00000zgO4jEAE.jpg\", \"embedType\": \"image\", \"displaySize\": \"large\", \"float\": \"none\", \"name\": \"image\"}, \"children\": [{\"text\": \"\"}]}, {\"type\": \"p\", \"children\": [{\"text\": \"Now go back into POS, close the browser, re-open, and  revisit Retail Express to test printing to your Receipt Printing.\"}]}, {\"type\": \"p\", \"children\": [{\"text\": \"\"}]}]",
+  "fixes_applied": {
+    "urls": {
+      "leaving_cleaned": 1,
+      "unsafe_removed": 0,
+      "s_article_mapped": 0,
+      "s_article_removed": 0,
+      "fragments_mapped": 0,
+      "fragments_stripped": 0,
+      "internal_fragments_fixed": 0,
+      "double_id_fixed": 0,
+      "kb_fragments_stripped": 0
+    },
+    "toc": 0,
+    "related": 1,
+    "lists": 0,
+    "headings": 0,
+    "reconverted": false
+  }
+}

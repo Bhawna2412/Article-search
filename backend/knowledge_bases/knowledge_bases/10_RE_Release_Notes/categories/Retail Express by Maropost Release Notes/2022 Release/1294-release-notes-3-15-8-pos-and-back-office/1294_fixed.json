@@ -1,0 +1,16 @@
+{
+  "articleID": 1294,
+  "knowledgeCategoryID": 447,
+  "sort": 7,
+  "name": "Release Notes 3.15.8 - POS and Back Office",
+  "body": "<h1 data-id=\"release-notes-3-15-8-pos-and-back-office\">Release Notes 3.15.8 - POS and Back Office</h1>\n<div>\n<p>This release will be available to all users by the 19th of August 2022.</p>\n</div>\n<h2 data-id=\"improvements\">Improvements</h2>\n<ul><li>Performance Improvements to Aged Stock Report for large data volumes</li></ul><h2 data-id=\"resolutions\">Resolutions</h2>\n<ul><li>The Fulfilment Report shows the correct Available quantity where the same product is listed on an order multiple times (sourced from different Outlets)</li><li>Sales with a remaining balance due of 1 or 2c will now have a rounding payment applied to show $0.00 balance due</li><li>Corrected an issue where newly arrived stock could be allocated to two different orders for Fulfilment</li><li>Minimum Payment Due rules are now enforced to prevent Layby Sales previously marked as On Hold from being fulfilled, excluding sales for Account Customers.</li><li>Cash and Carry sales retrieved from On Hold will not be able to be closed if there is a payment balance remaining.</li><li>Updated the Accounts Receivable Balance Report so that Cancelled sales without any payments will not be displayed</li><li>Resolved a permissions issue that prevented users from accessing Cross Sell and Upsell configuration</li><li>Resolved an issue with the Customer Mass Upload caused by regional formatting issues with the Date Of Birth field</li></ul>",
+  "format": "html",
+  "featured": false,
+  "locale": "en",
+  "status": "published",
+  "foreignID": null,
+  "dateUpdated": "2023-05-11T04:47:53+00:00",
+  "_source_kb_id": 10,
+  "_source_kb_name": "RE Release Notes",
+  "_sync_date": "2026-02-02T05:56:49.869884+00:00"
+}

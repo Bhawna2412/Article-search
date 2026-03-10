@@ -1,0 +1,29 @@
+{
+  "articleID": 1589,
+  "name": "Pay for an Order with a Gift Voucher",
+  "slug": "1589-pay-for-an-order-with-a-gift-voucher",
+  "format": "rich2",
+  "locale": "en",
+  "body": "[{\"type\": \"p\", \"children\": [{\"text\": \"Gift vouchers can be sold and used as a payment method through your webstore or Neto POS. This article steps you through how a customer uses their voucher through your webstore, and how you or staff can apply the voucher in the control panel.\"}]}, {\"type\": \"callout\", \"children\": [{\"type\": \"callout-item\", \"children\": [{\"text\": \"Advise customers to log in before using a gift voucher, so that it becomes associated with their account in your website.\"}]}], \"appearance\": \"alert\"}, {\"type\": \"p\", \"children\": [{\"text\": \"\"}]}, {\"type\": \"p\", \"children\": [{\"text\": \"\"}]}, {\"type\": \"h2\", \"children\": [{\"text\": \"Pay for an Order with a Voucher in Webstore Checkout\"}], \"data-id\": \"1\"}, {\"type\": \"p\", \"children\": [{\"text\": \"Customers can use vouchers themselves in your webstore checkout, to pay for all or some of their order. Below are the steps the customer takes to use their voucher in your webstore:\"}]}, {\"type\": \"ol\", \"children\": [{\"type\": \"li\", \"children\": [{\"type\": \"lic\", \"children\": [{\"text\": \"In the payment details section, click on \"}, {\"text\": \"Redeem voucher\", \"bold\": true}, {\"text\": \". The customer can also click on redeem voucher in the order summary box\"}]}]}, {\"type\": \"li\", \"children\": [{\"type\": \"lic\", \"children\": [{\"text\": \"The gift voucher fields appear in the order summary so that your customer can enter the voucher code, and secret code.\"}]}]}, {\"type\": \"li\", \"children\": [{\"type\": \"lic\", \"children\": [{\"text\": \"The customer then needs to click on the \"}, {\"text\": \"Redeem Voucher\", \"bold\": true}, {\"text\": \" button.\"}]}]}, {\"type\": \"li\", \"children\": [{\"type\": \"lic\", \"children\": [{\"text\": \"A new section will appear asking how much of the voucher to apply to the order. The amount that the customer enters will be deducted from the total owing. Any remaining balance can then be paid through your other payment methods.\"}]}]}]}, {\"type\": \"p\", \"children\": [{\"text\": \"\"}]}, {\"type\": \"h2\", \"children\": [{\"text\": \"Pay for an Order with a Voucher through the Control Panel\"}], \"data-id\": \"2\"}, {\"type\": \"p\", \"children\": [{\"text\": \"Gift vouchers can also be used as a payment option on an existing order in the control panel, applied by your or your staff:\"}]}, {\"type\": \"ol\", \"children\": [{\"type\": \"li\", \"children\": [{\"type\": \"lic\", \"children\": [{\"text\": \"In your Neto control panel navigate to \"}, {\"text\": \"Sales Orders\", \"bold\": true}, {\"text\": \" > \"}, {\"text\": \"View Orders\", \"bold\": true}, {\"text\": \".\"}]}]}, {\"type\": \"li\", \"children\": [{\"type\": \"lic\", \"children\": [{\"text\": \"Open the order you want to use a voucher on by clicking the order ID.\"}]}]}, {\"type\": \"li\", \"children\": [{\"type\": \"lic\", \"children\": [{\"text\": \"Scroll down to the payments section, and select \"}, {\"text\": \"Voucher/Rewards\", \"bold\": true}, {\"text\": \". Enter the redemption & secret code, then click \"}, {\"text\": \"Apply\", \"bold\": true}, {\"text\": \".\"}]}, {\"type\": \"p\", \"children\": [{\"text\": \"Please Note\", \"bold\": true}, {\"text\": \": To use a gift voucher in the control panel you will need the free \"}, {\"text\": \"Rewards Program\", \"bold\": true}, {\"text\": \" add-on.\"}]}]}, {\"type\": \"li\", \"children\": [{\"type\": \"lic\", \"children\": [{\"text\": \"Select the gift voucher to use from the list and it will appear on the order. You can then choose the amount to deduct from the gift voucher for this transaction, and click \"}, {\"text\": \"Apply Payment to Order\", \"bold\": true}, {\"text\": \".\"}]}]}]}, {\"type\": \"p\", \"children\": [{\"text\": \"\"}]}]",
+  "fixes_applied": {
+    "rebrand": 4,
+    "urls": {
+      "leaving_cleaned": 0,
+      "unsafe_removed": 0,
+      "s_article_mapped": 0,
+      "s_article_removed": 3,
+      "fragments_mapped": 0,
+      "fragments_stripped": 0,
+      "internal_fragments_fixed": 2,
+      "double_id_fixed": 0,
+      "kb_fragments_stripped": 0
+    },
+    "toc": 1,
+    "related": 1,
+    "lists": 8,
+    "headings": 1,
+    "reconverted": false
+  },
+  "_sf_cleanup_date": "2026-02-02T06:17:42.835576+00:00",
+  "_sf_removals": 3
+}

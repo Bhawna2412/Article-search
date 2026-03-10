@@ -1,0 +1,17 @@
+{
+  "articleID": 399,
+  "knowledgeCategoryID": 3,
+  "sort": 5,
+  "name": "Apply Credit Note to Account Customer (Amortise feature)",
+  "body": "[{\"type\": \"p\", \"children\": [{\"text\": \"You can apply credit notes to account customer balances using the amortise feature to systematically allocate credits across multiple invoices, helping maintain accurate account reconciliation. This improves your retail operations by providing flexible credit application, with properly configured credit note amortisation typically enabling better account balance management and clearer customer statement accuracy.\"}]}, {\"type\": \"p\", \"children\": [{\"text\": \"Understanding credit note amortisation involves recognizing allocation methodologies, invoice selection processes, and balance adjustment impacts to help retail operators focus on the right account reconciliation workflows, ensuring your retail strategy consistently drives better customer account accuracy and credit management outcomes.\"}]}, {\"type\": \"p\", \"children\": [{\"text\": \"If your account customer has Credit Notes available, these can be applied to outstanding invoices using the Amortise Down feature.\"}]}, {\"type\": \"p\", \"children\": [{\"text\": \"The Amortise Down feature allows you to enter a lump sum against Payment or use an existing Credit sum, and have it divide and apply automatically across outstanding invoices. The oldest invoices will have payments applied first.\"}]}, {\"type\": \"callout\", \"children\": [{\"type\": \"callout-item\", \"children\": [{\"text\": \"Only Credit Notes are available here to be used for payment. If you wish to use alternate Voucher Types (Gift Voucher, Goodwill and Promotional) they will need to be redeemed via POS.\"}]}], \"appearance\": \"info\"}, {\"type\": \"p\", \"children\": [{\"text\": \"To redeem a Credit Note:\"}]}, {\"type\": \"ol\", \"children\": [{\"type\": \"li\", \"children\": [{\"type\": \"lic\", \"children\": [{\"text\": \"Select \"}, {\"text\": \"Apply existing credit to invoices \", \"bold\": true}, {\"text\": \"from the \"}, {\"text\": \"What would you like to do? \", \"bold\": true}, {\"text\": \"field\"}]}]}, {\"type\": \"li\", \"children\": [{\"type\": \"lic\", \"children\": [{\"text\": \"The total value of outstanding credits for the customer will be displayed in the \"}, {\"text\": \"Credit: Total Credit \", \"bold\": true}, {\"text\": \"field\"}]}]}, {\"type\": \"li\", \"children\": [{\"type\": \"lic\", \"children\": [{\"text\": \"Click \"}, {\"text\": \"Amortise Down\", \"bold\": true}, {\"text\": \"\\n\\n\"}]}, {\"type\": \"callout\", \"children\": [{\"type\": \"callout-item\", \"children\": [{\"text\": \"After amortising, you can overwrite any specific invoices by editing the values in the payments boxes.\"}]}], \"appearance\": \"info\"}, {\"type\": \"p\", \"children\": [{\"text\": \"\"}]}]}, {\"type\": \"li\", \"children\": [{\"type\": \"lic\", \"children\": [{\"text\": \"Follow the remaining steps above to finalise the payment\"}]}]}]}, {\"type\": \"p\", \"children\": [{\"text\": \"\"}]}]",
+  "format": "rich2",
+  "featured": false,
+  "locale": "en",
+  "status": "published",
+  "foreignID": null,
+  "dateUpdated": "2025-12-11T07:29:29+00:00",
+  "_source_kb_id": 2,
+  "_source_kb_name": "Retail Express",
+  "_sync_date": "2026-02-02T05:48:03.630428+00:00",
+  "_incremental_update": true
+}

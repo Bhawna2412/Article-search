@@ -1,0 +1,26 @@
+{
+  "articleID": 308,
+  "name": "Daily / Monthly Sales Report",
+  "slug": "308-daily-monthly-sales-report",
+  "format": "rich2",
+  "locale": "en",
+  "body": "[{\"type\": \"p\", \"children\": [{\"text\": \"You can track sales trends over time by accessing the Daily Monthly Sales Report, which compares sales performance across days and months to identify patterns and trends. This time-based analysis helps retail operators understand seasonal fluctuations, identify growth trends, and plan inventory and staffing levels based on historical sales patterns throughout the year.\"}]}, {\"type\": \"p\", \"children\": [{\"text\": \"Using the Daily Monthly Sales Report helps retail operators forecast future sales, plan for seasonal peaks, and make informed decisions about inventory investment timing based on proven sales seasonality patterns.\"}]}, {\"type\": \"p\", \"children\": [{\"text\": \"The Daily / Monthly Sales Report is designed to give a snapshot of the number of transactions, sales value and GP%, across the days of the week or months of the year to aid you in reflective trend analysis of sales.\"}]}, {\"type\": \"p\", \"children\": [{\"text\": \"To access the Daily / Monthly Sales Report:\"}]}, {\"type\": \"ol\", \"children\": [{\"type\": \"li\", \"children\": [{\"type\": \"lic\", \"children\": [{\"text\": \"Navigate to \"}, {\"text\": \"Reports > Sales Reports > Daily / Monthly Sales\", \"bold\": true}]}]}, {\"type\": \"li\", \"children\": [{\"type\": \"lic\", \"children\": [{\"text\": \"Select your \"}, {\"text\": \"Date Range\", \"bold\": true}]}]}, {\"type\": \"li\", \"children\": [{\"type\": \"lic\", \"children\": [{\"text\": \"Select the \"}, {\"text\": \"Report Type \", \"bold\": true}, {\"text\": \"of Daily or Monthly (to review the results as totals for each day or the week or for each month)\"}]}]}, {\"type\": \"li\", \"children\": [{\"type\": \"lic\", \"children\": [{\"text\": \"Tick \"}, {\"text\": \"Inc. GST \", \"bold\": true}, {\"text\": \"to include tax in the totals\"}]}]}, {\"type\": \"li\", \"children\": [{\"type\": \"lic\", \"children\": [{\"text\": \"Select your \"}, {\"text\": \"Outlet/s\", \"bold\": true}]}]}, {\"type\": \"li\", \"children\": [{\"type\": \"lic\", \"children\": [{\"text\": \"Click \"}, {\"text\": \"Search\", \"bold\": true}]}]}]}, {\"type\": \"p\", \"children\": [{\"text\": \"\"}]}, {\"type\": \"p\", \"children\": [{\"type\": \"rich_embed_card\", \"dataSourceType\": \"image\", \"url\": \"https://us.v-cdn.net/6038474/uploads/attachments/migrated/image.05T5g00000powPNEAY.jpg\", \"embedData\": {\"url\": \"https://us.v-cdn.net/6038474/uploads/attachments/migrated/image.05T5g00000powPNEAY.jpg\", \"embedType\": \"image\", \"displaySize\": \"inline\", \"float\": \"none\", \"name\": \"blobid1 (4).png\"}, \"children\": [{\"text\": \"\"}]}, {\"text\": \"View this report in-page, print, or export to Excel.\"}, {\"text\": \"\"}, {\"text\": \"\"}, {\"text\": \"\"}, {\"type\": \"a\", \"url\": \"https://galaxy.maropost.com/kb/articles/308-daily-monthly-sales-report#Top\", \"children\": [{\"text\": \"Return to Top\"}]}]}, {\"type\": \"p\", \"children\": [{\"text\": \"\"}]}]",
+  "fixes_applied": {
+    "urls": {
+      "leaving_cleaned": 0,
+      "unsafe_removed": 0,
+      "s_article_mapped": 0,
+      "s_article_removed": 0,
+      "fragments_mapped": 0,
+      "fragments_stripped": 0,
+      "internal_fragments_fixed": 1,
+      "double_id_fixed": 0,
+      "kb_fragments_stripped": 0
+    },
+    "toc": 0,
+    "related": 1,
+    "lists": 0,
+    "headings": 0,
+    "reconverted": false
+  }
+}

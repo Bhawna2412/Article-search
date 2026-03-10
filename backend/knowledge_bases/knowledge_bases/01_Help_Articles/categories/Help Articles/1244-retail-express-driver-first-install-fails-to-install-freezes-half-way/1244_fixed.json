@@ -1,0 +1,16 @@
+{
+  "articleID": 1244,
+  "knowledgeCategoryID": 1,
+  "sort": 128,
+  "name": "Retail Express Driver (First Install) fails to install - Freezes half way",
+  "body": "<h1 data-id=\"retail-express-driver-first-install-fails-to-install-freezes-half-way\">Retail Express Driver (First Install) fails to install - Freezes half way</h1>\n<p>This method is for when the Retail Express Driver fails to install and freezes in the middle of installation.</p>\n<p>The following steps should help resolve the issue</p>\n<p> </p>\n<ol><li>Open Command Prompt and enter the following code</li><li>\n<pre class=\"code codeBlock\" spellcheck=\"false\" tabindex=\"0\"><br/>regsvr32 C:\\RetailExpress\\Updates\\FirstInstall\\textprinter.dll</pre>\n\t</li><li>A message will pop up as an error, press 'Ok' and close Command Prompt</li><li>Restart PC</li><li>Do <strong>NOT</strong> re-run the Retail Express Driver, it should be working correctly</li></ol>",
+  "format": "html",
+  "featured": false,
+  "locale": "en",
+  "status": "published",
+  "foreignID": null,
+  "dateUpdated": "2023-06-01T04:07:20+00:00",
+  "_source_kb_id": 1,
+  "_source_kb_name": "Help Articles",
+  "_sync_date": "2026-02-02T05:48:26.091133+00:00"
+}

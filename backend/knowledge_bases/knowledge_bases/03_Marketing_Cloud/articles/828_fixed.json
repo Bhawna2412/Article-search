@@ -1,0 +1,16 @@
+{
+  "articleID": 828,
+  "knowledgeCategoryID": 196,
+  "sort": 6,
+  "name": "Content Recommendations FAQs",
+  "body": "[{\"type\": \"p\", \"children\": [{\"text\": \"You can use content recommendation troubleshooting to help optimize your email marketing by ensuring dynamic content suggestions function properly. This significantly improves subscriber engagement by addressing common issues that prevent personalized product recommendations from appearing correctly in your email campaigns.\"}]}, {\"type\": \"p\", \"children\": [{\"text\": \"When properly configured, content recommendations can enhance subscriber interaction and typically lead to better open rates by delivering relevant, personalized content. Understanding these troubleshooting steps reduces manual effort in maintaining dynamic content systems and improves campaign effectiveness.\"}]}, {\"type\": \"p\", \"children\": [{\"text\": \"\"}]}, {\"type\": \"p\", \"children\": [{\"text\": \"Q1)\", \"bold\": true}, {\"text\": \" \"}, {\"text\": \"If I update the values of any of my web pages\\u2019 meta tags, especially the \\\"keywords\\\" meta tag, will the web spider update the database of keywords?\", \"bold\": true}]}, {\"type\": \"p\", \"children\": [{\"text\": \"Yes, each time the web spider crawls your site, it updates the meta tags for every page.\"}]}, {\"type\": \"p\", \"children\": [{\"text\": \"\"}]}, {\"type\": \"p\", \"children\": [{\"text\": \"Q2)\", \"bold\": true}, {\"text\": \" \"}, {\"text\": \"What happens when I update my site\\u2019s robots.txt file and add more restrictions than before?\", \"bold\": true}]}, {\"type\": \"p\", \"children\": [{\"text\": \"The next time the web spider crawls your site, it will automatically flag the pages in the database as \\\"non-recommendable.\\\"\"}]}, {\"type\": \"p\", \"children\": [{\"text\": \"\"}]}, {\"type\": \"p\", \"children\": [{\"text\": \"Q3) Why doesn\\u2019t any recommendable page appear when I\\u2019m using a custom meta tag in my recommendation filter rules?\", \"bold\": true}]}, {\"type\": \"p\", \"children\": [{\"text\": \"The newly added custom meta tags will not be recorded in the database until after the next time the web spider crawls your site.\"}]}, {\"type\": \"p\", \"children\": [{\"text\": \"\"}]}]",
+  "format": "rich2",
+  "featured": false,
+  "locale": "en",
+  "status": "published",
+  "foreignID": null,
+  "dateUpdated": "2026-02-06T07:27:44+00:00",
+  "_source_kb_id": 3,
+  "_source_kb_name": "Marketing Cloud",
+  "_sync_date": "2026-02-06T07:33:42.737020+00:00"
+}

@@ -1,0 +1,17 @@
+{
+  "articleID": 1499,
+  "knowledgeCategoryID": 149,
+  "sort": 19,
+  "name": "Match2One",
+  "body": "[{\"type\": \"p\", \"children\": [{\"text\": \"[Image: User-added image]\"}]}, {\"type\": \"h3\", \"children\": [{\"text\": \"This add-on was built by Match2One.\"}]}, {\"type\": \"p\", \"children\": [{\"type\": \"a\", \"url\": \"https://www.match2one.com/\", \"children\": [{\"text\": \"Visit Add-on Website!\"}]}]}, {\"type\": \"p\", \"children\": [{\"text\": \"For support with this add-on \"}, {\"type\": \"a\", \"url\": \"https://www.match2one.com/contact/\", \"children\": [{\"text\": \"contact Match2One\"}]}, {\"text\": \".\"}]}, {\"type\": \"h2\", \"children\": [{\"text\": \"Overview\"}], \"data-id\": \"overview\"}, {\"type\": \"p\", \"children\": [{\"text\": \"By connecting Match2One to your website, the platform will automatically track and learn about your online audience - where to find new customers online, and target people who are most likely to become a new customer.\"}]}, {\"type\": \"p\", \"children\": [{\"text\": \"Generally 2-3% of shoppers convert on the first visit to an online store. Retargeting brings back the other 97%. Retargeting works by tracking people who visit your site and showing your ads to them as they visit other sites online.\"}]}, {\"type\": \"h2\", \"children\": [{\"text\": \"Benefits & Features\"}], \"data-id\": \"benefits-features\"}, {\"type\": \"ul\", \"children\": [{\"type\": \"li\", \"children\": [{\"type\": \"lic\", \"children\": [{\"text\": \"Easy to use, self-serve platform.\"}]}]}, {\"type\": \"li\", \"children\": [{\"type\": \"lic\", \"children\": [{\"text\": \"Create stunning ads in Match2One\\u2019s banner maker tool.\"}]}]}, {\"type\": \"li\", \"children\": [{\"type\": \"lic\", \"children\": [{\"text\": \"Prospecting & Retargeting.\"}]}]}, {\"type\": \"li\", \"children\": [{\"type\": \"lic\", \"children\": [{\"text\": \"Transparent & detailed reports.\"}]}]}, {\"type\": \"li\", \"children\": [{\"type\": \"lic\", \"children\": [{\"text\": \"Auto-pilot delivering high ROI.\"}]}]}, {\"type\": \"li\", \"children\": [{\"type\": \"lic\", \"children\": [{\"text\": \"Simplify modern advertising, premium inventory access.\"}]}]}]}, {\"type\": \"h2\", \"children\": [{\"text\": \"Set up Match2One\"}], \"data-id\": \"set-up-instructions\"}, {\"type\": \"p\", \"children\": [{\"text\": \"Match2One have provided instructions to install tracking in Neto by Maropost on their \"}, {\"type\": \"a\", \"url\": \"http://help.match2one.com/installation/how-to-install-tracking-in-neto-ecommerce\", \"children\": [{\"text\": \"help site\"}]}, {\"text\": \".\"}]}]",
+  "format": "rich2",
+  "featured": false,
+  "locale": "en",
+  "status": "published",
+  "foreignID": null,
+  "dateUpdated": "2025-12-11T04:36:18+00:00",
+  "_source_kb_id": 4,
+  "_source_kb_name": "Neto By Maropost",
+  "_sync_date": "2026-02-06T07:18:20.783023+00:00",
+  "_incremental_update": true
+}

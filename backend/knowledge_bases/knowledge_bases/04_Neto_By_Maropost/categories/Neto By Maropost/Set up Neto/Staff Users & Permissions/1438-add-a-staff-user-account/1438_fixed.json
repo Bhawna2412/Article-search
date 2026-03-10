@@ -1,0 +1,29 @@
+{
+  "articleID": 1438,
+  "name": "Add a Staff User Account",
+  "slug": "1438-add-a-staff-user-account",
+  "format": "rich2",
+  "locale": "en",
+  "body": "[{\"type\": \"p\", \"children\": [{\"text\": \"Every staff member that needs access to the Neto control panel will need their own specific user account. Two people can't be logged in with the same account at the same time. This article will take you through the steps to create additional staff user accounts.\"}]}, {\"type\": \"p\", \"children\": [{\"text\": \"Want to learn more? Check out our free\", \"bold\": true}, {\"type\": \"a\", \"url\": \"https://galaxy.maropost.com/kb/articles/1663-course-staff-user-accounts\", \"children\": [{\"text\": \"Online Training Courses!\", \"bold\": true}]}]}, {\"type\": \"rich_embed_card\", \"children\": [{\"text\": \"\"}], \"dataSourceType\": \"url\", \"url\": \"https://youtu.be/0CnoT27HXHQ\", \"embedData\": {\"height\": 315, \"width\": 560, \"photoUrl\": \"https://i.ytimg.com/vi/0CnoT27HXHQ/hqdefault.jpg\", \"videoID\": \"0CnoT27HXHQ\", \"showRelated\": false, \"start\": 0, \"url\": \"https://youtu.be/0CnoT27HXHQ\", \"embedType\": \"youtube\", \"name\": \"\", \"frameSrc\": \"https://www.youtube.com/embed/0CnoT27HXHQ?feature=oembed&autoplay=1\"}}, {\"type\": \"p\", \"children\": [{\"text\": \"To create a new staff user account:\"}]}, {\"type\": \"ol\", \"children\": [{\"type\": \"li\", \"children\": [{\"type\": \"lic\", \"children\": [{\"text\": \"In your Neto control panel navigate to \"}, {\"text\": \"Settings & Tools\", \"bold\": true}, {\"text\": \" > \"}, {\"text\": \"Staff Users\", \"bold\": true}, {\"text\": \".\"}]}]}, {\"type\": \"li\", \"children\": [{\"type\": \"lic\", \"children\": [{\"text\": \"Click the \"}, {\"text\": \"Add New\", \"bold\": true}, {\"text\": \" button.\"}]}]}, {\"type\": \"li\", \"children\": [{\"type\": \"lic\", \"children\": [{\"text\": \"If required, upload a \"}, {\"text\": \"Profile Image\", \"bold\": true}, {\"text\": \" (by clicking the \"}, {\"text\": \"Browse\", \"bold\": true}, {\"text\": \" button and navigating to the picture location).\"}]}]}, {\"type\": \"li\", \"children\": [{\"type\": \"lic\", \"children\": [{\"text\": \"Enter a \"}, {\"text\": \"Username\", \"bold\": true}, {\"text\": \".\"}]}]}, {\"type\": \"li\", \"children\": [{\"type\": \"lic\", \"children\": [{\"text\": \"Enter the staff member's \"}, {\"text\": \"First Name\", \"bold\": true}, {\"text\": \", \"}, {\"text\": \"Last Name\", \"bold\": true}, {\"text\": \" and \"}, {\"text\": \"Email\", \"bold\": true}, {\"text\": \" address. Email addresses must be unique so that passwords can be reset, and to log into the Neto support hub.\"}]}]}, {\"type\": \"li\", \"children\": [{\"type\": \"lic\", \"children\": [{\"text\": \"Enter a \"}, {\"text\": \"Password\", \"bold\": true}, {\"text\": \". Passwords must be 9-25 characters long and have a number, upper, lower, and special character.\"}]}]}, {\"type\": \"li\", \"children\": [{\"type\": \"lic\", \"children\": [{\"text\": \"Select a \"}, {\"text\": \"Status\", \"bold\": true}, {\"text\": \" (either 'Active' or 'Inactive') from the dropdown menu.\"}]}]}, {\"type\": \"li\", \"children\": [{\"type\": \"lic\", \"children\": [{\"text\": \"Select the \"}, {\"text\": \"User Permission Group\", \"bold\": true}, {\"text\": \" from the dropdown.\"}]}, {\"type\": \"p\", \"children\": [{\"text\": \"The \"}, {\"type\": \"a\", \"url\": \"https://galaxy.maropost.com/kb/articles/1405-set-up-staff-permission-groups\", \"children\": [{\"text\": \"User Permission Group\"}]}, {\"text\": \" determines what level of access the staff member has (e.g. what they can and can't access) in your Neto control panel.\"}]}]}, {\"type\": \"li\", \"children\": [{\"type\": \"lic\", \"children\": [{\"text\": \"Click the \"}, {\"text\": \"Save & Close\", \"bold\": true}, {\"text\": \" button to complete.\"}]}]}]}, {\"type\": \"p\", \"children\": [{\"text\": \"\"}]}, {\"type\": \"p\", \"children\": [{\"text\": \"Your staff user account is now added and the staff member can log in to access the control panel.\"}]}, {\"type\": \"p\", \"children\": [{\"text\": \"\"}]}]",
+  "fixes_applied": {
+    "rebrand": 5,
+    "urls": {
+      "leaving_cleaned": 0,
+      "unsafe_removed": 0,
+      "s_article_mapped": 3,
+      "s_article_removed": 2,
+      "fragments_mapped": 0,
+      "fragments_stripped": 0,
+      "internal_fragments_fixed": 0,
+      "double_id_fixed": 0,
+      "kb_fragments_stripped": 0
+    },
+    "toc": 0,
+    "related": 1,
+    "lists": 9,
+    "headings": 0,
+    "reconverted": false
+  },
+  "_sf_cleanup_date": "2026-02-02T06:17:41.880580+00:00",
+  "_sf_removals": 1
+}

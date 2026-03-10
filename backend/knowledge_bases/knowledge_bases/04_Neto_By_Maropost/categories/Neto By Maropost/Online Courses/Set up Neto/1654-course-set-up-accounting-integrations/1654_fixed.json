@@ -1,0 +1,27 @@
+{
+  "articleID": 1654,
+  "name": "Course: Set up Accounting Integrations",
+  "slug": "1654-course-set-up-accounting-integrations",
+  "format": "rich2",
+  "locale": "en",
+  "body": "[{\"type\": \"p\", \"children\": [{\"text\": \"You can integrate Neto with leading accounting systems like Xero, MYOB Live, and MYOB AccountRight to automate financial data synchronization and reduce manual accounting tasks. This helps streamline your accounting workflows and ensures accurate financial records, typically reducing data entry errors and improving operational efficiency by enabling real-time synchronization between your ecommerce operations and financial systems.\"}]}, {\"type\": \"p\", \"children\": [{\"text\": \"Setting up accounting integrations enables B2B merchants to maintain accurate financial visibility across all sales channels while reducing administrative overhead. Properly configured integrations can help optimize operational efficiency by automating invoice generation, expense tracking, and financial reporting, supporting tax compliance and providing your accounting team with up-to-date transaction data for better financial decision-making.\"}]}, {\"type\": \"table\", \"children\": [{\"type\": \"tr\", \"children\": [{\"type\": \"th\", \"children\": [{\"type\": \"p\", \"children\": [{\"text\": \"Lessons\"}]}]}, {\"type\": \"th\", \"children\": [{\"type\": \"p\", \"children\": [{\"text\": \"Length\"}]}]}]}, {\"type\": \"tr\", \"children\": [{\"type\": \"td\", \"children\": [{\"type\": \"p\", \"children\": [{\"type\": \"a\", \"url\": \"https://training.maropost.com/set-up-your-store/set up accounting integrations/xero/content/index.html\", \"children\": [{\"text\": \"Set up Xero\"}]}]}]}, {\"type\": \"td\", \"children\": [{\"type\": \"p\", \"children\": [{\"text\": \"8 mins\"}]}]}]}, {\"type\": \"tr\", \"children\": [{\"type\": \"td\", \"children\": [{\"type\": \"p\", \"children\": [{\"type\": \"a\", \"url\": \"https://training.maropost.com/set-up-your-store/set up accounting integrations/myob live/content/index.html\", \"children\": [{\"text\": \"Set up MYOB Live\"}]}]}]}, {\"type\": \"td\", \"children\": [{\"type\": \"p\", \"children\": [{\"text\": \"10 mins\"}]}]}]}, {\"type\": \"tr\", \"children\": [{\"type\": \"td\", \"children\": [{\"type\": \"p\", \"children\": [{\"type\": \"a\", \"url\": \"https://training.maropost.com/set-up-your-store/set up accounting integrations/myob accountright/content/index.html\", \"children\": [{\"text\": \"Set up MYOB AccountRight\"}]}]}]}, {\"type\": \"td\", \"children\": [{\"type\": \"p\", \"children\": [{\"text\": \"15 mins\"}]}]}]}], \"id\": \"rich-table-11ee52d8\"}, {\"type\": \"p\", \"children\": [{\"text\": \"\"}]}]",
+  "fixes_applied": {
+    "rebrand": 0,
+    "urls": {
+      "leaving_cleaned": 0,
+      "unsafe_removed": 0,
+      "s_article_mapped": 0,
+      "s_article_removed": 0,
+      "fragments_mapped": 0,
+      "fragments_stripped": 0,
+      "internal_fragments_fixed": 0,
+      "double_id_fixed": 0,
+      "kb_fragments_stripped": 0
+    },
+    "toc": 0,
+    "related": 1,
+    "lists": 0,
+    "headings": 0,
+    "reconverted": true
+  }
+}

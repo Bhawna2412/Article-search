@@ -1,0 +1,29 @@
+{
+  "articleID": 504,
+  "name": "Free Shipping Setup",
+  "slug": "504-free-shipping-setup",
+  "format": "rich2",
+  "locale": "en",
+  "body": "[{\"type\": \"p\", \"children\": [{\"text\": \"Free shipping is a great incentive to attract buyers to your store. To setup a free shipping service that applies to all products:\"}]}, {\"type\": \"ol\", \"children\": [{\"type\": \"li\", \"children\": [{\"type\": \"lic\", \"children\": [{\"text\": \"In your Neto by Maropost control panel navigate to \"}, {\"text\": \"Shipping\", \"bold\": true}, {\"text\": \" and select \"}, {\"text\": \"Shipping Options\", \"bold\": true}, {\"text\": \".\"}]}]}, {\"type\": \"li\", \"children\": [{\"type\": \"lic\", \"children\": [{\"text\": \"Click \"}, {\"text\": \"Add New Shipping Option\", \"bold\": true}, {\"text\": \".\"}]}, {\"type\": \"p\", \"children\": [{\"text\": \"\"}]}]}, {\"type\": \"li\", \"children\": [{\"type\": \"lic\", \"children\": [{\"text\": \"Select \"}, {\"text\": \"Set My Own Pricing\", \"bold\": true}]}, {\"type\": \"p\", \"children\": [{\"text\": \"\"}]}]}, {\"type\": \"li\", \"children\": [{\"type\": \"lic\", \"children\": [{\"text\": \"Click \"}, {\"text\": \"Free Domestic\", \"bold\": true}, {\"text\": \" from, the simple options.\"}]}, {\"type\": \"p\", \"children\": [{\"text\": \"\"}]}]}, {\"type\": \"li\", \"children\": [{\"type\": \"lic\", \"children\": [{\"text\": \"Name your shipping option\\u00a0\"}, {\"text\": \"Free Shipping\", \"bold\": true}, {\"text\": \" or similar, and add a description that customers can see. Set the availability to \"}, {\"text\": \"PO Boxes\", \"bold\": true}, {\"text\": \" (if you can ship to PO Boxes), then move on to the \"}, {\"text\": \"Next Step\", \"bold\": true}, {\"text\": \".\"}]}, {\"type\": \"p\", \"children\": [{\"text\": \"\"}]}]}, {\"type\": \"li\", \"children\": [{\"type\": \"lic\", \"children\": [{\"text\": \"Review the settings, and click \"}, {\"text\": \"Complete\", \"bold\": true}, {\"text\": \".\"}]}, {\"type\": \"p\", \"children\": [{\"text\": \"\"}]}]}, {\"type\": \"li\", \"children\": [{\"type\": \"lic\", \"children\": [{\"text\": \"You can also change the wording of the free shipping text customers see when they select the shipping option. You can change this by navigating to \"}, {\"text\": \"Settings & Tools\", \"bold\": true}, {\"text\": \" > \"}, {\"text\": \"All Settings & Tools\", \"bold\": true}, {\"text\": \". Click the \"}, {\"text\": \"Web Store\", \"bold\": true}, {\"text\": \" tab and click \"}, {\"text\": \"Checkout Settings\", \"bold\": true}, {\"text\": \".\"}]}]}, {\"type\": \"li\", \"children\": [{\"type\": \"lic\", \"children\": [{\"text\": \"Click on the \"}, {\"text\": \"Shipping Rules\", \"bold\": true}, {\"text\": \" tab and here you have the option to turn off certain features at the checkout, set your default shipping options and free shipping text.\"}]}, {\"type\": \"p\", \"children\": [{\"text\": \"\"}]}, {\"type\": \"p\", \"children\": [{\"text\": \"Your free shipping option\\u00a0will now be created for all shipping categories. If you want free shipping to only apply to certain products, you can edit the method and set a \"}, {\"text\": \"Maximum Weight\", \"bold\": true}, {\"text\": \", remove \"}, {\"text\": \"Shipping Categories\", \"bold\": true}, {\"text\": \", or turn off certain user groups.\"}]}]}]}, {\"type\": \"h2\", \"children\": [{\"text\": \"Apply Free Shipping to Specific Products\"}]}, {\"type\": \"p\", \"children\": [{\"text\": \"The above steps will make free shipping available to all products. If you only want some products to include free shipping you need to create a new shipping category with the free shipping option in it, and assign the shipping category to products. The steps to do this are:\"}]}, {\"type\": \"ol\", \"children\": [{\"type\": \"li\", \"children\": [{\"type\": \"lic\", \"children\": [{\"text\": \"Remove free shipping from the default and dangerous goods shipping categories.\"}]}]}, {\"type\": \"li\", \"children\": [{\"type\": \"lic\", \"children\": [{\"text\": \"Create a new shipping category called free shipping\"}]}]}, {\"type\": \"li\", \"children\": [{\"type\": \"lic\", \"children\": [{\"text\": \"Add free shipping and any other paid shipping options (e.g. express, registered) to this category.\"}]}]}, {\"type\": \"li\", \"children\": [{\"type\": \"lic\", \"children\": [{\"text\": \"Assign this shipping category to products that you want to offer free shipping.\"}]}]}]}, {\"type\": \"p\", \"children\": [{\"text\": \"More information can be found in the \"}, {\"type\": \"a\", \"url\": \"https://galaxy.maropost.com/kb/articles/1628-add-a-shipping-category\", \"children\": [{\"text\": \"add a shipping category\"}]}, {\"text\": \" documentation.\"}]}]",
+  "fixes_applied": {
+    "rebrand": 0,
+    "urls": {
+      "leaving_cleaned": 6,
+      "unsafe_removed": 0,
+      "s_article_mapped": 1,
+      "s_article_removed": 0,
+      "fragments_mapped": 0,
+      "fragments_stripped": 0,
+      "internal_fragments_fixed": 0,
+      "double_id_fixed": 0,
+      "kb_fragments_stripped": 0
+    },
+    "toc": 0,
+    "related": 0,
+    "lists": 8,
+    "headings": 1,
+    "reconverted": false
+  },
+  "_sf_cleanup_date": "2026-02-02T06:17:41.137248+00:00",
+  "_sf_removals": 6
+}

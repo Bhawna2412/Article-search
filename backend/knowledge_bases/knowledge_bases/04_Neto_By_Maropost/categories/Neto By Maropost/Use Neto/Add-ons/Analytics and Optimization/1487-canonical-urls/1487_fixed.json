@@ -1,0 +1,29 @@
+{
+  "articleID": 1487,
+  "name": "Canonical URLs",
+  "slug": "1487-canonical-urls",
+  "format": "rich2",
+  "locale": "en",
+  "body": "[{\"type\": \"h3\", \"children\": [{\"text\": \"This add-on was built by Maropost\"}]}, {\"type\": \"p\", \"children\": [{\"text\": \"Add-ons and Integrations built in-house by Maropost are documented and supported by our customer service team. If you're having issues with this integration, \"}, {\"type\": \"a\", \"url\": \"https://www.netohq.com/support/s/ask-us\", \"children\": [{\"text\": \"let us know\"}]}, {\"text\": \"!\"}]}, {\"type\": \"h2\", \"children\": [{\"text\": \"About Canonical URLs\"}]}, {\"type\": \"p\", \"children\": [{\"text\": \"Canonical URLs are like a redirect for search engines when you have the same content with a different URL. A simple example is your home page, which may be found at www.mysite.com.au, but also mysite.com.au or www.mysite.com.au/index.html. All URLs display the same content, but can cause problems when search engines crawl your site. So to improve your SEO, you can set a \"}, {\"text\": \"Canonical URL\", \"bold\": true}, {\"text\": \" to tell search engines (like Google) which URL you prefer to display to visitors to your site.\"}]}, {\"type\": \"h2\", \"children\": [{\"text\": \"Set up the Canonical URLs Add-on\"}]}, {\"type\": \"p\", \"children\": [{\"text\": \"To install the Canonical URLs add-on:\"}]}, {\"type\": \"ol\", \"children\": [{\"type\": \"li\", \"children\": [{\"type\": \"lic\", \"children\": [{\"text\": \"In your Neto by Maropost control panel, click the \"}, {\"text\": \"Addons\", \"bold\": true}, {\"text\": \" menu.\"}]}]}, {\"type\": \"li\", \"children\": [{\"type\": \"lic\", \"children\": [{\"text\": \"In the SEO category, find the Canonical URLs add-on and click the \"}, {\"text\": \"Install\", \"bold\": true}, {\"text\": \" button.\"}]}]}, {\"type\": \"li\", \"children\": [{\"type\": \"lic\", \"children\": [{\"text\": \"Confirm installation by clicking the \"}, {\"text\": \"Install\", \"bold\": true}, {\"text\": \" button in the pop-up window.\"}]}]}]}, {\"type\": \"p\", \"children\": [{\"text\": \"The add-on will be installed. Click the \"}, {\"text\": \"Close\", \"bold\": true}, {\"text\": \" button when complete.\"}]}, {\"type\": \"p\", \"children\": [{\"text\": \"Once active, the \"}, {\"text\": \"SEO Canonical URL\", \"bold\": true}, {\"text\": \" field will be added to the \"}, {\"text\": \"SEO\", \"bold\": true}, {\"text\": \" section of your product pages.\"}]}, {\"type\": \"p\", \"children\": [{\"text\": \"\"}]}]",
+  "fixes_applied": {
+    "rebrand": 0,
+    "urls": {
+      "leaving_cleaned": 2,
+      "unsafe_removed": 0,
+      "s_article_mapped": 0,
+      "s_article_removed": 0,
+      "fragments_mapped": 0,
+      "fragments_stripped": 0,
+      "internal_fragments_fixed": 0,
+      "double_id_fixed": 0,
+      "kb_fragments_stripped": 0
+    },
+    "toc": 0,
+    "related": 0,
+    "lists": 3,
+    "headings": 1,
+    "reconverted": false
+  },
+  "_sf_cleanup_date": "2026-02-02T06:17:42.126025+00:00",
+  "_sf_removals": 2
+}

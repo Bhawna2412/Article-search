@@ -1,0 +1,31 @@
+{
+  "articleID": 2013,
+  "name": "Price Plans & How to Upgrade",
+  "format": "rich2",
+  "locale": "en",
+  "body": "[{\"type\": \"p\", \"children\": [{\"text\": \"You can choose from three competitive pricing plans (Premium, Professional, and Enterprise) based on the solutions you need and your usage level, with annual payment options offering 10% savings compared to monthly plans. Understanding the pricing structure helps you select the plan that aligns with your business needs while accessing AI-powered personalization features that help improve conversion rates and revenue.\"}]}, {\"type\": \"p\", \"children\": [{\"text\": \"Upgrading your plan through the Merchant Dashboard enables access to additional features and higher usage limits as your business grows. The flexible pricing options accommodate different business sizes and requirements, with the ability to customize plans for specific needs-ensuring you can scale merchandising capabilities as your ecommerce traffic and conversion optimization needs increase over time.\"}]}, {\"type\": \"p\", \"children\": [{\"text\": \"\"}]}, {\"type\": \"h2\", \"children\": [{\"text\": \"Our Pricing Plans\"}], \"data-id\": \"our-pricing-plans\"}, {\"type\": \"p\", \"children\": [{\"text\": \"We offer three competitive pricing plans: Premium, Professional, and Enterprise.\"}]}, {\"type\": \"rich_embed_card\", \"dataSourceType\": \"image\", \"url\": \"https://us.v-cdn.net/6038474/uploads/CWI5X0PQDJGI/6968171-price-plans-monthly.png\", \"embedData\": {\"url\": \"https://us.v-cdn.net/6038474/uploads/CWI5X0PQDJGI/6968171-price-plans-monthly.png\", \"embedType\": \"image\", \"displaySize\": \"large\", \"float\": \"none\", \"name\": \"6968171-Price_plans_monthly.png\", \"width\": 1204, \"height\": 542}, \"children\": [{\"text\": \"\"}]}, {\"type\": \"p\", \"children\": [{\"text\": \"Our three main price plans, paid monthly.\", \"italic\": true}]}, {\"type\": \"p\", \"children\": [{\"text\": \"\"}]}, {\"type\": \"h2\", \"children\": [{\"text\": \"Choosing a Plan\"}], \"data-id\": \"choosing-a-plan\"}, {\"type\": \"p\", \"children\": [{\"text\": \"Finding the right plan for your business means determining two main factors: which solutions you want to utilize, and what your level of usage would be.\"}]}, {\"type\": \"p\", \"children\": [{\"text\": \"For a full list of what is included in each plan, go to \"}, {\"type\": \"a\", \"url\": \"https://maropost.com/platform/merchandising-cloud\", \"children\": [{\"text\": \"findify.io/pricing\"}], \"target\": \"_blank\"}, {\"text\": \".\"}]}, {\"type\": \"p\", \"children\": [{\"text\": \"While the majority of merchants fit into one of our three price plans, prospective clients also have the option to tailor plans more specifically to their needs. In order to kick start this process, send an email outlining your needs to \"}, {\"type\": \"a\", \"url\": \"mailto:support@maropost.com\", \"children\": [{\"text\": \"support@maropost .com\"}]}, {\"text\": \"\"}]}, {\"type\": \"p\", \"children\": [{\"text\": \"\"}]}, {\"type\": \"h2\", \"children\": [{\"text\": \"Save Money with Annual Payment\"}], \"data-id\": \"save-money-with-annual-payment\"}, {\"type\": \"p\", \"children\": [{\"text\": \"While some merchants prefer the flexibility of our rolling no-strings-attached monthly payment plans, others prefer to save 10% of the cost with an annual payment plan. See updated pricing plans below.\"}]}, {\"type\": \"rich_embed_card\", \"dataSourceType\": \"image\", \"url\": \"https://us.v-cdn.net/6038474/uploads/HZEL73SH83C6/3f3415e-price-plans.png\", \"embedData\": {\"url\": \"https://us.v-cdn.net/6038474/uploads/HZEL73SH83C6/3f3415e-price-plans.png\", \"embedType\": \"image\", \"displaySize\": \"large\", \"float\": \"none\", \"name\": \"3f3415e-Price_Plans.png\", \"width\": 1201, \"height\": 544}, \"children\": [{\"text\": \"\"}]}, {\"type\": \"p\", \"children\": [{\"text\": \"Our three main price plans, paid annually with a 10% discount.\", \"italic\": true}]}, {\"type\": \"p\", \"children\": [{\"text\": \"\"}]}, {\"type\": \"h2\", \"children\": [{\"text\": \"How to Upgrade\"}], \"data-id\": \"how-to-upgrade\"}, {\"type\": \"p\", \"children\": [{\"text\": \"Existing clients who would like to upgrade their plan can do so via their Merchant Dashboard. Just navigate to Account > Billing and click on the blue 'Choose Plan' button located on the top right of the screen.\"}]}, {\"type\": \"rich_embed_card\", \"dataSourceType\": \"image\", \"url\": \"https://us.v-cdn.net/6038474/uploads/R22242FU0N6R/1bfbc76-upgrading-plan.gif\", \"embedData\": {\"url\": \"https://us.v-cdn.net/6038474/uploads/R22242FU0N6R/1bfbc76-upgrading-plan.gif\", \"embedType\": \"image\", \"displaySize\": \"large\", \"float\": \"none\", \"name\": \"1bfbc76-Upgrading_Plan.gif\", \"width\": 1893, \"height\": 916}, \"children\": [{\"text\": \"\"}]}, {\"type\": \"p\", \"children\": [{\"text\": \"In case of any issues, feel free to email \"}, {\"type\": \"a\", \"url\": \"mailto:support@maropost.com\", \"children\": [{\"text\": \"support@maropost.com\"}]}, {\"text\": \" and a representative will be on hand to assist you.\"}]}, {\"type\": \"p\", \"children\": [{\"text\": \"\"}]}]",
+  "knowledgeCategoryID": 383,
+  "sort": 4,
+  "status": "published",
+  "_source_kb_id": 5,
+  "_source_kb_name": "Merchandising Cloud",
+  "_fix_date": "2026-02-02T06:05:45.723005+00:00",
+  "fixes_applied": {
+    "urls": {
+      "leaving_cleaned": 0,
+      "unsafe_removed": 0,
+      "s_article_mapped": 0,
+      "s_article_removed": 0,
+      "fragments_mapped": 0,
+      "fragments_stripped": 0,
+      "internal_fragments_fixed": 0,
+      "double_id_fixed": 0,
+      "kb_fragments_stripped": 0
+    },
+    "toc": 0,
+    "related": 1,
+    "lists": 0,
+    "headings": 0,
+    "reconverted": false
+  }
+}

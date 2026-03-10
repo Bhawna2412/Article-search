@@ -1,0 +1,26 @@
+{
+  "articleID": 2323,
+  "name": "Retail Express - Login Changes",
+  "slug": "2323-retail-express-login-changes",
+  "format": "rich2",
+  "locale": "en",
+  "body": "[{\"type\": \"p\", \"children\": [{\"text\": \"As part of our ongoing Maropost Unified Login initiative, we're rolling out a refreshed login experience for Back Office. This marks the first step toward a more streamlined and secure login process across Maropost platforms.\"}]}, {\"type\": \"p\", \"children\": [{\"text\": \"What's Changing:\", \"bold\": true}]}, {\"type\": \"ul\", \"children\": [{\"type\": \"li\", \"children\": [{\"type\": \"lic\", \"children\": [{\"text\": \"You'll notice a \"}, {\"text\": \"new look and feel\", \"bold\": true}, {\"text\": \" during login.\"}]}]}, {\"type\": \"li\", \"children\": [{\"type\": \"lic\", \"children\": [{\"text\": \"The \"}, {\"text\": \"password field is no longer visible initially\", \"bold\": true}, {\"text\": \".\"}]}]}, {\"type\": \"li\", \"children\": [{\"type\": \"lic\", \"children\": [{\"text\": \"After entering your \"}, {\"text\": \"User ID\", \"bold\": true}, {\"text\": \" and clicking \"}, {\"text\": \"Login\", \"bold\": true}, {\"text\": \", you'll be redirected to a \"}, {\"text\": \"Maropost-branded interim page\", \"bold\": true}, {\"text\": \" where you'll enter your full credentials before being taken to Back Office.\"}]}]}, {\"type\": \"li\", \"children\": [{\"type\": \"lic\", \"children\": [{\"text\": \"This redirect is \"}, {\"text\": \"expected and part of the new login flow\", \"bold\": true}, {\"text\": \".\"}]}]}]}, {\"type\": \"p\", \"children\": [{\"text\": \"\"}]}, {\"type\": \"p\", \"children\": [{\"text\": \"Why It Matters:\", \"bold\": true}]}, {\"type\": \"ul\", \"children\": [{\"type\": \"li\", \"children\": [{\"type\": \"lic\", \"children\": [{\"text\": \"This update lays the foundation for future enhancements, including \"}, {\"text\": \"multi-factor authentication\", \"bold\": true}, {\"text\": \" and unified access across Maropost products.\"}]}]}]}, {\"type\": \"p\", \"children\": [{\"text\": \"\"}]}, {\"type\": \"p\", \"children\": [{\"text\": \"What You Need to Do:\", \"bold\": true}]}, {\"type\": \"ul\", \"children\": [{\"type\": \"li\", \"children\": [{\"type\": \"lic\", \"children\": [{\"text\": \"Continue logging in as normal-no changes to your credentials or process.\"}]}]}, {\"type\": \"li\", \"children\": [{\"type\": \"lic\", \"children\": [{\"text\": \"If you see the Maropost-branded page during login, rest assured it's part of the new experience. There is a screenshot below of the pages, so you'll know what to expect.\"}]}]}]}, {\"type\": \"p\", \"children\": [{\"text\": \"\"}]}, {\"type\": \"p\", \"children\": [{\"text\": \"Stay tuned for further updates as we continue improving your login experience.\"}]}, {\"type\": \"p\", \"children\": [{\"text\": \"Retail Express Back Office Login Page:\", \"bold\": true}]}, {\"type\": \"rich_embed_card\", \"dataSourceType\": \"image\", \"url\": \"https://us.v-cdn.net/6038474/uploads/4CGYRURC1EAL/image.png\", \"embedData\": {\"url\": \"https://us.v-cdn.net/6038474/uploads/4CGYRURC1EAL/image.png\", \"embedType\": \"image\", \"displaySize\": \"large\", \"float\": \"none\", \"name\": \"image.png\", \"width\": 2176, \"height\": 1336}, \"children\": [{\"text\": \"\"}]}, {\"type\": \"p\", \"children\": [{\"text\": \"The Maropost Branded Page:\", \"bold\": true}]}, {\"type\": \"rich_embed_card\", \"dataSourceType\": \"image\", \"url\": \"https://us.v-cdn.net/6038474/uploads/66FHM08MMSYA/image.png\", \"embedData\": {\"url\": \"https://us.v-cdn.net/6038474/uploads/66FHM08MMSYA/image.png\", \"embedType\": \"image\", \"displaySize\": \"large\", \"float\": \"none\", \"name\": \"image.png\", \"width\": 2013, \"height\": 1255}, \"children\": [{\"text\": \"\"}]}]",
+  "fixes_applied": {
+    "urls": {
+      "leaving_cleaned": 0,
+      "unsafe_removed": 0,
+      "s_article_mapped": 0,
+      "s_article_removed": 0,
+      "fragments_mapped": 0,
+      "fragments_stripped": 0,
+      "internal_fragments_fixed": 0,
+      "double_id_fixed": 0,
+      "kb_fragments_stripped": 0
+    },
+    "toc": 0,
+    "related": 0,
+    "lists": 0,
+    "headings": 0,
+    "reconverted": false
+  }
+}

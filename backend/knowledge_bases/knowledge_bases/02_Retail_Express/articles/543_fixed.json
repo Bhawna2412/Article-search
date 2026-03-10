@@ -1,0 +1,26 @@
+{
+  "articleID": 543,
+  "name": "Add an existing Customer to a sale",
+  "slug": "543-add-an-existing-customer-to-a-sale",
+  "format": "rich2",
+  "locale": "en",
+  "body": "[{\"type\": \"p\", \"children\": [{\"text\": \"You can enhance customer service and enable targeted benefits through adding existing customers to sales in \"}, {\"text\": \"Retail Express\", \"bold\": true}, {\"text\": \" POS, which links transactions to customer records for loyalty tracking, purchase history, and personalized service. This customer association helps retail operators build customer relationships and track purchasing patterns, with effective customer linking typically improving customer satisfaction and supporting targeted marketing across Australian retail operations.\"}]}, {\"type\": \"p\", \"children\": [{\"text\": \"Adding existing customers to sales in \"}, {\"text\": \"Retail Express\", \"bold\": true}, {\"text\": \" enables retail operators to track customer purchasing behavior, apply customer-specific pricing or discounts, and build comprehensive customer profiles supporting relationship management. This customer linking helps ensure your retail operations can provide personalized service while gathering valuable customer insights supporting strategic customer engagement and retention.\"}]}, {\"type\": \"p\", \"children\": [{\"text\": \"This article guides you through the steps to quickly add an existing customer to a sale, ensuring a seamless and efficient transaction process.\"}, {\"text\": \"\\n\"}, {\"text\": \"\\n\"}, {\"text\": \"To add an existing customer to a sale:\"}]}, {\"type\": \"ol\", \"children\": [{\"type\": \"li\", \"children\": [{\"type\": \"lic\", \"children\": [{\"text\": \"Create a sale in POS\"}]}]}, {\"type\": \"li\", \"children\": [{\"type\": \"lic\", \"children\": [{\"text\": \"Click the \"}, {\"text\": \"Customer \", \"bold\": true}, {\"text\": \"tab\"}]}]}, {\"type\": \"li\", \"children\": [{\"type\": \"lic\", \"children\": [{\"text\": \"Enter customer information into the \"}, {\"text\": \"Billing \", \"bold\": true}, {\"text\": \"section e.g. First Name\"}]}]}, {\"type\": \"li\", \"children\": [{\"type\": \"lic\", \"children\": [{\"text\": \"As you begin typing the data will \"}, {\"text\": \"filtering \", \"bold\": true}, {\"text\": \"on the right-hand side of the screen to match the entered data\"}]}]}, {\"type\": \"li\", \"children\": [{\"type\": \"lic\", \"children\": [{\"text\": \"Continue filling out fields on the left to refine the results\"}]}]}, {\"type\": \"li\", \"children\": [{\"type\": \"lic\", \"children\": [{\"text\": \"Click on a \"}, {\"text\": \"matching customer \", \"bold\": true}, {\"text\": \"to add the customer to the sale\"}]}]}]}, {\"type\": \"callout\", \"children\": [{\"type\": \"callout-item\", \"children\": [{\"text\": \"If you offer customer Loyalty cards you can scan the barcode into the \"}, {\"text\": \"Cust Ref \", \"bold\": true}, {\"text\": \"field or \"}, {\"text\": \"Account # \", \"bold\": true}, {\"text\": \"field to immediately locate the individual customer record. Refer to the \"}, {\"text\": \"POS - Using Loyalty Cards\"}, {\"text\": \" article for more information.\"}]}], \"appearance\": \"info\"}, {\"type\": \"p\", \"children\": [{\"text\": \"\"}]}]",
+  "fixes_applied": {
+    "urls": {
+      "leaving_cleaned": 0,
+      "unsafe_removed": 0,
+      "s_article_mapped": 0,
+      "s_article_removed": 1,
+      "fragments_mapped": 0,
+      "fragments_stripped": 0,
+      "internal_fragments_fixed": 0,
+      "double_id_fixed": 0,
+      "kb_fragments_stripped": 0
+    },
+    "toc": 0,
+    "related": 1,
+    "lists": 1,
+    "headings": 0,
+    "reconverted": false
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "articleID": 1865,
+  "knowledgeCategoryID": 454,
+  "sort": 24,
+  "name": "Neto by Maropost Release Notes – 8 Apr 2020",
+  "body": "[{\"type\":\"p\",\"children\":[{\"text\":\"Release Version\",\"bold\":true},{\"text\":\": v6.97\"}]},{\"type\":\"p\",\"children\":[{\"text\":\" \"}]},{\"type\":\"h3\",\"children\":[{\"text\":\"Minor Changes\",\"bold\":true}]},{\"type\":\"ul\",\"children\":[{\"type\":\"li\",\"children\":[{\"text\":\"You can now set up a banner to appear on managed checkout, to show additional instructions or notices to customers. This can be found in the \"},{\"text\":\"Webstore\",\"bold\":true},{\"text\":\" > \"},{\"text\":\"Checkout Settings\",\"bold\":true},{\"text\":\" page.\"}]},{\"type\":\"li\",\"children\":[{\"text\":\"Product SKU can be edited or changed on an RMA again.\"}]}]},{\"type\":\"p\",\"children\":[{\"text\":\" \"}]},{\"type\":\"h3\",\"children\":[{\"text\":\"Bug Fixes\",\"bold\":true}]},{\"type\":\"ul\",\"children\":[{\"type\":\"li\",\"children\":[{\"text\":\"Fixed an issue where orders paid with Apple or Google pay automatically went on-hold, instead of approved.\"}]}]},{\"type\":\"p\",\"children\":[{\"text\":\" \"}]}]",
+  "format": "rich2",
+  "featured": false,
+  "locale": "en",
+  "status": "published",
+  "foreignID": null,
+  "dateUpdated": "2025-05-29T15:53:27+00:00",
+  "_source_kb_id": 12,
+  "_source_kb_name": "Neto Release Notes",
+  "_sync_date": "2026-02-02T05:59:22.757702+00:00"
+}

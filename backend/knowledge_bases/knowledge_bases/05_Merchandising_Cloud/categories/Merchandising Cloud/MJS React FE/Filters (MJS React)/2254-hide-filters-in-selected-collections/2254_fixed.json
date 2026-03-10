@@ -1,0 +1,31 @@
+{
+  "articleID": 2254,
+  "name": "Hide filters in selected collections",
+  "format": "rich2",
+  "locale": "en",
+  "body": "[{\"type\": \"p\", \"children\": [{\"text\": \"You can selectively hide filters in specific collections to create cleaner, more focused browsing experiences where extensive filtering isn't needed. When collections with limited products or highly curated selections can disable filters, you help reduce interface clutter and improve focus on products, which tends to enhance conversion rates by removing unnecessary complexity from the customer journey.\"}]}, {\"type\": \"p\", \"children\": [{\"text\": \"Collection-specific filter control enables you to tailor refinement options to match collection characteristics. This helps improve user experience by showing filters only where they add value, supporting better conversion through more contextually appropriate interfaces that adapt to different product selection scenarios across your catalog.\"}]}, {\"type\": \"p\", \"children\": [{\"text\": \"Integration Steps\"}]}, {\"type\": \"p\", \"children\": [{\"text\": \"In certain circumstances, merchants might want to hide specific filters for specific collections.\"}]}, {\"type\": \"p\", \"children\": [{\"text\": \"This could be, for example, if you have a collection with 200 products but only 10 have a value for \"}, {\"text\": \"size\", \"code\": true}, {\"text\": \" filter - you want to remove the \"}, {\"text\": \"size\", \"code\": true}, {\"text\": \" filter for this collection.\"}]}, {\"type\": \"p\", \"children\": [{\"text\": \"Or, it could be that you have a large amount of filters. This is not a problem for niche collections, but if you have a particularly large collection then you might have 50 filters which is too much for a shopper to navigate through easily. In this case you might want to slim down the filtering options, but only for the larger collection.\"}]}, {\"type\": \"p\", \"children\": [{\"text\": \"Whatever the reason, Findify is able to accommodate this potential merchant requirement.\"}]}, {\"type\": \"blockquote\", \"children\": [{\"type\": \"blockquote-line\", \"children\": [{\"text\": \"ComponentswithHiddenFacetscomponents/Facet/index.tsx ( Desktop )components/search/MobileFacets/Titles.tsx ( Mobile )\"}]}]}, {\"type\": \"p\", \"children\": [{\"text\": \"The steps are the following:\"}]}, {\"type\": \"ul\", \"children\": [{\"type\": \"li\", \"children\": [{\"type\": \"lic\", \"children\": [{\"text\": \"Create \"}, {\"text\": \"withHiddenFacets\", \"code\": true}, {\"text\": \" component.\"}]}]}, {\"type\": \"li\", \"children\": [{\"type\": \"lic\", \"children\": [{\"text\": \"Create a list of facets to hide in certain collections.\"}]}]}, {\"type\": \"li\", \"children\": [{\"type\": \"lic\", \"children\": [{\"text\": \"We determine the hidden facets for specific collection in the \"}, {\"text\": \"hiddenFacets\", \"code\": true}, {\"text\": \" variable.\"}]}]}, {\"type\": \"li\", \"children\": [{\"type\": \"lic\", \"children\": [{\"text\": \"Check if the current facet exists in the \"}, {\"text\": \"hiddenFacets\", \"code\": true}, {\"text\": \" array.\"}]}]}]}, {\"type\": \"p\", \"children\": [{\"text\": \"\"}]}, {\"type\": \"p\", \"children\": [{\"text\": \"withHiddenFacets\"}]}, {\"type\": \"code_block\", \"children\": [{\"type\": \"code_line\", \"children\": [{\"text\": \"const withHiddenFacets = (facet) => {    const list = [    {      collectionName: 'test-collection-2',      facets: ['brand', 'size']    }  ];    const hiddenFacets = list.find((el) => findify.utils.collectionPath().split(el.collectionName).length > 1)?.facets;  return hiddenFacets?.find(name => name === facet.get('name'));}export default withHiddenFacets;\"}]}], \"lang\": \"plaintext\"}, {\"type\": \"p\", \"children\": [{\"text\": \"To filter our facets on desktop, we need to import and call our \"}, {\"text\": \"withHiddenFacets\", \"code\": true}, {\"text\": \".\"}]}, {\"type\": \"p\", \"children\": [{\"text\": \"JavaScript\"}]}, {\"type\": \"code_block\", \"children\": [{\"type\": \"code_line\", \"children\": [{\"text\": \"{/* ... some imports ... */}import withHiddenFacets from 'withHiddenFacets';{/* ... some code ... */}return ({/* ... some code ... */}    {/* add filter function with our withHiddenFacets functionality */}  <MapArray  array={facets.filter(withHiddenFacets)}factory={Facet}config={config}isHorizontal={isHorizontal}onToggle={toggleFacet}openFacets={openFacets}keyAccessor={(i) => i.get('name')}    />  {/* ... some code ... */})\"}]}], \"lang\": \"plaintext\"}, {\"type\": \"p\", \"children\": [{\"text\": \"To filter our facets on mobile, we need to do the same as on desktop.\"}]}, {\"type\": \"p\", \"children\": [{\"text\": \"JavaScript\"}]}, {\"type\": \"code_block\", \"children\": [{\"type\": \"code_line\", \"children\": [{\"text\": \"{/* ... some imports ... */}import withHiddenFacets from 'withHiddenFacets';{/* ... some code ... */}return (    {/* ... some code ... */}    {/* add filter function with our withHiddenFacets functionality */}<Branch    config={config}    theme={theme}    selectFacet={selectFacet}    active={facets.find((f) => f.get('name') === activeFacetName)}    facets={facets.filter(withHiddenFacets)}    condition={activeFacet}    right={FacetTitles}    left={FacetContent}  />  {/* ... some code ... */})\"}]}], \"lang\": \"plaintext\"}, {\"type\": \"p\", \"children\": [{\"text\": \"MJS Version\"}]}, {\"type\": \"p\", \"children\": [{\"text\": \"This module has been optimized for \"}, {\"text\": \"MJS version 7.1.25\", \"bold\": true}]}, {\"type\": \"p\", \"children\": [{\"text\": \"\"}]}]",
+  "knowledgeCategoryID": 412,
+  "sort": 4,
+  "status": "published",
+  "_source_kb_id": 5,
+  "_source_kb_name": "Merchandising Cloud",
+  "_fix_date": "2026-02-02T06:05:47.584738+00:00",
+  "fixes_applied": {
+    "urls": {
+      "leaving_cleaned": 0,
+      "unsafe_removed": 0,
+      "s_article_mapped": 0,
+      "s_article_removed": 0,
+      "fragments_mapped": 0,
+      "fragments_stripped": 0,
+      "internal_fragments_fixed": 0,
+      "double_id_fixed": 0,
+      "kb_fragments_stripped": 0
+    },
+    "toc": 0,
+    "related": 1,
+    "lists": 0,
+    "headings": 0,
+    "reconverted": false
+  }
+}

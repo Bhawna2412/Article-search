@@ -1,0 +1,26 @@
+{
+  "articleID": 1267,
+  "name": "Video - Taking or Adding a Customer Photo",
+  "slug": "1267-video-taking-or-adding-a-customer-photo",
+  "format": "rich2",
+  "locale": "en",
+  "body": "[{\"type\": \"p\", \"children\": [{\"text\": \"You can learn to capture and manage customer photos through video training in \"}, {\"text\": \"Retail Express\", \"bold\": true}, {\"text\": \" to enhance customer identification and personalized service. This video resource helps improve customer recognition by demonstrating photo capture procedures, supporting better customer service through visual identification and enhanced security for account access verification.\"}]}, {\"type\": \"p\", \"children\": [{\"text\": \"Using video training for customer photos involves learning photo capture techniques, understanding privacy considerations, and implementing photo management best practices. When properly utilized, customer photos typically lead to improved customer recognition at point of sale, enhanced security through visual verification, and better personalized service across retail locations.\"}]}, {\"type\": \"p\", \"children\": [{\"text\": \"\"}]}, {\"type\": \"h1\", \"children\": [{\"text\": \"Video - Taking or Adding a Customer Photo\"}], \"data-id\": \"video-taking-or-adding-a-customer-photo\"}, {\"type\": \"p\", \"children\": [{\"text\": \"In this video we show you how to take a customer's photo and add it to their record using POS. To use this feature you will need a webcam attached to the computer, or using POS on a tablet.\"}]}, {\"type\": \"p\", \"children\": [{\"text\": \"\"}]}]",
+  "fixes_applied": {
+    "urls": {
+      "leaving_cleaned": 0,
+      "unsafe_removed": 0,
+      "s_article_mapped": 0,
+      "s_article_removed": 0,
+      "fragments_mapped": 0,
+      "fragments_stripped": 0,
+      "internal_fragments_fixed": 0,
+      "double_id_fixed": 0,
+      "kb_fragments_stripped": 0
+    },
+    "toc": 0,
+    "related": 1,
+    "lists": 0,
+    "headings": 0,
+    "reconverted": false
+  }
+}

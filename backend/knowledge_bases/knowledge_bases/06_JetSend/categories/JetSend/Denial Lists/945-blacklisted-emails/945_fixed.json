@@ -1,0 +1,16 @@
+{
+  "articleID": 945,
+  "knowledgeCategoryID": 68,
+  "sort": 0,
+  "name": "Blacklisted Emails",
+  "body": "<blockquote class=\"blockquote\">Note that the blacklisted email addresses are managed by JetSend and cannot be modified by you.</blockquote>\n<p> </p>\n<p><strong>Difference between blacklisted email addresses and suppressed email addresses</strong></p>\n<p>The blacklisted email addresses are managed by JetSend and result of serious concern to reputation, such as hard bounces.</p>\n<p>The suppression list (of email addresses) is managed by you and you can add or remove email addresses based on your requirement. It is recommended that you suppress the email addresses caused by soft bounces.</p>\n<p> </p>\n<h2 data-id=\"finding-if-an-email-is-blacklisted\">Finding if an Email is Blacklisted</h2>\n<p>On the Blacklisted Emails tab of the Settings page, you can search for an email address to check if it has been blacklisted.</p>\n<p><img alt=\"User-added image\" height=\"232\" src=\"https://us.v-cdn.net/6038474/uploads/attachments/migrated/1.05T5g00000Ao4joEAB.png\" width=\"500\" loading=\"lazy\" style=\"height: 232px; width: 500px\" srcset=\"https://us.v-cdn.net/cdn-cgi/image/quality=80,format=auto,fit=scale-down,height=300,width=300/6038474/uploads/attachments/migrated/1.05T5g00000Ao4joEAB.png 300w, https://us.v-cdn.net/cdn-cgi/image/quality=80,format=auto,fit=scale-down,height=600,width=600/6038474/uploads/attachments/migrated/1.05T5g00000Ao4joEAB.png 600w, https://us.v-cdn.net/cdn-cgi/image/quality=80,format=auto,fit=scale-down,height=800,width=800/6038474/uploads/attachments/migrated/1.05T5g00000Ao4joEAB.png 800w, https://us.v-cdn.net/cdn-cgi/image/quality=80,format=auto,fit=scale-down,height=1200,width=1200/6038474/uploads/attachments/migrated/1.05T5g00000Ao4joEAB.png 1200w, https://us.v-cdn.net/cdn-cgi/image/quality=80,format=auto,fit=scale-down,height=1600,width=1600/6038474/uploads/attachments/migrated/1.05T5g00000Ao4joEAB.png 1600w, https://us.v-cdn.net/cdn-cgi/image/quality=80,format=auto,fit=scale-down,height=2000,width=2000/6038474/uploads/attachments/migrated/1.05T5g00000Ao4joEAB.png 2000w, https://us.v-cdn.net/6038474/uploads/attachments/migrated/1.05T5g00000Ao4joEAB.png\" sizes=\"100vw\" class=\"embedImage-img importedEmbed-img\"></img></p>",
+  "format": "html",
+  "featured": false,
+  "locale": "en",
+  "status": "published",
+  "foreignID": null,
+  "dateUpdated": "2024-04-16T18:14:46+00:00",
+  "_source_kb_id": 6,
+  "_source_kb_name": "JetSend",
+  "_sync_date": "2026-02-02T05:55:08.184223+00:00"
+}

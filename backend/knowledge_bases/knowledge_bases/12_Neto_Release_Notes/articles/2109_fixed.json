@@ -1,0 +1,16 @@
+{
+  "articleID": 2109,
+  "knowledgeCategoryID": 451,
+  "sort": 8,
+  "name": "Neto by Maropost Release Notes – 17 Sep 2024",
+  "body": "[{\"type\":\"h2\",\"children\":[{\"text\":\"Overview\"}]},{\"type\":\"p\",\"children\":[{\"text\":\"This release contains updates of the Ecommerce version v.\"},{\"text\":\"6.306.0 \",\"bold\":true},{\"text\":\"to\"},{\"text\":\" v.6.307.0\",\"bold\":true}]},{\"type\":\"p\",\"children\":[{\"text\":\" \"}]},{\"type\":\"h2\",\"children\":[{\"text\":\"Enhancements and Updates\",\"bold\":true}]},{\"type\":\"h3\",\"children\":[{\"text\":\"Couriers Please Service Code Updates\",\"bold\":true}]},{\"type\":\"p\",\"children\":[{\"type\":\"p\",\"children\":[{\"text\":\"Neto has updated the service codes for the 250 gm weight class for the Courier Please shipping option. The updated codes are as follows-\"}]},{\"type\":\"rich_embed_card\",\"children\":[{\"text\":\"\"}],\"dataSourceType\":\"image\",\"url\":\"https://us.v-cdn.net/6038474/uploads/attachments/migrated/Screenshot20240917at64800AM.068J1000004cNd7IAE.png\",\"embedData\":{\"url\":\"https://us.v-cdn.net/6038474/uploads/attachments/migrated/Screenshot20240917at64800AM.068J1000004cNd7IAE.png\",\"name\":\"Accepted Service Codes\",\"embedType\":\"image\",\"float\":\"none\",\"height\":164,\"width\":1336}},{\"type\":\"p\",\"children\":[{\"text\":\" \"}]}]},{\"type\":\"p\",\"children\":[{\"type\":\"p\",\"children\":[{\"text\":\"The updated service codes will be displayed as following in the control panel-\"}]},{\"type\":\"rich_embed_card\",\"children\":[{\"text\":\"\"}],\"dataSourceType\":\"image\",\"url\":\"https://us.v-cdn.net/6038474/uploads/attachments/migrated/Screenshot20240828at93810AM.068J1000004cPqEIAU.png\",\"embedData\":{\"url\":\"https://us.v-cdn.net/6038474/uploads/attachments/migrated/Screenshot20240828at93810AM.068J1000004cPqEIAU.png\",\"name\":\"Service Codes displayed in Cpanel\",\"embedType\":\"image\",\"float\":\"none\",\"height\":792,\"width\":1600}},{\"type\":\"p\",\"children\":[{\"text\":\" \"}]}]},{\"type\":\"h2\",\"children\":[{\"text\":\"Fixes\",\"bold\":true}]},{\"type\":\"p\",\"children\":[{\"text\":\"eBay GetTransaction Process - Timeout Issue\",\"bold\":true}]},{\"type\":\"p\",\"children\":[{\"text\":\"In some cases, while creating orders via eBay sales channel, the corresponding orders were not being recorded at Neto’s end as created. Further investigation revealed that while processing the eBay GetTransaction API, timeout was one of the issues that was leading to a ‘Stopping’ of the API. This issue has been identified and resolved.\"}]},{\"type\":\"p\",\"children\":[{\"text\":\" \"}]},{\"type\":\"p\",\"children\":[{\"text\":\"Neto POS Bug Report function fixed to send new report emails\",\"bold\":true}]},{\"type\":\"p\",\"children\":[{\"text\":\"The Neto POS Bug Report feature, when used to report a bug in the system by by the salesperson at the register, Neto Support was not able to receive the bug report. This issue has been fixed. \"}]},{\"type\":\"p\",\"children\":[{\"text\":\"\"}]},{\"type\":\"p\",\"children\":[{\"text\":\"\"}]}]",
+  "format": "rich2",
+  "featured": false,
+  "locale": "en",
+  "status": "published",
+  "foreignID": null,
+  "dateUpdated": "2025-07-14T15:22:42+00:00",
+  "_source_kb_id": 12,
+  "_source_kb_name": "Neto Release Notes",
+  "_sync_date": "2026-02-02T05:58:57.196042+00:00"
+}

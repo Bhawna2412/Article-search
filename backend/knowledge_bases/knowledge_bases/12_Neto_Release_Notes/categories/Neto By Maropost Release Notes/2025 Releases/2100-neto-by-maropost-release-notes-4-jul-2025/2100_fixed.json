@@ -1,0 +1,16 @@
+{
+  "articleID": 2100,
+  "knowledgeCategoryID": 450,
+  "sort": 10,
+  "name": "Neto by Maropost Release Notes – 4 Jul 2025",
+  "body": "[{\"type\":\"p\",\"children\":[{\"text\":\"This release contains a hotfix resolving the Maropost Identity session timeout issue.\"}]},{\"type\":\"p\",\"children\":[{\"text\":\" \"}]},{\"type\":\"p\",\"children\":[{\"text\":\"The fixes and updates include the following:\"}]},{\"type\":\"ul\",\"children\":[{\"type\":\"li\",\"children\":[{\"type\":\"lic\",\"children\":[{\"text\":\"Session Timeout Issue\",\"bold\":true},{\"text\":\":\\nThe frequent logout issue has been fixed by improving session handling. The default session timeout in case of inactivity is 1 hour. You can, however, configure it to be up to 7 days in the “sess_active” config (available at Settings & Tools > All Settings & Tools > Advanced Configurations).\\n\"},{\"text\":\"Note\",\"bold\":true},{\"text\":\": We recommend keeping the time-out configuration to 1 hour or less for security reasons.\"}]}]},{\"type\":\"li\",\"children\":[{\"type\":\"lic\",\"children\":[{\"text\":\"Remember Me Functionality:\",\"bold\":true},{\"text\":\"\\nThe Remember Me functionality has been fixed to maintain user sessions. The Remember Me option on the login page allows you to skip entering Maropost Identity credentials and OTP for up to 30 days, except in case of manual sign-out.\"}]}]},{\"type\":\"li\",\"children\":[{\"type\":\"lic\",\"children\":[{\"text\":\"Page Not Found Errors:\",\"bold\":true},{\"text\":\"\\nThe Page Not Found errors have been fixed, and so now you’ll get a better navigation experience.\"}]}]},{\"type\":\"li\",\"children\":[{\"type\":\"lic\",\"children\":[{\"text\":\"Erroneous Log Entry:\",\"bold\":true},{\"text\":\"\\nFixed an issue where an entry was added to the Staff User Log every 7 seconds, with the note \\\"check_maropost_user_session_ajax\\\". This has been resolved.\"}]}]}]},{\"type\":\"p\",\"children\":[{\"text\":\"\"}]}]",
+  "format": "rich2",
+  "featured": false,
+  "locale": "en",
+  "status": "published",
+  "foreignID": null,
+  "dateUpdated": "2025-07-09T16:58:07+00:00",
+  "_source_kb_id": 12,
+  "_source_kb_name": "Neto Release Notes",
+  "_sync_date": "2026-02-02T05:59:09.358032+00:00"
+}

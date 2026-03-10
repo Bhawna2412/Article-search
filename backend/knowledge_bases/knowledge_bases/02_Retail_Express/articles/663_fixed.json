@@ -1,0 +1,26 @@
+{
+  "articleID": 663,
+  "name": "Notifications bar",
+  "slug": "663-notifications-bar",
+  "format": "rich2",
+  "locale": "en",
+  "body": "[{\"type\": \"p\", \"children\": [{\"text\": \"You can stay informed about system updates and important messages through the Retail Express notifications bar, helping your retail operations maintain awareness of platform changes and operational alerts. This capability delivers timely information about new features, system status, and important announcements, which helps ensure your team stays current with platform developments and operational requirements.\"}]}, {\"type\": \"p\", \"children\": [{\"text\": \"Setting up attention to notification communications enables your retail operations to adapt to system changes proactively, helping optimize platform utilization and compliance with updates. This helps retail businesses stay informed about enhancements and requirements that could impact operations or provide new capabilities for improving business performance.\"}]}, {\"type\": \"p\", \"children\": [{\"text\": \"The \"}, {\"text\": \"Notifications Bar\", \"bold\": true}, {\"text\": \" is a small section on your Retail Express Home Page that keeps you informed about the\"}]}, {\"type\": \"ul\", \"children\": [{\"type\": \"li\", \"children\": [{\"type\": \"lic\", \"children\": [{\"text\": \"Latest updates\"}]}]}, {\"type\": \"li\", \"children\": [{\"type\": \"lic\", \"children\": [{\"text\": \"Feature releases,\"}]}]}, {\"type\": \"li\", \"children\": [{\"type\": \"lic\", \"children\": [{\"text\": \"Upcoming events, and\"}]}]}, {\"type\": \"li\", \"children\": [{\"type\": \"lic\", \"children\": [{\"text\": \"Helpful tips and tricks from Retail Express.\"}]}]}]}, {\"type\": \"p\", \"children\": [{\"text\": \"\"}]}, {\"type\": \"p\", \"children\": [{\"text\": \"You can also \"}, {\"type\": \"a\", \"url\": \"https://status-retailcloud.maropost.com/\", \"children\": [{\"text\": \"subscribe\"}]}, {\"text\": \" to receive regular updates and stay informed about the latest news and features.\"}]}, {\"type\": \"rich_embed_card\", \"dataSourceType\": \"image\", \"url\": \"https://us.v-cdn.net/6038474/uploads/attachments/migrated/Screenshot20240930at50004PM.05TJ100000Gq4S2MAJ.png\", \"embedData\": {\"url\": \"https://us.v-cdn.net/6038474/uploads/attachments/migrated/Screenshot20240930at50004PM.05TJ100000Gq4S2MAJ.png\", \"embedType\": \"image\", \"displaySize\": \"large\", \"float\": \"none\", \"name\": \"User-added image\", \"width\": 900, \"height\": 481}, \"children\": [{\"text\": \"\"}]}, {\"type\": \"p\", \"children\": [{\"text\": \"\"}]}]",
+  "fixes_applied": {
+    "urls": {
+      "leaving_cleaned": 1,
+      "unsafe_removed": 0,
+      "s_article_mapped": 0,
+      "s_article_removed": 0,
+      "fragments_mapped": 0,
+      "fragments_stripped": 0,
+      "internal_fragments_fixed": 0,
+      "double_id_fixed": 0,
+      "kb_fragments_stripped": 0
+    },
+    "toc": 0,
+    "related": 1,
+    "lists": 0,
+    "headings": 0,
+    "reconverted": false
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "articleID": 1181,
+  "name": "News: Afterpay launches new \"Afterpay Card\"",
+  "slug": "1181-news-afterpay-launches-new-afterpay-card",
+  "format": "rich2",
+  "locale": "en",
+  "body": "[{\"type\": \"p\", \"children\": [{\"text\": \"You can understand the Afterpay Card launch and its implications for \"}, {\"text\": \"Retail Express\", \"bold\": true}, {\"text\": \" payment processing to ensure smooth transactions for customers using this new payment method. This information helps prepare your retail operations for evolving payment technologies, supporting updated checkout processes and maintaining seamless customer experience with buy-now-pay-later options.\"}]}, {\"type\": \"p\", \"children\": [{\"text\": \"Understanding Afterpay Card functionality involves learning about card processing differences, terminal compatibility, and any required system updates. When you stay informed about payment innovations, you can expect smoother customer transactions, better payment processing efficiency, and maintained competitiveness in offering modern payment options across retail locations.\"}]}, {\"type\": \"p\", \"children\": [{\"text\": \"\"}]}, {\"type\": \"h1\", \"children\": [{\"text\": \"News: Afterpay launches new \\\"Afterpay Card\\\"\"}], \"data-id\": \"news-afterpay-launches-new-afterpay-card\"}, {\"type\": \"p\", \"children\": [{\"text\": \"Afterpay has launched a new method for customers to pay for sales using the new \\\"AfterPay Card\\\", replacing the previous barcode system.\"}]}, {\"type\": \"rich_embed_card\", \"dataSourceType\": \"image\", \"url\": \"https://us.v-cdn.net/6038474/uploads/attachments/migrated/image.05T5g00000ppVgJEAU.jpg\", \"embedData\": {\"url\": \"https://us.v-cdn.net/6038474/uploads/attachments/migrated/image.05T5g00000ppVgJEAU.jpg\", \"embedType\": \"image\", \"displaySize\": \"large\", \"float\": \"none\", \"name\": \"afterpay_logo.jpg\"}, \"children\": [{\"text\": \"\"}]}, {\"type\": \"p\", \"children\": [{\"text\": \"You can use either method with Retail Express. Once you have submitted your details to Afterpay for the new Afterpay Card you will be able to use both the card/pin-pad method and the former barcode method until you disable the Barcode method.\"}]}, {\"type\": \"p\", \"children\": [{\"text\": \"Update:\", \"bold\": true}, {\"text\": \" Afterpay has announced Barcode payments will no longer be accepted after 30 September 2021.\"}]}, {\"type\": \"p\", \"children\": [{\"text\": \"\"}]}, {\"type\": \"h2\", \"children\": [{\"type\": \"a\", \"url\": \"\", \"children\": [{\"text\": \"\"}]}, {\"text\": \"Using the new Afterpay Card\"}], \"data-id\": \"using-the-new-afterpay-card\"}, {\"type\": \"p\", \"children\": [{\"text\": \"If you have been migrated to the new system by Afterpay already, you will just need to use your standard \"}, {\"text\": \"EFTPOS payment methods\"}, {\"text\": \" to process a payment (not the traditional Afterpay button within POS).\"}]}, {\"type\": \"p\", \"children\": [{\"text\": \"See the Afterpay Knowledge Base article for more information:\"}, {\"type\": \"a\", \"url\": \"https://www.afterpay.com/en-AU/afterpay-card#:~:text=It\\u2019s really easy to shop in-store with Afterpay.\", \"children\": [{\"text\": \"How does In-Store Afterpay work?\"}]}]}, {\"type\": \"p\", \"children\": [{\"text\": \"\"}]}, {\"type\": \"h2\", \"children\": [{\"type\": \"a\", \"url\": \"\", \"children\": [{\"text\": \"\"}]}, {\"text\": \"Reporting\"}], \"data-id\": \"reporting\"}, {\"type\": \"p\", \"children\": [{\"text\": \"You will need to use the \"}, {\"type\": \"a\", \"url\": \"https://help.afterpay.com/hc/en-au/articles/217427506\", \"children\": [{\"text\": \"Afterpay Reconciliation Report\"}]}, {\"text\": \" to obtain a list of transactions paid via Afterpay.\"}]}, {\"type\": \"p\", \"children\": [{\"text\": \"\"}]}, {\"type\": \"h2\", \"children\": [{\"type\": \"a\", \"url\": \"\", \"children\": [{\"text\": \"\"}]}, {\"text\": \"More information\"}], \"data-id\": \"more-information\"}, {\"type\": \"p\", \"children\": [{\"text\": \"For more information about the new Afterpay Card the following Afterpay information links may assist you further:\"}]}, {\"type\": \"ul\", \"children\": [{\"type\": \"li\", \"children\": [{\"type\": \"lic\", \"children\": [{\"type\": \"a\", \"url\": \"https://help.afterpay.com/hc/en-au/articles/900003733466-Afterpay-Card-Launching-in-Australia-in-2021\", \"children\": [{\"text\": \"Integration details and FAQs\"}]}]}]}, {\"type\": \"li\", \"children\": [{\"type\": \"lic\", \"children\": [{\"type\": \"a\", \"url\": \"https://www.afterpay.com/en-AU/afterpay-card#:~:text=It\\u2019s really easy to shop in-store with Afterpay.\", \"children\": [{\"text\": \"How does In-Store Afterpay work?\"}]}]}]}]}, {\"type\": \"p\", \"children\": [{\"text\": \"\"}]}]",
+  "fixes_applied": {
+    "urls": {
+      "leaving_cleaned": 4,
+      "unsafe_removed": 0,
+      "s_article_mapped": 0,
+      "s_article_removed": 1,
+      "fragments_mapped": 0,
+      "fragments_stripped": 0,
+      "internal_fragments_fixed": 0,
+      "double_id_fixed": 0,
+      "kb_fragments_stripped": 0
+    },
+    "toc": 0,
+    "related": 1,
+    "lists": 0,
+    "headings": 0,
+    "reconverted": false
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "articleID": 1245,
+  "knowledgeCategoryID": 1,
+  "sort": 82,
+  "name": "Internal - Generating an SSL certificate (CSR key)",
+  "body": "<h1 data-id=\"internal-generating-an-ssl-certificate-csr-key\">Internal - Generating an SSL certificate (CSR key)</h1>\n<p>To generate a CSR:</p>\n<ul><li>Log onto WHM for the appropriate server</li><li>To find out if you?re on the correct server, view the accounts under the ?List Accounts? section</li><li>In the ?SSL? section open ?Generate an SSL Certificate and Signing Request?</li><li>Leave the Key Size as ?2,048? and continue to the next section</li><li>Enter the following sections as per the form from the client:\n<ul><li>Domain</li><li>City</li><li>State (full spelling e.g. Queensland, not QLD)</li><li>Country</li><li>Company Name</li></ul></li><li>Press <strong>Create</strong></li><li>Copy the information into the email macro in zendesk and send to the client</li></ul><p>To install a certificate:</p>\n<ul><li>Click on List Accounts</li><li>Click the CPanel icon</li><li>Open the SSL/TLS Manager</li><li>Paste the certificate in the box above</li><li>Press Save</li><li>Repeat for the Intermediate certificate</li><li>If the install is greyed out, the site hasn?t been pushed live and the URL doesn?t match what?s on the account.</li></ul>",
+  "format": "html",
+  "featured": false,
+  "locale": "en",
+  "status": "published",
+  "foreignID": null,
+  "dateUpdated": "2023-06-01T04:06:37+00:00",
+  "_source_kb_id": 1,
+  "_source_kb_name": "Help Articles",
+  "_sync_date": "2026-02-02T05:48:26.576859+00:00"
+}

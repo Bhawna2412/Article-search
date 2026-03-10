@@ -1,0 +1,27 @@
+{
+  "articleID": 1486,
+  "name": "Crazy Egg",
+  "slug": "1486-crazy-egg",
+  "format": "rich2",
+  "locale": "en",
+  "body": "[{\"type\": \"rich_embed_card\", \"dataSourceType\": \"image\", \"url\": \"https://www.neto.com.au/assets/thumb/APP-59.jpg\", \"embedData\": {\"url\": \"https://www.neto.com.au/assets/thumb/APP-59.jpg\", \"embedType\": \"image\", \"displaySize\": \"large\", \"float\": \"none\"}, \"children\": [{\"text\": \"\"}]}, {\"type\": \"h3\", \"children\": [{\"text\": \"This add-on was built by Crazy Egg.\"}]}, {\"type\": \"p\", \"children\": [{\"type\": \"a\", \"url\": \"http://www.crazyegg.com/\", \"children\": [{\"text\": \"Visit Add-On Website\"}]}]}, {\"type\": \"p\", \"children\": [{\"text\": \"For support with this add-on \"}, {\"type\": \"a\", \"url\": \"https://support.crazyegg.com/hc/en-us/requests/new\", \"children\": [{\"text\": \"contact Crazy Egg\"}]}, {\"text\": \".\"}]}, {\"type\": \"h2\", \"children\": [{\"text\": \"Set up the Crazy Egg add-on\"}]}, {\"type\": \"ol\", \"children\": [{\"type\": \"li\", \"children\": [{\"type\": \"lic\", \"children\": [{\"text\": \"Register your account for \"}, {\"type\": \"a\", \"url\": \"http://www.crazyegg.com/\", \"children\": [{\"text\": \"Crazy Egg\"}]}, {\"text\": \".\"}]}]}, {\"type\": \"li\", \"children\": [{\"type\": \"lic\", \"children\": [{\"text\": \"Locate your code by following\\u00a0the instructions provided \"}, {\"type\": \"a\", \"url\": \"https://app.crazyegg.com/instructions\", \"children\": [{\"text\": \"here\"}]}, {\"text\": \". Copy this code so that it can be entered into Neto.\"}]}]}, {\"type\": \"li\", \"children\": [{\"type\": \"lic\", \"children\": [{\"text\": \"In your Neto control panel select \"}, {\"text\": \"Addons\", \"bold\": true}, {\"text\": \" from the menu.\"}]}]}, {\"type\": \"li\", \"children\": [{\"type\": \"lic\", \"children\": [{\"text\": \"Find the Crazy Egg add-on and click the \"}, {\"text\": \"Install\", \"bold\": true}, {\"text\": \" button.\"}]}]}, {\"type\": \"li\", \"children\": [{\"type\": \"lic\", \"children\": [{\"text\": \"Paste the code you copied previously, and click the \"}, {\"text\": \"Save\", \"bold\": true}, {\"text\": \"button.\"}]}]}]}]",
+  "fixes_applied": {
+    "rebrand": 0,
+    "urls": {
+      "leaving_cleaned": 4,
+      "unsafe_removed": 0,
+      "s_article_mapped": 0,
+      "s_article_removed": 0,
+      "fragments_mapped": 0,
+      "fragments_stripped": 0,
+      "internal_fragments_fixed": 0,
+      "double_id_fixed": 0,
+      "kb_fragments_stripped": 0
+    },
+    "toc": 0,
+    "related": 0,
+    "lists": 5,
+    "headings": 1,
+    "reconverted": false
+  }
+}

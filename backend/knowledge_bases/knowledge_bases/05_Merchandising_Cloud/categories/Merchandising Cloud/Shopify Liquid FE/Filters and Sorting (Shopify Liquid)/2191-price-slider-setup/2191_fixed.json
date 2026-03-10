@@ -1,0 +1,31 @@
+{
+  "articleID": 2191,
+  "name": "Price Slider Setup",
+  "format": "rich2",
+  "locale": "en",
+  "body": "[{\"type\": \"p\", \"children\": [{\"text\": \"You can implement a price slider filter to provide customers with an intuitive way to refine product searches by price range, offering a more user-friendly alternative to checkbox-based price filters. This interactive slider interface helps customers quickly narrow down products to their budget, improving the search experience.\"}]}, {\"type\": \"p\", \"children\": [{\"text\": \"\"}]}, {\"type\": \"p\", \"children\": [{\"text\": \"Price sliders enable more precise price range selection compared to predefined checkbox ranges, giving customers greater control over their search refinement. This flexible filtering approach can help improve product discovery by allowing shoppers to easily adjust price parameters to find products that match their budget, potentially leading to better search satisfaction and higher conversion rates.\"}]}, {\"type\": \"p\", \"children\": [{\"text\": \"\"}]}, {\"type\": \"p\", \"children\": [{\"text\": \"Many clients prefer using a price slider over checkboxes for their price filter. This guide will help you set up a price slider in your Shopify store.\"}]}, {\"type\": \"rich_embed_card\", \"children\": [{\"text\": \"\"}], \"dataSourceType\": \"image\", \"url\": \"https://us.v-cdn.net/6038474/uploads/1QYT3OTQU5WQ/2cf6689-screenshot-2024-06-27-123325.png\", \"embedData\": {\"url\": \"https://us.v-cdn.net/6038474/uploads/1QYT3OTQU5WQ/2cf6689-screenshot-2024-06-27-123325.png\", \"name\": \"2cf6689-Screenshot_2024-06-27_123325.png\", \"type\": \"image/png\", \"size\": 34548, \"width\": 418, \"height\": 814, \"displaySize\": \"large\", \"float\": \"none\", \"downloadUrl\": \"https://galaxy.maropost.com/api/v2/media/download-by-url?url=https%3A%2F%2Fus.v-cdn.net%2F6038474%2Fuploads%2F1QYT3OTQU5WQ%2F2cf6689-screenshot-2024-06-27-123325.png\", \"mediaID\": 1081, \"dateInserted\": \"2025-10-21T18:30:37+00:00\", \"insertUserID\": 1178, \"foreignType\": \"embed\", \"foreignID\": \"1178\", \"embedType\": \"image\"}}, {\"type\": \"p\", \"children\": [{\"text\": \"\\n\"}]}, {\"type\": \"h3\", \"children\": [{\"text\": \"1. Navigate to Slider App\"}]}, {\"type\": \"p\", \"children\": [{\"text\": \"First, navigate to the slider app within your Shopify theme.\"}]}, {\"type\": \"p\", \"children\": [{\"text\": \"\"}]}, {\"type\": \"h3\", \"children\": [{\"text\": \"2. Modify the Liquid Code\"}]}, {\"type\": \"p\", \"children\": [{\"text\": \"Next, you need to modify the\\u00a0\"}, {\"text\": \"findify-filter-range.liquid\", \"code\": true}, {\"text\": \"\\u00a0file to replace the checkboxes with the price slider.\"}]}, {\"type\": \"ol\", \"children\": [{\"type\": \"li\", \"children\": [{\"text\": \"{% render 'findify-filter-range-slider', min: min, max: max, name: name, from: sliderFrom, to: sliderTo %}\"}]}, {\"type\": \"li\", \"children\": [{\"text\": \"{% render 'findify-filter-checkbox',    name: name,    type: type,    is_selected: is_selected,    value: value,    text: text,    count: count,    component: component%}\"}]}, {\"type\": \"li\", \"children\": [{\"text\": \"{% render 'findify-filter-price-range',  name: name,  currency: currency,  min: min,  max: max%}\"}]}]}, {\"type\": \"p\", \"children\": [{\"text\": \"\"}]}, {\"type\": \"h3\", \"children\": [{\"text\": \"3. Customize the Slider\"}]}, {\"type\": \"p\", \"children\": [{\"text\": \"You can further customize the slider by editing the\\u00a0\"}, {\"text\": \"findify-filter-range-slider.liquid\", \"code\": true}, {\"text\": \"\\u00a0file. Here is an example of how you can initialize the SwiperJS slider:\"}]}, {\"type\": \"code_block\", \"children\": [{\"type\": \"code_line\", \"children\": [{\"text\": \"<div class=\\\"swiper-container\\\">  <div class=\\\"swiper-wrapper\\\">    <div class=\\\"swiper-slide\\\" data-min=\\\"{{ min }}\\\" data-max=\\\"{{ max }}\\\">      <input type=\\\"range\\\" min=\\\"{{ min }}\\\" max=\\\"{{ max }}\\\" value=\\\"{{ from }}\\\" class=\\\"slider\\\" id=\\\"priceSliderFrom\\\">      <input type=\\\"range\\\" min=\\\"{{ min }}\\\" max=\\\"{{ max }}\\\" value=\\\"{{ to }}\\\" class=\\\"slider\\\" id=\\\"priceSliderTo\\\">    </div>  </div>  <!-- Add Swiper controls if needed --></div><script>  var swiper = new Swiper('.swiper-container', {    // Swiper options  });  // Additional JavaScript to handle the slider values  document.getElementById('priceSliderFrom').addEventListener('input', function(event) {    // Update the 'from' value  });  document.getElementById('priceSliderTo').addEventListener('input', function(event) {    // Update the 'to' value  });</script>\", \"code\": true}]}], \"lang\": \"twig\"}, {\"type\": \"p\", \"children\": [{\"text\": \"\"}]}, {\"type\": \"h2\", \"children\": [{\"text\": \"Conclusion\"}]}, {\"type\": \"p\", \"children\": [{\"text\": \"By following these steps, you will replace the checkbox price filter with a more user-friendly price slider in your Shopify store. This enhances the user experience by allowing customers to easily adjust the price range using a visual slider. For advanced customization, you can directly modify the CSS and JavaScript files associated with the slider component.\"}]}, {\"type\": \"p\", \"children\": [{\"text\": \"For further assistance or inquiries, feel free to contact us on \"}, {\"type\": \"a\", \"url\": \"mailto:support@maropost.com\", \"children\": [{\"text\": \"support@maropost.com\"}]}, {\"text\": \".\"}]}, {\"type\": \"p\", \"children\": [{\"text\": \"\"}]}]",
+  "knowledgeCategoryID": 396,
+  "sort": 2,
+  "status": "published",
+  "_source_kb_id": 5,
+  "_source_kb_name": "Merchandising Cloud",
+  "_fix_date": "2026-02-02T06:05:46.868257+00:00",
+  "fixes_applied": {
+    "urls": {
+      "leaving_cleaned": 0,
+      "unsafe_removed": 0,
+      "s_article_mapped": 0,
+      "s_article_removed": 0,
+      "fragments_mapped": 0,
+      "fragments_stripped": 0,
+      "internal_fragments_fixed": 0,
+      "double_id_fixed": 0,
+      "kb_fragments_stripped": 0
+    },
+    "toc": 0,
+    "related": 1,
+    "lists": 0,
+    "headings": 0,
+    "reconverted": false
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "articleID": 1468,
+  "knowledgeCategoryID": 247,
+  "sort": 2,
+  "name": "Australia Post International",
+  "body": "[{\"type\": \"rich_embed_card\", \"dataSourceType\": \"image\", \"url\": \"https://www.neto.com.au/assets/thumb/APP-37.jpg\", \"embedData\": {\"url\": \"https://www.neto.com.au/assets/thumb/APP-37.jpg\", \"embedType\": \"image\", \"displaySize\": \"large\", \"float\": \"none\"}, \"children\": [{\"text\": \"\"}]}, {\"type\": \"h2\", \"children\": [{\"text\": \"This add-on was built by Maropost\"}]}, {\"type\": \"p\", \"children\": [{\"text\": \"Add-ons and Integrations built in-house by Maropost are documented and supported by our customer service team. If you're having issues with this integration, \"}, {\"type\": \"a\", \"url\": \"https://www.netohq.com/support/s/ask-us\", \"children\": [{\"text\": \"let us know\"}]}, {\"text\": \"!\"}]}, {\"type\": \"p\", \"children\": [{\"text\": \"Tip\", \"bold\": true}, {\"text\": \": Shipping label and manifest features require the \"}, {\"text\": \"Neto Commerce Ship\", \"bold\": true}, {\"text\": \" add-on.\"}]}, {\"type\": \"p\", \"children\": [{\"text\": \"To install the Australia Post International add-on:\"}]}, {\"type\": \"ol\", \"children\": [{\"type\": \"li\", \"children\": [{\"type\": \"lic\", \"children\": [{\"text\": \"In your Neto control panel navigate to the \"}, {\"text\": \"Addons\", \"bold\": true}, {\"text\": \" menu.\"}]}]}, {\"type\": \"li\", \"children\": [{\"type\": \"lic\", \"children\": [{\"text\": \"In the Shipping section locate Australia Post International and click the \"}, {\"text\": \"Install\", \"bold\": true}, {\"text\": \" button.\"}]}]}, {\"type\": \"li\", \"children\": [{\"type\": \"lic\", \"children\": [{\"text\": \"Fill in the \"}, {\"type\": \"a\", \"url\": \"https://forms.neto.com.au/services/shippingcarrierlabelsetup.html\", \"children\": [{\"text\": \"Shipping Carrier Label Setup Form\"}]}, {\"text\": \" and Neto staff will set up the shipping labels for you for free.\"}]}]}]}]",
+  "format": "rich2",
+  "featured": false,
+  "locale": "en",
+  "status": "published",
+  "foreignID": null,
+  "dateUpdated": "2025-12-11T04:36:02+00:00",
+  "_source_kb_id": 4,
+  "_source_kb_name": "Neto By Maropost",
+  "_sync_date": "2026-02-06T07:18:32.448935+00:00",
+  "_incremental_update": true
+}

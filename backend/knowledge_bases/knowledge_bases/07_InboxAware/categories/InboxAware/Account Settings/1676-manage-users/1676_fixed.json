@@ -1,0 +1,16 @@
+{
+  "articleID": 1676,
+  "knowledgeCategoryID": 5,
+  "sort": null,
+  "name": "Manage Users",
+  "body": "<p>As an Account Admin, you use this screen to add new users to an account, to edit existing users’ role-based permissions, and to remove a user from the account.</p>\n<p>Click the Account Setting icon in the navigation bar and then click the Users tab.</p>\n<hr></hr><h3 id=\"add-a-user-to-your-account\" data-id=\"add-a-user-to-your-account\">Add a User to your Account</h3>\n<p>To add a new user to your account:</p>\n<ol><li>\n<p>Click the Add User button.</p>\n\t</li><li>\n<p>Enter the user’s email address</p>\n\t</li><li>\n<p>Assign the user’s role.</p>\n\t</li><li>\n<p>Click the <b>Save</b> button to create the user.</p>\n\t</li></ol><p>If the email address of this user does not exist in InboxAware then you’ll be prompted to create a default password for this user.</p>\n<div><b>Tip</b>: When you notify the user of the InboxAware access include instructions that the user should change their password immediately.</div>\n<p>InboxAware allows a user to have access to multiple accounts. If you are adding a user to an account and you’re not prompted to provide a default password, it simply means that the user already exists, and you’re just extending the user’s access to this account.</p>\n<hr></hr><h3 id=\"remove-a-user-from-your-account\" data-id=\"remove-a-user-from-your-account\">Remove a User from your Account</h3>\n<p>To remove a user from your account:</p>\n<ol><li>\n<p>Click the vertical three dots in the Action column at the right of the user’s email address.</p>\n\t</li><li>\n<p>Click <b>Delete User</b> from the action menu.</p>\n\t</li></ol><p>A user is still able to access to the other assigned accounts. However, users who are not assigned to any accounts become inactive and are no longer able to log in to InboxAware.</p>\n<hr></hr><h3 id=\"change-a-user’s-role-permissions\" data-id=\"change-a-user-s-role-permissions\">Change a User’s Role Permissions</h3>\n<p>To change a user’s role permissions:</p>\n<ol><li>\n<p>Click the vertical three dots in the Action column at the right of the user’s email address.</p>\n\t</li><li>\n<p>Select <b>Edit Permission</b> from the action menu.</p>\n\t</li><li>\n<p>Select the user’s Role.</p>\n\t</li><li>\n<p>Click <b>Save Changes</b>.</p>\n\t</li></ol>",
+  "format": "html",
+  "featured": false,
+  "locale": "en",
+  "status": "published",
+  "foreignID": null,
+  "dateUpdated": "2022-03-22T00:52:49+00:00",
+  "_source_kb_id": 7,
+  "_source_kb_name": "InboxAware",
+  "_sync_date": "2026-02-02T05:55:28.206516+00:00"
+}

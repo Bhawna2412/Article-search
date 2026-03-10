@@ -1,0 +1,26 @@
+{
+  "articleID": 1343,
+  "name": "Can I delete a user?",
+  "slug": "1343-can-i-delete-a-user",
+  "format": "rich2",
+  "locale": "en",
+  "body": "[{\"type\": \"p\", \"children\": [{\"text\": \"You can maintain complete audit trail integrity by understanding how user account management works in \"}, {\"text\": \"Retail Express\", \"bold\": true}, {\"text\": \", ensuring compliance with retail security and transaction tracking requirements. This approach helps protect your business from data integrity issues while maintaining proper accountability for all retail transactions.\"}]}, {\"type\": \"p\", \"children\": [{\"text\": \"Properly managing user accounts through deactivation rather than deletion ensures your historical transaction data remains accurate and traceable for auditing purposes. When you follow the correct user management workflow, you can expect to maintain full compliance with retail operations best practices while preserving essential links between staff members and their transaction history.\"}]}, {\"type\": \"p\", \"children\": [{\"text\": \"\"}]}, {\"type\": \"h1\", \"children\": [{\"text\": \"Can I delete a user?\"}], \"data-id\": \"can-i-delete-a-user\"}, {\"type\": \"p\", \"children\": [{\"text\": \"Users can be set to inactive, but they cannot be deleted (to retain the link with transactional data for auditing purposes).\"}]}, {\"type\": \"p\", \"children\": [{\"text\": \"You can change user details (if you've created an account by accident), or you can prevent access to your database by doing the following:\"}]}, {\"type\": \"ul\", \"children\": [{\"type\": \"li\", \"children\": [{\"type\": \"lic\", \"children\": [{\"text\": \"Change the username and password\"}]}]}, {\"type\": \"li\", \"children\": [{\"type\": \"lic\", \"children\": [{\"text\": \"Deactivate the user\"}]}]}]}, {\"type\": \"p\", \"children\": [{\"text\": \"\"}]}, {\"type\": \"p\", \"children\": [{\"text\": \"Navigate to \"}, {\"text\": \"Staff > Users\", \"bold\": true}, {\"text\": \" to edit the user account as required. For more information refer to the \"}, {\"text\": \"Managing Staff User Accounts\"}, {\"text\": \" article for more information.\"}]}, {\"type\": \"p\", \"children\": [{\"text\": \"\"}]}]",
+  "fixes_applied": {
+    "urls": {
+      "leaving_cleaned": 0,
+      "unsafe_removed": 0,
+      "s_article_mapped": 0,
+      "s_article_removed": 1,
+      "fragments_mapped": 0,
+      "fragments_stripped": 0,
+      "internal_fragments_fixed": 0,
+      "double_id_fixed": 0,
+      "kb_fragments_stripped": 0
+    },
+    "toc": 0,
+    "related": 1,
+    "lists": 0,
+    "headings": 0,
+    "reconverted": false
+  }
+}

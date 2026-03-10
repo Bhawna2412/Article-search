@@ -1,0 +1,26 @@
+{
+  "articleID": 658,
+  "name": "Retail Express Training Database",
+  "slug": "658-retail-express-training-database",
+  "format": "rich2",
+  "locale": "en",
+  "body": "[{\"type\": \"p\", \"children\": [{\"text\": \"You can practice using Retail Express features safely with training database access, helping your retail team build confidence and skills without affecting live business data. This capability provides a sandbox environment for learning and testing, which helps ensure staff are properly trained before working with actual customer and inventory data.\"}]}, {\"type\": \"p\", \"children\": [{\"text\": \"Setting up training database access enables your retail operations to onboard new staff effectively, helping optimize skill development and reduce training-related errors in production. This helps retail businesses maintain service quality by ensuring team members are thoroughly trained on Retail Express functionality before handling live transactions.\"}]}, {\"type\": \"p\", \"children\": [{\"text\": \"Retail Express has a Training database available to use so you can enter transactions and test features out without affecting your live database. Transactions cannot be deleted from a database once entered, so it's not recommended to use your live trading database for testing purposes.\"}]}, {\"type\": \"p\", \"children\": [{\"text\": \"To arrange access to our training database please contact our support team:\"}]}, {\"type\": \"p\", \"children\": [{\"type\": \"a\", \"url\": \"mailto:support@retailexpress.com.au\", \"children\": [{\"text\": \"support@retailexpress.com.au\"}]}, {\"text\": \"\"}, {\"text\": \"\", \"italic\": true}, {\"text\": \"AU: 07 3117 0530 | NZ: 0800 891 376\"}]}, {\"type\": \"p\", \"children\": [{\"text\": \"This sample demo site is a fully working (POS and Back Office) installation of Retail Express available for you and your staff to experiment, test and train with. When you're confident using the system you can then move on using your real database for live transactions.\"}]}, {\"type\": \"p\", \"children\": [{\"text\": \"You can use this training system in the lead up to familiarising yourself with Retail Express prior to going live, or for onboarding new staff. You can find the latest details any time by visiting our \"}, {\"type\": \"a\", \"url\": \"https://galaxy.maropost.com/kb/retail-express\", \"children\": [{\"text\": \"Knowledge Base\"}]}, {\"text\": \".\"}]}, {\"type\": \"p\", \"children\": [{\"text\": \"Need a training plan for your staff? Use the \"}, {\"text\": \"Role-based Training Planner\", \"bold\": true}, {\"text\": \" to help your staff focus on which training modules are based on their specific role.\"}]}, {\"type\": \"p\", \"children\": [{\"text\": \"Click here to view the Retail Express Role-Based Training Planner\"}]}, {\"type\": \"p\", \"children\": [{\"text\": \"\"}]}]",
+  "fixes_applied": {
+    "urls": {
+      "leaving_cleaned": 0,
+      "unsafe_removed": 0,
+      "s_article_mapped": 0,
+      "s_article_removed": 1,
+      "fragments_mapped": 0,
+      "fragments_stripped": 0,
+      "internal_fragments_fixed": 0,
+      "double_id_fixed": 0,
+      "kb_fragments_stripped": 0
+    },
+    "toc": 0,
+    "related": 1,
+    "lists": 0,
+    "headings": 0,
+    "reconverted": false
+  }
+}

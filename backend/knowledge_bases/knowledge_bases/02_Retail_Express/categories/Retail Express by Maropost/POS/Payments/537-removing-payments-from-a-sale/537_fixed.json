@@ -1,0 +1,26 @@
+{
+  "articleID": 537,
+  "name": "Removing Payments from a Sale",
+  "slug": "537-removing-payments-from-a-sale",
+  "format": "rich2",
+  "locale": "en",
+  "body": "[{\"type\": \"p\", \"children\": [{\"text\": \"You can correct payment errors and adjust transaction payments through removing payments from sales in \"}, {\"text\": \"Retail Express\", \"bold\": true}, {\"text\": \" POS, which enables modifying payment methods before sale completion. This payment flexibility helps retail operators handle payment corrections and customer changes efficiently, with effective payment removal capabilities typically reducing transaction errors and improving checkout efficiency across Australian retail operations.\"}]}, {\"type\": \"p\", \"children\": [{\"text\": \"Payment removal functionality in \"}, {\"text\": \"Retail Express\", \"bold\": true}, {\"text\": \" enables retail staff to adjust or correct payments during transaction processing, helping ensure accurate payment recording and supporting flexible customer service. This payment management helps ensure your retail operations can efficiently handle payment corrections while maintaining accurate financial records and smooth checkout experiences.\"}]}, {\"type\": \"p\", \"children\": [{\"text\": \"Once a payment has been processed against a sale, it can only be refunded (not deleted) to ensure an improved audit trail and improved security. This method is only intended where a payment has been entered incorrectly and needs to be updated, and should not replace the \"}, {\"text\": \"Refund\"}, {\"text\": \" functionality.\"}]}, {\"type\": \"p\", \"children\": [{\"text\": \"To reverse a payment:\"}]}, {\"type\": \"ol\", \"children\": [{\"type\": \"li\", \"children\": [{\"type\": \"lic\", \"children\": [{\"text\": \"Click the \"}, {\"text\": \"Reverse\", \"bold\": true}, {\"text\": \" arrow next to the payment\"}]}, {\"type\": \"rich_embed_card\", \"dataSourceType\": \"image\", \"url\": \"https://us.v-cdn.net/6038474/uploads/attachments/migrated/image.05T5g00000pphNOEAY.jpg\", \"embedData\": {\"url\": \"https://us.v-cdn.net/6038474/uploads/attachments/migrated/image.05T5g00000pphNOEAY.jpg\", \"embedType\": \"image\", \"displaySize\": \"large\", \"float\": \"none\", \"name\": \"mceclip0 - 2023-07-09T223954.126.png\"}, \"children\": [{\"text\": \"\"}]}]}, {\"type\": \"li\", \"children\": [{\"type\": \"lic\", \"children\": [{\"text\": \"Click \"}, {\"text\": \"OK \", \"bold\": true}, {\"text\": \"to confirm the reversal\"}]}]}, {\"type\": \"li\", \"children\": [{\"type\": \"lic\", \"children\": [{\"text\": \"Click \"}, {\"text\": \"Yes\", \"bold\": true}]}]}, {\"type\": \"li\", \"children\": [{\"type\": \"lic\", \"children\": [{\"text\": \"The Payment Reversal line will be added to the sale\"}]}, {\"type\": \"rich_embed_card\", \"dataSourceType\": \"image\", \"url\": \"https://us.v-cdn.net/6038474/uploads/attachments/migrated/image.05T5g00000pphNTEAY.jpg\", \"embedData\": {\"url\": \"https://us.v-cdn.net/6038474/uploads/attachments/migrated/image.05T5g00000pphNTEAY.jpg\", \"embedType\": \"image\", \"displaySize\": \"large\", \"float\": \"none\", \"name\": \"mceclip1 - 2023-07-09T223957.811.png\"}, \"children\": [{\"text\": \"\"}]}, {\"type\": \"p\", \"children\": [{\"text\": \"If the sale is a Cash & Carry sale you will need to enter a payment before the sale can be finalised.\"}]}]}, {\"type\": \"li\", \"children\": [{\"type\": \"lic\", \"children\": [{\"text\": \"Enter a new payment as required\"}]}]}, {\"type\": \"li\", \"children\": [{\"type\": \"lic\", \"children\": [{\"text\": \"The reversed payment will be displayed on the customer invoice (along with any new additional payments)\"}]}, {\"type\": \"rich_embed_card\", \"dataSourceType\": \"image\", \"url\": \"https://us.v-cdn.net/6038474/uploads/attachments/migrated/image.05T5g00000pphNYEAY.jpg\", \"embedData\": {\"url\": \"https://us.v-cdn.net/6038474/uploads/attachments/migrated/image.05T5g00000pphNYEAY.jpg\", \"embedType\": \"image\", \"displaySize\": \"large\", \"float\": \"none\", \"name\": \"mceclip2 (81).png\"}, \"children\": [{\"text\": \"\"}]}]}]}, {\"type\": \"p\", \"children\": [{\"text\": \"\"}]}]",
+  "fixes_applied": {
+    "urls": {
+      "leaving_cleaned": 0,
+      "unsafe_removed": 0,
+      "s_article_mapped": 0,
+      "s_article_removed": 1,
+      "fragments_mapped": 0,
+      "fragments_stripped": 0,
+      "internal_fragments_fixed": 0,
+      "double_id_fixed": 0,
+      "kb_fragments_stripped": 0
+    },
+    "toc": 0,
+    "related": 1,
+    "lists": 0,
+    "headings": 0,
+    "reconverted": false
+  }
+}

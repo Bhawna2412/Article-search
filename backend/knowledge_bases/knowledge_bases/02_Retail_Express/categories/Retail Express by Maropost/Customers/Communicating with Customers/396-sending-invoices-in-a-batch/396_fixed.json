@@ -1,0 +1,26 @@
+{
+  "articleID": 396,
+  "name": "Sending Invoices in a Batch",
+  "slug": "396-sending-invoices-in-a-batch",
+  "format": "rich2",
+  "locale": "en",
+  "body": "[{\"type\": \"p\", \"children\": [{\"text\": \"You can send invoices in bulk to multiple customers simultaneously, helping streamline billing processes for account customers and reduce administrative overhead. This improves your retail operations efficiency by automating mass invoice distribution, with properly configured batch invoice sending typically reducing time spent on customer billing and improving payment collection timing.\"}]}, {\"type\": \"p\", \"children\": [{\"text\": \"Understanding batch invoice processing involves recognizing customer selection criteria, delivery methods, and timing strategies to help retail operators focus on the right billing automation workflows, ensuring your retail strategy consistently drives better operational efficiency and cash flow management outcomes.\"}]}, {\"type\": \"p\", \"children\": [{\"text\": \"Within Retail Express you can individually print or email invoices for customers. However, it's not possible to do multiple invoices together in a batch.\"}]}, {\"type\": \"p\", \"children\": [{\"text\": \"Alternatively, you can use PDF software (e.g. \"}, {\"type\": \"a\", \"url\": \"https://www.adobe.com/au/acrobat/pdf-reader.html\", \"children\": [{\"text\": \"Adobe Acrobat\"}]}, {\"text\": \", \"}, {\"type\": \"a\", \"url\": \"http://www.cutepdf.com/products/cutepdf/writer.asp\", \"children\": [{\"text\": \"Cute PDF\"}]}, {\"text\": \" etc) to combine all of the individual files together e.g. Cute PDF. Instead of physically printing invoices to a printer, you can select multiple invoices and print them to the PDF file.\"}]}, {\"type\": \"p\", \"children\": [{\"text\": \"To batch print the invoices:\"}]}, {\"type\": \"ol\", \"children\": [{\"type\": \"li\", \"children\": [{\"type\": \"lic\", \"children\": [{\"text\": \"Navigate to \"}, {\"text\": \"Inventory > Fulfilment Report\", \"bold\": true}]}, {\"type\": \"rich_embed_card\", \"dataSourceType\": \"image\", \"url\": \"https://us.v-cdn.net/6038474/uploads/attachments/migrated/image.05T5g00000pphpIEAQ.jpg\", \"embedData\": {\"url\": \"https://us.v-cdn.net/6038474/uploads/attachments/migrated/image.05T5g00000pphpIEAQ.jpg\", \"embedType\": \"image\", \"displaySize\": \"large\", \"float\": \"none\", \"name\": \"reports_fulfilmentreport_filters.png\"}, \"children\": [{\"text\": \"\"}]}]}, {\"type\": \"li\", \"children\": [{\"type\": \"lic\", \"children\": [{\"text\": \"Enter the \"}, {\"text\": \"Customer Name\", \"bold\": true}]}]}, {\"type\": \"li\", \"children\": [{\"type\": \"lic\", \"children\": [{\"text\": \"Update the \"}, {\"text\": \"Ordered From \", \"bold\": true}, {\"text\": \"and \"}, {\"text\": \"Ordered To \", \"bold\": true}, {\"text\": \"dates to match your requirements\"}]}]}, {\"type\": \"li\", \"children\": [{\"type\": \"lic\", \"children\": [{\"text\": \"Change the \"}, {\"text\": \"Delivery Status \", \"bold\": true}, {\"text\": \"to be the blank option (this will include all invoices, not just those awaiting Fulfilment)\"}]}]}, {\"type\": \"li\", \"children\": [{\"type\": \"lic\", \"children\": [{\"text\": \"Click \"}, {\"text\": \"Search\", \"bold\": true}]}]}, {\"type\": \"li\", \"children\": [{\"type\": \"lic\", \"children\": [{\"text\": \"Click \"}, {\"text\": \"Print > Print Invoices\", \"bold\": true}]}, {\"type\": \"rich_embed_card\", \"dataSourceType\": \"image\", \"url\": \"https://us.v-cdn.net/6038474/uploads/attachments/migrated/image.05T5g00000pphq6EAA.jpg\", \"embedData\": {\"url\": \"https://us.v-cdn.net/6038474/uploads/attachments/migrated/image.05T5g00000pphq6EAA.jpg\", \"embedType\": \"image\", \"displaySize\": \"large\", \"float\": \"none\", \"name\": \"mceclip0 - 2023-07-09T233739.716.png\"}, \"children\": [{\"text\": \"\"}]}]}, {\"type\": \"li\", \"children\": [{\"type\": \"lic\", \"children\": [{\"text\": \"Select the \"}, {\"text\": \"PDF Printer \", \"bold\": true}, {\"text\": \"in the printer list\"}]}]}, {\"type\": \"li\", \"children\": [{\"type\": \"lic\", \"children\": [{\"text\": \"Follow the remaining prompts in your software program to create the PDF file\"}]}]}]}, {\"type\": \"p\", \"children\": [{\"text\": \"\"}]}]",
+  "fixes_applied": {
+    "urls": {
+      "leaving_cleaned": 2,
+      "unsafe_removed": 0,
+      "s_article_mapped": 0,
+      "s_article_removed": 0,
+      "fragments_mapped": 0,
+      "fragments_stripped": 0,
+      "internal_fragments_fixed": 0,
+      "double_id_fixed": 0,
+      "kb_fragments_stripped": 0
+    },
+    "toc": 0,
+    "related": 1,
+    "lists": 0,
+    "headings": 0,
+    "reconverted": false
+  }
+}

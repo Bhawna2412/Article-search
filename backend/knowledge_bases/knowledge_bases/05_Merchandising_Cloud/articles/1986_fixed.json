@@ -1,0 +1,17 @@
+{
+  "articleID": 1986,
+  "knowledgeCategoryID": 157,
+  "sort": 12,
+  "name": "Hosting",
+  "body": "[{\"type\": \"p\", \"children\": [{\"text\": \"You can benefit from Merchandising Cloud's global hosting infrastructure with servers in North Virginia (AWS), Iowa (GCP), The Netherlands (GCP), and Sydney (GCP), which helps optimize performance and search response times for customers across different geographic regions. This distributed hosting approach tends to reduce latency and improve page load speeds, contributing to better user experiences and conversion rates.\"}]}, {\"type\": \"p\", \"children\": [{\"text\": \"Understanding the hosting locations helps you anticipate performance benefits for your specific customer base. The multi-region infrastructure ensures your search and merchandising solutions respond quickly regardless of where your shoppers are located, helping maintain fast product discovery experiences that reduce bounce rates and support your conversion optimization goals.\"}]}, {\"type\": \"p\", \"children\": [{\"text\": \"Where is Merchandising Cloud served from?\"}]}, {\"type\": \"ul\", \"children\": [{\"type\": \"li\", \"children\": [{\"type\": \"lic\", \"children\": [{\"text\": \"North Virginia, USA (AWS)\"}]}]}, {\"type\": \"li\", \"children\": [{\"type\": \"lic\", \"children\": [{\"text\": \"Iowa, USA (GCP)\"}]}]}, {\"type\": \"li\", \"children\": [{\"type\": \"lic\", \"children\": [{\"text\": \"The Netherlands (GCP)\"}]}]}, {\"type\": \"li\", \"children\": [{\"type\": \"lic\", \"children\": [{\"text\": \"Sydney, Australia (GCP)\"}]}]}]}, {\"type\": \"p\", \"children\": [{\"text\": \"\"}]}]",
+  "format": "rich2",
+  "featured": false,
+  "locale": "en",
+  "status": "published",
+  "foreignID": null,
+  "dateUpdated": "2026-02-02T06:08:07+00:00",
+  "_source_kb_id": 5,
+  "_source_kb_name": "Merchandising Cloud",
+  "_sync_date": "2026-02-06T07:22:09.222903+00:00",
+  "_incremental_update": true
+}

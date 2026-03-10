@@ -1,0 +1,17 @@
+{
+  "articleID": 109,
+  "knowledgeCategoryID": 188,
+  "sort": 19,
+  "name": "Video - Placing a Sale on Hold at POS",
+  "body": "[{\"type\": \"p\", \"children\": [{\"text\": \"In this video, we show you how to place a sale on Hold at POS. This feature is best used when the customer chooses to continue browsing around the store, or if you need a pause a transaction to let another staff member use the register for some reason.\"}]}, {\"type\": \"rich_embed_card\", \"children\": [{\"text\": \"\"}], \"dataSourceType\": \"iframe\", \"url\": \"https://player.vimeo.com/video/79161943?title=0&byline=0&portrait=0\", \"frameAttributes\": {\"width\": \"700\", \"height\": \"400\"}, \"embedData\": {\"url\": \"https://player.vimeo.com/video/79161943?title=0&byline=0&portrait=0\", \"embedType\": \"iframe\", \"name\": \"\", \"width\": \"700\", \"height\": \"400\"}}]",
+  "format": "rich2",
+  "featured": false,
+  "locale": "en",
+  "status": "published",
+  "foreignID": null,
+  "dateUpdated": "2025-12-11T07:26:41+00:00",
+  "_source_kb_id": 2,
+  "_source_kb_name": "Retail Express",
+  "_sync_date": "2026-02-02T05:48:35.738355+00:00",
+  "_incremental_update": true
+}

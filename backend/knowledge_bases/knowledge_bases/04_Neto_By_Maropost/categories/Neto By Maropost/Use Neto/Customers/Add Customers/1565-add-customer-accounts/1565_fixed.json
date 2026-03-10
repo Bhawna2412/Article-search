@@ -1,0 +1,27 @@
+{
+  "articleID": 1565,
+  "name": "Add Customer Accounts",
+  "slug": "1565-add-customer-accounts",
+  "format": "rich2",
+  "locale": "en",
+  "body": "[{\"type\": \"p\", \"children\": [{\"text\": \"\"}]}, {\"type\": \"h2\", \"children\": [{\"text\": \"Add a Customer Manually\"}], \"data-id\": \"add-a-customer-manually\"}, {\"type\": \"p\", \"children\": [{\"text\": \"To add a customer manually:\"}]}, {\"type\": \"ol\", \"children\": [{\"type\": \"li\", \"children\": [{\"type\": \"lic\", \"children\": [{\"text\": \"In your Neto control panel navigate to \"}, {\"text\": \"Customers\", \"bold\": true}, {\"text\": \" > \"}, {\"text\": \"Add New Customer\", \"bold\": true}, {\"text\": \".\"}]}]}, {\"type\": \"li\", \"children\": [{\"type\": \"lic\", \"children\": [{\"text\": \"Fill out the details for the customer and press the \"}, {\"text\": \"Active\", \"bold\": true}, {\"text\": \" option in the top right hand corner. If you need help with understanding any of the fields in the customer card, see our \"}, {\"type\": \"a\", \"url\": \"https://galaxy.maropost.com/kb/articles/1566-customers-overview\", \"children\": [{\"text\": \"overview guide here\"}]}]}]}, {\"type\": \"li\", \"children\": [{\"type\": \"lic\", \"children\": [{\"text\": \"Once completed, press \"}, {\"text\": \"Save.\", \"bold\": true}]}]}]}, {\"type\": \"p\", \"children\": [{\"text\": \"\"}]}, {\"type\": \"h2\", \"children\": [{\"text\": \"Add Customers in Bulk\"}], \"data-id\": \"add-customers-in-bulk\"}, {\"type\": \"p\", \"children\": [{\"text\": \"Use the Data Import Wizard to import \"}, {\"type\": \"a\", \"url\": \"https://en.wikipedia.org/wiki/Comma-separated_values\", \"children\": [{\"text\": \".CSV files (spreadsheets)\"}]}, {\"text\": \" into your website with all of your customers.\"}]}, {\"type\": \"p\", \"children\": [{\"text\": \"Here is a sample copy of our popular customer fields to use as a template: \"}, {\"type\": \"a\", \"url\": \"https://docs.neto.com.au/assets/files/Templates/import_customers_popular.csv\", \"children\": [{\"text\": \"Download here\"}]}, {\"text\": \".\"}, {\"text\": \"\\n\"}, {\"text\": \"Here is a sample copy of all customer fields to use as a template: \"}, {\"type\": \"a\", \"url\": \"https://docs.neto.com.au/assets/files/Templates/import_customers_all.csv\", \"children\": [{\"text\": \"Download here\"}]}, {\"text\": \".\"}]}, {\"type\": \"ol\", \"children\": [{\"type\": \"li\", \"children\": [{\"type\": \"lic\", \"children\": [{\"text\": \"To use the import wizard, navigate to \"}, {\"text\": \"Settings & tools\", \"bold\": true}, {\"text\": \" > \"}, {\"text\": \"Import Data\", \"bold\": true}, {\"text\": \" then click Perform complex import and select Start Data Import Wizard.\"}]}]}, {\"type\": \"li\", \"children\": [{\"type\": \"lic\", \"children\": [{\"text\": \"Upload the template file and click \"}, {\"text\": \"Continue to Next Step\", \"bold\": true}, {\"text\": \". Map the fields in your CSV file to the fields in Neto. Once complete, click \"}, {\"text\": \"Continue to Next Step\", \"bold\": true}, {\"text\": \".\"}]}]}, {\"type\": \"li\", \"children\": [{\"type\": \"lic\", \"children\": [{\"text\": \"Set your update options and click \"}, {\"text\": \"Continue to Next Step\", \"bold\": true}, {\"text\": \".\"}]}]}, {\"type\": \"li\", \"children\": [{\"type\": \"lic\", \"children\": [{\"text\": \"Click \"}, {\"text\": \"Process File Now\", \"bold\": true}, {\"text\": \". This will now generate a batch process which will take time depending on other tasks in the queue.\"}]}]}]}]",
+  "fixes_applied": {
+    "rebrand": 2,
+    "urls": {
+      "leaving_cleaned": 0,
+      "unsafe_removed": 0,
+      "s_article_mapped": 1,
+      "s_article_removed": 0,
+      "fragments_mapped": 0,
+      "fragments_stripped": 0,
+      "internal_fragments_fixed": 2,
+      "double_id_fixed": 0,
+      "kb_fragments_stripped": 0
+    },
+    "toc": 1,
+    "related": 0,
+    "lists": 7,
+    "headings": 0,
+    "reconverted": true
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "articleID": 902,
+  "name": "Webstore Design Options",
+  "slug": "902-webstore-design-options",
+  "format": "rich2",
+  "locale": "en",
+  "body": "[{\"type\": \"p\", \"children\": [{\"text\": \"Your Neto webstore design, in many cases, is the determining factor for a lot of customers as to whether they will buy from you or not. Broken or poor quality looking web pages will usually scare people off; the credibility and trust disappears and people are worried that you might process the orders with the same types of faults as your webstore.\"}]}, {\"type\": \"p\", \"children\": [{\"text\": \"When choosing a theme, try and think about layout you would like to use for your store, some of the designs you\\u2019ve seen in the past that have caught your eye and see if we have a pre-made theme that fits your requirements.\"}]}, {\"type\": \"p\", \"children\": [{\"text\": \"All of our themes are fully responsive, so any theme you choose will work out of the box on both desktops and mobiles.\"}]}, {\"type\": \"p\", \"children\": [{\"text\": \"With Neto, you have three different ways to customise your webstore.\"}]}, {\"type\": \"h2\", \"children\": [{\"text\": \"Customise existing themes with the theme editor\"}], \"data-id\": \"customising-with-the-theme-editor\"}, {\"type\": \"p\", \"children\": [{\"text\": \"Choose from one of Neto's free and premium themes and customise it to suit your brand using the user friendly theme editor.\"}]}, {\"type\": \"h2\", \"children\": [{\"text\": \"Create your own webstore theme by editing the code\"}], \"data-id\": \"create-your-own-webstore-by-editing-the-code\"}, {\"type\": \"p\", \"children\": [{\"text\": \"If you\\u2019re a web designer with skills in HTML and CSS, you can create and edit your webstore theme using Neto's B@SE logic.\"}]}, {\"type\": \"p\", \"children\": [{\"text\": \"To get started, checkout our \"}, {\"type\": \"a\", \"url\": \"https://developers.neto.com.au/documentation/web-designers\", \"children\": [{\"text\": \"designer documentation\"}]}, {\"text\": \" which includes helpful tips and tricks.\"}]}, {\"type\": \"p\", \"children\": [{\"text\": \"You also need to \"}, {\"type\": \"a\", \"url\": \"http://forms.neto.com.au/design/requestftp.html\", \"children\": [{\"text\": \"request access for SFTP\"}]}, {\"text\": \" so you can edit and upload theme files.\"}]}, {\"type\": \"h2\", \"children\": [{\"text\": \"Contact a Design Partner\"}], \"data-id\": \"contact-a-neto-design-expert\"}, {\"type\": \"p\", \"children\": [{\"text\": \"If you have a budget for a web design makeover, be sure to contact one of our partners to build you a world-class website design.\"}]}, {\"type\": \"p\", \"children\": [{\"text\": \"You can reach out to a\\u00a0\"}, {\"type\": \"a\", \"url\": \"http://forms.neto.com.au/services/designtweak.html\", \"children\": [{\"text\": \"Neto by Maropost\\u00a0design partner\"}]}, {\"text\": \"\\u00a0for a quote.\"}]}]",
+  "fixes_applied": {
+    "rebrand": 0,
+    "urls": {
+      "leaving_cleaned": 3,
+      "unsafe_removed": 0,
+      "s_article_mapped": 0,
+      "s_article_removed": 0,
+      "fragments_mapped": 0,
+      "fragments_stripped": 0,
+      "internal_fragments_fixed": 0,
+      "double_id_fixed": 0,
+      "kb_fragments_stripped": 0
+    },
+    "toc": 0,
+    "related": 0,
+    "lists": 0,
+    "headings": 1,
+    "reconverted": false
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "articleID": 2238,
+  "name": "Update Page Title To Include Search Query",
+  "format": "rich2",
+  "locale": "en",
+  "body": "[{\"type\": \"p\", \"children\": [{\"text\": \"You can update page titles to include search queries, which helps improve SEO performance and provides better context for customers managing multiple browser tabs. When page titles dynamically reflect current search terms, search engines can better understand your content and customers can more easily navigate between tabs, which helps improve both organic discovery and user experience.\"}]}, {\"type\": \"p\", \"children\": [{\"text\": \"Dynamic page titles enhance the technical foundation of your search implementation while supporting better customer navigation. This helps ensure that search result pages are properly indexed by search engines and provides clearer context when customers bookmark or share search results, supporting better organic traffic and improved user experience across the search journey.\"}]}, {\"type\": \"p\", \"children\": [{\"text\": \"Integration Steps\"}]}, {\"type\": \"rich_embed_card\", \"dataSourceType\": \"image\", \"url\": \"https://files.readme.io/fe3906f-0954c5b-Bildschirmfoto_2020-02-13_um_17.14.37.png\", \"embedData\": {\"url\": \"https://files.readme.io/fe3906f-0954c5b-Bildschirmfoto_2020-02-13_um_17.14.37.png\", \"embedType\": \"image\", \"displaySize\": \"large\", \"float\": \"none\", \"name\": \"734\", \"width\": 1280, \"height\": 720}, \"children\": [{\"text\": \"\"}]}, {\"type\": \"blockquote\", \"children\": [{\"type\": \"blockquote-line\", \"children\": [{\"text\": \"Components:components/search/Query/index.ts\"}]}]}, {\"type\": \"p\", \"children\": [{\"text\": \"In the following example, you can see how you can interact with page elements outside of Findify's components and modify your search results page title to include a search query.\"}]}, {\"type\": \"p\", \"children\": [{\"text\": \"You should add updateQuery function to components/search/Query.\"}]}, {\"type\": \"p\", \"children\": [{\"text\": \"JavaScript\"}]}, {\"type\": \"code_block\", \"children\": [{\"type\": \"code_line\", \"children\": [{\"text\": \"const defaultTitle = document.title;const updateQuery = (query) => {  // display either the default title including queries on your search page or the default title only    const titleText = query && query.length > 0    ? `${defaultTitle} | ${query}`        : defaultTitle;  document.title = titleText;}\"}]}], \"lang\": \"plaintext\"}, {\"type\": \"p\", \"children\": [{\"text\": \"This function should be called after every query update. Therefore we have to put it inside useEffect.\"}]}, {\"type\": \"p\", \"children\": [{\"text\": \"JavaScript\"}]}, {\"type\": \"code_block\", \"children\": [{\"type\": \"code_line\", \"children\": [{\"text\": \"/** * @module components /search/Query */ //default codeexport default memo(  ({ theme = styles }: { theme?: Record<string, string> }) => {    const { meta } = useQuery();    const translate = useTranslations();    const query = escape(meta.get('q') as string);        useEffect(() => updateQuery(query), [query])        return (      <Text        primary        uppercase        className={theme.root}        html={getContent(meta, translate, query)}      />    );  });\"}]}], \"lang\": \"plaintext\"}, {\"type\": \"p\", \"children\": [{\"text\": \"Finally, components/search/Query will look like.\"}]}, {\"type\": \"p\", \"children\": [{\"text\": \"JavaScript\"}]}, {\"type\": \"code_block\", \"children\": [{\"type\": \"code_line\", \"children\": [{\"text\": \"/** * @module components /search/Query */import { useEffect } from \\\"react\\\";import { useQuery } from '@findify /react-connect';import styles from 'components/search/Query/styles.css';import escape from 'lodash/escape';import Text from 'components/Text';import useTranslations from 'helpers/useTranslations';import { memo } from 'react';const getContent = (meta, translate, query) => {  const hasFilters = !!meta.get('filters');  const total = meta.get('total');  if (!query && !hasFilters) {    return translate('search.noQuery');  }  if (hasFilters && !query) {    return translate('search.showingEmpty', total);  }  if (meta.get('corrected_q')) {    const text = translate('search.showing', total);    return `${text} \\\"${escape(meta.get('corrected_q') as string)}\\\". ${translate(      'search.zeroResultsFor'    )} \\\"${query}\\\".`;  }  if (meta.get('query_type') === 'or') {    const text = translate('search.showing', '0');    return `${text} \\\"${query}\\\". ${translate('search.partialMatch')}`;  }  const text = translate('search.showing', total);  return `${text} <b> \\\"${query}\\\"</b>.`;};const defaultTitle = document.title;const updateQuery = (query) => {  // display either the default title including queries on your search page or the default title only    const titleText = query && query.length > 0    ? `${defaultTitle} | ${query}`        : defaultTitle;  document.title = titleText;}export default memo(  ({ theme = styles }: { theme?: Record<string, string> }) => {    const { meta } = useQuery();    const translate = useTranslations();    const query = escape(meta.get('q') as string);        useEffect(() => {      updateQuery(query)    }, [query])        return (      <Text        primary        uppercase        className={theme.root}        html={getContent(meta, translate, query)}      />    );  });\"}]}], \"lang\": \"plaintext\"}, {\"type\": \"p\", \"children\": [{\"text\": \"MJS Version\"}]}, {\"type\": \"p\", \"children\": [{\"text\": \"This module has been optimized for \"}, {\"text\": \"MJS version 7.1.25\", \"bold\": true}]}, {\"type\": \"p\", \"children\": [{\"text\": \"\"}]}]",
+  "knowledgeCategoryID": 410,
+  "sort": 2,
+  "status": "published",
+  "_source_kb_id": 5,
+  "_source_kb_name": "Merchandising Cloud",
+  "_fix_date": "2026-02-02T06:05:47.410866+00:00",
+  "fixes_applied": {
+    "urls": {
+      "leaving_cleaned": 0,
+      "unsafe_removed": 0,
+      "s_article_mapped": 0,
+      "s_article_removed": 0,
+      "fragments_mapped": 0,
+      "fragments_stripped": 0,
+      "internal_fragments_fixed": 0,
+      "double_id_fixed": 0,
+      "kb_fragments_stripped": 0
+    },
+    "toc": 0,
+    "related": 1,
+    "lists": 0,
+    "headings": 0,
+    "reconverted": false
+  }
+}

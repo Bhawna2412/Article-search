@@ -1,0 +1,16 @@
+{
+  "articleID": 1749,
+  "knowledgeCategoryID": 442,
+  "sort": 10,
+  "name": "Marketing Cloud Release Notes – 2 Jul 2020",
+  "body": "[{\"type\":\"h2\",\"children\":[{\"text\":\"Overview\"}]},{\"type\":\"p\",\"children\":[{\"text\":\"Released as a single feature enhancement, the revamp of custom campaign reports is one of many improvements planned for the reporting section.\"}]},{\"type\":\"p\",\"children\":[{\"text\":\"To learn about what changed, read on!\"}]},{\"type\":\"p\",\"children\":[{\"text\":\"\"}]},{\"type\":\"h2\",\"children\":[{\"text\":\"Enhancements\"}]},{\"type\":\"h3\",\"children\":[{\"text\":\"Enhanced User Experience for Custom Campaign Reports\",\"bold\":true}]},{\"type\":\"p\",\"children\":[{\"text\":\"As part of Maropost's user experience transformation, we reevaluated and improved the report-building flow for the custom campaign reports. The UI has also been redesigned as per our latest design standards, leading to improvements in overall look-and-feel and user experience. While the number of steps remains the same, you will now notice slight changes in how you build the report in each step.\"}]},{\"type\":\"p\",\"children\":[{\"text\":\"To learn about the custom campaign reports, see \"},{\"type\":\"a\",\"url\":\"https://galaxy.maropost.com/kb/articles/835-custom-email-campaign-report\",\"target\":\"_blank\",\"children\":[{\"text\":\"Creating a Custom Campaign Report\"}]},{\"text\":\".\"}]}]",
+  "format": "rich2",
+  "featured": false,
+  "locale": "en",
+  "status": "published",
+  "foreignID": null,
+  "dateUpdated": "2025-08-07T12:40:23+00:00",
+  "_source_kb_id": 11,
+  "_source_kb_name": "MC Release Notes",
+  "_sync_date": "2026-02-02T05:57:18.837072+00:00"
+}

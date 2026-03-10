@@ -1,0 +1,31 @@
+{
+  "articleID": 2240,
+  "name": "Load Status Bar",
+  "format": "rich2",
+  "locale": "en",
+  "body": "[{\"type\": \"p\", \"children\": [{\"text\": \"You can add a load status bar to help customers understand their browsing progress through product results with lazy loading enabled. When shoppers see a visual indicator of how many products they've viewed relative to total results, they gain better context about their search exploration, which helps improve engagement and tends to reduce frustration from uncertain progress through large result sets.\"}]}, {\"type\": \"p\", \"children\": [{\"text\": \"Load status indicators enhance the browsing experience by providing transparency about product discovery progress. This helps customers make more informed decisions about whether to continue scrolling or refine their search, supporting better user experience and improved engagement with product results through clearer feedback about browsing status.\"}]}, {\"type\": \"rich_embed_card\", \"dataSourceType\": \"image\", \"url\": \"https://files.readme.io/b0d887c-__2022-08-17__17.31.09.png\", \"embedData\": {\"url\": \"https://files.readme.io/b0d887c-__2022-08-17__17.31.09.png\", \"embedType\": \"image\", \"displaySize\": \"large\", \"float\": \"none\", \"name\": \"592\", \"width\": 1280, \"height\": 720}, \"children\": [{\"text\": \"\"}]}, {\"type\": \"p\", \"children\": [{\"text\": \"\"}]}, {\"type\": \"h2\", \"children\": [{\"text\": \"#1. Background\"}], \"data-id\": \"1-background\"}, {\"type\": \"p\", \"children\": [{\"text\": \"Providing your customer with small yet quite important bits of information regarding what he's browsing can very well be a deal-breaker. Any native way to let him know what's coming down the pike is great.\"}]}, {\"type\": \"p\", \"children\": [{\"text\": \"In this particular case we'll be showing you how to add a Load-status bar, going from 0 to 100% fill depending on how many products on this particular page have been loaded and seen by the customer.\"}]}, {\"type\": \"p\", \"children\": [{\"text\": \"\"}]}, {\"type\": \"h2\", \"children\": [{\"text\": \"#2. Requirements\"}], \"data-id\": \"2-requirements\"}, {\"type\": \"ul\", \"children\": [{\"type\": \"li\", \"children\": [{\"type\": \"lic\", \"children\": [{\"text\": \"The only requirement for this customisation is to have the Lazy Load enabled for your store.\"}]}]}]}, {\"type\": \"p\", \"children\": [{\"text\": \"\"}]}, {\"type\": \"h2\", \"children\": [{\"text\": \"#3. Time Estimates\"}], \"data-id\": \"3-time-estimates\"}, {\"type\": \"p\", \"children\": [{\"text\": \"Set up in Platform: n/a\"}, {\"text\": \"\\n\"}, {\"text\": \"\\n\"}, {\"text\": \"Integration: 30 minutes\"}, {\"text\": \"\\n\"}, {\"text\": \"\\n\"}, {\"text\": \"Styling: 5-10 minutes\"}]}, {\"type\": \"p\", \"children\": [{\"text\": \"\"}]}, {\"type\": \"h2\", \"children\": [{\"text\": \"#4. Functional Overview\"}], \"data-id\": \"4-functional-overview\"}, {\"type\": \"p\", \"children\": [{\"text\": \"The list of components to be adjusted is as follows:\"}]}, {\"type\": \"blockquote\", \"children\": [{\"type\": \"blockquote-line\", \"children\": [{\"text\": \"ComponentsLoadBarcomponents/search/LazyResults/index.tsx\"}]}]}, {\"type\": \"p\", \"children\": [{\"text\": \"\"}]}, {\"type\": \"h2\", \"children\": [{\"text\": \"#5. Integration Steps\"}], \"data-id\": \"5-integration-steps\"}, {\"type\": \"p\", \"children\": [{\"text\": \"Firstly, you'll need the LoadBar function, which is receiving the total amount of products, products per page and percentage of the status bar fill.\"}]}, {\"type\": \"p\", \"children\": [{\"text\": \"Then, we place it within the LazyResults component wherever we want and style it.\"}]}, {\"type\": \"p\", \"children\": [{\"text\": \"NB\", \"bold\": true}, {\"text\": \": you can switch between different components in the below view.\"}]}, {\"type\": \"p\", \"children\": [{\"text\": \"LoadBarcomponents/search/LazyResults/index.tsxCSS\"}]}, {\"type\": \"code_block\", \"children\": [{\"type\": \"code_line\", \"children\": [{\"text\": \"import { useQuery } from '@findify /react-connect';export const LoadBar = ({productsShown}) => {  const { meta } = useQuery();  const total = meta?.get('total');  const productPerPage = productsShown > total ? total : productsShown;  const percentage = parseInt((productsShown / total) * 100);    return (    <div className=\\\"findify-load-bar\\\">      {productPerPage} out of {total}      <div className=\\\"findify-bar-wrapper\\\">        <div className=\\\"findify-bar-status\\\"></div>        <div className=\\\"findify-bar-fill\\\" style={{width: `${percentage}%`}}></div>      </div>    </div>  )}\"}]}], \"lang\": \"plaintext\"}, {\"type\": \"p\", \"children\": [{\"text\": \"\"}]}]",
+  "knowledgeCategoryID": 410,
+  "sort": 4,
+  "status": "published",
+  "_source_kb_id": 5,
+  "_source_kb_name": "Merchandising Cloud",
+  "_fix_date": "2026-02-02T06:05:47.432023+00:00",
+  "fixes_applied": {
+    "urls": {
+      "leaving_cleaned": 0,
+      "unsafe_removed": 0,
+      "s_article_mapped": 0,
+      "s_article_removed": 0,
+      "fragments_mapped": 0,
+      "fragments_stripped": 0,
+      "internal_fragments_fixed": 0,
+      "double_id_fixed": 0,
+      "kb_fragments_stripped": 0
+    },
+    "toc": 0,
+    "related": 1,
+    "lists": 0,
+    "headings": 0,
+    "reconverted": false
+  }
+}

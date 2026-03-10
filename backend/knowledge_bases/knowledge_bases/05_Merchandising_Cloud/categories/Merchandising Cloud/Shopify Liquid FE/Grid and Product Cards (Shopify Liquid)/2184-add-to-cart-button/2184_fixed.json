@@ -1,0 +1,31 @@
+{
+  "articleID": 2184,
+  "name": "Add to Cart Button",
+  "format": "rich2",
+  "locale": "en",
+  "body": "[{\"type\": \"p\", \"children\": [{\"text\": \"You can add \\\"Add to Cart\\\" buttons directly to product cards in search results and collections, reducing friction in the purchase journey by eliminating an extra click to the product page. This streamlined checkout path helps improve conversion rates by allowing customers to quickly add items to their cart while browsing.\"}]}, {\"type\": \"p\", \"children\": [{\"text\": \"Enabling quick add-to-cart functionality shortens the path to purchase and tends to improve conversion rates by reducing the steps required to complete a transaction. This feature is particularly effective for straightforward products where customers don't need additional details before purchasing, helping create a more efficient shopping experience that can lead to increased sales velocity.\"}]}, {\"type\": \"p\", \"children\": [{\"text\": \"Integrating an Add to Cart (ATC) button within product cards in Shopify enhances user experience by allowing customers to quickly add items to their shopping carts.\"}]}, {\"type\": \"p\", \"children\": [{\"text\": \"Follow these concise steps to seamlessly integrate the ATC button into your store's product cards.\"}]}, {\"type\": \"h2\", \"children\": [{\"text\": \"Integration Steps\"}]}, {\"type\": \"p\", \"children\": [{\"text\": \"Step 1: Create a New Asset\", \"bold\": true}]}, {\"type\": \"ol\", \"children\": [{\"type\": \"li\", \"children\": [{\"text\": \"Navigate to Theme \\u2192 Edit Code \\u2192 Assets in your Shopify admin panel.\"}]}, {\"type\": \"li\", \"children\": [{\"text\": \"Add a new asset and name it accordingly (e.g.,\\u00a0\"}, {\"text\": \"customAddToCart.js\", \"code\": true}, {\"text\": \").\"}]}, {\"type\": \"li\", \"children\": [{\"text\": \"Paste the provided JavaScript code into the newly created asset.\"}]}]}, {\"type\": \"p\", \"children\": [{\"text\": \"JavaScript\"}]}, {\"type\": \"code_block\", \"children\": [{\"type\": \"code_line\", \"children\": [{\"text\": \"function addToCart(id, selectedVariantId) {  const formData = {    items: [{      id: selectedVariantId,      quantity: 1    }]  };  const apiUrl = window.Shopify.routes.root + 'cart/add.js';  const requestOptions = {    method: 'POST',    headers: {      'Content-Type': 'application/json'    },    body: JSON.stringify(formData)  };  fetch(apiUrl, requestOptions).then(res => handleResponse(res, id, selectedVariantId))    .catch(handleError)}function handleResponse(res, id, selectedVariantId) {  return res.json().then(data => {    if(data?.items) {      alert('Item added to cart');      findify.core.analytics.sendEvent('click-item',        {            rid: findify.grid.state.meta.rid,            item_id: id,            variant_item_id: selectedVariantId        },        false      )    }    else {      const errorDescription = data?.description || 'Unexpected Error';      alert(errorDescription);    }  })}function handleError(error) {  const errorDescription = error?.description || 'Unexpected Error';  alert(errorDescription);}\", \"code\": true}]}], \"lang\": \"javascript\"}, {\"type\": \"p\", \"children\": [{\"text\": \"\", \"bold\": true}]}, {\"type\": \"p\", \"children\": [{\"bold\": true, \"text\": \"Step 2: Include Script in Theme Layout\"}]}, {\"type\": \"ol\", \"children\": [{\"type\": \"li\", \"children\": [{\"text\": \"Open the\\u00a0\"}, {\"text\": \"theme.liquid\", \"code\": true}, {\"text\": \"\\u00a0file in your Shopify theme editor.\"}]}, {\"type\": \"li\", \"children\": [{\"text\": \"Paste the following script immediately after the\\u00a0\"}, {\"text\": \"<head>\", \"code\": true}, {\"text\": \"\\u00a0tag to include the custom JavaScript file.\"}]}]}, {\"type\": \"p\", \"children\": [{\"text\": \"JavaScript\"}]}, {\"type\": \"code_block\", \"children\": [{\"type\": \"code_line\", \"children\": [{\"text\": \"<head>...<script src=\\\"{{ 'yourAssetName.js' | asset_url }}\\\" defer=\\\"defer\\\"></script></head>\", \"code\": true}], \"lang\": \"twig\"}], \"lang\": \"twig\"}, {\"type\": \"p\", \"children\": [{\"text\": \"Step 3: Add Button to Product Card\", \"bold\": true}]}, {\"type\": \"ol\", \"children\": [{\"type\": \"li\", \"children\": [{\"text\": \"Locate the\\u00a0\"}, {\"text\": \"findify-product.liquid\", \"code\": true}, {\"text\": \"\\u00a0file in your Shopify theme editor.\"}]}, {\"type\": \"li\", \"children\": [{\"text\": \"Insert the following HTML code snippet within the product card section to add the ATC button.\"}]}]}, {\"type\": \"p\", \"children\": [{\"text\": \"HTML\"}]}, {\"type\": \"code_block\", \"children\": [{\"type\": \"code_line\", \"children\": [{\"text\": \"<div><a href={{ product_url }}>// ... other code </a><button onclick=\\\"addToCart({{ id }}, {{  selected_variant_id }})\\\" >Add to cart</button></div>\", \"code\": true}]}], \"lang\": \"twig\"}, {\"type\": \"p\", \"children\": [{\"text\": \"Conclusion\", \"bold\": true}]}, {\"type\": \"p\", \"children\": [{\"text\": \"By following these simple steps, you can seamlessly integrate an Add to Cart button into product cards within your Shopify store. Empower your customers to make quick purchase decisions and enhance their shopping experience with this intuitive feature.\"}]}, {\"type\": \"p\", \"children\": [{\"text\": \"For further assistance or inquiries, feel free to contact us on \"}, {\"type\": \"a\", \"url\": \"mailto:support@maropost.com\", \"target\": \"_blank\", \"children\": [{\"text\": \"support@maropost.com\"}]}]}, {\"type\": \"p\", \"children\": [{\"text\": \"\"}]}]",
+  "knowledgeCategoryID": 395,
+  "sort": 8,
+  "status": "published",
+  "_source_kb_id": 5,
+  "_source_kb_name": "Merchandising Cloud",
+  "_fix_date": "2026-02-02T06:05:46.793027+00:00",
+  "fixes_applied": {
+    "urls": {
+      "leaving_cleaned": 0,
+      "unsafe_removed": 0,
+      "s_article_mapped": 0,
+      "s_article_removed": 0,
+      "fragments_mapped": 0,
+      "fragments_stripped": 0,
+      "internal_fragments_fixed": 0,
+      "double_id_fixed": 0,
+      "kb_fragments_stripped": 0
+    },
+    "toc": 0,
+    "related": 1,
+    "lists": 0,
+    "headings": 1,
+    "reconverted": false
+  }
+}

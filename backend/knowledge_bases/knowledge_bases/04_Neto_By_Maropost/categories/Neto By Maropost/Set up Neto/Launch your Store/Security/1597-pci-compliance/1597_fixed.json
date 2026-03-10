@@ -1,0 +1,27 @@
+{
+  "articleID": 1597,
+  "name": "PCI Compliance",
+  "slug": "1597-pci-compliance",
+  "format": "rich2",
+  "locale": "en",
+  "body": "[{\"type\": \"p\", \"children\": [{\"text\": \"\"}]}, {\"type\": \"h2\", \"children\": [{\"text\": \"Overview\"}], \"data-id\": \"1\"}, {\"type\": \"p\", \"children\": [{\"text\": \"The Payment Card Industry Data Security Standard (PCI DSS) is a set of security specifications designed to ensure that companies that accept, process, store or transmit credit card information maintain a secure environment. PCI DSS is internationally recognised accreditation, and is continually reviewed and updated by the \"}, {\"type\": \"a\", \"url\": \"https://www.pcisecuritystandards.org/\", \"children\": [{\"text\": \"Payment Card Industry Security Standards Council\"}]}, {\"text\": \" (PCI SSC).\"}]}, {\"type\": \"p\", \"children\": [{\"text\": \"Neto's platform and security has been assessed and evaluated, achieving a PCI DSS level 1 compliance. Not only does this apply to Neto's internal security, but also the security of the Neto control panel software. By using Neto for your website, it meets PCI requirements as well.\"}]}, {\"type\": \"p\", \"children\": [{\"text\": \"\"}]}, {\"type\": \"h2\", \"children\": [{\"text\": \"Advantages to PCI Compliance\"}], \"data-id\": \"2\"}, {\"type\": \"p\", \"children\": [{\"text\": \"PCI compliance certifies Neto (and by extension, anyone using Neto software) to handle customers personal and financial data in a secure manner. Operating a PCI compliant webstore means you can be confident in the security features protecting you and your customer's information.\"}]}, {\"type\": \"p\", \"children\": [{\"text\": \"To remain compliant, Neto conducts internal and external vulnerability scanning every 3 months (or sooner as required) and penetration testing every 12 months. This ensures that changes to the software or infrastructure haven't compromised security in any way.\"}]}, {\"type\": \"p\", \"children\": [{\"text\": \"\"}]}, {\"type\": \"h2\", \"children\": [{\"text\": \"Compliance Obligations\"}], \"data-id\": \"3\"}, {\"type\": \"p\", \"children\": [{\"text\": \"Compliance has many requirements that both Neto, and you as an eCommerce merchant, must adhere to. For many of the requirements, compliance is achieved in restricting what information the control panel stores (such as card holder data), enforcing password policies, and providing tools to manage users.\"}]}, {\"type\": \"p\", \"children\": [{\"text\": \"It is still important to read and review the obligations that apply to you (referred to as the \\\"merchant\\\") and any shared responsibilities, as these form a part of Neto's terms and conditions. You can view the breakdown of compliance responsibility \"}, {\"type\": \"a\", \"url\": \"https://assets.netohq.com/cms/files/Neto-PCI-DSS-3.2-Responsibility-Summary.pdf\", \"children\": [{\"text\": \"here\"}]}, {\"text\": \".\"}]}, {\"type\": \"p\", \"children\": [{\"text\": \"\"}]}, {\"type\": \"h2\", \"children\": [{\"text\": \"Proof of Compliance\"}], \"data-id\": \"4\"}, {\"type\": \"p\", \"children\": [{\"text\": \"If you'd like a copy of Neto's PCI DSS Attestation of Compliance (AOC) please contact our support team via email.\"}]}, {\"type\": \"p\", \"children\": [{\"text\": \"\"}]}]",
+  "fixes_applied": {
+    "rebrand": 10,
+    "urls": {
+      "leaving_cleaned": 0,
+      "unsafe_removed": 0,
+      "s_article_mapped": 0,
+      "s_article_removed": 0,
+      "fragments_mapped": 0,
+      "fragments_stripped": 0,
+      "internal_fragments_fixed": 4,
+      "double_id_fixed": 0,
+      "kb_fragments_stripped": 0
+    },
+    "toc": 1,
+    "related": 1,
+    "lists": 0,
+    "headings": 1,
+    "reconverted": false
+  }
+}

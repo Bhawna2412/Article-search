@@ -1,0 +1,16 @@
+{
+  "articleID": 1951,
+  "knowledgeCategoryID": 453,
+  "sort": 1,
+  "name": "Neto by Maropost Release Notes – 10 Nov 2022",
+  "body": "[{\"type\":\"h2\",\"children\":[{\"text\":\"Fixes\",\"bold\":true}]},{\"type\":\"ul\",\"children\":[{\"type\":\"li\",\"children\":[{\"text\":\"Fixed an issue with the Maropost Commerce MYOB integration where custom customer fields would be cleared when re-exporting the customer from Maropost Commerce to MYOB.\"}]},{\"type\":\"li\",\"children\":[{\"text\":\"Fixed an issue with the GetSalesChannelItem API where dimension unit fields were being pushed to the sales channel even if not mapped. This would cause issues on Amazon for product types where these fields were not supported.\"}]},{\"type\":\"li\",\"children\":[{\"text\":\"Fixed an issue where products would fail to export to MYOB with error “\"},{\"text\":\"Error 4077 ValidationError: Inventory_EditNumberItemsPerSellingUnit_HasSales NumberItemsPerSellingUnit:(SoldItem)”\",\"italic\":true}]},{\"type\":\"li\",\"children\":[{\"type\":\"lic\",\"children\":[{\"text\":\"Fixed an issue where users could be unable to upload images in the control panel after enabling Multi-Factor Authentication.\"}]}]}]},{\"type\":\"p\",\"children\":[{\"text\":\" \"}]}]",
+  "format": "rich2",
+  "featured": false,
+  "locale": "en",
+  "status": "published",
+  "foreignID": null,
+  "dateUpdated": "2025-07-15T12:13:39+00:00",
+  "_source_kb_id": 12,
+  "_source_kb_name": "Neto Release Notes",
+  "_sync_date": "2026-02-02T05:58:41.659106+00:00"
+}

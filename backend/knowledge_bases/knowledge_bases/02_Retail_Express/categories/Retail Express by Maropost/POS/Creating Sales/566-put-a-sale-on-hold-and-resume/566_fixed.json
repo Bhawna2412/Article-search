@@ -1,0 +1,26 @@
+{
+  "articleID": 566,
+  "name": "Put a sale on hold and resume",
+  "slug": "566-put-a-sale-on-hold-and-resume",
+  "format": "rich2",
+  "locale": "en",
+  "body": "[{\"type\": \"p\", \"children\": [{\"text\": \"You can manage interrupted sales efficiently in Retail Express by placing transactions on hold and resuming them later, helping your retail operators handle multiple customers simultaneously during busy periods. This capability enables staff to pause one transaction to assist another customer quickly, which helps improve overall customer service and reduces wait times during peak retail hours.\"}]}, {\"type\": \"p\", \"children\": [{\"text\": \"Setting up proper hold-and-resume workflows enables your retail team to maintain sales momentum even when customers need additional time to decide or gather payment information, helping optimize point-of-sale operations. This helps retail operations balance multiple customer interactions efficiently while ensuring all transaction details are preserved accurately for completion.\"}]}, {\"type\": \"p\", \"children\": [{\"text\": \"There may be times when you need to put a sale on hold, for example, if the customer decides to continue browsing and you need to serve another customer. In these cases, you can put the sale on hold, process another sale, and return to the original sale later.\"}]}, {\"type\": \"p\", \"children\": [{\"text\": \"\"}]}, {\"type\": \"h2\", \"children\": [{\"text\": \"Put a sale on hold\"}], \"data-id\": \"put-a-sale-on-hold\"}, {\"type\": \"p\", \"children\": [{\"text\": \"To place a transaction on Hold:\"}]}, {\"type\": \"ol\", \"children\": [{\"type\": \"li\", \"children\": [{\"type\": \"lic\", \"children\": [{\"text\": \"Press the Hold button at the bottom of the sale screen\"}]}, {\"type\": \"rich_embed_card\", \"dataSourceType\": \"image\", \"url\": \"https://us.v-cdn.net/6038474/uploads/attachments/migrated/image.05T5g00000ppbtdEAA.jpg\", \"embedData\": {\"url\": \"https://us.v-cdn.net/6038474/uploads/attachments/migrated/image.05T5g00000ppbtdEAA.jpg\", \"embedType\": \"image\", \"displaySize\": \"large\", \"float\": \"none\", \"name\": \"rtaImage (70).jpeg\"}, \"children\": [{\"text\": \"\"}]}]}, {\"type\": \"li\", \"children\": [{\"type\": \"lic\", \"children\": [{\"text\": \"You will be returned back to the POS home page\"}]}]}, {\"type\": \"li\", \"children\": [{\"type\": \"lic\", \"children\": [{\"text\": \"Continue to use POS and create additional sales as required\"}]}]}]}, {\"type\": \"p\", \"children\": [{\"text\": \"\"}]}, {\"type\": \"h2\", \"children\": [{\"text\": \"Resume a sale on hold\"}], \"data-id\": \"resume-a-sale-on-hold\"}, {\"type\": \"p\", \"children\": [{\"text\": \"To open an existing sale on hold:\"}]}, {\"type\": \"ol\", \"children\": [{\"type\": \"li\", \"children\": [{\"type\": \"lic\", \"children\": [{\"text\": \"Ensure you are on the POS Home Page\"}]}]}, {\"type\": \"li\", \"children\": [{\"type\": \"lic\", \"children\": [{\"text\": \"Click \"}, {\"text\": \"Sales On Hold \", \"bold\": true}, {\"text\": \"(just under the New Sale/User ID field) - a small icon will display how many sales are currently on hold\"}]}]}, {\"type\": \"li\", \"children\": [{\"type\": \"lic\", \"children\": [{\"text\": \"Enter your User ID\"}]}]}, {\"type\": \"li\", \"children\": [{\"type\": \"lic\", \"children\": [{\"text\": \"A list of sales on hold will be displayed\"}]}]}, {\"type\": \"li\", \"children\": [{\"type\": \"lic\", \"children\": [{\"text\": \"Click \"}, {\"text\": \"Resume \", \"bold\": true}, {\"text\": \"to reopen the sale and continue processing as normal\"}]}]}, {\"type\": \"li\", \"children\": [{\"type\": \"lic\", \"children\": [{\"text\": \"Click \"}, {\"text\": \"Void \", \"bold\": true}, {\"text\": \"to cancel the sale (or click \"}, {\"text\": \"Void All Sales On Hold \", \"bold\": true}, {\"text\": \"to cancel all of them)\"}, {\"text\": \"\\n\"}, {\"text\": \"\\tIf there are any payments on these sales they will remain against the sale, so it's recommended to refund any payments prior to voiding a sale\"}]}]}]}, {\"type\": \"p\", \"children\": [{\"text\": \"\"}]}]",
+  "fixes_applied": {
+    "urls": {
+      "leaving_cleaned": 0,
+      "unsafe_removed": 0,
+      "s_article_mapped": 0,
+      "s_article_removed": 0,
+      "fragments_mapped": 0,
+      "fragments_stripped": 0,
+      "internal_fragments_fixed": 0,
+      "double_id_fixed": 0,
+      "kb_fragments_stripped": 0
+    },
+    "toc": 0,
+    "related": 1,
+    "lists": 0,
+    "headings": 0,
+    "reconverted": false
+  }
+}

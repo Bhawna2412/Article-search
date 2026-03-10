@@ -1,0 +1,26 @@
+{
+  "articleID": 483,
+  "name": "POS - Out of Stock warning",
+  "slug": "483-pos-out-of-stock-warning",
+  "format": "rich2",
+  "locale": "en",
+  "body": "[{\"type\": \"p\", \"children\": [{\"text\": \"You can prevent negative inventory and maintain stock accuracy through out-of-stock warnings in \"}, {\"text\": \"Retail Express\", \"bold\": true}, {\"text\": \" POS, which alert staff when attempting to sell products with insufficient available inventory. This inventory protection helps retail operators avoid selling unavailable stock and maintain accurate inventory records, with effective out-of-stock warnings typically preventing overselling and supporting reliable inventory management across Australian retail operations.\"}]}, {\"type\": \"p\", \"children\": [{\"text\": \"Out-of-stock warning functionality in \"}, {\"text\": \"Retail Express\", \"bold\": true}, {\"text\": \" POS enables retail staff to make informed selling decisions by flagging low or zero inventory situations, helping ensure accurate stock tracking and preventing customer disappointment from unfulfillable orders. This warning system helps ensure your retail operations maintain accurate available stock levels while supporting informed customer communication about product availability.\"}]}, {\"type\": \"p\", \"children\": [{\"text\": \"To avoid overselling of stock, POS has a useful alert indicator to advise staff if the product they're selling is not available, and will result in a stock level below zero/negative stock. This is particularly useful when stock may have been sold online through an integrated web store or allocated to a Transfer, but has not yet been taken off the floor.\"}]}, {\"type\": \"callout\", \"children\": [{\"type\": \"callout-item\", \"children\": [{\"text\": \"Even if the product is out of stock you will still be able to finalise the sale. POS assumes that if you are selling the product as Cash & Carry that you must have the product physically in your hand.\"}]}], \"appearance\": \"info\"}, {\"type\": \"p\", \"children\": [{\"text\": \"On this sale product has 0 in stock at the Outlet. When added to the sale in POS a warning indicator will be displayed next to the product description. Hover over the warning to view more details on the notification:\"}]}, {\"type\": \"rich_embed_card\", \"dataSourceType\": \"image\", \"url\": \"https://us.v-cdn.net/6038474/uploads/attachments/migrated/image.05T5g00000ppW7yEAE.jpg\", \"embedData\": {\"url\": \"https://us.v-cdn.net/6038474/uploads/attachments/migrated/image.05T5g00000ppW7yEAE.jpg\", \"embedType\": \"image\", \"displaySize\": \"large\", \"float\": \"none\", \"name\": \"mceclip0 - 2023-07-08T232639.637.png\"}, \"children\": [{\"text\": \"\"}]}, {\"type\": \"p\", \"children\": [{\"text\": \"Staff can either elect to continue with the sale, or by double clicking on the product (press and hold for tablets or touch screens) to view the stock availability for other Outlets to coordinate a Transfer or customer pickup from another Outlet.\"}]}, {\"type\": \"rich_embed_card\", \"dataSourceType\": \"image\", \"url\": \"https://us.v-cdn.net/6038474/uploads/attachments/migrated/image.05T5g00000ppVdGEAU.jpg\", \"embedData\": {\"url\": \"https://us.v-cdn.net/6038474/uploads/attachments/migrated/image.05T5g00000ppVdGEAU.jpg\", \"embedType\": \"image\", \"displaySize\": \"large\", \"float\": \"none\", \"name\": \"mceclip1 (80).png\"}, \"children\": [{\"text\": \"\"}]}, {\"type\": \"p\", \"children\": [{\"text\": \"Want more information? Find related products here:\"}]}, {\"type\": \"ul\", \"children\": [{\"type\": \"li\", \"children\": [{\"type\": \"lic\", \"children\": [{\"text\": \"POS - Create a Transfer\"}]}]}]}, {\"type\": \"p\", \"children\": [{\"text\": \"\"}]}]",
+  "fixes_applied": {
+    "urls": {
+      "leaving_cleaned": 0,
+      "unsafe_removed": 0,
+      "s_article_mapped": 0,
+      "s_article_removed": 1,
+      "fragments_mapped": 0,
+      "fragments_stripped": 0,
+      "internal_fragments_fixed": 0,
+      "double_id_fixed": 0,
+      "kb_fragments_stripped": 0
+    },
+    "toc": 0,
+    "related": 1,
+    "lists": 0,
+    "headings": 0,
+    "reconverted": false
+  }
+}

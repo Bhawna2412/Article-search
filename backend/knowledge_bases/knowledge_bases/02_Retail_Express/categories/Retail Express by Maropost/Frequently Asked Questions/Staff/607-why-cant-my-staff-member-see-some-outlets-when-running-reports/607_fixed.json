@@ -1,0 +1,26 @@
+{
+  "articleID": 607,
+  "name": "Why can't my staff member see some Outlets when running reports?",
+  "slug": "607-why-cant-my-staff-member-see-some-outlets-when-running-reports",
+  "format": "rich2",
+  "locale": "en",
+  "body": "[{\"type\": \"p\", \"children\": [{\"text\": \"You can control report access permissions in Retail Express based on user roles and outlet assignments, helping your retail operations maintain appropriate data visibility for different staff levels. This capability restricts report data to authorized outlets and information, which helps protect sensitive business data while ensuring staff have access to the information relevant to their responsibilities.\"}]}, {\"type\": \"p\", \"children\": [{\"text\": \"Setting up proper report access controls enables your retail operations to maintain data security while supporting multi-store management, helping optimize information governance across locations. This helps retail businesses ensure staff see only the data appropriate for their role while maintaining comprehensive reporting for management and executives.\"}]}, {\"type\": \"p\", \"children\": [{\"text\": \"When staff members are unable to see certain outlets while running reports or performing transfers, it can be due to restricted access permissions.\"}]}, {\"type\": \"p\", \"children\": [{\"text\": \"Issue:\", \"bold\": true}]}, {\"type\": \"p\", \"children\": [{\"text\": \"User is unable to see certain Outlets when running reports\"}]}, {\"type\": \"p\", \"children\": [{\"text\": \"Solution:\", \"bold\": true}]}, {\"type\": \"p\", \"children\": [{\"text\": \"If you're unable to view specific Outlets when running reports or Transfers, it's likely the user doesn't have access to that specific Outlet.\"}]}, {\"type\": \"p\", \"children\": [{\"text\": \"You will need to \"}, {\"text\": \"give the user access to the Outlet\"}, {\"text\": \" so they can run reports etc.\"}]}, {\"type\": \"p\", \"children\": [{\"text\": \"\"}]}]",
+  "fixes_applied": {
+    "urls": {
+      "leaving_cleaned": 0,
+      "unsafe_removed": 0,
+      "s_article_mapped": 0,
+      "s_article_removed": 1,
+      "fragments_mapped": 0,
+      "fragments_stripped": 0,
+      "internal_fragments_fixed": 0,
+      "double_id_fixed": 0,
+      "kb_fragments_stripped": 0
+    },
+    "toc": 0,
+    "related": 1,
+    "lists": 0,
+    "headings": 0,
+    "reconverted": false
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "articleID": 1439,
+  "knowledgeCategoryID": 300,
+  "sort": 1,
+  "name": "Video: Header Announcement Tweak",
+  "body": "[{\"type\": \"p\", \"children\": [{\"text\": \"Please Note\", \"bold\": true}, {\"text\": \": This tweak modifies your theme template files. We recommend only users with experience using HTML and CSS attempt this tweak. Neto by Maropost partners can set this up for you. \"}, {\"type\": \"a\", \"url\": \"https://www.netohq.com/job-request-portal\", \"children\": [{\"text\": \"Request a\"}]}, {\"text\": \"\\u00a0quote if you're not familiar with HTML or CSS.\"}]}, {\"type\": \"p\", \"children\": [{\"type\": \"a\", \"url\": \"https://www.youtube.com/embed/eF2OKtF8XUg?wmode=opaque\", \"children\": [{\"text\": \"https://www.youtube.com/embed/eF2OKtF8XUg?wmode=opaque\"}]}]}]",
+  "format": "rich2",
+  "featured": false,
+  "locale": "en",
+  "status": "published",
+  "foreignID": null,
+  "dateUpdated": "2025-12-11T04:35:48+00:00",
+  "_source_kb_id": 4,
+  "_source_kb_name": "Neto By Maropost",
+  "_sync_date": "2026-02-06T07:18:41.890973+00:00",
+  "_incremental_update": true
+}

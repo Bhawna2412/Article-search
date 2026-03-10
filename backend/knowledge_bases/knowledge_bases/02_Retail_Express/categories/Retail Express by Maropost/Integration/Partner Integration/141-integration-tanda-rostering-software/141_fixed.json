@@ -1,0 +1,26 @@
+{
+  "articleID": 141,
+  "name": "Integration - Tanda Rostering Software",
+  "slug": "141-integration-tanda-rostering-software",
+  "format": "rich2",
+  "locale": "en",
+  "body": "[{\"type\": \"p\", \"children\": [{\"text\": \"Tanda is a third party time and attendance system that automates rosters, time-sheets, award or agreement rates to make payroll processing a lot faster. For example you could:\"}]}, {\"type\": \"ul\", \"children\": [{\"type\": \"li\", \"children\": [{\"type\": \"lic\", \"children\": [{\"text\": \"Set up a roster in Tanda and either text or email it out to your staff\"}]}]}, {\"type\": \"li\", \"children\": [{\"type\": \"lic\", \"children\": [{\"text\": \"Use a timeclock where staff clock in and out when staff arrive/leave work\"}]}]}, {\"type\": \"li\", \"children\": [{\"type\": \"lic\", \"children\": [{\"text\": \"Calculate the correct gross wages based on their award/agreement and the clock in/out times\"}]}]}, {\"type\": \"li\", \"children\": [{\"type\": \"lic\", \"children\": [{\"text\": \"Approve timesheets, then export them to your payroll software (ie Xero/MYOB) for payroll processing\"}]}]}]}, {\"type\": \"p\", \"children\": [{\"text\": \"\"}]}, {\"type\": \"p\", \"children\": [{\"type\": \"a\", \"url\": \"https://www.youtube.com/embed/9gRhhoTIneo\", \"children\": [{\"text\": \"https://www.youtube.com/embed/9gRhhoTIneo\"}]}]}, {\"type\": \"p\", \"children\": [{\"text\": \"For more info please check out the \"}, {\"type\": \"a\", \"url\": \"http://www.tanda.co/webinars\", \"children\": [{\"text\": \"Tanda webinars\"}]}, {\"text\": \".\"}]}, {\"type\": \"p\", \"children\": [{\"text\": \"\"}]}, {\"type\": \"h2\", \"children\": [{\"text\": \"Who is Tanda suited to?\"}], \"data-id\": \"who-is-tanda-suited-to\"}, {\"type\": \"p\", \"children\": [{\"text\": \"Anyone with over 15 staff, who start and finish work from set locations e.g. retail stores, warehouses etc.\"}]}, {\"type\": \"p\", \"children\": [{\"text\": \"\"}]}, {\"type\": \"h2\", \"children\": [{\"text\": \"How does Tanda integrate with Retail Express?\"}], \"data-id\": \"how-does-tanda-integrate-with-retail-express\"}, {\"type\": \"p\", \"children\": [{\"text\": \"Retailers need to have an idea of their historical and actual revenue for rostering and for reporting purposes.  This can be achieved by pulling the sales data from Retail Express over into Tanda using our Inventory Planning API.\"}]}, {\"type\": \"p\", \"children\": [{\"text\": \"For example:\"}]}, {\"type\": \"ul\", \"children\": [{\"type\": \"li\", \"children\": [{\"type\": \"lic\", \"children\": [{\"text\": \"Historical hourly sales data\", \"bold\": true}, {\"text\": \" can be brought across from Retail Express into Tanda, thus allowing managers/owners to compare how many staff they have rostered on versus their historical sales revenue (i.e. when sales are high they roster more staff and when sales are low they roster on less).\"}]}]}, {\"type\": \"li\", \"children\": [{\"type\": \"lic\", \"children\": [{\"text\": \"Current daily sales data\", \"bold\": true}, {\"text\": \" can also brought across from Retail Express into Tanda, thus allowing users to report on wage percentage of revenue by comparing rostering of staff costs vs actual staff costs vs actual revenue. This can be split down further via departments - allowing you to compare departmental staff costs vs departmental sales data\"}]}]}]}, {\"type\": \"p\", \"children\": [{\"text\": \"\"}]}, {\"type\": \"h2\", \"children\": [{\"text\": \"I'm interested - where do I sign up?\"}], \"data-id\": \"i-m-interested-where-do-i-sign-up\"}, {\"type\": \"p\", \"children\": [{\"text\": \"To access this integration you will need to:\"}]}, {\"type\": \"ul\", \"children\": [{\"type\": \"li\", \"children\": [{\"type\": \"lic\", \"children\": [{\"text\": \"Set up an account with Tanda - \"}, {\"type\": \"a\", \"url\": \"https://www.tanda.co/\", \"children\": [{\"text\": \"click here to contact Tanda\"}]}]}]}]}, {\"type\": \"p\", \"children\": [{\"text\": \"\"}]}, {\"type\": \"p\", \"children\": [{\"text\": \"Want more information on Retail Express integrations?\"}]}, {\"type\": \"ul\", \"children\": [{\"type\": \"li\", \"children\": [{\"type\": \"lic\", \"children\": [{\"text\": \"Shopify\"}]}]}, {\"type\": \"li\", \"children\": [{\"type\": \"lic\", \"children\": [{\"text\": \"Accounting\"}]}]}, {\"type\": \"li\", \"children\": [{\"type\": \"lic\", \"children\": [{\"text\": \"Afterpay\"}]}]}, {\"type\": \"li\", \"children\": [{\"type\": \"lic\", \"children\": [{\"type\": \"a\", \"url\": \"https://retailexpress.com.au/pos-integrations/\", \"children\": [{\"text\": \"Full list of all available Retail Express integrations\"}]}]}]}]}]",
+  "fixes_applied": {
+    "urls": {
+      "leaving_cleaned": 4,
+      "unsafe_removed": 0,
+      "s_article_mapped": 0,
+      "s_article_removed": 3,
+      "fragments_mapped": 0,
+      "fragments_stripped": 0,
+      "internal_fragments_fixed": 0,
+      "double_id_fixed": 0,
+      "kb_fragments_stripped": 0
+    },
+    "toc": 0,
+    "related": 0,
+    "lists": 0,
+    "headings": 1,
+    "reconverted": false
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "articleID": 275,
+  "name": "Purchasing Cash Flow",
+  "slug": "275-purchasing-cash-flow",
+  "format": "rich2",
+  "locale": "en",
+  "body": "[{\"type\": \"p\", \"children\": [{\"text\": \"You can forecast and manage inventory investment cash requirements by accessing the Purchasing Cash Flow Report, which projects upcoming purchase order payment obligations and helps plan cash flow for inventory purchases. This forward-looking report helps retail operators anticipate cash needs, schedule supplier payments effectively, and maintain adequate working capital for inventory replenishment across seasonal buying cycles.\"}]}, {\"type\": \"p\", \"children\": [{\"text\": \"Using the Purchasing Cash Flow Report helps retail operators plan inventory investment timing, avoid cash shortages during peak buying periods, and negotiate better payment terms with suppliers through improved cash flow visibility.\"}]}, {\"type\": \"p\", \"children\": [{\"text\": \"Find \"}, {\"type\": \"a\", \"url\": \"https://galaxy.maropost.com/kb/articles/275-purchasing-cash-flow#Faqs\", \"children\": [{\"text\": \"related articles\", \"bold\": true}]}, {\"text\": \" \", \"bold\": true}, {\"text\": \"at the bottom of this page\"}]}, {\"type\": \"p\", \"children\": [{\"text\": \"The Purchasing Cash Flow Export is an exportable table with detailed information extracted from \"}, {\"text\": \"Purchase Orders\"}, {\"text\": \", and \"}, {\"text\": \"Stock Receipts\"}, {\"text\": \"  (if the PO has been received). This financial report is ideal for tracking payments made against Purchase Orders.\"}]}, {\"type\": \"callout\", \"children\": [{\"type\": \"callout-item\", \"children\": [{\"text\": \"The report is exported to a an Excel file and not displayed on-screen.\"}]}], \"appearance\": \"info\"}, {\"type\": \"rich_embed_card\", \"dataSourceType\": \"image\", \"url\": \"https://us.v-cdn.net/6038474/uploads/attachments/migrated/image.05T5g00000ppbs1EAA.jpg\", \"embedData\": {\"url\": \"https://us.v-cdn.net/6038474/uploads/attachments/migrated/image.05T5g00000ppbs1EAA.jpg\", \"embedType\": \"image\", \"displaySize\": \"large\", \"float\": \"none\", \"name\": \"mceclip0 - 2023-07-09T115609.867.png\"}, \"children\": [{\"text\": \"\"}]}, {\"type\": \"p\", \"children\": [{\"text\": \"To access the Purchasing Cash Flow:\"}]}, {\"type\": \"ol\", \"children\": [{\"type\": \"li\", \"children\": [{\"type\": \"lic\", \"children\": [{\"text\": \"Navigate to \"}, {\"text\": \"Reports > Finance Reports > Purchasing Cash Flow\", \"bold\": true}]}]}, {\"type\": \"li\", \"children\": [{\"type\": \"lic\", \"children\": [{\"text\": \"Use the \"}, {\"text\": \"Filters \", \"bold\": true}, {\"text\": \"as required\"}]}]}, {\"type\": \"li\", \"children\": [{\"type\": \"lic\", \"children\": [{\"text\": \"Click \"}, {\"text\": \"Export to Excel\", \"bold\": true}]}]}, {\"type\": \"li\", \"children\": [{\"type\": \"lic\", \"children\": [{\"text\": \"The file will be downloaded immediately\"}]}]}, {\"type\": \"li\", \"children\": [{\"type\": \"lic\", \"children\": [{\"text\": \"Open the file in Excel\"}]}]}, {\"type\": \"li\", \"children\": [{\"type\": \"lic\", \"children\": [{\"text\": \"Click \"}, {\"text\": \"Enable Editing \", \"bold\": true}, {\"text\": \"if required\"}]}]}, {\"type\": \"li\", \"children\": [{\"type\": \"lic\", \"children\": [{\"text\": \"Use the file as required (scroll to the right to view detailed information)\"}]}]}]}, {\"type\": \"rich_embed_card\", \"dataSourceType\": \"image\", \"url\": \"https://us.v-cdn.net/6038474/uploads/attachments/migrated/image.05T5g00000ppbsVEAQ.jpg\", \"embedData\": {\"url\": \"https://us.v-cdn.net/6038474/uploads/attachments/migrated/image.05T5g00000ppbsVEAQ.jpg\", \"embedType\": \"image\", \"displaySize\": \"large\", \"float\": \"none\", \"name\": \"mceclip2 (56).png\"}, \"children\": [{\"text\": \"\"}]}, {\"type\": \"p\", \"children\": [{\"type\": \"a\", \"url\": \"\", \"children\": [{\"text\": \"\"}]}, {\"text\": \"Want more information? Find related articles here:\"}]}, {\"type\": \"ul\", \"children\": [{\"type\": \"li\", \"children\": [{\"type\": \"lic\", \"children\": [{\"text\": \"Receipt a Purchase Order\"}]}]}, {\"type\": \"li\", \"children\": [{\"type\": \"lic\", \"children\": [{\"text\": \"PO Detail Report\"}]}]}]}, {\"type\": \"p\", \"children\": [{\"text\": \"\"}]}]",
+  "fixes_applied": {
+    "urls": {
+      "leaving_cleaned": 0,
+      "unsafe_removed": 0,
+      "s_article_mapped": 0,
+      "s_article_removed": 4,
+      "fragments_mapped": 0,
+      "fragments_stripped": 0,
+      "internal_fragments_fixed": 2,
+      "double_id_fixed": 0,
+      "kb_fragments_stripped": 0
+    },
+    "toc": 0,
+    "related": 1,
+    "lists": 0,
+    "headings": 0,
+    "reconverted": false
+  }
+}

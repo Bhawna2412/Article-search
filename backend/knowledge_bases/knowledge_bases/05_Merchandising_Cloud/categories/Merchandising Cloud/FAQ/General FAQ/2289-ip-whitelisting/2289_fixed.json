@@ -1,0 +1,16 @@
+{
+  "articleID": 2289,
+  "knowledgeCategoryID": 483,
+  "sort": 1,
+  "name": "IP Whitelisting",
+  "body": "[{\"type\":\"h1\",\"children\":[{\"text\":\"Product Sync Whitelisting\"}]},{\"type\":\"p\",\"children\":[{\"text\":\"If accessing the product feed requires IP whitelisting in your firewall, you need to whitelist the following IPs for our product sync mechanism to download the product feed from you\"}]},{\"type\":\"ul\",\"children\":[{\"type\":\"li\",\"children\":[{\"type\":\"lic\",\"children\":[{\"text\":\"34.69.253.49\"}]}]},{\"type\":\"li\",\"children\":[{\"type\":\"lic\",\"children\":[{\"text\":\"34.136.57.29\"}]}]},{\"type\":\"li\",\"children\":[{\"type\":\"lic\",\"children\":[{\"text\":\"34.70.45.199\"}]}]}]},{\"type\":\"h1\",\"children\":[{\"text\":\"Test environment access\"}]},{\"type\":\"p\",\"children\":[{\"text\":\"If your test environment is hidden to the general public, but Findify requires access to it (to verify installation, do customizations or help with your queries), you can whitelist the following IP address and our team would be able to access your test environment:\"}]},{\"type\":\"ul\",\"children\":[{\"type\":\"li\",\"children\":[{\"type\":\"lic\",\"children\":[{\"text\":\"50.16.12.102\"}]}]}]},{\"type\":\"p\",\"children\":[{\"text\":\"\"}]}]",
+  "format": "rich2",
+  "featured": false,
+  "locale": "en",
+  "status": "published",
+  "foreignID": null,
+  "dateUpdated": "2025-09-18T17:33:20+00:00",
+  "_source_kb_id": 5,
+  "_source_kb_name": "Merchandising Cloud",
+  "_sync_date": "2026-02-02T05:55:02.634723+00:00"
+}

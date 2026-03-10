@@ -1,0 +1,27 @@
+{
+  "articleID": 1590,
+  "name": "Cancel Sales Orders in Bulk",
+  "slug": "1590-cancel-sales-orders-in-bulk",
+  "format": "rich2",
+  "locale": "en",
+  "body": "[{\"type\": \"h2\", \"children\": [{\"text\": \"Steps\"}], \"data-id\": \"steps\"}, {\"type\": \"ol\", \"children\": [{\"type\": \"li\", \"children\": [{\"type\": \"lic\", \"children\": [{\"text\": \"In your Neto control panel navigate to \"}, {\"text\": \"Sales Orders\", \"bold\": true}, {\"text\": \" > \"}, {\"text\": \"View Orders\", \"bold\": true}, {\"text\": \".\"}]}]}, {\"type\": \"li\", \"children\": [{\"type\": \"lic\", \"children\": [{\"text\": \"Click the checkbox next to each order (within the \"}, {\"text\": \"Order ID\", \"bold\": true}, {\"text\": \" column) to be cancelled.\"}]}]}, {\"type\": \"li\", \"children\": [{\"type\": \"lic\", \"children\": [{\"text\": \"Scroll to the bottom of the page to locate the \"}, {\"text\": \"Bulk Actions\", \"bold\": true}, {\"text\": \" button.\"}]}]}, {\"type\": \"li\", \"children\": [{\"type\": \"lic\", \"children\": [{\"text\": \"Select \"}, {\"text\": \"Cancelled\", \"bold\": true}, {\"text\": \" from the \"}, {\"text\": \"Change Order Status\", \"bold\": true}, {\"text\": \" dropdown.\"}]}]}, {\"type\": \"li\", \"children\": [{\"type\": \"lic\", \"children\": [{\"text\": \"Click the \"}, {\"text\": \"Apply \", \"bold\": true}, {\"text\": \" button. Neto will display a dialog box, asking you to confirm the cancellation.\"}]}]}, {\"type\": \"li\", \"children\": [{\"type\": \"lic\", \"children\": [{\"text\": \"Click the \"}, {\"text\": \"OK\", \"bold\": true}, {\"text\": \" button.\"}]}]}]}, {\"type\": \"p\", \"children\": [{\"text\": \"\"}]}, {\"type\": \"h2\", \"children\": [{\"text\": \"Result\"}], \"data-id\": \"result\"}, {\"type\": \"p\", \"children\": [{\"text\": \"The selected orders will now be cancelled, and the items will be returned to stock.\"}]}, {\"type\": \"p\", \"children\": [{\"text\": \"\"}]}]",
+  "fixes_applied": {
+    "rebrand": 3,
+    "urls": {
+      "leaving_cleaned": 0,
+      "unsafe_removed": 0,
+      "s_article_mapped": 1,
+      "s_article_removed": 1,
+      "fragments_mapped": 0,
+      "fragments_stripped": 0,
+      "internal_fragments_fixed": 0,
+      "double_id_fixed": 0,
+      "kb_fragments_stripped": 0
+    },
+    "toc": 0,
+    "related": 1,
+    "lists": 6,
+    "headings": 0,
+    "reconverted": true
+  }
+}

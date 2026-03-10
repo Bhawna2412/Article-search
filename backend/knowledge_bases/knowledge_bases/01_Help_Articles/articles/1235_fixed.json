@@ -1,0 +1,16 @@
+{
+  "articleID": 1235,
+  "knowledgeCategoryID": 1,
+  "sort": 8,
+  "name": "Agent Only Accounting Link - How to use POID to determine when Accounting Link extracted a PO",
+  "body": "<h1 data-id=\"agent-only-accounting-link-how-to-use-poid-to-determine-when-accounting-link-extracted-a-po\">Agent Only Accounting Link - How to use POID to determine when Accounting Link extracted a PO</h1>\n<p>In order to determine when a Purchase Order was extracted in Accounting Link, when the POID is known, open the SQL Editor by pressing Ctrl Shift Alt S.</p>\n<p>Enter the following and replace <strong><em>POID</em></strong> with the Retail Express Purchase Order ID:</p>\n<p><em>select importdate, fromdate, todate, uploaddate,* from x_purchaseorder </em><br/><em>inner join reimportlog on reimportlog.importId  = x_purchaseorder.importId</em><br/><em>where POID = <strong>POID</strong></em></p>\n<p><em><strong><img alt=\"\" height=\"360\" src=\"https://ress.zendesk.com/hc/en-us/article_attachments/204643258/AIS_POIS.jpg\" width=\"478\" loading=\"lazy\" style=\"height: 360px; width: 478px\" srcset=\"https://us.v-cdn.net/cdn-cgi/image/quality=80,format=auto,fit=scale-down,height=300,width=300/https://ress.zendesk.com/hc/en-us/article_attachments/204643258/AIS_POIS.jpg 300w, https://us.v-cdn.net/cdn-cgi/image/quality=80,format=auto,fit=scale-down,height=600,width=600/https://ress.zendesk.com/hc/en-us/article_attachments/204643258/AIS_POIS.jpg 600w, https://us.v-cdn.net/cdn-cgi/image/quality=80,format=auto,fit=scale-down,height=800,width=800/https://ress.zendesk.com/hc/en-us/article_attachments/204643258/AIS_POIS.jpg 800w, https://us.v-cdn.net/cdn-cgi/image/quality=80,format=auto,fit=scale-down,height=1200,width=1200/https://ress.zendesk.com/hc/en-us/article_attachments/204643258/AIS_POIS.jpg 1200w, https://us.v-cdn.net/cdn-cgi/image/quality=80,format=auto,fit=scale-down,height=1600,width=1600/https://ress.zendesk.com/hc/en-us/article_attachments/204643258/AIS_POIS.jpg 1600w, https://us.v-cdn.net/cdn-cgi/image/quality=80,format=auto,fit=scale-down,height=2000,width=2000/https://ress.zendesk.com/hc/en-us/article_attachments/204643258/AIS_POIS.jpg 2000w, https://ress.zendesk.com/hc/en-us/article_attachments/204643258/AIS_POIS.jpg\" sizes=\"100vw\" class=\"embedImage-img importedEmbed-img\"></img></strong></em></p>\n<p>The \"ImportDate\" column will show the Extract Date this PO was extracted. There are several other bits of useful information in the results, such as: UploadDate, DateReceived, JournalRef and UpdateDate.</p>",
+  "format": "html",
+  "featured": false,
+  "locale": "en",
+  "status": "published",
+  "foreignID": null,
+  "dateUpdated": "2023-06-01T04:21:33+00:00",
+  "_source_kb_id": 1,
+  "_source_kb_name": "Help Articles",
+  "_sync_date": "2026-02-02T05:48:21.287707+00:00"
+}

@@ -1,0 +1,27 @@
+{
+  "articleID": 1009,
+  "name": "Wufoo Form Builder",
+  "slug": "1009-wufoo-form-builder",
+  "format": "rich2",
+  "locale": "en",
+  "body": "[{\"type\": \"h3\", \"children\": [{\"text\": \"[Image: User-added image]\"}, {\"text\": \"\\n\"}, {\"text\": \"\\n\"}, {\"text\": \"This add-on was built by Maropost\"}]}, {\"type\": \"p\", \"children\": [{\"type\": \"a\", \"url\": \"http://www.wufoo.com/\", \"children\": [{\"text\": \"Visit Add-On Website\"}]}]}, {\"type\": \"h2\", \"children\": [{\"text\": \"Set up the Wufoo Form Builder Add-on\"}]}, {\"type\": \"p\", \"children\": [{\"text\": \"To install and set up the Wufoo Form Builder add-on:\"}]}, {\"type\": \"ol\", \"children\": [{\"type\": \"li\", \"children\": [{\"type\": \"lic\", \"children\": [{\"text\": \"Create an account with \"}, {\"type\": \"a\", \"url\": \"http://www.wufoo.com/\", \"children\": [{\"text\": \"Wufoo\"}]}, {\"text\": \". They have both free and paid plans.\"}]}]}, {\"type\": \"li\", \"children\": [{\"type\": \"lic\", \"children\": [{\"text\": \"In your Neto by Maropost control panel navigate to \"}, {\"text\": \"Settings & tools\", \"bold\": true}, {\"text\": \" > \"}, {\"text\": \"All settings & tools\", \"bold\": true}, {\"text\": \".\"}]}]}, {\"type\": \"li\", \"children\": [{\"type\": \"lic\", \"children\": [{\"text\": \"Search for \"}, {\"text\": \"Content types manager\", \"bold\": true}, {\"text\": \" and click it.\"}]}]}, {\"type\": \"li\", \"children\": [{\"type\": \"lic\", \"children\": [{\"text\": \"Click \"}, {\"text\": \"Forms\", \"bold\": true}, {\"text\": \".\"}]}]}, {\"type\": \"li\", \"children\": [{\"type\": \"lic\", \"children\": [{\"text\": \"Select the \"}, {\"text\": \"Show in control panel menu\", \"bold\": true}, {\"text\": \" check box and click the \"}, {\"text\": \"Save\", \"bold\": true}, {\"text\": \" button.\"}]}]}, {\"type\": \"li\", \"children\": [{\"type\": \"lic\", \"children\": [{\"text\": \"Click the \"}, {\"text\": \"Addons\", \"bold\": true}, {\"text\": \" menu.\"}]}]}, {\"type\": \"li\", \"children\": [{\"type\": \"lic\", \"children\": [{\"text\": \"In the content management section, find the Wufoo Form Builder add-on and click the \"}, {\"text\": \"Install\", \"bold\": true}, {\"text\": \" button.\"}]}]}, {\"type\": \"li\", \"children\": [{\"type\": \"lic\", \"children\": [{\"text\": \"Click the \"}, {\"text\": \"Install\", \"bold\": true}, {\"text\": \" button in the pop-up window that appears.\"}]}]}]}, {\"type\": \"p\", \"children\": [{\"text\": \"Once installed a \"}, {\"text\": \"Forms\", \"bold\": true}, {\"text\": \" selection will appear in the content pages (blog posts, brands, buying guides, forms, information pages, product categories and custom content types).\"}]}, {\"type\": \"p\", \"children\": [{\"text\": \"Click on the \"}, {\"text\": \"Add New\", \"bold\": true}, {\"text\": \" button. A popup window will appear. If this is the first time you have used this feature, you will be asked to log into Wufoo, otherwise you will see a list of forms you have already created. You can create a new form or chose from one of the suggested forms that Wufoo have created.\"}]}, {\"type\": \"p\", \"children\": [{\"text\": \"When you select the form it will be saved with the page details.\"}]}, {\"type\": \"p\", \"children\": [{\"text\": \"To display the Wufoo form on your page, you will need to add the tag \"}, {\"text\": \"[@content_wufoo_form@]\", \"bold\": true}, {\"text\": \" to the page template. Your web designer or Neto by Maropost partners can make this change for you.\"}]}]",
+  "fixes_applied": {
+    "rebrand": 0,
+    "urls": {
+      "leaving_cleaned": 2,
+      "unsafe_removed": 0,
+      "s_article_mapped": 0,
+      "s_article_removed": 0,
+      "fragments_mapped": 0,
+      "fragments_stripped": 0,
+      "internal_fragments_fixed": 0,
+      "double_id_fixed": 0,
+      "kb_fragments_stripped": 0
+    },
+    "toc": 0,
+    "related": 0,
+    "lists": 8,
+    "headings": 1,
+    "reconverted": false
+  }
+}

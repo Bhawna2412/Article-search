@@ -1,0 +1,29 @@
+{
+  "articleID": 679,
+  "name": "Add Support for Australia Post Safe Drop",
+  "slug": "679-add-support-for-australia-post-safe-drop",
+  "format": "rich2",
+  "locale": "en",
+  "body": "[{\"type\": \"p\", \"children\": [{\"text\": \"This only applies to domestic parcels dispatched through eParcel where you have asked Australia Post to collect a signature on your behalf. If the parcels have Transit Cover, Extra Cover or Identity On Delivery features then you will not be able to use the safe drop service. Using the safe drop feature is not compatible with the 'Signature required by default for all orders' in the checkout settings.\"}]}, {\"type\": \"h2\", \"children\": [{\"text\": \"How safe drop works\"}], \"data-id\": \"how-safe-drop-works\"}, {\"type\": \"ol\", \"children\": [{\"type\": \"li\", \"children\": [{\"type\": \"lic\", \"children\": [{\"text\": \"Your customers will see a link in their email tracking notifications or in their personalised MyPost Track page inviting them to safe drop their parcel (note that this will only happen where you provide their email address when you manifest the parcel).\"}]}]}, {\"type\": \"li\", \"children\": [{\"type\": \"lic\", \"children\": [{\"text\": \"Your customers are directed to our MyPost portal and request that we leave the parcel in a safe place at their nominated delivery address. They will accept the terms & conditions for the service and choose a predetermined, suitable safe drop location from a drop-down list.\"}]}]}, {\"type\": \"li\", \"children\": [{\"type\": \"lic\", \"children\": [{\"text\": \"If there is no one at the nominated delivery address to sign for the parcel, our delivery person will follow the instructions to leave the parcel in the safe drop location unless, in their judgment, it is exposed to passers-by or the weather (in which case the parcel will still be carded to the Post Office)\"}]}]}]}, {\"type\": \"h2\", \"children\": [{\"text\": \"How to enable or disable safe drop for your customers\"}], \"data-id\": \"how-to-enable-or-disable-safe-drop-for-your-customers\"}, {\"type\": \"p\", \"children\": [{\"text\": \"You can choose if you allow customers to use the safe drop service, For example, if you send high value products, you may not want parcels to be left without a signature. However, if you want your customers to get their parcels with little fuss, you can enable the option.\"}]}, {\"type\": \"p\", \"children\": [{\"text\": \"To change the safe drop settings:\"}]}, {\"type\": \"ol\", \"children\": [{\"type\": \"li\", \"children\": [{\"type\": \"lic\", \"children\": [{\"text\": \"In your Neto by Maropost control panel navigate to \"}, {\"text\": \"Settings & Tools\", \"bold\": true}, {\"text\": \" > \"}, {\"text\": \"Shipping\", \"bold\": true}, {\"text\": \".\"}]}]}, {\"type\": \"li\", \"children\": [{\"type\": \"lic\", \"children\": [{\"text\": \"Click \"}, {\"text\": \"Carriers & Labels\", \"bold\": true}, {\"text\": \".\"}]}]}, {\"type\": \"li\", \"children\": [{\"type\": \"lic\", \"children\": [{\"text\": \"Find and click on the eParcel carrier from the list.\"}]}]}, {\"type\": \"li\", \"children\": [{\"type\": \"lic\", \"children\": [{\"text\": \"Click on the \"}, {\"text\": \"Manifest & Label Settings\", \"bold\": true}, {\"text\": \" link of the left.\"}]}]}, {\"type\": \"li\", \"children\": [{\"type\": \"lic\", \"children\": [{\"text\": \"Set \"}, {\"text\": \"Send Aus Post tracking advice to customer via email\", \"bold\": true}, {\"text\": \" to \"}, {\"text\": \"Yes\", \"bold\": true}, {\"text\": \".\"}]}]}, {\"type\": \"li\", \"children\": [{\"type\": \"lic\", \"children\": [{\"text\": \"If you want you customers to use safe drop, set \"}, {\"text\": \"Allow your customers to request \\u201csafe drop\\u201d\", \"bold\": true}, {\"text\": \" to \"}, {\"text\": \"Yes\", \"bold\": true}, {\"text\": \" otherwise, set it to \"}, {\"text\": \"No\", \"bold\": true}, {\"text\": \".\"}, {\"text\": \"\\n\"}, {\"text\": \"\\n\"}, {\"text\": \"\"}]}]}, {\"type\": \"li\", \"children\": [{\"type\": \"lic\", \"children\": [{\"text\": \"If enabling safe drop, you will need to disable the signature required feature in your settings. In the control panel, navigate to\"}, {\"text\": \"Webstore > Checkout Settings.\\u00a0\", \"bold\": true}, {\"text\": \"Locate the\"}, {\"text\": \"Signature required by default for all orders \", \"bold\": true}, {\"text\": \"setting and switch this to the off position.\"}]}]}, {\"type\": \"li\", \"children\": [{\"type\": \"lic\", \"children\": [{\"text\": \"Press the\\u00a0\"}, {\"text\": \"Save & Close\", \"bold\": true}, {\"text\": \" button to save the changes.\"}]}]}]}]",
+  "fixes_applied": {
+    "rebrand": 0,
+    "urls": {
+      "leaving_cleaned": 1,
+      "unsafe_removed": 0,
+      "s_article_mapped": 0,
+      "s_article_removed": 0,
+      "fragments_mapped": 0,
+      "fragments_stripped": 0,
+      "internal_fragments_fixed": 0,
+      "double_id_fixed": 0,
+      "kb_fragments_stripped": 0
+    },
+    "toc": 0,
+    "related": 0,
+    "lists": 10,
+    "headings": 1,
+    "reconverted": false
+  },
+  "_sf_cleanup_date": "2026-02-02T06:17:41.209786+00:00",
+  "_sf_removals": 1
+}

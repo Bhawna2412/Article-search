@@ -1,0 +1,16 @@
+{
+  "articleID": 2134,
+  "knowledgeCategoryID": 452,
+  "sort": 14,
+  "name": "Neto by Maropost Release Notes – 29 May 2023",
+  "body": "[{\"type\":\"h2\",\"children\":[{\"text\":\"Improvements\",\"bold\":true}]},{\"type\":\"ul\",\"children\":[{\"type\":\"li\",\"children\":[{\"type\":\"lic\",\"children\":[{\"text\":\"Continued improvements around failed PayPal authorisation, not releasing pre-authorisation amounts when the transaction could not be completed.\"}]}]},{\"type\":\"li\",\"children\":[{\"type\":\"lic\",\"children\":[{\"text\":\"Updated Hunter Express Postcodes and Zones to reflect the newest changes for May.\"}]}]}]},{\"type\":\"p\",\"children\":[{\"text\":\"\"}]},{\"type\":\"h2\",\"children\":[{\"text\":\"Fix\",\"bold\":true}]},{\"type\":\"ul\",\"children\":[{\"type\":\"li\",\"children\":[{\"text\":\"Fixed an issue with the Invoice Batch Report and Stock Journal where an error would prevent users using third-party accounting packages from viewing the report or journal in Neto Control Panel.\"}]},{\"type\":\"li\",\"children\":[{\"text\":\"Fixed an issue with the GetOrder API method where the selected payment option on the order could only be returned if a payment had been made on the order. The field will now return data regarding which payment method was selected even if there no payment has been made. This is useful in situations where an offline payment method is selected by customers choosing to defer payment at checkout e.g. bank deposit, account credit, etc.\"}]}]},{\"type\":\"h2\",\"children\":[{\"text\":\"\"}]},{\"type\":\"p\",\"children\":[{\"text\":\"\"}]}]",
+  "format": "rich2",
+  "featured": false,
+  "locale": "en",
+  "status": "published",
+  "foreignID": null,
+  "dateUpdated": "2025-07-15T11:51:57+00:00",
+  "_source_kb_id": 12,
+  "_source_kb_name": "Neto Release Notes",
+  "_sync_date": "2026-02-02T05:58:43.002043+00:00"
+}

@@ -1,0 +1,26 @@
+{
+  "articleID": 279,
+  "name": "Daily Brand Sales",
+  "slug": "279-daily-brand-sales",
+  "format": "rich2",
+  "locale": "en",
+  "body": "[{\"type\": \"p\", \"children\": [{\"text\": \"You can track sales performance by product brand or manufacturer by accessing the Daily Brand Sales Report, which shows revenue and unit sales broken down by brand. This report helps retail operators identify top-performing brands, evaluate brand mix effectiveness, and make informed decisions about brand representation and inventory investment across different product lines.\"}]}, {\"type\": \"p\", \"children\": [{\"text\": \"Using the Daily Brand Sales Report helps retail operators negotiate better terms with strong-performing brand suppliers, identify underperforming brands for possible discontinuation, and optimize brand mix based on actual customer purchasing preferences.\"}]}, {\"type\": \"p\", \"children\": [{\"text\": \"This report will show the sales totals grouped by your brands and can be used to analyse the performance of one brand to another.  By tracking sales figures for each brand, you can make data-driven decisions to optimize inventory, marketing efforts, and overall brand strategy.\"}, {\"text\": \"\\n\"}, {\"text\": \"\\n\"}, {\"text\": \"\\n\"}, {\"text\": \"To access the Report, Go to\", \"italic\": true}, {\"text\": \" Reports \", \"bold\": true, \"italic\": true}, {\"text\": \">\", \"italic\": true}, {\"text\": \" Finance Reports\", \"bold\": true, \"italic\": true}, {\"text\": \" >\", \"italic\": true}, {\"text\": \" Daily Brand Sales\", \"bold\": true, \"italic\": true}]}, {\"type\": \"rich_embed_card\", \"dataSourceType\": \"image\", \"url\": \"https://us.v-cdn.net/6038474/uploads/attachments/migrated/image.05T5g00000powQLEAY.jpg\", \"embedData\": {\"url\": \"https://us.v-cdn.net/6038474/uploads/attachments/migrated/image.05T5g00000powQLEAY.jpg\", \"embedType\": \"image\", \"displaySize\": \"large\", \"float\": \"none\", \"name\": \"580c6e4059e98be032532a2e71259342602af6fa71ae451fba63fbfe4a473cb8.png\"}, \"children\": [{\"text\": \"\"}]}, {\"type\": \"p\", \"children\": [{\"text\": \"When filtering your report, be sure to enter the specific day you wish to see reported on in the \\\"Date the report\\\" option.\"}]}, {\"type\": \"rich_embed_card\", \"dataSourceType\": \"image\", \"url\": \"https://us.v-cdn.net/6038474/uploads/attachments/migrated/image.05T5g00000powQQEAY.jpg\", \"embedData\": {\"url\": \"https://us.v-cdn.net/6038474/uploads/attachments/migrated/image.05T5g00000powQQEAY.jpg\", \"embedType\": \"image\", \"displaySize\": \"large\", \"float\": \"none\", \"name\": \"84b50f7240bdbdf2ce57fe981eb99b4d415840f824a9ee2662b27562bf67ac06.png\"}, \"children\": [{\"text\": \"\"}]}, {\"type\": \"p\", \"children\": [{\"text\": \"The columns at the top of the report will show your \"}, {\"text\": \"brands\", \"bold\": true}, {\"text\": \", and the rows on the left will show \"}, {\"text\": \"outlets\", \"bold\": true}, {\"text\": \". Each brand will show how much was made in the correlating outlet row during the day.\"}]}, {\"type\": \"p\", \"children\": [{\"text\": \"At the very bottom of the report under the \"}, {\"text\": \"green\", \"bold\": true}, {\"text\": \" line, there will be a total amount made for each brand during the day.\"}]}, {\"type\": \"p\", \"children\": [{\"text\": \"You can print this report or export it to Excel via the button on the bottom left of the page.\"}]}, {\"type\": \"p\", \"children\": [{\"text\": \"\"}]}]",
+  "fixes_applied": {
+    "urls": {
+      "leaving_cleaned": 0,
+      "unsafe_removed": 0,
+      "s_article_mapped": 0,
+      "s_article_removed": 0,
+      "fragments_mapped": 0,
+      "fragments_stripped": 0,
+      "internal_fragments_fixed": 0,
+      "double_id_fixed": 0,
+      "kb_fragments_stripped": 0
+    },
+    "toc": 0,
+    "related": 1,
+    "lists": 0,
+    "headings": 0,
+    "reconverted": false
+  }
+}

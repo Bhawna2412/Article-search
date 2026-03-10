@@ -1,0 +1,26 @@
+{
+  "articleID": 173,
+  "name": "Disable/Unpublish a Shopify Product",
+  "slug": "173-disable-unpublish-a-shopify-product",
+  "format": "rich2",
+  "locale": "en",
+  "body": "[{\"type\": \"p\", \"children\": [{\"text\": \"You can disable or unpublish products from your Shopify store through \"}, {\"text\": \"Retail Express\", \"bold\": true}, {\"text\": \", controlling product visibility and managing your online catalog effectively. This capability helps maintain eCommerce catalog quality by removing discontinued items, managing seasonal availability, and controlling which products appear on your online store while maintaining product data in your retail system.\"}]}, {\"type\": \"p\", \"children\": [{\"text\": \"Setting up product disable/unpublish workflows involves understanding synchronization settings and establishing procedures for product lifecycle management. When properly managed, product visibility control typically leads to cleaner online catalogs, better customer experience through relevant product displays, and more efficient inventory management across retail channels.\"}]}, {\"type\": \"p\", \"children\": [{\"text\": \"If you choose to remove a product from your online store you will need to Unpublish the product in Retail Express.\"}]}, {\"type\": \"p\", \"children\": [{\"text\": \"To remove a product from the online integration:\"}]}, {\"type\": \"ol\", \"children\": [{\"type\": \"li\", \"children\": [{\"type\": \"lic\", \"children\": [{\"text\": \"Within Retail Express open the product for editing\"}]}]}, {\"type\": \"li\", \"children\": [{\"type\": \"lic\", \"children\": [{\"text\": \"Navigate to the \"}, {\"text\": \"Publish to Shopify\", \"bold\": true}, {\"text\": \" fields\"}]}]}, {\"type\": \"li\", \"children\": [{\"type\": \"lic\", \"children\": [{\"text\": \"Untick the online store\"}]}]}, {\"type\": \"li\", \"children\": [{\"type\": \"lic\", \"children\": [{\"text\": \"Click \"}, {\"text\": \"Save Changes\", \"bold\": true}]}]}]}, {\"type\": \"p\", \"children\": [{\"text\": \"\"}]}, {\"type\": \"p\", \"children\": [{\"text\": \"The changes that take place on Shopify will vary depending on the type of product:\"}]}, {\"type\": \"table\", \"children\": [{\"type\": \"tr\", \"children\": [{\"type\": \"td\", \"children\": [{\"type\": \"p\", \"children\": [{\"text\": \"Product disabled\", \"bold\": true}]}]}, {\"type\": \"td\", \"children\": [{\"type\": \"p\", \"children\": [{\"text\": \"Result on Shopify\", \"bold\": true}]}]}]}, {\"type\": \"tr\", \"children\": [{\"type\": \"td\", \"children\": [{\"type\": \"p\", \"children\": [{\"text\": \"Individual product - no ManufacturerSKU\"}]}]}, {\"type\": \"td\", \"children\": [{\"type\": \"p\", \"children\": [{\"text\": \"The product will be marked as disabled/unpublished in Shopify\"}]}]}]}, {\"type\": \"tr\", \"children\": [{\"type\": \"td\", \"children\": [{\"type\": \"p\", \"children\": [{\"text\": \"Individual product with a ManufacturerSKU\"}, {\"text\": \"\\n\"}, {\"text\": \"\\t\\t\\t(i.e. a product that forms part of a group)\"}]}]}, {\"type\": \"td\", \"children\": [{\"type\": \"p\", \"children\": [{\"text\": \"The variant will be removed from the product in Shopify, but the rest of the group will remain on Shopify\"}]}]}]}, {\"type\": \"tr\", \"children\": [{\"type\": \"td\", \"children\": [{\"type\": \"p\", \"children\": [{\"text\": \"One or more products in a matrix\"}]}]}, {\"type\": \"td\", \"children\": [{\"type\": \"p\", \"children\": [{\"text\": \"The corresponding variants are all deleted from the product in Shopify, the product is unpublished/disabled if no variants remain\"}]}, {\"type\": \"p\", \"children\": [{\"text\": \"*Note: If there is a matrix product with only 2 variants and one product is disabled/unpublished, on some occasions, a new product for the remaining variant product will be created instead of updating the existing matrix product. If this occurs, the existing product should be removed as the new product will be the active product integrated with Retail Express.\"}]}]}]}], \"id\": \"rich-table-c188421a\"}, {\"type\": \"p\", \"children\": [{\"text\": \"\"}]}]",
+  "fixes_applied": {
+    "urls": {
+      "leaving_cleaned": 0,
+      "unsafe_removed": 0,
+      "s_article_mapped": 0,
+      "s_article_removed": 0,
+      "fragments_mapped": 0,
+      "fragments_stripped": 0,
+      "internal_fragments_fixed": 0,
+      "double_id_fixed": 0,
+      "kb_fragments_stripped": 0
+    },
+    "toc": 0,
+    "related": 1,
+    "lists": 0,
+    "headings": 0,
+    "reconverted": false
+  }
+}

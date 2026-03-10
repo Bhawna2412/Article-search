@@ -1,0 +1,26 @@
+{
+  "articleID": 255,
+  "name": "Locate your Client ID",
+  "slug": "255-locate-your-client-id",
+  "format": "rich2",
+  "locale": "en",
+  "body": "[{\"type\": \"p\", \"children\": [{\"text\": \"You can find your unique \"}, {\"text\": \"Retail Express\", \"bold\": true}, {\"text\": \" client ID for technical support requests, integration configurations, or system administration purposes by accessing specific system information areas. Having your client ID readily available helps expedite support interactions and enables accurate system identification when working with technical support or third-party integrations.\"}]}, {\"type\": \"p\", \"children\": [{\"text\": \"Understanding where to locate your client ID helps retail operators provide accurate system identification information to support teams and integration partners when troubleshooting issues or configuring external services.\"}]}, {\"type\": \"p\", \"children\": [{\"text\": \"The Client ID is a way of uniquely identifying your Retail Express database. This code is frequently used when your site needs to be specifically referred to e.g. eCommerce integrations.\"}]}, {\"type\": \"ol\", \"children\": [{\"type\": \"li\", \"children\": [{\"type\": \"lic\", \"children\": [{\"text\": \"Navigate to \"}, {\"text\": \"Help & Support > What's my Client ID\", \"bold\": true}]}]}, {\"type\": \"li\", \"children\": [{\"type\": \"lic\", \"children\": [{\"text\": \"Your unique Client ID will be displayed\"}]}]}]}, {\"type\": \"rich_embed_card\", \"dataSourceType\": \"image\", \"url\": \"https://us.v-cdn.net/6038474/uploads/attachments/migrated/image.05T5g00000ppTDuEAM.jpg\", \"embedData\": {\"url\": \"https://us.v-cdn.net/6038474/uploads/attachments/migrated/image.05T5g00000ppTDuEAM.jpg\", \"embedType\": \"image\", \"displaySize\": \"large\", \"float\": \"none\", \"name\": \"mceclip0 (93).png\"}, \"children\": [{\"text\": \"\"}]}, {\"type\": \"callout\", \"children\": [{\"type\": \"callout-item\", \"children\": [{\"text\": \"You can create a shortcut to log into POS using your Client ID. Refer to the \"}, {\"text\": \"POS - Quick shortcuts for logging in\"}, {\"text\": \" article for more information.\"}]}], \"appearance\": \"info\"}, {\"type\": \"p\", \"children\": [{\"text\": \"\"}]}]",
+  "fixes_applied": {
+    "urls": {
+      "leaving_cleaned": 0,
+      "unsafe_removed": 0,
+      "s_article_mapped": 0,
+      "s_article_removed": 1,
+      "fragments_mapped": 0,
+      "fragments_stripped": 0,
+      "internal_fragments_fixed": 0,
+      "double_id_fixed": 0,
+      "kb_fragments_stripped": 0
+    },
+    "toc": 0,
+    "related": 1,
+    "lists": 0,
+    "headings": 0,
+    "reconverted": false
+  }
+}

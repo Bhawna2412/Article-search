@@ -1,0 +1,16 @@
+{
+  "articleID": 1228,
+  "knowledgeCategoryID": 1,
+  "sort": 74,
+  "name": "How to ping the Hardware Service",
+  "body": "<h1 data-id=\"how-to-ping-the-hardware-service\">How to ping the Hardware Service</h1>\n<p>To help diagnose problems with the V2POS Hardware Service, it can be useful to perform a ping on the endpoints to ensure that the service can communicate outside the local network.</p>\n<p>Simply open a web browser and type the following:</p>\n<p><a rel=\"nofollow\" href=\"http://galaxy.maropost.com/home/leaving?allowTrusted=1&amp;target=https%3A%2F%2Flocalhost%3A44553%2FREX%2FSSL%2FPing\">https://www.retailexpress.com.au/features/pos-setup-and-support</a></p>\n<p>If the ports were changed during the installation, the above command will need to reflect this.</p>\n<p>If successful, you will get the following result from most browsers, however IE10 will attempt to download a file that can be saved and opened in a text editor containing the same data as below:</p>\n<pre class=\"code codeBlock\" spellcheck=\"false\" tabindex=\"0\"><br/>{\"Authentication\":null,\"Data\":null,\"PageRecordCount\":0,\"Schema\":null,\"StatusCodes\":[\"0\"],\"TotalRecordCount\":0}</pre>\n<p>If unsuccessful you will get a generic Website is not available message from your browser. To check SSL is installed please refer to the following KB article:</p>\n<p><a rel=\"nofollow\" href=\"https://galaxy.maropost.com/s/article/Chrome-not-talking-to-hardware-after-release-to-fix-Chrome-update-forcing-SSL\">How to check if the Hardware Service SSL certificates have been installed</a></p>",
+  "format": "html",
+  "featured": false,
+  "locale": "en",
+  "status": "published",
+  "foreignID": null,
+  "dateUpdated": "2023-06-01T04:26:40+00:00",
+  "_source_kb_id": 1,
+  "_source_kb_name": "Help Articles",
+  "_sync_date": "2026-02-02T05:48:18.529162+00:00"
+}

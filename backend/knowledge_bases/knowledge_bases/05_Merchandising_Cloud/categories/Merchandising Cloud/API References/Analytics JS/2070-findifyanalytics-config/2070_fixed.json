@@ -1,0 +1,31 @@
+{
+  "articleID": 2070,
+  "name": "findifyAnalytics(config)",
+  "format": "rich2",
+  "locale": "en",
+  "body": "[{\"type\": \"h2\", \"children\": [{\"text\": \"Overview\"}]}, {\"type\": \"p\", \"children\": [{\"text\": \"Initializing the Analytics library with your API key creates a client instance that enables tracking user behavior events critical for personalization and machine learning. This configuration establishes the foundation for sending event data that powers search relevance, recommendations, and AI-driven product positioning.\"}]}, {\"type\": \"p\", \"children\": [{\"text\": \"The client instance provides methods for sending various event types and accessing user objects that integrate with other SDK libraries, helping ensure consistent tracking across your implementation. This helps optimize data collection for features that rely on behavioral patterns to deliver personalized shopping experiences.\"}]}, {\"type\": \"h2\", \"children\": [{\"text\": \"Parameters\"}]}, {\"type\": \"table\", \"children\": [{\"type\": \"tr\", \"children\": [{\"type\": \"th\", \"children\": [{\"text\": \"Parameter\"}]}, {\"type\": \"th\", \"children\": [{\"text\": \"Type\"}]}, {\"type\": \"th\", \"children\": [{\"text\": \"Required\"}]}, {\"type\": \"th\", \"children\": [{\"text\": \"Default\"}]}, {\"type\": \"th\", \"children\": [{\"text\": \"Description\"}]}]}, {\"type\": \"tr\", \"children\": [{\"type\": \"td\", \"children\": [{\"text\": \"config.key\", \"code\": true}]}, {\"type\": \"td\", \"children\": [{\"text\": \"string\"}]}, {\"type\": \"td\", \"children\": [{\"text\": \"Yes\"}]}, {\"type\": \"td\", \"children\": [{\"text\": \"-\"}]}, {\"type\": \"td\", \"children\": [{\"text\": \"Merchant API key\"}]}]}]}, {\"type\": \"h2\", \"children\": [{\"text\": \"Returns\"}]}, {\"type\": \"p\", \"children\": [{\"text\": \"Client instance, which could be used further for sending feedback requests to the server.\"}]}, {\"type\": \"h2\", \"children\": [{\"text\": \"Code Examples\"}]}, {\"type\": \"h3\", \"children\": [{\"text\": \"JavaScript (SDK)\"}]}, {\"type\": \"code_block\", \"lang\": \"javascript\", \"children\": [{\"type\": \"code_line\", \"children\": [{\"text\": \"// First, you need to initialize library:\"}]}, {\"type\": \"code_line\", \"children\": [{\"text\": \"var client = findifyAnalytics({\"}]}, {\"type\": \"code_line\", \"children\": [{\"text\": \"    key: 'b9h348b89h439g43'\"}]}, {\"type\": \"code_line\", \"children\": [{\"text\": \"  });\"}]}, {\"type\": \"code_line\", \"children\": [{\"text\": \"  // Then, you should initialize client instance.\"}]}, {\"type\": \"code_line\", \"children\": [{\"text\": \"  // Usually you want to do this on document ready event to collect all data from HTML tags.\"}]}, {\"type\": \"code_line\", \"children\": [{\"text\": \"  client.initialize();\"}]}, {\"type\": \"code_line\", \"children\": [{\"text\": \"  // After library initialized, we can send event requests to server with `client` instance. Let's perform click-suggestion request:\"}]}, {\"type\": \"code_line\", \"children\": [{\"text\": \"  client.sendEvent('click-suggestion', {\"}]}, {\"type\": \"code_line\", \"children\": [{\"text\": \"      rid: 'request_id',\"}]}, {\"type\": \"code_line\", \"children\": [{\"text\": \"      suggestion: 'Black t-shirt'\"}]}, {\"type\": \"code_line\", \"children\": [{\"text\": \"    });\"}]}, {\"type\": \"code_line\", \"children\": [{\"text\": \"    // You can get `user` instance, which can be used further in `findify-sdk` library:\"}]}, {\"type\": \"code_line\", \"children\": [{\"text\": \"    var user = client.user;\"}]}, {\"type\": \"code_line\", \"children\": [{\"text\": \"    // To access events on the page you can use `client.state`,\"}]}, {\"type\": \"code_line\", \"children\": [{\"text\": \"    // Analytics state represents all events that was defined on the page\"}]}, {\"type\": \"code_line\", \"children\": [{\"text\": \"    // before findify\"}]}, {\"type\": \"code_line\", \"children\": [{\"text\": \"    // You can listen for events with `listen` function\"}]}, {\"type\": \"code_line\", \"children\": [{\"text\": \"    var unsubscribe = client.listen(function(event, payload) {\"}]}, {\"type\": \"code_line\", \"children\": [{\"text\": \"        console.log(event); // outputs event name\"}]}, {\"type\": \"code_line\", \"children\": [{\"text\": \"        console.log(payload); // outputs event payload\"}]}, {\"type\": \"code_line\", \"children\": [{\"text\": \"      });\"}]}]}]",
+  "knowledgeCategoryID": 463,
+  "sort": 3,
+  "status": "published",
+  "_source_kb_id": 5,
+  "_source_kb_name": "Merchandising Cloud",
+  "_fix_date": "2026-02-02T06:05:46.295845+00:00",
+  "fixes_applied": {
+    "urls": {
+      "leaving_cleaned": 0,
+      "unsafe_removed": 0,
+      "s_article_mapped": 0,
+      "s_article_removed": 0,
+      "fragments_mapped": 0,
+      "fragments_stripped": 0,
+      "internal_fragments_fixed": 0,
+      "double_id_fixed": 0,
+      "kb_fragments_stripped": 0
+    },
+    "toc": 0,
+    "related": 1,
+    "lists": 0,
+    "headings": 0,
+    "reconverted": false
+  }
+}

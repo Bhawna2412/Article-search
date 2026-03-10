@@ -1,0 +1,27 @@
+{
+  "articleID": 526,
+  "name": "Request Access for a Partner",
+  "slug": "526-request-access-for-a-partner",
+  "format": "rich2",
+  "locale": "en",
+  "body": "[{\"type\": \"p\", \"children\": [{\"text\": \"Neto by Maropost\\u2019s approved partners provide professional support, advice, and services. When you contract a partner to work for you, they often need access to your control panel or site template files via SFTP.\"}]}, {\"type\": \"p\", \"children\": [{\"text\": \"To grant access to your control panel and/or site template files via SFTP for an approved Neto\\u00a0partner:\"}]}, {\"type\": \"ol\", \"children\": [{\"type\": \"li\", \"children\": [{\"type\": \"lic\", \"children\": [{\"text\": \"Complete the\\u00a0\"}, {\"type\": \"a\", \"url\": \"https://netoecommerce.wufoo.com/forms/request-partner-access\", \"target\": \"_blank\", \"children\": [{\"text\": \"request partner access\"}]}, {\"text\": \"\\u00a0form.\"}]}]}, {\"type\": \"li\", \"children\": [{\"type\": \"lic\", \"children\": [{\"type\": \"p\", \"children\": [{\"text\": \"Upon submission, the request is reviewed by the Neto by Maropost\\u00a0partner team and approved if the relevant verification criteria are met.\"}]}]}]}, {\"type\": \"li\", \"children\": [{\"type\": \"lic\", \"children\": [{\"type\": \"p\", \"children\": [{\"text\": \"Once approved, notification will be sent to you and the partner via email.\"}]}]}]}]}, {\"type\": \"blockquote\", \"children\": [{\"type\": \"blockquote-line\", \"children\": [{\"text\": \"Note\", \"bold\": true}, {\"text\": \": Requests are processed between 9 am-5 pm, Monday-Friday, and are normally completed within 1 business day. Our team can check who has existing partner access to your site, as well as revoke access if no longer needed.\"}]}]}, {\"type\": \"p\", \"children\": [{\"text\": \"\"}]}]",
+  "fixes_applied": {
+    "rebrand": 0,
+    "urls": {
+      "leaving_cleaned": 0,
+      "unsafe_removed": 0,
+      "s_article_mapped": 0,
+      "s_article_removed": 0,
+      "fragments_mapped": 0,
+      "fragments_stripped": 0,
+      "internal_fragments_fixed": 0,
+      "double_id_fixed": 0,
+      "kb_fragments_stripped": 0
+    },
+    "toc": 0,
+    "related": 0,
+    "lists": 0,
+    "headings": 0,
+    "reconverted": false
+  }
+}

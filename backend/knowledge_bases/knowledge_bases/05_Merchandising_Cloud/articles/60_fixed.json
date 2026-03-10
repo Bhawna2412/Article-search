@@ -1,0 +1,17 @@
+{
+  "articleID": 60,
+  "knowledgeCategoryID": 373,
+  "sort": 4,
+  "name": "ShipStation",
+  "body": "[{\"type\": \"p\", \"children\": [{\"text\": \"Understanding tracking and analytics solutions helps you measure the effectiveness of your merchandising and search implementations. When you properly track purchase attribution and customer interactions, you gain insights that enable better optimization decisions, which helps improve conversion rates through data-driven refinements to your product discovery and merchandising strategies.\"}]}, {\"type\": \"p\", \"children\": [{\"text\": \"Proper tracking implementation enables you to understand how search and merchandising features impact business outcomes. This helps you make informed optimization decisions and demonstrate ROI, supporting continuous improvement of conversion performance through measurement-driven insights about customer behavior and feature effectiveness.\"}]}, {\"type\": \"p\", \"children\": [{\"text\": \"\"}]}, {\"type\": \"h2\", \"children\": [{\"text\": \"#Background\", \"bold\": true}]}, {\"type\": \"p\", \"children\": [{\"text\": \"We add a tag to the purchases to track the details of purchases. This is done for two reasons:\"}]}, {\"type\": \"p\", \"children\": [{\"text\": \"We use this information to power our machine learning algorithms, which are the core of our service. This data allows us to automatically identify behavior trends, dynamically change the order of the search results, and create recommendations.\"}]}, {\"type\": \"ol\", \"children\": [{\"type\": \"li\", \"children\": [{\"type\": \"lic\", \"children\": [{\"text\": \"This data is also used to determine which purchases are made via Findify, and more importantly, which were not. This data is then used in our analytics dashboard, to give you a better view of Findify's ROI.\"}]}]}]}, {\"type\": \"p\", \"children\": [{\"text\": \"\"}]}, {\"type\": \"h2\", \"children\": [{\"text\": \"# The issue\", \"bold\": true}]}, {\"type\": \"p\", \"children\": [{\"text\": \"In some cases, on sites that use Shipstation, certain customers might see the Findify tracking tags on the shipping slip.\\n\\nIn the Shipstation dashboard, it looks as if every order has a customer note in it, as the Findify tracking tags are treated as a customer note by Shipstation\"}]}, {\"type\": \"p\", \"children\": [{\"text\": \"\"}]}, {\"type\": \"h2\", \"children\": [{\"text\": \"Solution\"}]}, {\"type\": \"p\", \"children\": [{\"text\": \"In ShipStation you can create a rule that assigns a colored tag if the note starts with \\\"gift-note\\\", \\\"gift-wrapping\\\", or any other structure you use for customer notes in Shipstation. Then simply sort by colored tags so the Findify code doesn't get in the way, and you can quickly see the orders with the customer notes.\"}]}, {\"type\": \"p\", \"children\": [{\"text\": \"\"}]}]",
+  "format": "rich2",
+  "featured": false,
+  "locale": "en",
+  "status": "published",
+  "foreignID": null,
+  "dateUpdated": "2026-02-02T06:11:23+00:00",
+  "_source_kb_id": 5,
+  "_source_kb_name": "Merchandising Cloud",
+  "_sync_date": "2026-02-06T07:20:50.358538+00:00",
+  "_incremental_update": true
+}

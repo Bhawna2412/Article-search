@@ -1,0 +1,31 @@
+{
+  "articleID": 2012,
+  "name": "Manage Billing",
+  "format": "rich2",
+  "locale": "en",
+  "body": "[{\"type\": \"p\", \"children\": [{\"text\": \"You can manage your subscription billing through the Merchant Dashboard by adding credit card details securely processed through Chargebee, ensuring uninterrupted access to AI-powered search and merchandising features. The straightforward billing setup helps maintain continuous service for personalization capabilities that drive product discovery and conversion, with payment information stored securely outside the Merchandising Cloud platform.\"}]}, {\"type\": \"p\", \"children\": [{\"text\": \"Configuring billing in your production account enables automatic subscription payments, eliminating disruptions to search functionality and recommendation widgets that help generate revenue. The secure payment processing through Chargebee ensures your financial information remains protected while providing seamless access to merchandising tools, analytics, and personalization features that support your ecommerce growth objectives.\"}]}, {\"type\": \"p\", \"children\": [{\"text\": \"No payment details are stored within Findify!\"}]}, {\"type\": \"p\", \"children\": [{\"text\": \"Payment is processed by \"}, {\"type\": \"a\", \"url\": \"https://www.chargebee.com/security/\", \"children\": [{\"text\": \"Chargebee\"}], \"target\": \"_blank\"}, {\"text\": \" which is a service that handles payments safely and securely.\"}]}, {\"type\": \"p\", \"children\": [{\"text\": \"In order to ensure continuous service, all clients must add valid credit card details to their Merchant Dashboard.\"}]}, {\"type\": \"p\", \"children\": [{\"text\": \"To do this, log in to the dashboard and navigate to Account and then to Billing.\"}]}, {\"type\": \"p\", \"children\": [{\"text\": \"Client can then input their preferred card details, and hit 'Submit'. This is the card that will then be charged with the recurring subscription fee.\"}]}, {\"type\": \"p\", \"children\": [{\"text\": \"Please select the correct account\"}, {\"text\": \"\\n\"}, {\"text\": \"\\n\"}, {\"text\": \"Billing is activated on the Production Account, not the Development Environment.\"}]}, {\"type\": \"rich_embed_card\", \"dataSourceType\": \"image\", \"url\": \"https://us.v-cdn.net/6038474/uploads/F5HK7KJQGUIY/15c86d6-put-cc-into-dashboard.jpg\", \"embedData\": {\"url\": \"https://us.v-cdn.net/6038474/uploads/F5HK7KJQGUIY/15c86d6-put-cc-into-dashboard.jpg\", \"embedType\": \"image\", \"displaySize\": \"large\", \"float\": \"none\", \"name\": \"15c86d6-Put_CC_into_dashboard.jpg\", \"width\": 1600, \"height\": 802}, \"children\": [{\"text\": \"\"}]}, {\"type\": \"p\", \"children\": [{\"text\": \"\"}]}]",
+  "knowledgeCategoryID": 383,
+  "sort": 3,
+  "status": "published",
+  "_source_kb_id": 5,
+  "_source_kb_name": "Merchandising Cloud",
+  "_fix_date": "2026-02-02T06:05:45.714204+00:00",
+  "fixes_applied": {
+    "urls": {
+      "leaving_cleaned": 0,
+      "unsafe_removed": 0,
+      "s_article_mapped": 0,
+      "s_article_removed": 0,
+      "fragments_mapped": 0,
+      "fragments_stripped": 0,
+      "internal_fragments_fixed": 0,
+      "double_id_fixed": 0,
+      "kb_fragments_stripped": 0
+    },
+    "toc": 0,
+    "related": 1,
+    "lists": 0,
+    "headings": 0,
+    "reconverted": false
+  }
+}

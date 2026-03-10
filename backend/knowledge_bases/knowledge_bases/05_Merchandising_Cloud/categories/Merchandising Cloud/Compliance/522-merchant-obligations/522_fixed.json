@@ -1,0 +1,31 @@
+{
+  "articleID": 522,
+  "name": "Merchant Obligations",
+  "format": "rich2",
+  "locale": "en",
+  "body": "[{\"type\": \"p\", \"children\": [{\"text\": \"Understanding your merchant obligations helps you maintain compliant operations and protect customer trust. When you clearly understand your responsibilities for data handling, privacy, and platform usage, you help ensure regulatory compliance and build customer confidence, which supports sustainable business operations and protects your brand reputation while optimizing ecommerce performance.\"}]}, {\"type\": \"p\", \"children\": [{\"text\": \"Clear knowledge of merchant obligations enables responsible platform usage and customer data management. This helps you maintain compliance with regulations while building trust with customers, supporting long-term business success through ethical operations and proper stewardship of customer information across your merchandising and search implementations.\"}]}, {\"type\": \"p\", \"children\": [{\"text\": \"\"}]}, {\"type\": \"h2\", \"children\": [{\"text\": \"How can the end-consumer find the _findify_uniq and the _findify_visit cookies values?\"}], \"data-id\": \"how-can-the-end-consumer-find-the-findify-uniq-and-the-findify-visit-cookies-values\"}, {\"type\": \"p\", \"children\": [{\"text\": \"The end-consumer must open the Inspector in their browser by clicking right on a page and select \\\"Inspect\\\". Go to the tab Console, and copy/paste this Javascript snippet:\"}]}, {\"type\": \"code_block\", \"children\": [{\"type\": \"code_line\", \"children\": [{\"text\": \"window.findifyCallbacks.push(function(findify) {  alert(\\\"_findify_uniq = \\\" + findify.analytics.user.uid + \\\" \\\\n_findify_visit = \\\" + findify.analytics.user.sid);})\"}]}], \"lang\": \"plaintext\"}, {\"type\": \"p\", \"children\": [{\"text\": \"\"}]}, {\"type\": \"h2\", \"children\": [{\"text\": \"Right of access / data portability\"}], \"data-id\": \"right-of-access-data-portability\"}, {\"type\": \"p\", \"children\": [{\"text\": \"Send an email to \"}, {\"type\": \"a\", \"url\": \"mailto:privacy@findify.io\", \"children\": [{\"text\": \"privacy@findify .io\"}]}, {\"text\": \" with the following details:\"}]}, {\"type\": \"p\", \"children\": [{\"text\": \"Subject:\", \"bold\": true}, {\"text\": \" \"}, {\"text\": \"\\n\"}, {\"text\": \"\\n\"}, {\"text\": \"Personal Information Access Request\"}]}, {\"type\": \"p\", \"children\": [{\"text\": \"Content: \", \"bold\": true}, {\"text\": \"\\n\", \"bold\": true}, {\"text\": \"Store URL = mystore.com\"}, {\"text\": \"\\n\"}, {\"text\": \"\\n\"}, {\"text\": \"_findify_uniq = XXXXX\"}, {\"text\": \"\\n\"}, {\"text\": \"\\n\"}, {\"text\": \"_findify_visit = YYYYY\"}]}, {\"type\": \"p\", \"children\": [{\"text\": \"These two values can be found in the end-consumer browser's local storage.\"}]}, {\"type\": \"p\", \"children\": [{\"text\": \"\"}]}, {\"type\": \"h2\", \"children\": [{\"text\": \"Right to be forgotten\"}], \"data-id\": \"right-to-be-forgotten\"}, {\"type\": \"p\", \"children\": [{\"text\": \"Send an email to \"}, {\"type\": \"a\", \"url\": \"mailto:privacy@findify.io\", \"children\": [{\"text\": \"privacy@findify .io\"}]}, {\"text\": \" with the following details:\"}]}, {\"type\": \"p\", \"children\": [{\"text\": \"Subject:\", \"bold\": true}, {\"text\": \" \"}, {\"text\": \"\\n\"}, {\"text\": \"\\n\"}, {\"text\": \"Personal Information Removal Request\"}]}, {\"type\": \"p\", \"children\": [{\"text\": \"Content:\", \"bold\": true}, {\"text\": \"\\n\", \"bold\": true}, {\"text\": \"Store URL = mystore.com\"}, {\"text\": \"\\n\"}, {\"text\": \"\\n\"}, {\"text\": \"_findify_uniq = XXXXX\"}, {\"text\": \"\\n\"}, {\"text\": \"\\n\"}, {\"text\": \"_findify_visit = YYYYY\"}]}, {\"type\": \"p\", \"children\": [{\"text\": \"These two values can be found in the end-consumer browser's local storage.\"}]}, {\"type\": \"p\", \"children\": [{\"text\": \"\"}]}, {\"type\": \"h2\", \"children\": [{\"text\": \"Right to restrict processing\"}], \"data-id\": \"right-to-restrict-processing\"}, {\"type\": \"p\", \"children\": [{\"text\": \"To disable the Merchandising Cloud (formerly Findify) tracking, this Javascript snippet can be enabled on the ecommerce store by the end-consumer (by clicking \\\"No\\\" on the consent banner for instance):\"}]}, {\"type\": \"code_block\", \"children\": [{\"type\": \"code_line\", \"children\": [{\"text\": \"function findifyDisableTracking() {   var date = new Date();   date.setTime(date.getTime() + (365*24*60*60*1000));   var expires = \\\"; expires=\\\" + date.toUTCString();   document.cookie =  \\\"findify_optout=1\\\" + expires + \\\"; path=/\\\";}findifyDisableTracking();\"}]}], \"lang\": \"plaintext\"}, {\"type\": \"p\", \"children\": [{\"text\": \"It sets a cookie called \\\"findify_optout\\\" to the value \\\"1\\\", preventing the analytics JS to send the personal data of the end-consumer.\"}]}, {\"type\": \"blockquote\", \"children\": [{\"type\": \"blockquote-line\", \"children\": [{\"text\": \"You might notice the following additional cookies:_findify_cart: used to collect shopping cart products for data analytics used in suggestions and recommendations._findify_ct: used to track clicked products for data analytics used in suggestions and recommendations.\"}]}]}, {\"type\": \"p\", \"children\": [{\"text\": \"\"}]}]",
+  "knowledgeCategoryID": 43,
+  "sort": 4,
+  "status": "published",
+  "_source_kb_id": 5,
+  "_source_kb_name": "Merchandising Cloud",
+  "_fix_date": "2026-02-02T06:05:47.867480+00:00",
+  "fixes_applied": {
+    "urls": {
+      "leaving_cleaned": 0,
+      "unsafe_removed": 0,
+      "s_article_mapped": 0,
+      "s_article_removed": 0,
+      "fragments_mapped": 0,
+      "fragments_stripped": 0,
+      "internal_fragments_fixed": 0,
+      "double_id_fixed": 0,
+      "kb_fragments_stripped": 0
+    },
+    "toc": 0,
+    "related": 1,
+    "lists": 0,
+    "headings": 0,
+    "reconverted": false
+  }
+}

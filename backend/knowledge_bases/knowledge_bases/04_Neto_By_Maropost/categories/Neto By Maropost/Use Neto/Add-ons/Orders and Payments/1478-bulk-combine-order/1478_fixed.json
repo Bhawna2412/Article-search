@@ -1,0 +1,29 @@
+{
+  "articleID": 1478,
+  "name": "Bulk Combine Order",
+  "slug": "1478-bulk-combine-order",
+  "format": "rich2",
+  "locale": "en",
+  "body": "[{\"type\": \"h2\", \"children\": [{\"text\": \"This add-on was built by Maropost\"}]}, {\"type\": \"p\", \"children\": [{\"text\": \"Add-ons and Integrations built in-house by Maropost are documented and supported by our customer service team. If you're having issues with this integration, \"}, {\"type\": \"a\", \"url\": \"https://www.netohq.com/support/s/ask-us\", \"children\": [{\"text\": \"let us know\"}]}, {\"text\": \"!\"}]}, {\"type\": \"p\", \"children\": [{\"text\": \"To install the Bulk Combine Order add-on:\"}]}, {\"type\": \"ol\", \"children\": [{\"type\": \"li\", \"children\": [{\"type\": \"lic\", \"children\": [{\"text\": \"In your Neto control panel click on the \"}, {\"text\": \"Addons\", \"bold\": true}, {\"text\": \" menu.\"}]}]}, {\"type\": \"li\", \"children\": [{\"type\": \"lic\", \"children\": [{\"text\": \"In the Order Management section locate the Bulk Combine Order add-on and click the \"}, {\"text\": \"Install\", \"bold\": true}, {\"text\": \" button.\"}]}]}, {\"type\": \"li\", \"children\": [{\"type\": \"lic\", \"children\": [{\"text\": \"Click the \"}, {\"text\": \"Install\", \"bold\": true}, {\"text\": \" button in the pop-up window to confirm installation.\"}]}]}]}, {\"type\": \"p\", \"children\": [{\"text\": \"Once activated, the menu option\\u00a0\"}, {\"text\": \"Combine Orders\", \"bold\": true}, {\"text\": \" will appear under the \"}, {\"text\": \"Orders\", \"bold\": true}, {\"text\": \" menu in the control panel. It displays orders from the same customer and same shipping address:\"}]}, {\"type\": \"p\", \"children\": [{\"text\": \"\"}]}, {\"type\": \"p\", \"children\": [{\"text\": \"Sales orders can only be combined if they are in the below statuses:\"}]}, {\"type\": \"ul\", \"children\": [{\"type\": \"li\", \"children\": [{\"type\": \"lic\", \"children\": [{\"text\": \"New\"}]}]}, {\"type\": \"li\", \"children\": [{\"type\": \"lic\", \"children\": [{\"text\": \"On Hold\"}]}]}, {\"type\": \"li\", \"children\": [{\"type\": \"lic\", \"children\": [{\"text\": \"Pick\"}]}]}, {\"type\": \"li\", \"children\": [{\"type\": \"lic\", \"children\": [{\"text\": \"New Backorder\"}]}]}, {\"type\": \"li\", \"children\": [{\"type\": \"lic\", \"children\": [{\"text\": \"Backorder Approved\"}]}]}]}, {\"type\": \"p\", \"children\": [{\"text\": \"To change which statues allow orders to be combined:\"}]}, {\"type\": \"ol\", \"children\": [{\"type\": \"li\", \"children\": [{\"type\": \"lic\", \"children\": [{\"text\": \"In your Neto control panel navigate to \"}, {\"text\": \"Settings & tools\", \"bold\": true}, {\"text\": \" > \"}, {\"text\": \"All settings & tools\", \"bold\": true}, {\"text\": \".\"}]}]}, {\"type\": \"li\", \"children\": [{\"type\": \"lic\", \"children\": [{\"text\": \"Locate and click on \"}, {\"text\": \"Control panel settings\", \"bold\": true}, {\"text\": \".\"}]}]}, {\"type\": \"li\", \"children\": [{\"type\": \"lic\", \"children\": [{\"text\": \"In the \"}, {\"text\": \"Order status for combining orders\", \"bold\": true}, {\"text\": \" setting select the order statuses you want to allow for combining order. Use CTRL or Shift to select multiple statuses.\"}]}]}, {\"type\": \"li\", \"children\": [{\"type\": \"lic\", \"children\": [{\"text\": \"Click the \"}, {\"text\": \"Save\", \"bold\": true}, {\"text\": \" button.\"}]}]}]}, {\"type\": \"p\", \"children\": [{\"text\": \"The orders will be grouped by the customer. To combine two or more orders into one, click on the check box next to the customer name on the left hand side, scroll to the bottom of the page and select \"}, {\"text\": \"With Selected > Combines Orders\", \"bold\": true}, {\"text\": \".\"}]}]",
+  "fixes_applied": {
+    "rebrand": 0,
+    "urls": {
+      "leaving_cleaned": 2,
+      "unsafe_removed": 0,
+      "s_article_mapped": 0,
+      "s_article_removed": 0,
+      "fragments_mapped": 0,
+      "fragments_stripped": 0,
+      "internal_fragments_fixed": 0,
+      "double_id_fixed": 0,
+      "kb_fragments_stripped": 0
+    },
+    "toc": 0,
+    "related": 0,
+    "lists": 7,
+    "headings": 2,
+    "reconverted": false
+  },
+  "_sf_cleanup_date": "2026-02-02T06:17:42.078662+00:00",
+  "_sf_removals": 2
+}

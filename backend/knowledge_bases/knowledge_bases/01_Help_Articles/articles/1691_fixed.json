@@ -1,0 +1,16 @@
+{
+  "articleID": 1691,
+  "knowledgeCategoryID": 1,
+  "sort": 0,
+  "name": "Added Feature: Stop a Running Campaign & More!",
+  "body": "<p><strong>Release Date:</strong> 4th June 2020</p>\n<h2 data-id=\"overview\">Overview</h2>\n<p>In this release, we bring you enhancements aimed at further optimizing the various aspects of email campaigns. You will notice higher efficiency and some minor UI changes in the loading of lists and segments on step 2 of the campaign builder. More campaign scenarios are now supported when stopping a running campaign.</p>\n<p>For more information, read on!</p>\n<h2 data-id=\"enhancements\">Enhancements</h2>\n<p><strong>Optimized the Loading of Lists in Campaigns Builder</strong></p>\n<p><span>In this release, the loading process on step 2 of the campaign builder has been further optimized. You will find that the loading of lists in the 'Select Lists' drop-down field is now faster and more efficient. Now, instead of loading all the lists at once, the lists will continue to load while you scroll down. This will benefit customers who have a large number of lists and are experiencing lag time.</span></p>\n<p>The optimization also extends to suppress lists, segments, and suppress segments on the same screen.</p>\n<p> </p>\n<p> </p>\n<p><strong>Stop a Running Campaign</strong></p>\n<p>Even before this release, you had the option of reaching out to our support team to stop a campaign that is either in processing, blocked, or sending state. The supported campaign scenarios included the following:</p>\n<ul><li>Sent campaigns with a large number of contacts</li><li>Locked A/B Campaigns</li><li>Send Time Optimization</li><li>Conversion Time Optimization</li><li>Priority Send</li></ul><div>In this release, we are widening the range of supported campaign scenarios to include the following:</div>\n<ul><li>Time Zone Optimization</li><li>Scheduled child campaigns of a locked A/B campaign</li></ul><h2 data-id=\"bug-fixes\">Bug Fixes</h2>\n<p>To see a summary of bug fixes for the month of June, see <a rel=\"nofollow\" href=\"http://galaxy.maropost.com/home/leaving?allowTrusted=1&amp;target=https%3A%2F%2Fsupport.maropost.com%2Fhc%2Fen-us%2Farticles%2F360049599693\">Bug Fixes - June 2020</a>.</p>",
+  "format": "html",
+  "featured": false,
+  "locale": "en",
+  "status": "published",
+  "foreignID": null,
+  "dateUpdated": "2021-11-12T07:06:49+00:00",
+  "_source_kb_id": 1,
+  "_source_kb_name": "Help Articles",
+  "_sync_date": "2026-02-02T05:49:00.328841+00:00"
+}

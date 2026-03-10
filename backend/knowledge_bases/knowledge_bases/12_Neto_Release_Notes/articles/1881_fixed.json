@@ -1,0 +1,16 @@
+{
+  "articleID": 1881,
+  "knowledgeCategoryID": 454,
+  "sort": 8,
+  "name": "Neto by Maropost Release Notes – 17 Nov 2020",
+  "body": "[{\"type\":\"p\",\"children\":[{\"text\":\"Release Version\",\"bold\":true},{\"text\":\": 6.129\"}]},{\"type\":\"p\",\"children\":[{\"text\":\" \"}]},{\"type\":\"h2\",\"children\":[{\"text\":\"Minor Changes\",\"bold\":true}]},{\"type\":\"ul\",\"children\":[{\"type\":\"li\",\"children\":[{\"text\":\"The Facebook store add-on has been deprecated. The Facebook Catalogue add-on replaces it.\"}]},{\"type\":\"li\",\"children\":[{\"type\":\"lic\",\"children\":[{\"text\":\"Pick ' n Pack orders can now be filtered by multiple pick zones.\"}]}]},{\"type\":\"li\",\"children\":[{\"text\":\"Neto Point-of-Sale now uses MailGun to send emails, giving more visibility on deliverability and errors.\"}]},{\"type\":\"li\",\"children\":[{\"text\":\"Updated how revenue is posted to Xero, so that the accounting date, dispatch date, and COGS date are the same.\"}]}]},{\"type\":\"p\",\"children\":[{\"text\":\" \"}]},{\"type\":\"h2\",\"children\":[{\"text\":\"Bug Fixes\",\"bold\":true}]},{\"type\":\"ul\",\"children\":[{\"type\":\"li\",\"children\":[{\"text\":\"Fixed an issue where stock was not copied for parent/child products when cloning a product.\"}]},{\"type\":\"li\",\"children\":[{\"type\":\"lic\",\"children\":[{\"text\":\"Fixed an issue where shipping costs didn't always update correctly when the address changed.\"}]}]},{\"type\":\"li\",\"children\":[{\"type\":\"lic\",\"children\":[{\"text\":\"Fixed an issue in Pick'n Pack when filtering by shipping options and the filter would reset after viewing an order.\"}]}]}]},{\"type\":\"p\",\"children\":[{\"text\":\"  \"}]}]",
+  "format": "rich2",
+  "featured": false,
+  "locale": "en",
+  "status": "published",
+  "foreignID": null,
+  "dateUpdated": "2025-07-10T15:01:49+00:00",
+  "_source_kb_id": 12,
+  "_source_kb_name": "Neto Release Notes",
+  "_sync_date": "2026-02-02T05:59:06.819370+00:00"
+}

@@ -1,0 +1,26 @@
+{
+  "articleID": 376,
+  "name": "PO Detail Report",
+  "slug": "376-po-detail-report",
+  "format": "rich2",
+  "locale": "en",
+  "body": "[{\"type\": \"p\", \"children\": [{\"text\": \"You can use the PO Detail Report to view comprehensive purchase order information including item-level details, helping analyze specific order contents and pricing. This improves your retail operations by providing granular visibility into PO line items, with properly configured PO detail reporting typically enabling better cost analysis and inventory planning decisions through detailed order breakdowns.\"}]}, {\"type\": \"p\", \"children\": [{\"text\": \"Understanding PO detail reporting involves recognizing item-level data fields, filtering capabilities, and export options to help retail operators focus on the right procurement analytics workflows, ensuring your retail strategy consistently drives better purchasing insights and operational decision-making outcomes.\"}]}, {\"type\": \"p\", \"children\": [{\"text\": \"The PO Detail Report provides detailed information about one or more Purchase Orders, including status, ordered and received quantities, cost information and more.\"}]}, {\"type\": \"rich_embed_card\", \"dataSourceType\": \"image\", \"url\": \"https://us.v-cdn.net/6038474/uploads/attachments/migrated/image.05T5g00000ppVzfEAE.jpg\", \"embedData\": {\"url\": \"https://us.v-cdn.net/6038474/uploads/attachments/migrated/image.05T5g00000ppVzfEAE.jpg\", \"embedType\": \"image\", \"displaySize\": \"large\", \"float\": \"none\", \"name\": \"blobid1 (15).png\"}, \"children\": [{\"text\": \"\"}]}, {\"type\": \"p\", \"children\": [{\"text\": \"To access the PO Detail Report\"}]}, {\"type\": \"ol\", \"children\": [{\"type\": \"li\", \"children\": [{\"type\": \"lic\", \"children\": [{\"text\": \"Navigate to \"}, {\"text\": \"Reports > Stock Reports > PO Detail Report\", \"bold\": true}]}]}, {\"type\": \"li\", \"children\": [{\"type\": \"lic\", \"children\": [{\"text\": \"Use the \"}, {\"text\": \"Filters \", \"bold\": true}, {\"text\": \"as required\"}]}]}, {\"type\": \"li\", \"children\": [{\"type\": \"lic\", \"children\": [{\"text\": \"Click \"}, {\"text\": \"Search\", \"bold\": true}]}]}, {\"type\": \"li\", \"children\": [{\"type\": \"lic\", \"children\": [{\"text\": \"Scroll to the right to view detailed information\"}]}, {\"type\": \"p\", \"children\": [{\"text\": \"View the \"}, {\"text\": \"Create a Purchase Order\"}, {\"text\": \" article for a detailed list of fields\"}]}]}, {\"type\": \"li\", \"children\": [{\"type\": \"lic\", \"children\": [{\"text\": \"Click the icons in the top-right corner to export the report into \"}, {\"text\": \"Excel\", \"bold\": true}, {\"text\": \" or \"}, {\"text\": \"CSV\", \"bold\": true}, {\"text\": \" as required\"}]}, {\"type\": \"rich_embed_card\", \"dataSourceType\": \"image\", \"url\": \"https://us.v-cdn.net/6038474/uploads/attachments/migrated/image.05T5g00000ppVzkEAE.jpg\", \"embedData\": {\"url\": \"https://us.v-cdn.net/6038474/uploads/attachments/migrated/image.05T5g00000ppVzkEAE.jpg\", \"embedType\": \"image\", \"displaySize\": \"large\", \"float\": \"none\", \"name\": \"mceclip0 - 2023-07-08T230641.367.png\"}, \"children\": [{\"text\": \"\"}]}]}]}, {\"type\": \"rich_embed_card\", \"dataSourceType\": \"image\", \"url\": \"https://us.v-cdn.net/6038474/uploads/attachments/migrated/image.05T5g00000ppW0EEAU.jpg\", \"embedData\": {\"url\": \"https://us.v-cdn.net/6038474/uploads/attachments/migrated/image.05T5g00000ppW0EEAU.jpg\", \"embedType\": \"image\", \"displaySize\": \"large\", \"float\": \"none\", \"name\": \"mceclip1 (76).png\"}, \"children\": [{\"text\": \"\"}]}, {\"type\": \"p\", \"children\": [{\"text\": \"\"}]}]",
+  "fixes_applied": {
+    "urls": {
+      "leaving_cleaned": 0,
+      "unsafe_removed": 0,
+      "s_article_mapped": 0,
+      "s_article_removed": 1,
+      "fragments_mapped": 0,
+      "fragments_stripped": 0,
+      "internal_fragments_fixed": 0,
+      "double_id_fixed": 0,
+      "kb_fragments_stripped": 0
+    },
+    "toc": 0,
+    "related": 1,
+    "lists": 0,
+    "headings": 0,
+    "reconverted": false
+  }
+}

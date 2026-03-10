@@ -1,0 +1,27 @@
+{
+  "articleID": 1655,
+  "name": "Course: Point of Sale",
+  "slug": "1655-course-point-of-sale",
+  "format": "rich2",
+  "locale": "en",
+  "body": "[{\"type\": \"p\", \"children\": [{\"text\": \"You can unify your online and physical retail operations with integrated Point of Sale capabilities that synchronize inventory across channels in real-time. This enables expansion to brick-and-mortar or event-based selling while maintaining inventory consistency, helping streamline operations and providing a unified view of your business performance across all customer touchpoints.\"}]}, {\"type\": \"p\", \"children\": [{\"text\": \"Setting up POS integration helps B2B merchants reduce channel management complexity by ensuring that product availability, pricing, and customer data remain synchronized between your online store and physical locations. Properly configured POS systems typically improve operational efficiency by automating inventory updates, enabling faster checkout processes, and providing centralized management of multi-channel commerce operations.\"}]}, {\"type\": \"table\", \"children\": [{\"type\": \"tr\", \"children\": [{\"type\": \"th\", \"children\": [{\"type\": \"p\", \"children\": [{\"text\": \"Lessons\"}]}]}, {\"type\": \"th\", \"children\": [{\"type\": \"p\", \"children\": [{\"text\": \"Length\"}]}]}]}, {\"type\": \"tr\", \"children\": [{\"type\": \"td\", \"children\": [{\"type\": \"p\", \"children\": [{\"type\": \"a\", \"url\": \"https://training.maropost.com/set-up-your-store/point of sale/content/index.html\", \"children\": [{\"text\": \"Set up Point of Sale\"}]}]}]}, {\"type\": \"td\", \"children\": [{\"type\": \"p\", \"children\": [{\"text\": \"30 mins\"}]}]}]}], \"id\": \"rich-table-c0d23608\"}, {\"type\": \"p\", \"children\": [{\"text\": \"\\u00a0\"}]}]",
+  "fixes_applied": {
+    "rebrand": 3,
+    "urls": {
+      "leaving_cleaned": 1,
+      "unsafe_removed": 0,
+      "s_article_mapped": 0,
+      "s_article_removed": 0,
+      "fragments_mapped": 0,
+      "fragments_stripped": 0,
+      "internal_fragments_fixed": 0,
+      "double_id_fixed": 0,
+      "kb_fragments_stripped": 0
+    },
+    "toc": 0,
+    "related": 1,
+    "lists": 0,
+    "headings": 0,
+    "reconverted": false
+  }
+}
